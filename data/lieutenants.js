@@ -640,7 +640,7 @@
       "4 Heroes: Speed: 5, Health: 12, Defense: Gray"
     ],
     "expansion": "Labyrinth Of Ruin",
-    "image": "allies/raythen-lr-act2-front.png",
+    "image": "lieutenants/raythen-lr-act2-front.png",
     "xws": "raythen"
   },
   {
@@ -653,7 +653,7 @@
       "Stun: If this attack deals at least 1 Heart (after the defense roll), the target is Stunned."
     ],
     "expansion": "Labyrinth Of Ruin",
-    "image": "allies/raythen-lr-act2-back.png",
+    "image": "lieutenants/raythen-lr-act2-back.png",
     "xws": "raythen"
   },
   {
@@ -677,7 +677,7 @@
       "4 Heroes: Speed: 3, Health: 10, Defense: Gray"
     ],
     "expansion": "Labyrinth Of Ruin",
-    "image": "allies/serena-lr-act2-front.png",
+    "image": "lieutenants/serena-lr-act2-front.png",
     "xws": "serena"
   },
   {
@@ -691,7 +691,7 @@
       "Disease: If this attack deals at least 1 Heart (after the defense roll), the target is Diseased."
     ],
     "expansion": "Labyrinth Of Ruin",
-    "image": "allies/serena-lr-act2-back.png",
+    "image": "lieutenants/serena-lr-act2-back.png",
     "xws": "serena"
   },
   {
