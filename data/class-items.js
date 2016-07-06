@@ -84,12 +84,12 @@
     "xws": "oakstaff"
   },
   {
-    "name": "Reapers Scythe",
+    "name": "Reaper's Scythe",
     "points": 6,
     "archetype": "Mage",
     "class": "Necromancer",
     "traits": "Magic, Staff",
-   "attack": "Range",
+    "attack": "Range",
     "equip": "Two Hands",
     "dice": "Blue Yellow",
     "rules": "Each time you defeat a monster with this weapon, recover 1 Heart. Surge: +1 Range.",
@@ -103,7 +103,7 @@
     "archetype": "Mage",
     "class": "Runemaster",
     "traits": "Magic, Rune",
-   "attack": "Range",
+    "attack": "Range",
     "equip": "Two Hands",
     "dice": "Blue Yellow",
     "rules": "Surge: +1 Range. Surge: Pierce 2.",
@@ -117,7 +117,7 @@
     "archetype": "Scout",
     "class": "Thief",
     "traits": "Blade",
-   "attack": "Range",
+    "attack": "Range",
     "equip": "One Hand",
     "dice": "Blue Yellow",
     "rules": "When attacking an adjacent monster, gain +1 Heart. Surge: +1 Range.",
@@ -131,7 +131,7 @@
     "archetype": "Scout",
     "class": "Thief",
     "traits": "Trinket",
-   "attack": "-",
+    "attack": "-",
     "equip": "Other",
     "dice": "-",
     "rules": "Exhaust this card to reroll an attribute test. You must keep the new results.",
@@ -145,7 +145,7 @@
     "archetype": "Scout",
     "class": "Wildlander",
     "traits": "Bow",
-   "attack": "Range",
+    "attack": "Range",
     "equip": "Two Hands",
     "dice": "Blue Yellow",
     "rules": "Surge: +2 Range. Surge: +1 Heart.",
@@ -266,7 +266,7 @@
     "xws": "leatherwhip"
   },
   {
-    "name": "The Dead Mans Compass",
+    "name": "The Dead Man's Compass",
     "points": 19,
     "archetype": "Scout",
     "class": "Treasure Hunter",
@@ -294,7 +294,7 @@
     "xws": "ironflail"
   },
   {
-    "name": "Sages Tome",
+    "name": "Sage's Tome",
     "points": 21,
     "archetype": "Healer",
     "class": "Prophet",
@@ -308,7 +308,7 @@
     "xws": "sagestome"
   },
   {
-    "name": "Black Widows Web",
+    "name": "Black Widow's Web",
     "points": 22,
     "archetype": "Scout",
     "class": "Stalker",
@@ -364,7 +364,7 @@
     "xws": "rustedhandaxe"
   },
   {
-    "name": "Travelers Blade",
+    "name": "Traveler's Blade",
     "points": 26,
     "archetype": "Healer",
     "class": "Bard",
