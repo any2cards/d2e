@@ -16,7 +16,7 @@
     "characteristics": [
       "2 Heroes: Speed: 5, Health: 12, Defense: Gray",
       "3 Heroes: Speed: 5, Health: 10, Defense: Brown",
-      "4 Heroes: Speed: 5, Health: 8, Defense: Brown",
+      "4 Heroes: Speed: 5, Health: 8, Defense: Brown"
     ],
     "expansion": "Labyrinth Of Ruin",
     "image": "allies/range/raythen-lr-front.png",
@@ -51,7 +51,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 10, Defense: Gray",
       "3 Heroes: Speed: 3, Health: 8, Defense: Gray",
-      "4 Heroes: Speed: 3, Health: 8, Defense: Brown",
+      "4 Heroes: Speed: 3, Health: 8, Defense: Brown"
     ],
     "expansion": "Labyrinth Of Ruin",
     "image": "allies/melee/serena-lr-front.png",
