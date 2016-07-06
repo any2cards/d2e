@@ -2,7 +2,7 @@
   {
     "name": "Brightblaze",
     "points": 0,
-    "speed": 4,
+    "speed": "4",
     "health": "-",
     "defense": "-",
     "attack": "-",
@@ -28,7 +28,7 @@
   {
     "name": "Skye",
     "points": 2,
-    "speed": 5,
+    "speed": "5",
     "health": "-",
     "defense": "-",
     "attack": "-",
@@ -41,8 +41,8 @@
   {
     "name": "Raven Flock",
     "points": 3,
-    "speed": 4,
-    "health": 4,
+    "speed": "4",
+    "health": "4",
     "defense": "Gray",
     "attack": "Melee",
     "type": "Blue Red"
@@ -54,8 +54,8 @@
   {
     "name": "Brightblaze",
     "points": 4,
-    "speed": 5,
-    "health": 6,
+    "speed": "5",
+    "health": "6",
     "defense": "Gray",
     "attack": "Melee",
     "type": "-"
@@ -80,7 +80,7 @@
   {
     "name": "Skye",
     "points": 6,
-    "speed": 5,
+    "speed": "5",
     "health": "-",
     "defense": "-",
     "attack": "-",
