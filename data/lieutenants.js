@@ -16,7 +16,7 @@
     "characteristics": [
       "2 Heroes: Speed: 4, Health: 10, Defense: Black",
       "3 Heroes: Speed: 4, Health: 13, Defense: Black",
-      "4 Heroes: Speed: 4, Health: 16, Defense: Black",
+      "4 Heroes: Speed: 4, Health: 16, Defense: Black"
     ],
     "expansion": "Base Game",
     "image": "lieutenants/baron-zachareth-bg-act1-front.png",
@@ -53,7 +53,7 @@
     "characteristics": [
       "2 Heroes: Speed: 4, Health: 16, Defense: Black Gray",
       "3 Heroes: Speed: 4, Health: 18, Defense: Black Gray Brown",
-      "4 Heroes: Speed: 4, Health: 20, Defense: Black Gray Gray",
+      "4 Heroes: Speed: 4, Health: 20, Defense: Black Gray Gray"
     ],
     "expansion": "Base Game",
     "image": "lieutenants/baron-zachareth-bg-act2-front.png",
@@ -90,7 +90,7 @@
     "characteristics": [
       "2 Heroes: Speed: 4, Health: 9, Defense: Gray",
       "3 Heroes: Speed: 4, Health: 11, Defense: Gray Brown",
-      "4 Heroes: Speed: 4, Health: 13, Defense: Gray Brown",
+      "4 Heroes: Speed: 4, Health: 13, Defense: Gray Brown"
     ],
     "expansion": "Base Game",
     "image": "lieutenants/belthir-bg-act1-front.png",
@@ -127,7 +127,7 @@
     "characteristics": [
       "2 Heroes: Speed: 4, Health: 13, Defense: Gray Brown",
       "3 Heroes: Speed: 4, Health: 15, Defense: Gray Gray",
-      "4 Heroes: Speed: 4, Health: 18, Defense: Gray Gray Brown",
+      "4 Heroes: Speed: 4, Health: 18, Defense: Gray Gray Brown"
     ],
     "expansion": "Base Game",
     "image": "lieutenants/belthir-bg-act2-front.png",
@@ -164,7 +164,7 @@
     "characteristics": [
       "2 Heroes: Speed: 5, Health: 7, Defense: Brown",
       "3 Heroes: Speed: 5, Health: 9, Defense: Gray",
-      "4 Heroes: Speed: 5, Health: 12, Defense: Gray",
+      "4 Heroes: Speed: 5, Health: 12, Defense: Gray"
     ],
     "expansion": "Base Game",
     "image": "lieutenants/lady-eliza-farrow-bg-act1-front.png",
@@ -201,7 +201,7 @@
     "characteristics": [
       "2 Heroes: Speed: 5, Health: 9, Defense: Gray",
       "3 Heroes: Speed: 5, Health: 11, Defense: Gray Brown",
-      "4 Heroes: Speed: 5, Health: 15, Defense: Gray Brown",
+      "4 Heroes: Speed: 5, Health: 15, Defense: Gray Brown"
     ],
     "expansion": "Base Game",
     "image": "lieutenants/lady-eliza-farrow-bg-act2-front.png",
@@ -238,7 +238,7 @@
     "characteristics": [
       "2 Heroes: Speed: 4, Health: 8, Defense: Gray",
       "3 Heroes: Speed: 4, Health: 11, Defense: Gray",
-      "4 Heroes: Speed: 4, Health: 13, Defense: Gray Brown",
+      "4 Heroes: Speed: 4, Health: 13, Defense: Gray Brown"
     ],
     "expansion": "Base Game",
     "image": "lieutenants/lord-merick-farrow-bg-act1-front.png",
@@ -274,7 +274,7 @@
     "characteristics": [
       "2 Heroes: Speed: 4, Health: 10, Defense: Gray Brown",
       "3 Heroes: Speed: 4, Health: 12, Defense: Gray Gray",
-      "4 Heroes: Speed: 4, Health: 15, Defense: Black Gray",
+      "4 Heroes: Speed: 4, Health: 15, Defense: Black Gray"
     ],
     "expansion": "Base Game",
     "image": "lieutenants/lord-merick-farrow-bg-act2-front.png",
@@ -310,7 +310,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 10, Defense: Gray Brown",
       "3 Heroes: Speed: 3, Health: 14, Defense: Gray Brown",
-      "4 Heroes: Speed: 3, Health: 16, Defense: Gray Gray",
+      "4 Heroes: Speed: 3, Health: 16, Defense: Gray Gray"
     ],
     "expansion": "Base Game",
     "image": "lieutenants/sir-alric-farrow-bg-act1-front.png",
@@ -346,7 +346,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 12, Defense: Gray Gray",
       "3 Heroes: Speed: 3, Health: 15, Defense: Black Gray",
-      "4 Heroes: Speed: 3, Health: 18, Defense: Black Gray Brown",
+      "4 Heroes: Speed: 3, Health: 18, Defense: Black Gray Brown"
     ],
     "expansion": "Base Game",
     "image": "lieutenants/sir-alric-farrow-bg-act2-front.png",
@@ -382,7 +382,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 7, Defense: Brown",
       "3 Heroes: Speed: 3, Health: 9, Defense: Gray",
-      "4 Heroes: Speed: 3, Health: 13, Defense: Gray",
+      "4 Heroes: Speed: 3, Health: 13, Defense: Gray"
     ],
     "expansion": "Base Game",
     "image": "lieutenants/splig-bg-act1-front.png",
@@ -418,7 +418,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 10, Defense: Gray",
       "3 Heroes: Speed: 3, Health: 12, Defense: Gray Brown",
-      "4 Heroes: Speed: 3, Health: 16, Defense: Gray Brown",
+      "4 Heroes: Speed: 3, Health: 16, Defense: Gray Brown"
     ],
     "expansion": "Base Game",
     "image": "lieutenants/splig-bg-act2-front.png",
@@ -454,7 +454,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 12, Defense: Gray Brown",
       "3 Heroes: Speed: 3, Health: 14, Defense: Gray Brown",
-      "4 Heroes: Speed: 3, Health: 17, Defense: Black Brown",
+      "4 Heroes: Speed: 3, Health: 17, Defense: Black Brown"
     ],
     "expansion": "Lair Of The Wyrm",
     "image": "lieutenants/valyndra-lw-act1-front.png",
@@ -491,7 +491,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 15, Defense: Gray Gray",
       "3 Heroes: Speed: 3, Health: 17, Defense: Gray Gray Brown",
-      "4 Heroes: Speed: 3, Health: 22, Defense: Black Gray Brown",
+      "4 Heroes: Speed: 3, Health: 22, Defense: Black Gray Brown"
     ],
     "expansion": "Lair Of The Wyrm",
     "image": "lieutenants/valyndra-lw-act2-front.png",
@@ -527,7 +527,7 @@
     "characteristics": [
       "2 Heroes: Speed: 4, Health: 12, Defense: Gray",
       "3 Heroes: Speed: 4, Health: 14, Defense: Gray Brown",
-      "4 Heroes: Speed: 4, Health: 16, Defense: Black Brown",
+      "4 Heroes: Speed: 4, Health: 16, Defense: Black Brown"
     ],
     "expansion": "Labyrinth Of Ruin",
     "image": "lieutenants/ariad-lr-act1-front.png",
@@ -563,7 +563,7 @@
     "characteristics": [
       "2 Heroes: Speed: 4, Health: 20, Defense: Black Gray",
       "3 Heroes: Speed: 4, Health: 24, Defense: Black Black",
-      "4 Heroes: Speed: 4, Health: 28, Defense: Black Gray Gray",
+      "4 Heroes: Speed: 4, Health: 28, Defense: Black Gray Gray"
     ],
     "expansion": "Labyrinth Of Ruin",
     "image": "lieutenants/ariad-lr-act2-front.png",
@@ -600,7 +600,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 20, Defense: Black Gray",
       "3 Heroes: Speed: 3, Health: 24, Defense: Black Black",
-      "4 Heroes: Speed: 3, Health: 28, Defense: Black Gray Gray",
+      "4 Heroes: Speed: 3, Health: 28, Defense: Black Gray Gray"
     ],
     "expansion": "Labyrinth Of Ruin",
     "image": "lieutenants/queen-ariad-lr-act2-front.png",
@@ -637,7 +637,7 @@
     "characteristics": [
       "2 Heroes: Speed: 5, Health: 8, Defense: Brown",
       "3 Heroes: Speed: 5, Health: 10, Defense: Gray",
-      "4 Heroes: Speed: 5, Health: 12, Defense: Gray",
+      "4 Heroes: Speed: 5, Health: 12, Defense: Gray"
     ],
     "expansion": "Labyrinth Of Ruin",
     "image": "allies/raythen-lr-act2-front.png",
@@ -674,7 +674,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 8, Defense: Brown",
       "3 Heroes: Speed: 3, Health: 10, Defense: Gray",
-      "4 Heroes: Speed: 3, Health: 10, Defense: Gray",
+      "4 Heroes: Speed: 3, Health: 10, Defense: Gray"
     ],
     "expansion": "Labyrinth Of Ruin",
     "image": "allies/serena-lr-act2-front.png",
@@ -711,7 +711,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 12, Defense: Gray",
       "3 Heroes: Speed: 3, Health: 14, Defense: Gray Brown",
-      "4 Heroes: Speed: 3, Health: 18, Defense: Gray Brown",
+      "4 Heroes: Speed: 3, Health: 18, Defense: Gray Brown"
     ],
     "expansion": "The Trollfens",
     "image": "lieutenants/bolgoreth-tf-act1-front.png",
@@ -747,7 +747,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 16, Defense: Gray Brown",
       "3 Heroes: Speed: 3, Health: 19, Defense: Gray Gray",
-      "4 Heroes: Speed: 3, Health: 23, Defense: Gray Gray",
+      "4 Heroes: Speed: 3, Health: 23, Defense: Gray Gray"
     ],
     "expansion": "The Trollfens",
     "image": "lieutenants/bolgoreth-tf-act2-front.png",
@@ -783,7 +783,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 13, Defense: Black",
       "3 Heroes: Speed: 3, Health: 16, Defense: Black",
-      "4 Heroes: Speed: 3, Health: 19, Defense: Black Brown",
+      "4 Heroes: Speed: 3, Health: 19, Defense: Black Brown"
     ],
     "expansion": "Shadow Of Nerekhall",
     "image": "lieutenants/mirklace-sn-act1-front.png",
@@ -820,7 +820,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 18, Defense: Black Brown",
       "3 Heroes: Speed: 3, Health: 21, Defense: Black Brown",
-      "4 Heroes: Speed: 3, Health: 24, Defense: Black Gray",
+      "4 Heroes: Speed: 3, Health: 24, Defense: Black Gray"
     ],
     "expansion": "Shadow Of Nerekhall",
     "image": "lieutenants/mirklace-sn-act2-front.png",
@@ -857,7 +857,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 8, Defense: Gray",
       "3 Heroes: Speed: 3, Health: 10, Defense: Gray",
-      "4 Heroes: Speed: 3, Health: 12, Defense: Black",
+      "4 Heroes: Speed: 3, Health: 12, Defense: Black"
     ],
     "expansion": "Shadow Of Nerekhall",
     "image": "lieutenants/rylan-olliven-sn-act1-front.png",
@@ -893,7 +893,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 12, Defense: Black",
       "3 Heroes: Speed: 3, Health: 14, Defense: Gray Gray",
-      "4 Heroes: Speed: 3, Health: 17, Defense: Gray Gray",
+      "4 Heroes: Speed: 3, Health: 17, Defense: Gray Gray"
     ],
     "expansion": "Shadow Of Nerekhall",
     "image": "lieutenants/rylan-olliven-sn-act2-front.png",
@@ -929,7 +929,7 @@
     "characteristics": [
       "2 Heroes: Speed: 4, Health: 10, Defense: Gray",
       "3 Heroes: Speed: 4, Health: 12, Defense: Gray",
-      "4 Heroes: Speed: 4, Health: 14, Defense: Black",
+      "4 Heroes: Speed: 4, Health: 14, Defense: Black"
     ],
     "expansion": "Shadow Of Nerekhall",
     "image": "lieutenants/tristayne-olliven-sn-act1-front.png",
@@ -965,7 +965,7 @@
     "characteristics": [
       "2 Heroes: Speed: 4, Health: 12, Defense: Black",
       "3 Heroes: Speed: 4, Health: 15, Defense: Gray Gray",
-      "4 Heroes: Speed: 4, Health: 18, Defense: Black Gray",
+      "4 Heroes: Speed: 4, Health: 18, Defense: Black Gray"
     ],
     "expansion": "Shadow Of Nerekhall",
     "image": "lieutenants/tristayne-olliven-sn-act2-front.png",
@@ -1001,7 +1001,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 8, Defense: Gray",
       "3 Heroes: Speed: 3, Health: 10, Defense: Gray Brown",
-      "4 Heroes: Speed: 3, Health: 13, Defense: Gray Brown",
+      "4 Heroes: Speed: 3, Health: 13, Defense: Gray Brown"
     ],
     "expansion": "Shadow Of Nerekhall",
     "image": "lieutenants/verminous-sn-act1-front.png",
@@ -1037,7 +1037,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 11, Defense: Gray Brown",
       "3 Heroes: Speed: 3, Health: 13, Defense: Black Brown",
-      "4 Heroes: Speed: 3, Health: 17, Defense: Black Gray",
+      "4 Heroes: Speed: 3, Health: 17, Defense: Black Gray"
     ],
     "expansion": "Shadow Of Nerekhall",
     "image": "lieutenants/verminous-sn-act2-front.png",
@@ -1073,7 +1073,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 10, Defense: Black",
       "3 Heroes: Speed: 3, Health: 13, Defense: Gray Gray",
-      "4 Heroes: Speed: 3, Health: 18, Defense: Gray Gray",
+      "4 Heroes: Speed: 3, Health: 18, Defense: Gray Gray"
     ],
     "expansion": "Manor Of Ravens",
     "image": "lieutenants/skarn-mr-act1-front.png",
@@ -1110,7 +1110,7 @@
     "characteristics": [
       "2 Heroes: Speed: 3, Health: 16, Defense: Gray Gray",
       "3 Heroes: Speed: 3, Health: 19, Defense: Black Gray",
-      "4 Heroes: Speed: 3, Health: 24, Defense: Black Gray",
+      "4 Heroes: Speed: 3, Health: 24, Defense: Black Gray"
     ],
     "expansion": "Manor Of Ravens",
     "image": "lieutenants/skarn-mr-act2-front.png",
@@ -1146,7 +1146,7 @@
     "characteristics": [
       "2 Heroes: Speed: 4, Health: 12, Defense: Black",
       "3 Heroes: Speed: 4, Health: 14, Defense: Black Brown",
-      "4 Heroes: Speed: 4, Health: 17, Defense: Black Brown",
+      "4 Heroes: Speed: 4, Health: 17, Defense: Black Brown"
     ],
     "expansion": "Mists Of Bilehall",
     "image": "lieutenants/ardus-ixerebus-mb-act1-front.png",
@@ -1182,7 +1182,7 @@
     "characteristics": [
       "2 Heroes: Speed: 4, Health: 11, Defense: Gray",
       "3 Heroes: Speed: 4, Health: 13, Defense: Black",
-      "4 Heroes: Speed: 4, Health: 16, Defense: Black",
+      "4 Heroes: Speed: 4, Health: 16, Defense: Black"
     ],
     "expansion": "Mists Of Bilehall",
     "image": "lieutenants/kyndrithul-mb-act1-front.png",
@@ -1218,7 +1218,7 @@
     "characteristics": [
       "2 Heroes: Speed: 5, Health: 9, Defense: Gray",
       "3 Heroes: Speed: 5, Health: 12, Defense: Gray",
-      "4 Heroes: Speed: 5, Health: 15, Defense: Black",
+      "4 Heroes: Speed: 5, Health: 15, Defense: Black"
     ],
     "expansion": "Mists Of Bilehall",
     "image": "lieutenants/zarihell-mb-act1-front.png",
