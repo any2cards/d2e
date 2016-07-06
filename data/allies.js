@@ -19,7 +19,7 @@
       "4 Heroes: Speed: 5, Health: 8, Defense: Brown"
     ],
     "expansion": "Labyrinth Of Ruin",
-    "image": "allies/range/raythen-lr-front.png",
+    "image": "allies/raythen-lr-front.png",
     "xws": "raythen"
   },
   {
@@ -31,7 +31,7 @@
       "Poison: If this attack deals at least 1 Heart (after the defense roll), the target is Poisoned."
     ],
     "expansion": "Labyrinth Of Ruin",
-    "image": "allies/range/raythen-lr-back.png",
+    "image": "allies/raythen-lr-back.png",
     "xws": "raythen"
   },
   {
@@ -54,7 +54,7 @@
       "4 Heroes: Speed: 3, Health: 8, Defense: Brown"
     ],
     "expansion": "Labyrinth Of Ruin",
-    "image": "allies/melee/serena-lr-front.png",
+    "image": "allies/serena-lr-front.png",
     "xws": "serena"
   },
   {
@@ -66,7 +66,7 @@
       "Stun: If this attack deals at least 1 Heart (after the defense roll), the target is Stunned."
     ],
     "expansion": "Labyrinth Of Ruin",
-    "image": "allies/melee/serena-lr-back.png",
+    "image": "allies/serena-lr-back.png",
     "xws": "serena"
   }
 ]
