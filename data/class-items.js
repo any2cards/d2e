@@ -84,7 +84,7 @@
     "xws": "oakstaff"
   },
   {
-    "name": "Reaper's Scythe",
+    "name": "Reapers Scythe",
     "points": 6,
     "archetype": "Mage",
     "class": "Necromancer",
@@ -266,7 +266,7 @@
     "xws": "leatherwhip"
   },
   {
-    "name": "The Dead Man's Compass",
+    "name": "The Dead Mans Compass",
     "points": 19,
     "archetype": "Scout",
     "class": "Treasure Hunter",
@@ -294,7 +294,7 @@
     "xws": "ironflail"
   },
   {
-    "name": "Sage's Tome",
+    "name": "Sages Tome",
     "points": 21,
     "archetype": "Healer",
     "class": "Prophet",
@@ -308,7 +308,7 @@
     "xws": "sagestome"
   },
   {
-    "name": "Black Widow's Web",
+    "name": "Black Widows Web",
     "points": 22,
     "archetype": "Scout",
     "class": "Stalker",
@@ -364,7 +364,7 @@
     "xws": "rustedhandaxe"
   },
   {
-    "name": "Traveler's Blade",
+    "name": "Travelers Blade",
     "points": 26,
     "archetype": "Healer",
     "class": "Bard",
