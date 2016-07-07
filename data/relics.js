@@ -8,7 +8,7 @@
     "dice": "Blue Red Yellow",
     "rules": "Surge: +3 Hearts. Surge: This attack affects a second monster adjacent to you.",
     "expansion": "Base Game",
-    "image": "relics/dawnblade-bg.png",
+    "image": "relics/heroes/dawnblade-bg.png",
     "xws": "dawnblade"
   },
   {
@@ -20,7 +20,7 @@
     "dice": "-",
     "rules": "A hero that starts his turn adjacent to this lieutenant receives -1 Speed for that turn. Each of this lieutenant's attacks gains: Surge: Pierce 5",
     "expansion": "Base Game",
-    "image": "relics/duskblade-bg.png",
+    "image": "relics/lieutenants/duskblade-bg.png",
     "xws": "duskblade"
   },
   {
@@ -32,7 +32,7 @@
     "dice": "-",
     "rules": "Exhaust this card and suffer 1 Fatigue to reroll any 1 die you have just rolled.",
     "expansion": "Base Game",
-    "image": "relics/fortunas-dice-bg.png",
+    "image": "relics/heroes/fortunas-dice-bg.png",
     "xws": "fortunasdice"
   },
   {
@@ -44,7 +44,7 @@
     "dice": "-",
     "rules": "At the start of each of your turns, roll the blue attack die. On a Surge, draw 1 Overlord card.",
     "expansion": "Base Game",
-    "image": "relics/bones-of-woe-bg.png",
+    "image": "relics/lieutenants/bones-of-woe-bg.png",
     "xws": "bonesofwoe"
   },
   {
@@ -56,7 +56,7 @@
     "dice": "-",
     "rules": "Exhaust this card after rolling defense dice to reroll some or all of the defense dice. Keep the new result only if it is better.",
     "expansion": "Base Game",
-    "image": "relics/shield-of-the-dark-god-bg.png",
+    "image": "relics/heroes/shield-of-the-dark-god-bg.png",
     "xws": "shieldofthedarkgod"
   },
   {
@@ -68,7 +68,7 @@
     "dice": "-",
     "rules": "Each time an attack targeting this lieutenant is resolved and he is not defeated, he tests Might. If he passes, the attacker suffers 1 Heart for each Shield rolled on this test.",
     "expansion": "Base Game",
-    "image": "relics/shield-of-zoreks-favor-bg.png",
+    "image": "relics/lieutenants/shield-of-zoreks-favor-bg.png",
     "xws": "shieldofzoreksfavor"
   },
   {
@@ -80,7 +80,7 @@
     "dice": "Blue Yellow",
     "rules": "Action: Each hero within 3 spaces of you recovers 1 Heart and 1 Fatigue. Surge: +2 Hearts. Surge: Recover 1 Heart.",
     "expansion": "Base Game",
-    "image": "relics/staff-of-light-bg.png",
+    "image": "relics/heroes/staff-of-light-bg.png",
     "xws": "staffoflight"
   },
   {
@@ -92,7 +92,7 @@
     "dice": "-",
     "rules": "Exhaust this card and discard 1 Overlord card from your hand to either draw 1 Overlord card or force a reroll of any 1 die. You may do this at any time, even of it's not your turn.",
     "expansion": "Base Game",
-    "image": "relics/staff-of-shadows-bg.png",
+    "image": "relics/lieutenants/staff-of-shadows-bg.png",
     "xws": "staffofshadows"
   },
   {
@@ -104,8 +104,8 @@
     "dice": "Blue Yellow Yellow",
     "rules": "Each time you defeat a monster with this weapon, recover 1 Fatigue. Surge: +1 Range, +1 Heart. Surge: +2 Hearts.",
     "expansion": "Base Game",
-    "image": "relics/the-shadow-rune-1-bg.png",
-    "xws": "theshadowrune1"
+    "image": "relics/heroes/the-shadow-rune-bg.png",
+    "xws": "theshadowrune"
   },
   {
     "name": "The Shadow Rune",
@@ -116,8 +116,8 @@
     "dice": "-",
     "rules": "Zachareth Only. Each of your attacks gain: Surge: +2 Hearts. Surge: +1 Range, +1 Heart. Surge: Draw 1 Overlord card.",
     "expansion": "Base Game",
-    "image": "relics/the-shadow-rune-2-bg.png",
-    "xws": "theshadowrune2"
+    "image": "relics/lieutenants/the-shadow-rune-bg.png",
+    "xws": "theshadowrune"
   },
   {
     "name": "Trueshot",
@@ -128,7 +128,7 @@
     "dice": "Blue Red Yellow",
     "rules": "+3 Range. Surge: Move the target 1 space. Surge: +2 Hearts.",
     "expansion": "Base Game",
-    "image": "relics/trueshot-bg.png",
+    "image": "relics/heroes/trueshot-bg.png",
     "xws": "trueshot"
   },
   {
@@ -140,7 +140,7 @@
     "dice": "-",
     "rules": "This lieutenant gains: Action: Exhaust this card and choose a hero in your line of sight. That hero tests Awareness. If he fails, he is Immobilized and Poisoned. If he passes, he only suffers 1 of those conditions of your choice.",
     "expansion": "Base Game",
-    "image": "relics/scorpions-kiss-bg.png",
+    "image": "relics/lieutenants/scorpions-kiss-bg.png",
     "xws": "scorpionskiss"
   },
   {
@@ -152,7 +152,7 @@
     "dice": "Black",
     "rules": "Before rolling your defense dice, exhaust this card to add 1 additional brown die to your defense pool.",
     "expansion": "Lair Of The Wyrm",
-    "image": "relics/aurium-mail-lw.png",
+    "image": "relics/heroes/aurium-mail-lw.png",
     "xws": "auriummail"
   },
   {
@@ -164,7 +164,7 @@
     "dice": "-",
     "rules": "Before any attack roll, exhaust this card to choose this lieutenant or a figure adjacent to this lieutenant. The chosen figure adds 1 gray die to his defense pool.",
     "expansion": "Lair Of The Wyrm",
-    "image": "relics/valyndras-gift-lw.png",
+    "image": "relics/lieutenants/valyndras-gift-lw.png",
     "xws": "valyndrasgift"
   },
   {
@@ -176,7 +176,7 @@
     "dice": "Blue Red Yellow",
     "rules": "Each time you attack a large monster, you may add 1 yellow power die to your attack roll. Surge: Pierce 3.",
     "expansion": "Lair Of The Wyrm",
-    "image": "relics/valyndras-bane-lw.png",
+    "image": "relics/heroes/valyndras-bane-lw.png",
     "xws": "valyndrasbane"
   },
   {
@@ -188,7 +188,7 @@
     "dice": "-",
     "rules": "Each of your attacks gains: Surge Surge: After resolving this attack, you may perform a second attack action against the same target (once per turn).",
     "expansion": "Lair Of The Wyrm",
-    "image": "relics/her-majestys-malice-lw.png",
+    "image": "relics/lieutenants/her-majestys-malice-lw.png",
     "xws": "hermajestysmalice"
   },
   {
@@ -200,7 +200,7 @@
     "dice": "-",
     "rules": "Exhaust this card to cancel 1 Surge from an attack targeting you. Then place 1 Fatigue on this card. You may discard 1 Fatigue from this card when attacking to gain 1 Surge.",
     "expansion": "Labyrinth Of Ruin",
-    "image": "relics/gauntlets-of-power-lr.png",
+    "image": "relics/heroes/gauntlets-of-power-lr.png",
     "xws": "gauntletsofpower"
   },
   {
@@ -212,7 +212,7 @@
     "dice": "-",
     "rules": "Exhaust this card to cancel 1 Surge from an attack targeting this lieutenant. Then place 1 Fatigue on this card. You may discard 1 Fatigue from this card when this lieutenant is attacking to gain 1 Surge.",
     "expansion": "Labyrinth Of Ruin",
-    "image": "relics/gauntlets-of-spite-lr.png",
+    "image": "relics/lieutenants/gauntlets-of-spite-lr.png",
     "xws": "gauntletsofspite"
   },
   {
@@ -224,7 +224,7 @@
     "dice": "-",
     "rules": "Exhaust this card to revive all heroes within 3 spaces of you. Each revived hero rolls 3 red power dice instead of 2. Limit once per encounter.",
     "expansion": "Labyrinth Of Ruin",
-    "image": "relics/living-heart-lr.png",
+    "image": "relics/heroes/living-heart-lr.png",
     "xws": "livingheart"
   },
   {
@@ -236,7 +236,7 @@
     "dice": "-",
     "rules": "Exhaust this card when a minion or master monster is defeated. Roll 1 red power die, the monster immediately recovers Hearts equal to the Hearts rolled. Limit once per encounter.",
     "expansion": "Labyrinth Of Ruin",
-    "image": "relics/fallen-heart-lr.png",
+    "image": "relics/lieutenants/fallen-heart-lr.png",
     "xws": "fallenheart"
   },
   {
@@ -248,7 +248,7 @@
     "dice": "-",
     "rules": "Add 1 additional green power die to your attack pool. If you are defeated, place the sun stone token in your space.",
     "expansion": "Labyrinth Of Ruin",
-    "image": "relics/sun-stone-lr.png",
+    "image": "relics/heroes/sun-stone-lr.png",
     "xws": "sunstone"
   },
   {
@@ -260,7 +260,7 @@
     "dice": "-",
     "rules": "Add 1 additional green power die to this lieutenant's attack pool. Return this card to the game box during any Campaign phase to gain 1 XP.",
     "expansion": "Labyrinth Of Ruin",
-    "image": "relics/suns-fury-lr.png",
+    "image": "relics/lieutenants/suns-fury-lr.png",
     "xws": "sunsfury"
   },
   {
@@ -272,7 +272,7 @@
     "dice": "-",
     "rules": "You gain +2 Health. You cannot be Diseased. This card cannot be traded between heroes.",
     "expansion": "The Trollfens",
-    "image": "relics/immunity-elixir-tf.png",
+    "image": "relics/heroes/immunity-elixir-tf.png",
     "xws": "immunityelixir"
   },
   {
@@ -284,7 +284,7 @@
     "dice": "-",
     "rules": "This lieutenant gains: Action: Exhaust this card. This lieutenant or an adjacent monster may discard 1 Condition token.",
     "expansion": "The Trollfens",
-    "image": "relics/curative-vial-tf.png",
+    "image": "relics/lieutenants/curative-vial-tf.png",
     "xws": "curativevial"
   },
   {
@@ -296,7 +296,7 @@
     "dice": "-",
     "rules": "Action: Exhaust this card and choose a hero. Roll 1 red power die. The chosen hero recovers Hearts equal to the Hearts rolled and may discard 1 Condition card or infection token.",
     "expansion": "The Trollfens",
-    "image": "relics/mending-talisman-tf.png",
+    "image": "relics/heroes/mending-talisman-tf.png",
     "xws": "mendingtalisman"
   },
   {
@@ -308,7 +308,7 @@
     "dice": "-",
     "rules": "This lieutenant gains: Surge: If this attack deals at least 1 Heart (after the defense roll), choose 1 condition. The target suffers the chosen condition.",
     "expansion": "The Trollfens",
-    "image": "relics/omen-of-blight-tf.png",
+    "image": "relics/lieutenants/omen-of-blight-tf.png",
     "xws": "omenofblight"
   },
   {
@@ -320,7 +320,7 @@
     "dice": "-",
     "rules": "Each time you would suffer any amount of Fatigue, you may instead place it on this card (to a maximum of 3). Discard all Fatigue on this card at the end of each encounter.",
     "expansion": "The Trollfens",
-    "image": "relics/workmans-ring-tf.png",
+    "image": "relics/heroes/workmans-ring-tf.png",
     "xws": "workmansring"
   },
   {
@@ -332,7 +332,7 @@
     "dice": "-",
     "rules": "Each of this lieutenant's attacks gains: Surge: Gain 2 movement points.",
     "expansion": "The Trollfens",
-    "image": "relics/taskmasters-ring-tf.png",
+    "image": "relics/lieutenants/taskmasters-ring-tf.png",
     "xws": "taskmastersring"
   },
   {
@@ -344,7 +344,7 @@
     "dice": "-",
     "rules": "Exhaust this card during your turn. The overlord reveals his hand. This card does not refresh as normal. Refresh this card at the start of each encounter.",
     "expansion": "Shadow Of Nerekhall",
-    "image": "relics/shadow-plotter-1-sn.png",
+    "image": "relics/heroes/shadow-plotter-sn.png",
     "xws": "shadowplotter"
   },
   {
@@ -356,7 +356,7 @@
     "dice": "-",
     "rules": "Exhaust this card during your turn to draw 3 Overlord cards. Add 1 card to your hand and discard the other 2 cards. Then, this lieutenant suffers 2 Hearts.",
     "expansion": "Shadow Of Nerekhall",
-    "image": "relics/shadow-plotter-2-sn.png",
+    "image": "relics/lieutenants/shadow-plotter-sn.png",
     "xws": "shadowplotter"
   },
   {
@@ -368,7 +368,7 @@
     "dice": "Blue Red Red",
     "rules": "Action: Perform an attack targeting each monster adjacent to you. Each monster rolls defense dice separately. Each monster that suffers at least 1 Heart is Bleeding.",
     "expansion": "Shadow Of Nerekhall",
-    "image": "relics/spirited-scythe-sn.png",
+    "image": "relics/heroes/spirited-scythe-sn.png",
     "xws": "spiritedscythe"
   },
   {
@@ -380,7 +380,7 @@
     "dice": "-",
     "rules": "Exhaust this card when this lieutenant enters a space adjacent to a hero. That hero is Bleeding. Each attack this lieutenant performs that targets a Bleeding hero gains Pierce 3.",
     "expansion": "Shadow Of Nerekhall",
-    "image": "relics/soulless-scythe-sn.png",
+    "image": "relics/lieutenants/soulless-scythe-sn.png",
     "xws": "soullessscythe"
   },
   {
@@ -392,7 +392,7 @@
     "dice": "Blue Red Green",
     "rules": "Each time you perform an attack with this weapon, suffer 1 Heart. +3 Range. Surge Surge: +3 Hearts.",
     "expansion": "Shadow Of Nerekhall",
-    "image": "relics/ynfernal-rune-1-sn.png",
+    "image": "relics/heroes/ynfernal-rune-sn.png",
     "xws": "ynfernalrune"
   },
   {
@@ -404,7 +404,7 @@
     "dice": "-",
     "rules": "This lieutenant ignores the effects of hazard spaces. Each attack this lieutenant performs gains: Surge: +2 Hearts",
     "expansion": "Shadow Of Nerekhall",
-    "image": "relics/ynfernal-rune-2-sn.png",
+    "image": "relics/lieutenants/ynfernal-rune-sn.png",
     "xws": "ynfernalrune"
   },
   {
@@ -416,7 +416,7 @@
     "dice": "-",
     "rules": "Apply +1 to your Knowledge (to a maximum of 6). Action: Test Knowledge. If you pass, discard 1 Condition card from 1 hero of your choice.",
     "expansion": "Manor Of Ravens",
-    "image": "relics/book-of-stars-mr.png",
+    "image": "relics/heroes/book-of-stars-mr.png",
     "xws": "bookofstars"
   },
   {
@@ -428,7 +428,7 @@
     "dice": "-",
     "rules": "Exhaust this card after drawing your starting hand. Shuffle those cards back into the Overlord deck and then draw a number of cards equal to the number of heroes.",
     "expansion": "Manor Of Ravens",
-    "image": "relics/tome-of-the-five-lies-mr.png",
+    "image": "relics/lieutenants/tome-of-the-five-lies-mr.png",
     "xws": "tomeofthefivelies"
   },
   {
@@ -440,7 +440,7 @@
     "dice": "Blue Yellow",
     "rules": "Surge: Recover 2 Hearts. Surge: Recover 2 Fatigue. Surge: Pierce 2.",
     "expansion": "Manor Of Ravens",
-    "image": "relics/shards-of-ithyndrus-1-mr.png",
+    "image": "relics/heroes/shards-of-ithyndrus-mr.png",
     "xws": "shardsofithyndrus"
   },
   {
@@ -452,7 +452,7 @@
     "dice": "-",
     "rules": "Exhaust this card when a monster in this group performs an attack, after dice are rolled, to add 1 Surge to the results.",
     "expansion": "Manor Of Ravens",
-    "image": "relics/shards-of-ithyndrus-2-mr.png",
+    "image": "relics/lieutenants/shards-of-ithyndrus-mr.png",
     "xws": "shardsofithyndrus"
   },
   {
@@ -464,7 +464,7 @@
     "dice": "-",
     "rules": "Exhaust this card during your turn. Recover Hearts or Fatigue equal to the number of Overlord cards in the overlord's discard pile. Limit once per quest.",
     "expansion": "Manor Of Ravens",
-    "image": "relics/the-manors-heart-1-mr.png",
+    "image": "relics/heroes/the-manors-heart-mr.png",
     "xws": "themanorsheart"
   },
   {
@@ -476,7 +476,7 @@
     "dice": "-",
     "rules": "Each master monster of this group gains: Action: Perform an attack. Measure range and line of sight from 1 minion monster in this monster's group.",
     "expansion": "Manor Of Ravens",
-    "image": "relics/the-manors-heart-2-mr.png",
+    "image": "relics/lieutenants/the-manors-heart-mr.png",
     "xws": "themanorsheart"
   },
   {
@@ -488,7 +488,7 @@
     "dice": "-",
     "rules": "Each time you declare a move action, recover 1 Fatigue.",
     "expansion": "Manor Of Ravens",
-    "image": "relics/wanderers-stone-mr.png",
+    "image": "relics/heroes/wanderers-stone-mr.png",
     "xws": "wanderersstone"
   },
   {
@@ -500,7 +500,7 @@
     "dice": "-",
     "rules": "Each monster in this group gains: Surge: Doom",
     "expansion": "Manor Of Ravens",
-    "image": "relics/stone-of-wayward-means-mr.png",
+    "image": "relics/lieutenants/stone-of-wayward-means-mr.png",
     "xws": "stoneofwaywardmeans"
   },
   {
@@ -512,7 +512,7 @@
     "dice": "Blue Red",
     "rules": "Surge: Terrify. Each time you declare an attack that targets a Terrified monster, that attack gains: Surge: +2 Hearts, Recover 2 Hearts.",
     "expansion": "Mists Of Bilehall",
-    "image": "relics/fear-eater-mb.png",
+    "image": "relics/heroes/fear-eater-mb.png",
     "xws": "feareater"
   },
   {
@@ -524,7 +524,7 @@
     "dice": "-",
     "rules": "Each attack performed by this lieutenant gains: Surge: If this attack deals at least 1 Heart, choose 1 hero within 3 spaces of the target. That hero is Terrified.",
     "expansion": "Mists Of Bilehall",
-    "image": "relics/blade-of-brivala-mb.png",
+    "image": "relics/lieutenants/blade-of-brivala-mb.png",
     "xws": "bladeofbrivala"
   },
   {
@@ -536,7 +536,7 @@
     "dice": "-",
     "rules": "Apply +1 to each hero's Willpower (to a maximum of 6). You may unequip this card when a hero fails a Willpower test to reroll that test. Limit 1 Helmet equipped at a time.",
     "expansion": "Mists Of Bilehall",
-    "image": "relics/the-white-crown-mb.png",
+    "image": "relics/heroes/the-white-crown-mb.png",
     "xws": "thewhitecrown"
   },
   {
@@ -548,7 +548,7 @@
     "dice": "-",
     "rules": "Each monster in this group cannot be Terrified. Each master monster in this group gains: Surge: Recover 3 Hearts.",
     "expansion": "Mists Of Bilehall",
-    "image": "relics/waiqars-favor-mb.png",
+    "image": "relics/lieutenants/waiqars-favor-mb.png",
     "xws": "waiqarsfavor"
   },
   {
@@ -560,7 +560,7 @@
     "dice": "-",
     "rules": "Apply +2 to your Health. At the start of your turn, you may suffer 1 Fatigue to place the hero token of a knocked-out hero adjacent to you.",
     "expansion": "Mists Of Bilehall",
-    "image": "relics/undertakers-coat-1-mb.png",
+    "image": "relics/heroes/undertakers-coat-mb.png",
     "xws": "undertakerscoat"
   },
   {
@@ -572,7 +572,7 @@
     "dice": "-",
     "rules": "Exhaust this card after this lieutenant rolls defense dice and rolls 1 or more blanks. Add a number of Shields to the results equal to this lieutenant's Knowledge.",
     "expansion": "Mists Of Bilehall",
-    "image": "relics/undertakers-coat-2-mb.png",
+    "image": "relics/lieutenants/undertakers-coat-mb.png",
     "xws": "undertakerscoat"
   }
 ]
