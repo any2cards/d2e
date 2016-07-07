@@ -376,8 +376,8 @@
     "description": "An ancient beast is rising and you are unable to stop him. The champions who defeated him many years ago have disappeared into a haunted land and the bonds they created are fading. Your only hope is to track them down and rediscover their secret before it is too late.",
     "ability": "If this card is in play when you transition to Act II, the overlord gains the \"Hag's Hunger\" Overlord card. Then, place the \"Treaty of Champions\" Advanced Quest card in play.",
     "expansion": "Treaty Of Champions",
-    "image": "rumors/treaty-of-champions-tc-act1.png",
-    "xws": "treatyofchampions"
+    "image": "rumors/sindaes-secret-tc-act1.png",
+    "xws": "sindaessecret"
   },
   {
     "name": "Stewards Of The Secret",
