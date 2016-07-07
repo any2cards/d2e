@@ -191,6 +191,7 @@
     "image": "overlord-decks/saboteur/explosive-runes.png",
     "xws": "explosiverunes"
   },
+  {
     "deck": "Saboteur",
     "name": "Web Trap",
     "points": 16,
@@ -202,7 +203,7 @@
     "image": "overlord-decks/saboteur/web-trap.png",
     "xws": "webtrap"
   },
-  },
+  {
     "deck": "Saboteur",
     "name": "Curse Of The Monkey God",
     "points": 17,
@@ -214,7 +215,7 @@
     "image": "overlord-decks/saboteur/curse-of-the-monkey-god.png",
     "xws": "curseofthemonkeygod"
   },
-  },
+  {
     "deck": "Saboteur",
     "name": "Wicked Laughter",
     "points": 18,
@@ -226,7 +227,7 @@
     "image": "overlord-decks/saboteur/wicked-laughter.png",
     "xws": "wickedlaughter"
   },
-  },
+  {
     "deck": "Saboteur",
     "name": "Uthuk Demon Trap",
     "points": 19,
@@ -238,7 +239,7 @@
     "image": "overlord-decks/saboteur/uthuk-demon-trap.png",
     "xws": "uthukdemontrap"
   },
-  },
+  {
     "deck": "Warlord",
     "name": "Blood Rage",
     "points": 20,
@@ -250,7 +251,7 @@
     "image": "overlord-decks/warlord/blood-rage.png",
     "xws": "bloodrage"
   },
-  },
+  {
     "deck": "Warlord",
     "name": "Dark Fortitude",
     "points": 21,
@@ -262,7 +263,7 @@
     "image": "overlord-decks/warlord/dark-fortitude.png",
     "xws": "darkfortitude"
   },
-  },
+  {
     "deck": "Warlord",
     "name": "Bloodlust",
     "points": 22,
@@ -274,7 +275,7 @@
     "image": "overlord-decks/warlord/bloodlust.png",
     "xws": "bloodlust"
   },
-  },
+  {
     "deck": "Warlord",
     "name": "Expert Blow",
     "points": 23,
@@ -286,7 +287,7 @@
     "image": "overlord-decks/warlord/expert-blow.png",
     "xws": "expertblow"
   },
-  },
+  {
     "deck": "Warlord",
     "name": "Reinforce",
     "points": 24,
@@ -298,7 +299,7 @@
     "image": "overlord-decks/warlord/reinforce.png",
     "xws": "reinforce"
   },
-  },
+  {
     "deck": "Universal",
     "name": "Dark Resilience",
     "points": 25,
@@ -310,7 +311,7 @@
     "image": "overlord-decks/universal/dark-resilience.png",
     "xws": "darkresilience"
   },
-  },
+  {
     "deck": "Universal",
     "name": "Plan Ahead",
     "points": 26,
@@ -322,7 +323,7 @@
     "image": "overlord-decks/universal/plan-ahead.png",
     "xws": "planahead"
   },
-  },
+  {
     "deck": "Universal",
     "name": "Schemes",
     "points": 27,
