@@ -1,6 +1,6 @@
 [
   {
-    "name": "Brightblaze",
+    "name": "CK-Brightblaze",
     "points": 0,
     "speed": "4",
     "health": "-",
@@ -13,7 +13,7 @@
     "xws": "brightblaze"
   },
   {
-    "name": "Pico",
+    "name": "CK-Pico",
     "points": 1,
     "speed": "-",
     "health": "-",
@@ -26,7 +26,7 @@
     "xws": "pico"
   },
   {
-    "name": "Skye",
+    "name": "CK-Skye",
     "points": 2,
     "speed": "5",
     "health": "-",

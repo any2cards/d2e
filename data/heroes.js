@@ -144,7 +144,7 @@
     "xws": "widowtarha"
   },
   {
-    "name": "Andira Runehand",
+    "name": "CK-Andira Runehand",
     "points": 8,
     "archetype": "Healer",
     "speed": 4,
@@ -162,7 +162,7 @@
     "xws": "andirarunehand"
   },
   {
-    "name": "Astarra",
+    "name": "CK-Astarra",
     "points": 9,
     "archetype": "Mage",
     "speed": 4,
@@ -180,7 +180,7 @@
     "xws": "astarra"
   },
   {
-    "name": "Arvel Worldwalker",
+    "name": "CK-Arvel Worldwalker",
     "points": 10,
     "archetype": "Scout",
     "speed": 4,
@@ -198,7 +198,7 @@
     "xws": "arvelworldwalker"
   },
   {
-    "name": "Aurim",
+    "name": "CK-Aurim",
     "points": 11,
     "archetype": "Healer",
     "speed": 5,
@@ -216,7 +216,7 @@
     "xws": "aurim"
   },
   {
-    "name": "Bogran The Shadow",
+    "name": "CK-Bogran The Shadow",
     "points": 12,
     "archetype": "Scout",
     "speed": 4,
@@ -234,7 +234,7 @@
     "xws": "bograntheshadow"
   },
   {
-    "name": "Brother Gherinn",
+    "name": "CK-Brother Gherinn",
     "points": 13,
     "archetype": "Healer",
     "speed": 3,
@@ -252,7 +252,7 @@
     "xws": "brothergherinn"
   },
   {
-    "name": "Brother Glyr",
+    "name": "CK-Brother Glyr",
     "points": 14,
     "archetype": "Healer",
     "speed": 2,
@@ -270,7 +270,7 @@
     "xws": "brotherglyr"
   },
   {
-    "name": "Challara",
+    "name": "CK-Challara",
     "points": 15,
     "archetype": "Mage",
     "speed": 3,
@@ -288,7 +288,7 @@
     "xws": "challara"
   },
   {
-    "name": "Corbin",
+    "name": "CK-Corbin",
     "points": 16,
     "archetype": "Warrior",
     "speed": 3,
@@ -306,7 +306,7 @@
     "xws": "corbin"
   },
   {
-    "name": "Elder Mok",
+    "name": "CK-Elder Mok",
     "points": 17,
     "archetype": "Healer",
     "speed": 4,
@@ -324,7 +324,7 @@
     "xws": "eldermok"
   },
   {
-    "name": "Eliam",
+    "name": "CK-Eliam",
     "points": 18,
     "archetype": "Warrior",
     "speed": 5,
@@ -342,7 +342,7 @@
     "xws": "eliam"
   },
   {
-    "name": "Grey Ker",
+    "name": "CK-Grey Ker",
     "points": 19,
     "archetype": "Scout",
     "speed": 4,
@@ -360,7 +360,7 @@
     "xws": "greyker"
   },
   {
-    "name": "Hugo The Glorious",
+    "name": "CK-Hugo The Glorious",
     "points": 20,
     "archetype": "Warrior",
     "speed": 3,
@@ -378,7 +378,7 @@
     "xws": "hugotheglorious"
   },
   {
-    "name": "Ispher",
+    "name": "CK-Ispher",
     "points": 21,
     "archetype": "Healer",
     "speed": 4,
@@ -396,7 +396,7 @@
     "xws": "ispher"
   },
   {
-    "name": "Jaes The Exile",
+    "name": "CK-Jaes The Exile",
     "points": 22,
     "archetype": "Mage",
     "speed": 4,
@@ -414,7 +414,7 @@
     "xws": "jaestheexile"
   },
   {
-    "name": "Jonas The Kind",
+    "name": "CK-Jonas The Kind",
     "points": 23,
     "archetype": "Healer",
     "speed": 4,
@@ -432,7 +432,7 @@
     "xws": "jonasthekind"
   },
   {
-    "name": "Karnon",
+    "name": "CK-Karnon",
     "points": 24,
     "archetype": "Warrior",
     "speed": 4,
@@ -450,7 +450,7 @@
     "xws": "karnon"
   },
   {
-    "name": "Kirga",
+    "name": "CK-Kirga",
     "points": 25,
     "archetype": "Scout",
     "speed": 4,
@@ -468,7 +468,7 @@
     "xws": "kirga"
   },
   {
-    "name": "Krutzbeck",
+    "name": "CK-Krutzbeck",
     "points": 26,
     "archetype": "Warrior",
     "speed": 3,
@@ -486,7 +486,7 @@
     "xws": "krutzbeck"
   },
   {
-    "name": "Landrec The Wise",
+    "name": "CK-Landrec The Wise",
     "points": 27,
     "archetype": "Mage",
     "speed": 3,
@@ -504,7 +504,7 @@
     "xws": "landrecthewise"
   },
   {
-    "name": "Laughin Buldar",
+    "name": "CK-Laughin Buldar",
     "points": 28,
     "archetype": "Warrior",
     "speed": 3,
@@ -522,7 +522,7 @@
     "xws": "laughinbuldar"
   },
   {
-    "name": "Laurel Of Bloodwood",
+    "name": "CK-Laurel Of Bloodwood",
     "points": 29,
     "archetype": "Scout",
     "speed": 4,
@@ -540,7 +540,7 @@
     "xws": "laurelofbloodwood"
   },
   {
-    "name": "Lindel",
+    "name": "CK-Lindel",
     "points": 30,
     "archetype": "Scout",
     "speed": 5,
@@ -558,7 +558,7 @@
     "xws": "lindel"
   },
   {
-    "name": "Lord Hawthorne",
+    "name": "CK-Lord Hawthorne",
     "points": 31,
     "archetype": "Warrior",
     "speed": 4,
@@ -576,7 +576,7 @@
     "xws": "lordhawthorne"
   },
   {
-    "name": "Lyssa",
+    "name": "CK-Lyssa",
     "points": 32,
     "archetype": "Mage",
     "speed": 5,
@@ -594,7 +594,7 @@
     "xws": "lyssa"
   },
   {
-    "name": "Mad Carthos",
+    "name": "CK-Mad Carthos",
     "points": 33,
     "archetype": "Mage",
     "speed": 4,
@@ -612,7 +612,7 @@
     "xws": "madcarthos"
   },
   {
-    "name": "Master Thorn",
+    "name": "CK-Master Thorn",
     "points": 34,
     "archetype": "Mage",
     "speed": 5,
@@ -630,7 +630,7 @@
     "xws": "masterthorn"
   },
   {
-    "name": "Mordrog",
+    "name": "CK-Mordrog",
     "points": 35,
     "archetype": "Warrior",
     "speed": 3,
@@ -648,7 +648,7 @@
     "xws": "mordrog"
   },
   {
-    "name": "Nanok Of The Blade",
+    "name": "CK-Nanok Of The Blade",
     "points": 36,
     "archetype": "Warrior",
     "speed": 4,
@@ -666,7 +666,7 @@
     "xws": "nanokoftheblade"
   },
   {
-    "name": "Nara The Fang",
+    "name": "CK-Nara The Fang",
     "points": 37,
     "archetype": "Warrior",
     "speed": 5,
@@ -684,7 +684,7 @@
     "xws": "narathefang"
   },
   {
-    "name": "Okaluk And Rakash",
+    "name": "CK-Okaluk And Rakash",
     "points": 38,
     "archetype": "Healer",
     "speed": 2,
@@ -702,7 +702,7 @@
     "xws": "okalukandrakash"
   },
   {
-    "name": "One Fist",
+    "name": "CK-One Fist",
     "points": 39,
     "archetype": "Warrior",
     "speed": 4,
@@ -720,7 +720,7 @@
     "xws": "onefist"
   },
   {
-    "name": "Red Scorpion",
+    "name": "CK-Red Scorpion",
     "points": 40,
     "archetype": "Scout",
     "speed": 5,
@@ -738,7 +738,7 @@
     "xws": "redscorpion"
   },
   {
-    "name": "Ronan Of The Wild",
+    "name": "CK-Ronan Of The Wild",
     "points": 41,
     "archetype": "Scout",
     "speed": 4,
@@ -756,7 +756,7 @@
     "xws": "ronanofthewild"
   },
   {
-    "name": "Sahla",
+    "name": "CK-Sahla",
     "points": 42,
     "archetype": "Healer",
     "speed": 4,
@@ -774,7 +774,7 @@
     "xws": "sahla"
   },
   {
-    "name": "Shiver",
+    "name": "CK-Shiver",
     "points": 43,
     "archetype": "Mage",
     "speed": 4,
@@ -792,7 +792,7 @@
     "xws": "shiver"
   },
   {
-    "name": "Silhouette",
+    "name": "CK-Silhouette",
     "points": 44,
     "archetype": "Scout",
     "speed": 5,
@@ -810,7 +810,7 @@
     "xws": "silhouette"
   },
   {
-    "name": "Sir Valadir",
+    "name": "CK-Sir Valadir",
     "points": 45,
     "archetype": "Warrior",
     "speed": 4,
@@ -828,7 +828,7 @@
     "xws": "sirvaladir"
   },
   {
-    "name": "Steelhorns",
+    "name": "CK-Steelhorns",
     "points": 46,
     "archetype": "Warrior",
     "speed": 4,
@@ -846,7 +846,7 @@
     "xws": "steelhorns"
   },
   {
-    "name": "Tahlia",
+    "name": "CK-Tahlia",
     "points": 47,
     "archetype": "Warrior",
     "speed": 3,
@@ -864,7 +864,7 @@
     "xws": "tahlia"
   },
   {
-    "name": "Tatianna",
+    "name": "CK-Tatianna",
     "points": 48,
     "archetype": "Scout",
     "speed": 5,
@@ -882,7 +882,7 @@
     "xws": "tatianna"
   },
   {
-    "name": "Tetherys",
+    "name": "CK-Tetherys",
     "points": 49,
     "archetype": "Scout",
     "speed": 4,
@@ -900,7 +900,7 @@
     "xws": "tetherys"
   },
   {
-    "name": "Tobin Farslayer",
+    "name": "CK-Tobin Farslayer",
     "points": 50,
     "archetype": "Scout",
     "speed": 4,
@@ -918,7 +918,7 @@
     "xws": "tobinfarslayer"
   },
   {
-    "name": "Trenloe The Strong",
+    "name": "CK-Trenloe The Strong",
     "points": 51,
     "archetype": "Warrior",
     "speed": 3,
@@ -936,7 +936,7 @@
     "xws": "trenloethestrong"
   },
   {
-    "name": "Truthseer Kel",
+    "name": "CK-Truthseer Kel",
     "points": 52,
     "archetype": "Mage",
     "speed": 4,
@@ -954,7 +954,7 @@
     "xws": "truthseerkel"
   },
   {
-    "name": "Varikas The Dead",
+    "name": "CK-Varikas The Dead",
     "points": 53,
     "archetype": "Warrior",
     "speed": 3,
@@ -972,7 +972,7 @@
     "xws": "varikasthedead"
   },
   {
-    "name": "Vyrah The Falconer",
+    "name": "CK-Vyrah The Falconer",
     "points": 54,
     "archetype": "Scout",
     "speed": 4,
@@ -990,7 +990,7 @@
     "xws": "vyrahthefalconer"
   },
   {
-    "name": "Zyla",
+    "name": "CK-Zyla",
     "points": 55,
     "archetype": "Mage",
     "speed": 4,

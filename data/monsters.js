@@ -620,7 +620,7 @@
     "xws": "zombie"
   },
   {
-    "name": "Bane Spider",
+    "name": "CK-Bane Spider",
     "points": 36,
     "act": "I",
     "attack": "Range",
@@ -633,7 +633,7 @@
     "xws": "banespider"
   },
   {
-    "name": "Bane Spider",
+    "name": "CK-Bane Spider",
     "points": 37,
     "act": "I",
     "traits": [
@@ -655,7 +655,7 @@
     "xws": "banespider"
   },
   {
-    "name": "Bane Spider",
+    "name": "CK-Bane Spider",
     "points": 38,
     "act": "II",
     "attack": "Range",
@@ -668,7 +668,7 @@
     "xws": "banespider"
   },
   {
-    "name": "Bane Spider",
+    "name": "CK-Bane Spider",
     "points": 39,
     "act": "II",
     "traits": [
@@ -690,7 +690,7 @@
     "xws": "banespider"
   },
   {
-    "name": "Beastman",
+    "name": "CK-Beastman",
     "points": 40,
     "act": "I",
     "attack": "Melee",
@@ -703,7 +703,7 @@
     "xws": "beastman"
   },
   {
-    "name": "Beastman",
+    "name": "CK-Beastman",
     "points": 41,
     "act": "I",
     "traits": [
@@ -724,7 +724,7 @@
     "xws": "beastman"
   },
   {
-    "name": "Beastman",
+    "name": "CK-Beastman",
     "points": 42,
     "act": "II",
     "attack": "Melee",
@@ -737,7 +737,7 @@
     "xws": "beastman"
   },
   {
-    "name": "Beastman",
+    "name": "CK-Beastman",
     "points": 43,
     "act": "II",
     "traits": [
@@ -758,7 +758,7 @@
     "xws": "beastman"
   },
   {
-    "name": "Blood Ape",
+    "name": "CK-Blood Ape",
     "points": 44,
     "act": "I",
     "attack": "Melee",
@@ -771,7 +771,7 @@
     "xws": "bloodape"
   },
   {
-    "name": "Blood Ape",
+    "name": "CK-Blood Ape",
     "points": 45,
     "act": "I",
     "traits": [
@@ -792,7 +792,7 @@
     "xws": "bloodape"
   },
   {
-    "name": "Blood Ape",
+    "name": "CK-Blood Ape",
     "points": 46,
     "act": "II",
     "attack": "Melee",
@@ -805,7 +805,7 @@
     "xws": "bloodape"
   },
   {
-    "name": "Blood Ape",
+    "name": "CK-Blood Ape",
     "points": 47,
     "act": "II",
     "traits": [
@@ -826,7 +826,7 @@
     "xws": "bloodape"
   },
   {
-    "name": "Chaos Beast",
+    "name": "CK-Chaos Beast",
     "points": 48,
     "act": "I",
     "attack": "Range",
@@ -839,7 +839,7 @@
     "xws": "chaosbeast"
   },
   {
-    "name": "Chaos Beast",
+    "name": "CK-Chaos Beast",
     "points": 49,
     "act": "I",
     "traits": [
@@ -860,7 +860,7 @@
     "xws": "chaosbeast"
   },
   {
-    "name": "Chaos Beast",
+    "name": "CK-Chaos Beast",
     "points": 50,
     "act": "II",
     "attack": "Range",
@@ -873,7 +873,7 @@
     "xws": "chaosbeast"
   },
   {
-    "name": "Chaos Beast",
+    "name": "CK-Chaos Beast",
     "points": 51,
     "act": "II",
     "traits": [
@@ -894,7 +894,7 @@
     "xws": "chaosbeast"
   },
   {
-    "name": "Crypt Dragon",
+    "name": "CK-Crypt Dragon",
     "points": 52,
     "act": "I",
     "attack": "Range",
@@ -907,7 +907,7 @@
     "xws": "cryptdragon"
   },
   {
-    "name": "Crypt Dragon",
+    "name": "CK-Crypt Dragon",
     "points": 53,
     "act": "I",
     "traits": [
@@ -928,7 +928,7 @@
     "xws": "cryptdragon"
   },
   {
-    "name": "Crypt Dragon",
+    "name": "CK-Crypt Dragon",
     "points": 54,
     "act": "II",
     "attack": "Range",
@@ -941,7 +941,7 @@
     "xws": "cryptdragon"
   },
   {
-    "name": "Crypt Dragon",
+    "name": "CK-Crypt Dragon",
     "points": 55,
     "act": "II",
     "traits": [
@@ -962,7 +962,7 @@
     "xws": "cryptdragon"
   },
   {
-    "name": "Dark Priest",
+    "name": "CK-Dark Priest",
     "points": 56,
     "act": "I",
     "attack": "Range",
@@ -975,7 +975,7 @@
     "xws": "darkpriest"
   },
   {
-    "name": "Dark Priest",
+    "name": "CK-Dark Priest",
     "points": 57,
     "act": "I",
     "traits": [
@@ -996,7 +996,7 @@
     "xws": "darkpriest"
   },
   {
-    "name": "Dark Priest",
+    "name": "CK-Dark Priest",
     "points": 58,
     "act": "II",
     "attack": "Range",
@@ -1009,7 +1009,7 @@
     "xws": "darkpriest"
   },
   {
-    "name": "Dark Priest",
+    "name": "CK-Dark Priest",
     "points": 59,
     "act": "II",
     "traits": [
@@ -1030,7 +1030,7 @@
     "xws": "darkpriest"
   },
   {
-    "name": "Deep Elf",
+    "name": "CK-Deep Elf",
     "points": 60,
     "act": "I",
     "attack": "Melee",
@@ -1043,7 +1043,7 @@
     "xws": "deepelf"
   },
   {
-    "name": "Deep Elf",
+    "name": "CK-Deep Elf",
     "points": 61,
     "act": "I",
     "traits": [
@@ -1064,7 +1064,7 @@
     "xws": "deepelf"
   },
   {
-    "name": "Deep Elf",
+    "name": "CK-Deep Elf",
     "points": 62,
     "act": "II",
     "attack": "Melee",
@@ -1077,7 +1077,7 @@
     "xws": "deepelf"
   },
   {
-    "name": "Deep Elf",
+    "name": "CK-Deep Elf",
     "points": 63,
     "act": "II",
     "traits": [
@@ -1098,7 +1098,7 @@
     "xws": "deepelf"
   },
   {
-    "name": "Demon Lord",
+    "name": "CK-Demon Lord",
     "points": 64,
     "act": "I",
     "attack": "Range",
@@ -1111,7 +1111,7 @@
     "xws": "demonlord"
   },
   {
-    "name": "Demon Lord",
+    "name": "CK-Demon Lord",
     "points": 65,
     "act": "I",
     "traits": [
@@ -1133,7 +1133,7 @@
     "xws": "demonlord"
   },
   {
-    "name": "Demon Lord",
+    "name": "CK-Demon Lord",
     "points": 66,
     "act": "II",
     "attack": "Range",
@@ -1146,7 +1146,7 @@
     "xws": "demonlord"
   },
   {
-    "name": "Demon Lord",
+    "name": "CK-Demon Lord",
     "points": 67,
     "act": "II",
     "traits": [
@@ -1168,7 +1168,7 @@
     "xws": "demonlord"
   },
   {
-    "name": "Ferrox",
+    "name": "CK-Ferrox",
     "points": 68,
     "act": "I",
     "attack": "Melee",
@@ -1181,7 +1181,7 @@
     "xws": "ferrox"
   },
   {
-    "name": "Ferrox",
+    "name": "CK-Ferrox",
     "points": 69,
     "act": "I",
     "traits": [
@@ -1203,7 +1203,7 @@
     "xws": "ferrox"
   },
   {
-    "name": "Ferrox",
+    "name": "CK-Ferrox",
     "points": 70,
     "act": "II",
     "attack": "Melee",
@@ -1216,7 +1216,7 @@
     "xws": "ferrox"
   },
   {
-    "name": "Ferrox",
+    "name": "CK-Ferrox",
     "points": 71,
     "act": "II",
     "traits": [
@@ -1238,7 +1238,7 @@
     "xws": "ferrox"
   },
   {
-   "name": "Giant",
+   "name": "CK-Giant",
     "points": 72,
     "act": "I",
     "attack": "Melee",
@@ -1251,7 +1251,7 @@
     "xws": "giant"
   },
   {
-    "name": "Giant",
+    "name": "CK-Giant",
     "points": 73,
     "act": "I",
     "traits": [
@@ -1273,7 +1273,7 @@
     "xws": "giant"
   },
   {
-   "name": "Giant",
+   "name": "CK-Giant",
     "points": 74,
     "act": "II",
     "attack": "Melee",
@@ -1286,7 +1286,7 @@
     "xws": "giant"
   },
   {
-    "name": "Giant",
+    "name": "CK-Giant",
     "points": 75,
     "act": "II",
     "traits": [
@@ -1308,7 +1308,7 @@
     "xws": "giant"
   },
   {
-   "name": "Golem",
+   "name": "CK-Golem",
     "points": 76,
     "act": "I",
     "attack": "Melee",
@@ -1321,7 +1321,7 @@
     "xws": "golem"
   },
   {
-    "name": "Golem",
+    "name": "CK-Golem",
     "points": 77,
     "act": "I",
     "traits": [
@@ -1342,7 +1342,7 @@
     "xws": "golem"
   },
   {
-   "name": "Golem",
+   "name": "CK-Golem",
     "points": 78,
     "act": "II",
     "attack": "Melee",
@@ -1355,7 +1355,7 @@
     "xws": "golem"
   },
   {
-    "name": "Golem",
+    "name": "CK-Golem",
     "points": 79,
     "act": "II",
     "traits": [
@@ -1376,7 +1376,7 @@
     "xws": "golem"
   },
   {
-   "name": "Hellhound",
+   "name": "CK-Hellhound",
     "points": 80,
     "act": "I",
     "attack": "Melee",
@@ -1389,7 +1389,7 @@
     "xws": "hellhound"
   },
   {
-    "name": "Hellhound",
+    "name": "CK-Hellhound",
     "points": 81,
     "act": "I",
     "traits": [
@@ -1411,7 +1411,7 @@
     "xws": "hellhound"
   },
   {
-   "name": "Hellhound",
+   "name": "CK-Hellhound",
     "points": 82,
     "act": "II",
     "attack": "Melee",
@@ -1424,7 +1424,7 @@
     "xws": "hellhound"
   },
   {
-    "name": "Hellhound",
+    "name": "CK-Hellhound",
     "points": 83,
     "act": "II",
     "traits": [
@@ -1446,7 +1446,7 @@
     "xws": "hellhound"
   },
   {
-   "name": "Ice Wyrm",
+   "name": "CK-Ice Wyrm",
     "points": 84,
     "act": "I",
     "attack": "Melee",
@@ -1459,7 +1459,7 @@
     "xws": "icewyrm"
   },
   {
-    "name": "Ice Wyrm",
+    "name": "CK-Ice Wyrm",
     "points": 85,
     "act": "I",
     "traits": [
@@ -1481,7 +1481,7 @@
     "xws": "icewyrm"
   },
   {
-   "name": "Ice Wyrm",
+   "name": "CK-Ice Wyrm",
     "points": 86,
     "act": "II",
     "attack": "Melee",
@@ -1494,7 +1494,7 @@
     "xws": "icewyrm"
   },
   {
-    "name": "Ice Wyrm",
+    "name": "CK-Ice Wyrm",
     "points": 87,
     "act": "II",
     "traits": [
@@ -1516,7 +1516,7 @@
     "xws": "icewyrm"
   },
   {
-   "name": "Kobold",
+   "name": "CK-Kobold",
     "points": 88,
     "act": "I",
     "attack": "Melee",
@@ -1529,7 +1529,7 @@
     "xws": "kobold"
   },
   {
-    "name": "Kobold",
+    "name": "CK-Kobold",
     "points": 89,
     "act": "I",
     "traits": [
@@ -1551,7 +1551,7 @@
     "xws": "kobold"
   },
   {
-   "name": "Kobold",
+   "name": "CK-Kobold",
     "points": 90,
     "act": "II",
     "attack": "Melee",
@@ -1564,7 +1564,7 @@
     "xws": "kobold"
   },
   {
-    "name": "Kobold",
+    "name": "CK-Kobold",
     "points": 91,
     "act": "II",
     "traits": [
@@ -1586,7 +1586,7 @@
     "xws": "kobold"
   },
   {
-   "name": "Lava Beetle",
+   "name": "CK-Lava Beetle",
     "points": 92,
     "act": "I",
     "attack": "Range",
@@ -1599,7 +1599,7 @@
     "xws": "lavabeetle"
   },
   {
-    "name": "Lava Beetle",
+    "name": "CK-Lava Beetle",
     "points": 93,
     "act": "I",
     "traits": [
@@ -1619,7 +1619,7 @@
     "xws": "lavabeetle"
   },
   {
-   "name": "Lava Beetle",
+   "name": "CK-Lava Beetle",
     "points": 94,
     "act": "II",
     "attack": "Range",
@@ -1632,7 +1632,7 @@
     "xws": "lavabeetle"
   },
   {
-    "name": "Lava Beetle",
+    "name": "CK-Lava Beetle",
     "points": 95,
     "act": "II",
     "traits": [
@@ -1652,7 +1652,7 @@
     "xws": "lavabeetle"
   },
   {
-   "name": "Manticore",
+   "name": "CK-Manticore",
     "points": 96,
     "act": "I",
     "attack": "Range",
@@ -1665,7 +1665,7 @@
     "xws": "manticore"
   },
   {
-    "name": "Manticore",
+    "name": "CK-Manticore",
     "points": 97,
     "act": "I",
     "traits": [
@@ -1687,7 +1687,7 @@
     "xws": "manticore"
   },
   {
-   "name": "Manticore",
+   "name": "CK-Manticore",
     "points": 98,
     "act": "II",
     "attack": "Range",
@@ -1700,7 +1700,7 @@
     "xws": "manticore"
   },
   {
-    "name": "Manticore",
+    "name": "CK-Manticore",
     "points": 99,
     "act": "II",
     "traits": [
@@ -1722,7 +1722,7 @@
     "xws": "manticore"
   },
   {
-   "name": "Medusa",
+   "name": "CK-Medusa",
     "points": 100,
     "act": "I",
     "attack": "Range",
@@ -1735,7 +1735,7 @@
     "xws": "medusa"
   },
   {
-    "name": "Medusa",
+    "name": "CK-Medusa",
     "points": 101,
     "act": "I",
     "traits": [
@@ -1757,7 +1757,7 @@
     "xws": "medusa"
   },
   {
-   "name": "Medusa",
+   "name": "CK-Medusa",
     "points": 102,
     "act": "II",
     "attack": "Range",
@@ -1770,7 +1770,7 @@
     "xws": "medusa"
   },
   {
-    "name": "Medusa",
+    "name": "CK-Medusa",
     "points": 103,
     "act": "II",
     "traits": [
@@ -1792,7 +1792,7 @@
     "xws": "medusa"
   },
   {
-   "name": "Naga",
+   "name": "CK-Naga",
     "points": 104,
     "act": "I",
     "attack": "Range",
@@ -1805,7 +1805,7 @@
     "xws": "naga"
   },
   {
-    "name": "Naga",
+    "name": "CK-Naga",
     "points": 105,
     "act": "I",
     "traits": [
@@ -1827,7 +1827,7 @@
     "xws": "naga"
   },
   {
-   "name": "Naga",
+   "name": "CK-Naga",
     "points": 106,
     "act": "II",
     "attack": "Range",
@@ -1840,7 +1840,7 @@
     "xws": "naga"
   },
   {
-    "name": "Naga",
+    "name": "CK-Naga",
     "points": 107,
     "act": "II",
     "traits": [
@@ -1862,7 +1862,7 @@
     "xws": "naga"
   },
   {
-   "name": "Ogre",
+   "name": "CK-Ogre",
     "points": 108,
     "act": "I",
     "attack": "Melee",
@@ -1875,7 +1875,7 @@
     "xws": "ogre"
   },
   {
-    "name": "Ogre",
+    "name": "CK-Ogre",
     "points": 109,
     "act": "I",
     "traits": [
@@ -1896,7 +1896,7 @@
     "xws": "ogre"
   },
   {
-   "name": "Ogre",
+   "name": "CK-Ogre",
     "points": 110,
     "act": "II",
     "attack": "Melee",
@@ -1909,7 +1909,7 @@
     "xws": "ogre"
   },
   {
-    "name": "Ogre",
+    "name": "CK-Ogre",
     "points": 111,
     "act": "II",
     "traits": [
@@ -1930,7 +1930,7 @@
     "xws": "ogre"
   },
   {
-   "name": "Razorwing",
+   "name": "CK-Razorwing",
     "points": 112,
     "act": "I",
     "attack": "Melee",
@@ -1943,7 +1943,7 @@
     "xws": "razorwing"
   },
   {
-    "name": "Razorwing",
+    "name": "CK-Razorwing",
     "points": 113,
     "act": "I",
     "traits": [
@@ -1964,7 +1964,7 @@
     "xws": "razorwing"
   },
   {
-   "name": "Razorwing",
+   "name": "CK-Razorwing",
     "points": 114,
     "act": "II",
     "attack": "Melee",
@@ -1977,7 +1977,7 @@
     "xws": "razorwing"
   },
   {
-    "name": "Razorwing",
+    "name": "CK-Razorwing",
     "points": 115,
     "act": "II",
     "traits": [
@@ -1998,7 +1998,7 @@
     "xws": "razorwing"
   },
   {
-   "name": "Shade",
+   "name": "CK-Shade",
     "points": 116,
     "act": "I",
     "attack": "Melee",
@@ -2011,7 +2011,7 @@
     "xws": "shade"
   },
   {
-    "name": "Shade",
+    "name": "CK-Shade",
     "points": 117,
     "act": "I",
     "traits": [
@@ -2033,7 +2033,7 @@
     "xws": "shade"
   },
   {
-   "name": "Shade",
+   "name": "CK-Shade",
     "points": 118,
     "act": "II",
     "attack": "Melee",
@@ -2046,7 +2046,7 @@
     "xws": "shade"
   },
   {
-    "name": "Shade",
+    "name": "CK-Shade",
     "points": 119,
     "act": "II",
     "traits": [
@@ -2068,7 +2068,7 @@
     "xws": "shade"
   },
   {
-   "name": "Skeleton Archer",
+   "name": "CK-Skeleton Archer",
     "points": 120,
     "act": "I",
     "attack": "Range",
@@ -2081,7 +2081,7 @@
     "xws": "skeletonarcher"
   },
   {
-    "name": "Skeleton Archer",
+    "name": "CK-Skeleton Archer",
     "points": 121,
     "act": "I",
     "traits": [
@@ -2102,7 +2102,7 @@
     "xws": "skeletonarcher"
   },
   {
-   "name": "Skeleton Archer",
+   "name": "CK-Skeleton Archer",
     "points": 122,
     "act": "II",
     "attack": "Range",
@@ -2115,7 +2115,7 @@
     "xws": "skeletonarcher"
   },
   {
-    "name": "Skeleton Archer",
+    "name": "CK-Skeleton Archer",
     "points": 123,
     "act": "II",
     "traits": [
@@ -2136,7 +2136,7 @@
     "xws": "skeletonarcher"
   },
   {
-   "name": "Sorcerer",
+   "name": "CK-Sorcerer",
     "points": 124,
     "act": "I",
     "attack": "Range",
@@ -2149,7 +2149,7 @@
     "xws": "sorcerer"
   },
   {
-    "name": "Sorcerer",
+    "name": "CK-Sorcerer",
     "points": 125,
     "act": "I",
     "traits": [
@@ -2171,7 +2171,7 @@
     "xws": "sorcerer"
   },
   {
-   "name": "Sorcerer",
+   "name": "CK-Sorcerer",
     "points": 126,
     "act": "II",
     "attack": "Range",
@@ -2184,7 +2184,7 @@
     "xws": "sorcerer"
   },
   {
-    "name": "Sorcerer",
+    "name": "CK-Sorcerer",
     "points": 127,
     "act": "II",
     "traits": [
@@ -2206,7 +2206,7 @@
     "xws": "sorcerer"
   },
   {
-   "name": "Troll",
+   "name": "CK-Troll",
     "points": 128,
     "act": "I",
     "attack": "Melee",
@@ -2219,7 +2219,7 @@
     "xws": "troll"
   },
   {
-    "name": "Troll",
+    "name": "CK-Troll",
     "points": 129,
     "act": "I",
     "traits": [
@@ -2241,7 +2241,7 @@
     "xws": "troll"
   },
   {
-   "name": "Troll",
+   "name": "CK-Troll",
     "points": 130,
     "act": "II",
     "attack": "Melee",
@@ -2254,7 +2254,7 @@
     "xws": "troll"
   },
   {
-    "name": "Troll",
+    "name": "CK-Troll",
     "points": 131,
     "act": "II",
     "traits": [
@@ -2276,7 +2276,7 @@
     "xws": "troll"
   },
   {
-   "name": "Wendigo",
+   "name": "CK-Wendigo",
     "points": 132,
     "act": "I",
     "attack": "Melee",
@@ -2289,7 +2289,7 @@
     "xws": "wendigo"
   },
   {
-    "name": "Wendigo",
+    "name": "CK-Wendigo",
     "points": 133,
     "act": "I",
     "traits": [
@@ -2311,7 +2311,7 @@
     "xws": "wendigo"
   },
   {
-   "name": "Wendigo",
+   "name": "CK-Wendigo",
     "points": 134,
     "act": "II",
     "attack": "Melee",
@@ -2324,7 +2324,7 @@
     "xws": "wendigo"
   },
   {
-    "name": "Wendigo",
+    "name": "CK-Wendigo",
     "points": 135,
     "act": "II",
     "traits": [
