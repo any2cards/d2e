@@ -330,7 +330,7 @@
     "xws": "handbow"
   },
   {
-    "name": "Magme Blast",
+    "name": "Magma Blast",
     "points": 21,
     "count": 1,
     "act": "I",
@@ -1451,8 +1451,8 @@
     "dice": "Blue Red Green",
     "rules": "When a monster is defeated during an attack with this weapon, each figure adjacent to the defeated monster suffers 2 Hearts. Surge Surge: +4 Hearts.",
     "expansion": "The Trollfens",
-    "image": "shop-items/act2/belt-of-strength-tf.png",
-    "xws": "beltofstrength"
+    "image": "shop-items/act2/blasting-rune-tf.png",
+    "xws": "blastingrune"
   },
   {
     "name": "Boomerang",
