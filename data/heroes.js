@@ -1057,7 +1057,7 @@
     "awareness": 3,
     "ability": "At the start of your turn, you may recover 1 Heart or 1 Fatigue for each monster figure adjacent to you.",
     "feat": "Use when the overlord chooses to activate a monster figure adjacent to you, before he performs any actions. All monsters adjacent to you are Immobilized.",
-    "expansion": "Labyringth Of Ruin",
+    "expansion": "Labyrinth Of Ruin",
     "image": "heroes/mages/dezra-the-vile-lr.png",
     "xws": "dezrathevile"
   },
@@ -1075,7 +1075,7 @@
     "awareness": 4,
     "ability": "You cannot be Immobilized. Additionally, immediately after you perform an attack with an Exotic weapon, you may move 1 space.",
     "feat": "Use after one of your attacks deals at least 1 Heart (after rolling defense dice). You may move up to your Speed and perform an attack. This does not require an action and the attack may be performed before, after, or during this movement.",
-    "expansion": "Labyringth Of Ruin",
+    "expansion": "Labyrinth Of Ruin",
     "image": "heroes/scouts/logan-lashley-lr.png",
     "xws": "loganlashley"
   },
@@ -1093,9 +1093,45 @@
     "awareness": 4,
     "ability": "During each of your move actions, you may move through spaces containing monsters by spending 1 additional movement point for each occupied space.",
     "feat": "Use when you move out of a space containing a monster to immediately perform an attack targeting that monster. This attack does not require an action and gains: Surge: Pierce 3",
-    "expansion": "Labyringth Of Ruin",
+    "expansion": "Labyrinth Of Ruin",
     "image": "heroes/warriors/pathfinder-durik-lr.png",
     "xws": "pathfinderdurik"
+  },
+  {
+    "name": "H-Raythen",
+    "points": 61,
+    "archetype": "Scout",
+    "speed": 4,
+    "health": 14,
+    "stamina": 4,
+    "defense": "Brown",
+    "willpower": 1,   
+    "might": 3,
+    "knowledge": 2,
+    "awareness": 5,
+    "ability": "Once per turn, you may suffer 1 Fatigue to allow 1 hero on the same map tile as you to reroll an attribute test. He may use your attribute value instead for the reroll.",
+    "feat": "Use during your turn to search a search token adjacent to another hero. This is in addition to your 2 actions on your turn.",
+    "expansion": "Labyrinth Of Ruin",
+    "image": "heroes/scout/raythen-lr.png",
+    "xws": "raythen"
+  },
+  {
+    "name": "H-Serena",
+    "points": 62,
+    "archetype": "Healer",
+    "speed": 3,
+    "health": 8,
+    "stamina": 6,
+    "defense": "Brown",
+    "willpower": 5,   
+    "might": 1,
+    "knowledge": 3,
+    "awareness": 2,
+    "ability": "Each time you are targeted by an attack, a hero adjacent to you may suffer 1 Fatigue to declare himself as the target of the attack instead. Range and line of sight are still measured to your space.",
+    "feat": "Action: Test Willpower and Knowledge. For each test you pass, each hero within 3 spaces of you recovers 3 Hearts and 1 Fatigue.",
+    "expansion": "Labyrinth Of Ruin",
+    "image": "heroes/healer/serena-lr.png",
+    "xws": "serena"
   },
   {
     "name": "Ulma Grimstone",
@@ -1111,13 +1147,13 @@
     "awareness": 2,
     "ability": "Each time a hero within 3 spaces of you (including yourself) would draw a Search card, he may instead reveal Search cards until he finds a Potion. He may take that card and shuffle the rest back into the deck.",
     "feat": "Use during your turn to flip one of your facedown Potion Search cards faceup. In addition, each hero adjacent to you may also flip one of their facedown Potion Search cards faceup.",
-    "expansion": "Labyringth Of Ruin",
+    "expansion": "Labyrinth Of Ruin",
     "image": "heroes/healers/ulma-grimstone-lr.png",
     "xws": "ulmagrimstone"
   },
   {
     "name": "Augur Grisom",
-    "points": 62,
+    "points": 63,
     "archetype": "Healer",
     "speed": 3,
     "health": 12,
@@ -1135,7 +1171,7 @@
   },
   {
     "name": "Roganna The Shade",
-    "points": 63,
+    "points": 64,
     "archetype": "Scout",
     "speed": 5,
     "health": 10,
@@ -1153,7 +1189,7 @@
   },
   {
     "name": "Orkell The Swift",
-    "points": 64,
+    "points": 65,
     "archetype": "Warrior",
     "speed": 5,
     "health": 10,
@@ -1171,7 +1207,7 @@
   },
   {
     "name": "Ravaella Lightfoot",
-    "points": 65,
+    "points": 66,
     "archetype": "Mage",
     "speed": 5,
     "health": 8,
@@ -1189,7 +1225,7 @@
   },
   {
     "name": "Rendiel",
-    "points": 66,
+    "points": 67,
     "archetype": "Healer",
     "speed": 5,
     "health": 10,
@@ -1207,7 +1243,7 @@
   },
   {
     "name": "Tinashi The Wanderer",
-    "points": 67,
+    "points": 68,
     "archetype": "Scout",
     "speed": 4,
     "health": 12,
@@ -1225,7 +1261,7 @@
   },
   {
   "name": "Alys Raine",
-    "points": 68,
+    "points": 69,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -1243,7 +1279,7 @@
   },
   {
     "name": "Thaiden Mistpeak",
-    "points": 69,
+    "points": 70,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1261,7 +1297,7 @@
   },
   {
     "name": "Elder Mok",
-    "points": 70,
+    "points": 71,
     "archetype": "Healer",
     "speed": 4,
     "health": 10,
@@ -1279,7 +1315,7 @@
   },
   {
     "name": "Laurel Of Bloodwood",
-    "points": 71,
+    "points": 72,
     "archetype": "Scout",
     "speed": 4,
     "health": 8,
@@ -1297,7 +1333,7 @@
   },
   {
     "name": "Shiver",
-    "points": 72,
+    "points": 73,
     "archetype": "Mage",
     "speed": 4,
     "health": 10,
@@ -1315,7 +1351,7 @@
   },
   {
     "name": "Trenloe The Strong",
-    "points": 73,
+    "points": 74,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -1333,7 +1369,7 @@
   },
   {
     "name": "Brother Gherinn",
-    "points": 74,
+    "points": 75,
     "archetype": "Healer",
     "speed": 3,
     "health": 12,
@@ -1351,7 +1387,7 @@
   },
   {
     "name": "Corbin",
-    "points": 75,
+    "points": 76,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -1369,7 +1405,7 @@
   },
   {
     "name": "Jaes The Exile",
-    "points": 76,
+    "points": 77,
     "archetype": "Mage",
     "speed": 4,
     "health": 12,
@@ -1387,7 +1423,7 @@
   },
   {
     "name": "Lindel",
-    "points": 77,
+    "points": 78,
     "archetype": "Scout",
     "speed": 5,
     "health": 10,
@@ -1405,7 +1441,7 @@
   },
   {
     "name": "Andira Runehand",
-    "points": 78,
+    "points": 79,
     "archetype": "Healer",
     "speed": 4,
     "health": 12,
@@ -1423,7 +1459,7 @@
   },
   {
     "name": "Astarra",
-    "points": 79,
+    "points": 80,
     "archetype": "Mage",
     "speed": 4,
     "health": 10,
@@ -1441,7 +1477,7 @@
   },
   {
     "name": "Tahlia",
-    "points": 80,
+    "points": 81,
     "archetype": "Warrior",
     "speed": 3,
     "health": 14,
@@ -1459,7 +1495,7 @@
   },
   {
     "name": "Tetherys",
-    "points": 81,
+    "points": 82,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1477,7 +1513,7 @@
   },
   {
     "name": "Lord Hawthorne",
-    "points": 82,
+    "points": 83,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -1495,7 +1531,7 @@
   },
   {
     "name": "Mordrog",
-    "points": 83,
+    "points": 84,
     "archetype": "Warrior",
     "speed": 4,
     "health": 14,
@@ -1513,7 +1549,7 @@
   },
   {
     "name": "Sahla",
-    "points": 84,
+    "points": 85,
     "archetype": "Healer",
     "speed": 4,
     "health": 10,
@@ -1531,7 +1567,7 @@
   },
   {
     "name": "Silhouette",
-    "points": 85,
+    "points": 86,
     "archetype": "Scout",
     "speed": 5,
     "health": 10,
@@ -1549,7 +1585,7 @@
   },
   {
     "name": "Ispher",
-    "points": 86,
+    "points": 87,
     "archetype": "Healer",
     "speed": 4,
     "health": 10,
@@ -1567,7 +1603,7 @@
   },
   {
     "name": "Master Thorn",
-    "points": 87,
+    "points": 88,
     "archetype": "Mage",
     "speed": 5,
     "health": 8,
@@ -1585,7 +1621,7 @@
   },
   {
     "name": "Nara The Fang",
-    "points": 88,
+    "points": 89,
     "archetype": "Warrior",
     "speed": 5,
     "health": 10,
@@ -1603,7 +1639,7 @@
   },
   {
     "name": "Sir Valadir",
-    "points": 89,
+    "points": 90,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -1621,7 +1657,7 @@
   },
   {
     "name": "Challara",
-    "points": 90,
+    "points": 91,
     "archetype": "Mage",
     "speed": 3,
     "health": 10,
@@ -1639,7 +1675,7 @@
   },
   {
     "name": "Lyssa",
-    "points": 91,
+    "points": 92,
     "archetype": "Mage",
     "speed": 5,
     "health": 8,
@@ -1657,7 +1693,7 @@
   },
   {
     "name": "Ronan Of The Wild",
-    "points": 92,
+    "points": 93,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1675,7 +1711,7 @@
   },
   {
     "name": "Vyrah The Falconer",
-    "points": 93,
+    "points": 94,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1693,7 +1729,7 @@
   },
   {
     "name": "Grey Ker",
-    "points": 94,
+    "points": 95,
     "archetype": "Scout",
     "speed": 4,
     "health": 12,
@@ -1711,7 +1747,7 @@
   },
   {
     "name": "Jonas The Kind",
-    "points": 95,
+    "points": 96,
     "archetype": "Healer",
     "speed": 4,
     "health": 10,
@@ -1729,7 +1765,7 @@
   },
   {
     "name": "Krutzbeck",
-    "points": 96,
+    "points": 97,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -1747,7 +1783,7 @@
   },
   {
     "name": "Zyla",
-    "points": 97,
+    "points": 98,
     "archetype": "Mage",
     "speed": 5,
     "health": 8,
@@ -1765,7 +1801,7 @@
   },
   {
     "name": "Nanok Of The Blade",
-    "points": 98,
+    "points": 99,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -1783,7 +1819,7 @@
   },
   {
     "name": "Okaluk And Rakash",
-    "points": 99,
+    "points": 100,
     "archetype": "Healer",
     "speed": 2,
     "health": 8,
@@ -1801,7 +1837,7 @@
   },
   {
     "name": "Seer Kel",
-    "points": 100,
+    "points": 101,
     "archetype": "Mage",
     "speed": 4,
     "health": 10,
@@ -1819,7 +1855,7 @@
   },
   {
     "name": "Tatianna",
-    "points": 101,
+    "points": 102,
     "archetype": "Scout",
     "speed": 5,
     "health": 12,
@@ -1837,7 +1873,7 @@
   },
   {
     "name": "Arvel Worldwalker",
-    "points": 102,
+    "points": 103,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1855,7 +1891,7 @@
   },
   {
     "name": "Karnon",
-    "points": 103,
+    "points": 104,
     "archetype": "Warrior",
     "speed": 4,
     "health": 14,
@@ -1873,7 +1909,7 @@
   },
   {
     "name": "One Fist",
-    "points": 104,
+    "points": 105,
     "archetype": "Warrior",
     "speed": 4,
     "health": 10,
@@ -1891,7 +1927,7 @@
   },
   {
     "name": "Steelhorns",
-    "points": 105,
+    "points": 106,
     "archetype": "Warrior",
     "speed": 4,
     "health": 14,
