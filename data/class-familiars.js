@@ -1,6 +1,6 @@
 [
   {
-    "name": "Reanimate",
+    "name": "F-Reanimate",
     "points": 0,
     "archetype": "Mage",
     "class": "Necromancer",
