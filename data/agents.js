@@ -15,23 +15,23 @@
       "4 Heroes: Speed: 4, Health: 16, Defense: Black"
     ],
     "expansion": "Base Game",
-    "image": "agents/baron-zacareth-bg-act1-front.png",
-    "xws": "baronzacareth"
+    "image": "agents/baron-zachareth-bg-act1-front.png",
+    "xws": "baronzachareth"
   },
   {
-    "name": "A-Baron Zacareth",
+    "name": "A-Baron Zachareth",
     "points": 1,
     "act": "I",
     "ability rules": [
-      "Direction: Choose a hero adjacent to Baron Zacareth and move that hero 2 spaces in any direction. After this movement, the hero tests Willpower. If he fails, the hero is Immobilized.",
+      "Direction: Choose a hero adjacent to Baron Zachareth and move that hero 2 spaces in any direction. After this movement, the hero tests Willpower. If he fails, the hero is Immobilized.",
       "Pierce X: This attack ignores X Shields rolled on the defense dice.",
       "Subdue: If this attack deals at least 1 Heart, choose 1 condition. The target suffers the chosen condition."
     ],
     "deck": "Seeds Of Betrayal",
     "card": "11/12",
     "expansion": "Base Game",
-    "image": "agents/baron-zacareth-bg-act1-back.png",
-    "xws": "baronzacareth"
+    "image": "agents/baron-zachareth-bg-act1-back.png",
+    "xws": "baronzachareth"
   },
   {
     "name": "A-Baron Zachareth",
@@ -50,24 +50,24 @@
       "4 Heroes: Speed: 4, Health: 20, Defense: Black Gray Gray"
     ],
     "expansion": "Base Game",
-    "image": "agents/baron-zacareth-bg-act2-front.png",
-    "xws": "baronzacareth"
+    "image": "agents/baron-zachareth-bg-act2-front.png",
+    "xws": "baronzachareth"
   },
   {
-    "name": "A-Baron Zacareth",
+    "name": "A-Baron Zachareth",
     "points": 3,
     "act": "II",
     "ability rules": [
-      "Direction: Choose a hero adjacent to Baron Zacareth and move that hero 2 spaces in any direction. After this movement, the hero tests Willpower. If he fails, the hero is Immobilized.",
+      "Direction: Choose a hero adjacent to Baron Zachareth and move that hero 2 spaces in any direction. After this movement, the hero tests Willpower. If he fails, the hero is Immobilized.",
       "Pierce X: This attack ignores X Shields rolled on the defense dice.",
       "Subdue: If this attack deals at least 1 Heart, choose 1 condition. The target suffers the chosen condition.",
-      "Shadow Bolt: Zacareth performs a Ranged attack. Range: Blue Red Yellow."
+      "Shadow Bolt: Zachareth performs a Ranged attack. Range: Blue Red Yellow."
     ],
     "deck": "Seeds Of Betrayal",
     "card": "12/12",
     "expansion": "Base Game",
-    "image": "agents/baron-zacareth-bg-act2-back.png",
-    "xws": "baronzacareth"
+    "image": "agents/baron-zachareth-bg-act2-back.png",
+    "xws": "baronzachareth"
   },
   {
     "name": "A-Belthir",
