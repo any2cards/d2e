@@ -22,7 +22,7 @@ The easiest way to do this is via [Bower](http://bower.io/), [NPM](https://www.n
 
 * Bower: `bower install d2e`
 * NPM: `npm install d2e`
-* Git submodule: `git submodule add https://github.com/guidokessels/d2e.git`
+* Git submodule: `git submodule add https://github.com/any2cards/d2e.git`
 
 ## Bugs / Issues
 
@@ -42,7 +42,7 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [D2e Companion](https://play.google.com/store/apps/details?id=com.any2cards.xwc)
+- [D2e Companion](https://chrome.google.com/webstore/search/d2e%20companion)
 
 Want your project listed here? [Let us know!](https://github.com/any2cards/d2e/issues/new?title=Add%20Project)
 
