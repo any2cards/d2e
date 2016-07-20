@@ -1112,7 +1112,7 @@
     "ability": "Once per turn, you may suffer 1 Fatigue to allow 1 hero on the same map tile as you to reroll an attribute test. He may use your attribute value instead for the reroll.",
     "feat": "Use during your turn to search a search token adjacent to another hero. This is in addition to your 2 actions on your turn.",
     "expansion": "Labyrinth Of Ruin",
-    "image": "heroes/scout/raythen-lr.png",
+    "image": "heroes/scouts/raythen-lr.png",
     "xws": "raythen"
   },
   {
@@ -1130,7 +1130,7 @@
     "ability": "Each time you are targeted by an attack, a hero adjacent to you may suffer 1 Fatigue to declare himself as the target of the attack instead. Range and line of sight are still measured to your space.",
     "feat": "Action: Test Willpower and Knowledge. For each test you pass, each hero within 3 spaces of you recovers 3 Hearts and 1 Fatigue.",
     "expansion": "Labyrinth Of Ruin",
-    "image": "heroes/healer/serena-lr.png",
+    "image": "heroes/healers/serena-lr.png",
     "xws": "serena"
   },
   {
