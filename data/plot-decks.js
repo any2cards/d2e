@@ -1040,19 +1040,6 @@
     "xws": "summonariad"
   },
   {
-    "agent": "Ariad",
-    "deck": "Dark Illusions",
-    "card": "10/12",
-    "name": "Summon - Ariad",
-    "points": 79,
-    "threat cost": 3,
-    "ability": "Exhaust this card after setup of an encounter to choose an open monster group. Replace 1 master and 1 minion monster in that group with the Ariad agent. If the Ariad agent is defeated, return this card to your Plot deck. You cannot use this card in any quest that uses the Ariad or Queen Ariad lieutenant.",
-    "trigger cost": 2,
-    "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/dark-illusions/summon-ariad.png",
-    "xws": "summonariad"
-  },
-  {
     "agent": "Queen Ariad",
     "deck": "Tangled Web",
     "card": "1/12",
@@ -1389,19 +1376,6 @@
     "expansion": "Labyrinth Of Ruin",
     "image": "plot-decks/silent-protector/pacify.png",
     "xws": "pacify"
-  },
-  {
-    "agent": "Serena",
-    "deck": "Silent Protector",
-    "card": "7/12",
-    "name": "Shared Burdens",
-    "points": 106,
-    "threat cost": 3,
-    "ability": "Exhaust this card when a monster suffers at least 2 Hearts to reduce the amount of Hearts that monster suffers to a minimum of 1 Heart. Then, all monsters in that monster's group suffer an amount of Hearts equal to the amount by which you reduced the first monster's Hearts, divided any way you choose between those monsters.",
-    "trigger cost": 1,
-    "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/silent-protector/shared-burdens.png",
-    "xws": "sharedburdens"
   },
   {
     "agent": "Serena",
