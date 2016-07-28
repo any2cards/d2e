@@ -15,7 +15,7 @@
     "xws": "bgtravelevent1of10"
   },
   {
-    "name": "Moss Covered Standing Stones",
+    "name": "Standing Stones",
     "points": 1,
     "travel": [
       "Plain: You come across a collection of moss-covered standing stones. Each hero tests Willpower and suffers 1 Fatigue if he fails. If all heroes pass, each hero draws 1 Search card.",
@@ -26,8 +26,8 @@
     ],
     "expansion": "Base Game",
     "card": "1/10",
-    "image": "travel-event-decks/base-game/moss-covered-standing-stones.png",
-    "xws": "mosscoveredstandingstones"
+    "image": "travel-event-decks/base-game/standing-stones.png",
+    "xws": "standingstones"
   },
   {
     "name": "Weeping",
@@ -135,7 +135,7 @@
     "xws": "bgtravelevent3of10"
   },
   {
-    "name": "Smoke Smudging The Horizon",
+    "name": "Smoke",
     "points": 9,
     "travel": [
       "Plain: You see smoke smudging the horizon in the distance. The overlord draws 1 Overlord card.",
@@ -146,11 +146,11 @@
     ],
     "expansion": "Base Game",
     "card": "3/10",
-    "image": "travel-event-decks/base-game/smoke-smudging-the-horizon.png",
-    "xws": "smokesmudgingthehorizon"
+    "image": "travel-event-decks/base-game/smoke.png",
+    "xws": "smoke"
   },
   {
-    "name": "Beautiful And Peaceful Glade",
+    "name": "Glade",
     "points": 10,
     "travel": [
       "Plain: You see smoke smudging the horizon in the distance. The overlord draws 1 Overlord card.",
@@ -161,11 +161,11 @@
     ],
     "expansion": "Base Game",
     "card": "3/10",
-    "image": "travel-event-decks/base-game/beautiful-and-peaceful-glade.png",
-    "xws": "beautifulandpeacefulglade"
+    "image": "travel-event-decks/base-game/glade.png",
+    "xws": "glade"
   },
   {
-    "name": "Ettin Appears From The Mountains",
+    "name": "Mountains",
     "points": 11,
     "travel": [
       "Plain: You see smoke smudging the horizon in the distance. The overlord draws 1 Overlord card.",
@@ -176,8 +176,8 @@
     ],
     "expansion": "Base Game",
     "card": "3/10",
-    "image": "travel-event-decks/base-game/ettin-appears-from-the-mountains.png",
-    "xws": "ettinappearsfromthemountains"
+    "image": "travel-event-decks/base-game/mountains.png",
+    "xws": "mountains"
   },
   {
     "name": "BG Travel Event 4 Of 10",
@@ -255,7 +255,7 @@
     "xws": "bgtravelevent5of10"
   },
   {
-    "name": "Band Of Latari Elves",
+    "name": "Latari Elves",
     "points": 17,
     "travel": [
       "Forest: A band of Latari Elves is beset by minions of the overlord. Heroes may choose to leap to their defense, and each suffer 1 Heart. If they do not, the overlord draws 2 Overlord cards.",
@@ -266,8 +266,8 @@
     ],
     "expansion": "Base Game",
     "card": "5/10",
-    "image": "travel-event-decks/base-game/band-of-latari-elves.png",
-    "xws": "bandoflatarielves"
+    "image": "travel-event-decks/base-game/latari-elves.png",
+    "xws": "latarielves"
   },
   {
     "name": "Dwarf Of Dunwarr",
@@ -285,7 +285,7 @@
     "xws": "dwarfofdunwarr"
   },
   {
-    "name": "Fat Bloated Corpses",
+    "name": "Bloated Corpses",
     "points": 19,
     "travel": [
       "Forest: A band of Latari Elves is beset by minions of the overlord. Heroes may choose to leap to their defense, and each suffer 1 Heart. If they do not, the overlord draws 2 Overlord cards.",
@@ -296,8 +296,8 @@
     ],
     "expansion": "Base Game",
     "card": "5/10",
-    "image": "travel-event-decks/base-game/fat-bloated-corpses.png",
-    "xws": "fatbloatedcorpses"
+    "image": "travel-event-decks/base-game/bloated-corpses.png",
+    "xws": "bloatedcorpses"
   },
   {
     "name": "BG Travel Event 6 Of 10",
@@ -330,7 +330,7 @@
     "xws": "hiddenpath"
   },
   {
-    "name": "Overlord's Minions Emerge",
+    "name": "Minions Emerge",
     "points": 22,
     "travel": [
       "Road: You find a hidden path and make excellent time! Do not draw a Travel Event card for the next travel icon you stop at this phase.",
@@ -341,8 +341,8 @@
     ],
     "expansion": "Base Game",
     "card": "6/10",
-    "image": "travel-event-decks/base-game/overlords-minions-emerge.png",
-    "xws": "overlordminionsemerge"
+    "image": "travel-event-decks/base-game/minions-emerge.png",
+    "xws": "minionsemerge"
   },
   {
     "name": "BG Travel Event 7 Of 10",
@@ -375,7 +375,7 @@
     "xws": "travelingsage"
   },
   {
-    "name": "Spiders!",
+    "name": "Spiders",
     "points": 25,
     "travel": [
       "Road: A traveling sage gives you access to his library. Hero players choose one hero to test Knowledge. If he passes, he may look at the overlord's hand of cards and choose 1 to discard.",
@@ -435,7 +435,7 @@
     "xws": "farmalreadyburning"
   },
   {
-    "name": "Mysterious Cave Mouth",
+    "name": "Cave Mouth",
     "points": 29,
     "travel": [
       "Plain: You find a farm already burning and stop to give the farmers a proper burial. The overlord draws 1 Overlord card.",
@@ -446,11 +446,11 @@
     ],
     "expansion": "Base Game",
     "card": "8/10",
-    "image": "travel-event-decks/base-game/mysterious-cave-mouth.png",
-    "xws": "mysteriouscavemouth"
+    "image": "travel-event-decks/base-game/cave-mouth.png",
+    "xws": "cavemouth"
   },
   {
-    "name": "Mysterious Robed Figure",
+    "name": "Robed Figure",
     "points": 30,
     "travel": [
       "Plain: You find a farm already burning and stop to give the farmers a proper burial. The overlord draws 1 Overlord card.",
@@ -461,8 +461,8 @@
     ],
     "expansion": "Base Game",
     "card": "8/10",
-    "image": "travel-event-decks/base-game/mysterious-robed-figure.png",
-    "xws": "mysteriousrobedfigure"
+    "image": "travel-event-decks/base-game/robed-figure.png",
+    "xws": "robedfigure"
   },
   {
     "name": "BG Travel Event 9 Of 10",
@@ -480,7 +480,7 @@
     "xws": "bgtravelevent9of10"
   },
   {
-    "name": "Overlord's Spies",
+    "name": "Spies",
     "points": 32,
     "travel": [
       "Road: The overlord's spies are everywhere. Each hero tests Knowledge. The overlord draws 1 Overlord card for each hero that fails.",
@@ -491,11 +491,11 @@
     ],
     "expansion": "Base Game",
     "card": "9/10",
-    "image": "travel-event-decks/base-game/overlords-spies.png",
-    "xws": "overlordspies"
+    "image": "travel-event-decks/base-game/spies.png",
+    "xws": "spies"
   },
   {
-    "name": "Landslide!",
+    "name": "Landslide",
     "points": 33,
     "travel": [
       "Road: The overlord's spies are everywhere. Each hero tests Knowledge. The overlord draws 1 Overlord card for each hero that fails.",
@@ -660,7 +660,7 @@
     "xws": "lwtravelevent2of3"
   },
   {
-    "name": "Mysterious Herald",
+    "name": "Herald",
     "points": 44,
     "travel": [
       "Road: As you make your way toward your destination, you are approached by a mysterious herald. \"Tread carefully, heroes,\" the cloaked stranger says. \"There are minions of evil everywhere! A terrible plot is afoot, just nearby, and it must be stopped! Come!\" The heroes may force the overlord to immediately play a Rumor card featuring a quest of the current act. If the heroes choose not to do this, or if the overlord does not have any Rumor cards in his hand featuring a valid quest, treat this Travel Event as \"No Event\". After resolving this event, return this card to the game box.",
@@ -671,8 +671,8 @@
     ],
     "expansion": "Lair Of The Wyrm",
     "card": "2/3",
-    "image": "travel-event-decks/lair-of-the-wyrm/mysterious-herald.png",
-    "xws": "mysteriousherald"
+    "image": "travel-event-decks/lair-of-the-wyrm/herald.png",
+    "xws": "herald"
   },
   {
     "name": "LW Travel Event 3 Of 3",
@@ -720,7 +720,7 @@
     "xws": "oldcrone"
   },
   {
-    "name": "Mysterious Jester",
+    "name": "Jester",
     "points": 48,
     "travel": [
       "Plain: You encounter the enemy's scouts. The hero with the highest Awareness may suffer 1 Fatigue to look at 1 random card from the overlord's hand, or suffer 2 Hearts to force the overlord to discard 1 random card.",
@@ -731,8 +731,8 @@
     ],
     "expansion": "Lair Of The Wyrm",
     "card": "3/3",
-    "image": "travel-event-decks/lair-of-the-wyrm/mysterious-jester.png",
-    "xws": "mysteriousjester"
+    "image": "travel-event-decks/lair-of-the-wyrm/jester.png",
+    "xws": "jester"
   },
   {
     "name": "LR Travel Event 1 Of 8",
