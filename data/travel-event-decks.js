@@ -1,6 +1,6 @@
 [
   {
-    "name": "BG Travel Event 1 of 10",
+    "name": "BG Travel Event 1 Of 10",
     "points": 0,
     "travel": [
       "Plain: You come across a collection of moss-covered standing stones. Each hero tests Willpower and suffers 1 Fatigue if he fails. If all heroes pass, each hero draws 1 Search card.",

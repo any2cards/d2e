@@ -1,6 +1,6 @@
 [
   {
-    "name": "SN City Event 1 of 10",
+    "name": "SN City Event 1 Of 10",
     "points": 0,
     "travel": [
       "Street: An escort of guardsmen joins you, guiding you through the city. Do not draw a City Event card for the next travel icon the heroes stop at during this phase.",
@@ -60,7 +60,7 @@
     "xws": "brawl"
   },
   {
-    "name": "SN City Event 2 of 10",
+    "name": "SN City Event 2 Of 10",
     "points": 4,
     "travel": [
       "Hazard: An enraged ynfernael hulk charges, and the ensuing fight leaves you battered and bloody. Each hero suffers 2 Hearts.",
@@ -120,7 +120,7 @@
     "xws": "spy"
   },
   {
-    "name": "SN City Event 3 of 10",
+    "name": "SN City Event 3 Of 10",
     "points": 8,
     "travel": [
       "Sewer: A collapse in this tunnel requires you to spend time digging. Each hero tests Might. Each hero who fails suffers 1 Fatigue. If 2 or more heroes fail, the overlord draws 1 Overlord card.",
@@ -180,7 +180,7 @@
     "xws": "darkalley"
   },
   {
-    "name": "SN City Event 4 of 10",
+    "name": "SN City Event 4 Of 10",
     "points": 12,
     "travel": [
       "Tower: A broken pipe spills rotting sewage onto the ground in front of you. You must now wade through it. Each hero tests Willpower. Each hero who fails is Diseased.",
@@ -240,7 +240,7 @@
     "xws": "demonictrap"
   },
   {
-    "name": "SN City Event 5 of 10",
+    "name": "SN City Event 5 Of 10",
     "points": 16,
     "travel": [
       "Street: The streets are bustling and crowded, making them very difficult to navigate. Each hero suffers 1 Fatigue.",
@@ -300,7 +300,7 @@
     "xws": "cityofficials"
   },
   {
-    "name": "SN City Event 6 of 10",
+    "name": "SN City Event 6 Of 10",
     "points": 20,
     "travel": [
       "Street: You become lost in a dark and seedy district. You feel eyes upon you... The heroes choose one hero to test Awareness. If he fails, he suffers 2 Fatigue. Then, draw another City Event card for this travel icon.",
@@ -360,7 +360,7 @@
     "xws": "sectionsoftheceiling"
   },
   {
-    "name": "SN City Event 7 of 10",
+    "name": "SN City Event 7 Of 10",
     "points": 24,
     "travel": [
       "Sewer: A crazed old man offers you a shortcut, if you answer his questions correctly. Each hero tests Knowledge. If 2 or more heroes pass, do not draw a City Event card for the next travel icon the heroes stop at during this phase.",
@@ -420,7 +420,7 @@
     "xws": "darkrunecraft"
   },
   {
-    "name": "SN City Event 8 of 10",
+    "name": "SN City Event 8 Of 10",
     "points": 28,
     "travel": [
       "Tower: A street urchin guides you through the dark alleys of the city. Do not draw a City Event card for the next travel icon the heroes stop at during this phase.",
@@ -480,7 +480,7 @@
     "xws": "shinytrinket"
   },
   {
-    "name": "SN City Event 9 of 10",
+    "name": "SN City Event 9 Of 10",
     "points": 32,
     "travel": [
       "Hazard: A thick, burning vapor seeps into the room through the cracks in the ground, and you're quickly enveloped. The hero with the lowest Willpower (the overlord chooses in the case of a tie) is Poisoned and Diseased.",
@@ -540,7 +540,7 @@
     "xws": "feraldogs"
   },
   {
-    "name": "SN City Event 10 of 10",
+    "name": "SN City Event 10 Of 10",
     "points": 36,
     "travel": [
       "Tower: One of your contacts has left a supply drop for you in this area. Each hero recovers all Hearts and Fatigue.",
