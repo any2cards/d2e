@@ -870,7 +870,7 @@
     "xws": "lrtravelevent3of8"
   },
   {
-    "name": "Ambush",
+    "name": "Sense An Ambush",
     "points": 58,
     "travel": [
       "Plain: You sense an ambush. The overlord may choose up to 3 different heroes to suffer 1 Heart each. At the start of the quest, he must choose 1 monster to suffer an equal mount of Hearts.",
@@ -881,8 +881,8 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "3/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/ambush.png",
-    "xws": "ambush"
+    "image": "travel-event-decks/labyrinth-of-ruin/sense-an-ambush.png",
+    "xws": "senseamambush"
   },
   {
     "name": "Lost Merchant",
