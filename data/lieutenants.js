@@ -1269,7 +1269,7 @@
     "act": "II",
     "ability rules": [
       "Bloodlines: Add 1 Shield to Kyndrithul's defense results for each knocked-out hero.",
-      "Entrhall: At the start of Kyndrithul's activation, you may choose any number of heroes in his line of sight to test Willpower. If none of the heroes pass, perform an attack with each chosen hero as if it were a monster.",
+      "Enthrall: At the start of Kyndrithul's activation, you may choose any number of heroes in his line of sight to test Willpower. If none of the heroes pass, perform an attack with each chosen hero as if it were a monster.",
       "Sorcery X: After making an attack roll, Kyndrithul may convert up to X range to Hearts, or up to X Hearts to range.",
       "Bone Splinter: Each figure adjacent to the target suffers 2 Hearts."
     ],

@@ -3544,8 +3544,214 @@
     "xws": "reanimate"
   },
   {
-    "name": "Bane Spider",
+   "name": "Marrow Priest",
     "points": 204,
+    "act": "I",
+    "attack": "Melee",
+    "characteristics": [
+      "Minion: Speed: 5, Health: 7, Defense: Gray Brown, Attack: Blue Yellow, Abilities: Shadow Step, Surge: Mortal Binding, Surge: +1 Heart",
+      "Master: Speed: 5, Health: 9, Defense: Gray Brown, Attack: Blue Yellow, Abilities: Shadow Step, Surge: Mortal Binding, Surge: +1 Heart"
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "monsters/marrow-priest-cr-act1-front.png",
+    "xws": "marrowpriest"
+  },
+  {
+    "name": "Marrow Priest",
+    "points": 205,
+    "act": "I",
+    "traits": [
+      "Dark",
+      "Building"
+    ],
+    "ability rules": [
+      "Shadow Step: Each time a hero performs an attack that targets this monster, he may spend 1 Surge. If he does not, this monster gains 5 movement points after the attack resolves.",
+      "Mortal Binding: The target tests Knowledge. If he fails, place his hero token on this card. A hero whose token is on this card cannot recover Hearts by any means. When a monster from this group is defeated or a hero is knocked out, discard all hero tokens from this card."
+    ],
+    "group size": [
+      "2 Heroes: 1,0",
+      "3 Heroes: 0,1",
+      "4 Heroes: 1,1"
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "monsters/marrow-priest-cr-act1-back.png",
+    "xws": "marrowpriest"
+  },
+  {
+   "name": "Marrow Priest",
+    "points": 206,
+    "act": "II",
+    "attack": "Melee",
+    "characteristics": [
+      "Minion: Speed: 5, Health: 8, Defense: Gray Gray, Attack: Blue Yellow Yellow, Abilities: Shadow Step, Surge: Mortal Binding, Surge: +1 Heart",
+      "Master: Speed: 5, Health: 10, Defense: Gray Gray, Attack: Blue Yellow Yellow, Abilities: Shadow Step, Surge: Mortal Binding, Surge: +1 Heart"
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "monsters/marrow-priest-cr-act2-front.png",
+    "xws": "marrowpriest"
+  },
+  {
+    "name": "Marrow Priest",
+    "points": 207,
+    "act": "II",
+    "traits": [
+      "Dark",
+      "Building"
+    ],
+    "ability rules": [
+      "Shadow Step: Each time a hero performs an attack that targets this monster, he may spend 1 Surge. If he does not, this monster gains 5 movement points after the attack resolves.",
+      "Mortal Binding: The target tests Knowledge. If he fails, place his hero token on this card. A hero whose token is on this card cannot recover Hearts by any means. When a monster from this group is defeated or a hero is knocked out, discard all hero tokens from this card."
+    ],
+    "group size": [
+      "2 Heroes: 1,0",
+      "3 Heroes: 0,1",
+      "4 Heroes: 1,1"
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "monsters/marrow-priest-cr-act2-back.png",
+    "xws": "marrowpriest"
+  },
+  {
+   "name": "Shambling Colossus",
+    "points": 208,
+    "act": "I",
+    "attack": "Melee",
+    "characteristics": [
+      "Minion: Speed: 3, Health: 5, Defense: Black, Attack: Blue Red, Abilities: Puncture, Surge: +1 Heart",
+      "Master: Speed: 3, Health: 8, Defense: Black, Attack: Blue Red, Abilities: Harrowing, Puncture, Surge: +1 Heart"
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "monsters/shambling-colossus-cr-act1-front.png",
+    "xws": "shamblingcolossus"
+  },
+  {
+    "name": "Shambling Colossus",
+    "points": 209,
+    "act": "I",
+    "traits": [
+      "Wilderness",
+      "Cursed"
+    ],
+    "ability rules": [
+      "Harrowing: Each time a hero within 3 spaces of this monster performs an attack that targets this monster, before rolling dice, that hero tests Willpower. If he fails, he is Terrified.",
+      "Puncture: Each of this monster's attacks ignored 1 Shield for each defense die rolled by the target of that attack."
+    ],
+    "group size": [
+      "2 Heroes: 0,1",
+      "3 Heroes: 1,1",
+      "4 Heroes: 2,1"
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "monsters/shambling-colossus-cr-act1-back.png",
+    "xws": "shamblingcolossus"
+  },
+  {
+   "name": "Shambling Colossus",
+    "points": 210,
+    "act": "II",
+    "attack": "Melee",
+    "characteristics": [
+      "Minion: Speed: 3, Health: 7, Defense: Black, Attack: Blue Red, Abilities: Puncture, Surge: +2 Hearts",
+      "Master: Speed: 3, Health: 9, Defense: Black, Attack: Blue Red Yellow, Abilities: Harrowing, Puncture, Surge: +2 Hearts"
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "monsters/shambling-colossus-cr-act2-front.png",
+    "xws": "shamblingcolossus"
+  },
+  {
+    "name": "Shambling Colossus",
+    "points": 211,
+    "act": "II",
+    "traits": [
+      "Wilderness",
+      "Cursed"
+    ],
+    "ability rules": [
+      "Harrowing: Each time a hero within 3 spaces of this monster performs an attack that targets this monster, before rolling dice, that hero tests Willpower. If he fails, he is Terrified.",
+      "Puncture: Each of this monster's attacks ignored 1 Shield for each defense die rolled by the target of that attack."
+    ],
+    "group size": [
+      "2 Heroes: 0,1",
+      "3 Heroes: 1,1",
+      "4 Heroes: 2,1"
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "monsters/shambling-colossus-cr-act2-back.png",
+    "xws": "shamblingcolossus"
+  },
+  {
+   "name": "The Dispossessed",
+    "points": 212,
+    "act": "I",
+    "attack": "Melee",
+    "characteristics": [
+      "Minion: Speed: 2, Health: 6, Defense: Gray, Attack: Blue Yellow, Abilities: Ethereal Hold, Surge: Fearbrand, Surge: +1 Heart",
+      "Master: Speed: 2, Health: 8, Defense: Gray, Attack: Blue Yellow, Abilities: Ethereal Hold, Surge: Fearbrand, Surge: Terrify, Surge: +1 Heart"
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "monsters/the-dispossessed-cr-act1-front.png",
+    "xws": "thedispossessed"
+  },
+  {
+    "name": "The Dispossessed",
+    "points": 213,
+    "act": "I",
+    "traits": [
+      "Civilized",
+      "Cursed"
+    ],
+    "ability rules": [
+      "Ethereal Hold: At the start of the overlord's turn, this monster may discard 1 hero token from its base. If it does, remove it from the map and place it within 3 spaces of the corresponding hero.",
+      "Fearbrand: Choose a hero in this monster's line of sight and place that hero's hero token on this monster's base.",
+      "Terrify: If this attack deals at least 1 Heart (after the defense roll), the target is Terrified."
+    ],
+    "group size": [
+      "2 Heroes: 2,0",
+      "3 Heroes: 1,1",
+      "4 Heroes: 2,1"
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "monsters/the-dispossessed-cr-act1-back.png",
+    "xws": "thedispossessed"
+  },
+  {
+   "name": "The Dispossessed",
+    "points": 214,
+    "act": "II",
+    "attack": "Melee",
+    "characteristics": [
+      "Minion: Speed: 2, Health: 8, Defense: Gray Brown, Attack: Blue Yellow, Abilities: Ethereal Hold, Surge: Fearbrand, Surge: +2 Hearts",
+      "Master: Speed: 2, Health: 10, Defense: Gray Brown, Attack: Blue Yellow Yellow, Abilities: Ethereal Hold, Surge: Fearbrand, Surge: Terrify, Surge: +2 Hearts"
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "monsters/the-dispossessed-cr-act2-front.png",
+    "xws": "thedispossessed"
+  },
+  {
+    "name": "The Dispossessed",
+    "points": 215,
+    "act": "II",
+    "traits": [
+      "Civilized",
+      "Cursed"
+    ],
+    "ability rules": [
+      "Ethereal Hold: At the start of the overlord's turn, this monster may discard 1 hero token from its base. If it does, remove it from the map and place it within 3 spaces of the corresponding hero.",
+      "Fearbrand: Choose a hero in this monster's line of sight and place that hero's hero token on this monster's base.",
+      "Terrify: If this attack deals at least 1 Heart (after the defense roll), the target is Terrified."
+    ],
+    "group size": [
+      "2 Heroes: 2,0",
+      "3 Heroes: 1,1",
+      "4 Heroes: 2,1"
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "monsters/the-dispossessed-cr-act2-back.png",
+    "xws": "thedispossessed"
+  },
+  {
+    "name": "Bane Spider",
+    "points": 216,
     "act": "I",
     "attack": "Range",
     "characteristics": [
@@ -3558,7 +3764,7 @@
   },
   {
     "name": "Bane Spider",
-    "points": 205,
+    "points": 217,
     "act": "I",
     "traits": [
       "Dark",
@@ -3580,7 +3786,7 @@
   },
   {
     "name": "Bane Spider",
-    "points": 206,
+    "points": 218,
     "act": "II",
     "attack": "Range",
     "characteristics": [
@@ -3593,7 +3799,7 @@
   },
   {
     "name": "Bane Spider",
-    "points": 207,
+    "points": 219,
     "act": "II",
     "traits": [
       "Dark",
@@ -3615,7 +3821,7 @@
   },
   {
     "name": "Beastman",
-    "points": 208,
+    "points": 220,
     "act": "I",
     "attack": "Melee",
     "characteristics": [
@@ -3628,7 +3834,7 @@
   },
   {
     "name": "Beastman",
-    "points": 209,
+    "points": 221,
     "act": "I",
     "traits": [
       "Mountain",
@@ -3649,7 +3855,7 @@
   },
   {
     "name": "Beastman",
-    "points": 210,
+    "points": 222,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -3662,7 +3868,7 @@
   },
   {
     "name": "Beastman",
-    "points": 211,
+    "points": 223,
     "act": "II",
     "traits": [
       "Mountain",
@@ -3683,7 +3889,7 @@
   },
   {
    "name": "Razorwing",
-    "points": 212,
+    "points": 224,
     "act": "I",
     "attack": "Melee",
     "characteristics": [
@@ -3696,7 +3902,7 @@
   },
   {
     "name": "Razorwing",
-    "points": 213,
+    "points": 225,
     "act": "I",
     "traits": [
       "Wilderness",
@@ -3717,7 +3923,7 @@
   },
   {
    "name": "Razorwing",
-    "points": 214,
+    "points": 226,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -3730,7 +3936,7 @@
   },
   {
     "name": "Razorwing",
-    "points": 215,
+    "points": 227,
     "act": "II",
     "traits": [
       "Wilderness",
@@ -3751,7 +3957,7 @@
   },
   {
     "name": "Chaos Beast",
-    "points": 216,
+    "points": 228,
     "act": "I",
     "attack": "Range",
     "characteristics": [
@@ -3764,7 +3970,7 @@
   },
   {
     "name": "Chaos Beast",
-    "points": 217,
+    "points": 229,
     "act": "I",
     "traits": [
       "Dark",
@@ -3785,7 +3991,7 @@
   },
   {
     "name": "Chaos Beast",
-    "points": 218,
+    "points": 230,
     "act": "II",
     "attack": "Range",
     "characteristics": [
@@ -3798,7 +4004,7 @@
   },
   {
     "name": "Chaos Beast",
-    "points": 219,
+    "points": 231,
     "act": "II",
     "traits": [
       "Dark",
@@ -3819,7 +4025,7 @@
   },
   {
    "name": "Giant",
-    "points": 220,
+    "points": 232,
     "act": "I",
     "attack": "Melee",
     "characteristics": [
@@ -3832,7 +4038,7 @@
   },
   {
     "name": "Giant",
-    "points": 221,
+    "points": 233,
     "act": "I",
     "traits": [
       "Mountain",
@@ -3854,7 +4060,7 @@
   },
   {
    "name": "Giant",
-    "points": 222,
+    "points": 234,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -3867,7 +4073,7 @@
   },
   {
     "name": "Giant",
-    "points": 223,
+    "points": 235,
     "act": "II",
     "traits": [
       "Mountain",
@@ -3889,7 +4095,7 @@
   },
   {
    "name": "Lava Beetle",
-    "points": 224,
+    "points": 236,
     "act": "I",
     "attack": "Range",
     "characteristics": [
@@ -3902,7 +4108,7 @@
   },
   {
     "name": "Lava Beetle",
-    "points": 225,
+    "points": 237,
     "act": "I",
     "traits": [
       "Hot",
@@ -3922,7 +4128,7 @@
   },
   {
    "name": "Lava Beetle",
-    "points": 226,
+    "points": 238,
     "act": "II",
     "attack": "Range",
     "characteristics": [
@@ -3935,7 +4141,7 @@
   },
   {
     "name": "Lava Beetle",
-    "points": 227,
+    "points": 239,
     "act": "II",
     "traits": [
       "Hot",
@@ -3955,7 +4161,7 @@
   },
   {
    "name": "Golem",
-    "points": 228,
+    "points": 240,
     "act": "I",
     "attack": "Melee",
     "characteristics": [
@@ -3968,7 +4174,7 @@
   },
   {
     "name": "Golem",
-    "points": 229,
+    "points": 241,
     "act": "I",
     "traits": [
       "Mountain",
@@ -3989,7 +4195,7 @@
   },
   {
    "name": "Golem",
-    "points": 230,
+    "points": 241,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -4002,7 +4208,7 @@
   },
   {
     "name": "Golem",
-    "points": 231,
+    "points": 243,
     "act": "II",
     "traits": [
       "Mountain",
@@ -4023,7 +4229,7 @@
   },
   {
    "name": "Medusa",
-    "points": 232,
+    "points": 244,
     "act": "I",
     "attack": "Range",
     "characteristics": [
@@ -4036,7 +4242,7 @@
   },
   {
     "name": "Medusa",
-    "points": 233,
+    "points": 245,
     "act": "I",
     "traits": [
       "Cursed",
@@ -4058,7 +4264,7 @@
   },
   {
    "name": "Medusa",
-    "points": 234,
+    "points": 246,
     "act": "II",
     "attack": "Range",
     "characteristics": [
@@ -4071,7 +4277,7 @@
   },
   {
     "name": "Medusa",
-    "points": 235,
+    "points": 247,
     "act": "II",
     "traits": [
       "Cursed",
@@ -4093,7 +4299,7 @@
   },
   {
    "name": "Sorcerer",
-    "points": 236,
+    "points": 248,
     "act": "I",
     "attack": "Range",
     "characteristics": [
@@ -4106,7 +4312,7 @@
   },
   {
     "name": "Sorcerer",
-    "points": 237,
+    "points": 249,
     "act": "I",
     "traits": [
       "Civilized",
@@ -4128,7 +4334,7 @@
   },
   {
    "name": "Sorcerer",
-    "points": 238,
+    "points": 250,
     "act": "II",
     "attack": "Range",
     "characteristics": [
@@ -4141,7 +4347,7 @@
   },
   {
     "name": "Sorcerer",
-    "points": 239,
+    "points": 251,
     "act": "II",
     "traits": [
       "Civilized",
@@ -4163,7 +4369,7 @@
   },
   {
     "name": "Crypt Dragon",
-    "points": 240,
+    "points": 252,
     "act": "I",
     "attack": "Range",
     "characteristics": [
@@ -4176,7 +4382,7 @@
   },
   {
     "name": "Crypt Dragon",
-    "points": 241,
+    "points": 253,
     "act": "I",
     "traits": [
       "Dark",
@@ -4197,7 +4403,7 @@
   },
   {
     "name": "Crypt Dragon",
-    "points": 242,
+    "points": 254,
     "act": "II",
     "attack": "Range",
     "characteristics": [
@@ -4210,7 +4416,7 @@
   },
   {
     "name": "Crypt Dragon",
-    "points": 243,
+    "points": 255,
     "act": "II",
     "traits": [
       "Dark",
@@ -4232,7 +4438,7 @@
   },
   {
     "name": "Dark Priest",
-    "points": 244,
+    "points": 256,
     "act": "I",
     "attack": "Range",
     "characteristics": [
@@ -4245,7 +4451,7 @@
   },
   {
     "name": "Dark Priest",
-    "points": 245,
+    "points": 257,
     "act": "I",
     "traits": [
       "Civilized",
@@ -4266,7 +4472,7 @@
   },
   {
     "name": "Dark Priest",
-    "points": 246,
+    "points": 258,
     "act": "II",
     "attack": "Range",
     "characteristics": [
@@ -4279,7 +4485,7 @@
   },
   {
     "name": "Dark Priest",
-    "points": 247,
+    "points": 259,
     "act": "II",
     "traits": [
       "Civilized",
@@ -4301,7 +4507,7 @@
   },
   {
    "name": "Wendigo",
-    "points": 248,
+    "points": 260,
     "act": "I",
     "attack": "Melee",
     "characteristics": [
@@ -4314,7 +4520,7 @@
   },
   {
     "name": "Wendigo",
-    "points": 249,
+    "points": 261,
     "act": "I",
     "traits": [
       "Cold",
@@ -4336,7 +4542,7 @@
   },
   {
    "name": "Wendigo",
-    "points": 250,
+    "points": 262,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -4349,7 +4555,7 @@
   },
   {
     "name": "Wendigo",
-    "points": 251,
+    "points": 263,
     "act": "II",
     "traits": [
       "Cold",
@@ -4371,7 +4577,7 @@
   },
   {
    "name": "Manticore",
-    "points": 252,
+    "points": 264,
     "act": "I",
     "attack": "Range",
     "characteristics": [
@@ -4384,7 +4590,7 @@
   },
   {
     "name": "Manticore",
-    "points": 253,
+    "points": 265,
     "act": "I",
     "traits": [
       "Wilderness",
@@ -4406,7 +4612,7 @@
   },
   {
    "name": "Manticore",
-    "points": 254,
+    "points": 266,
     "act": "II",
     "attack": "Range",
     "characteristics": [
@@ -4419,7 +4625,7 @@
   },
   {
     "name": "Manticore",
-    "points": 255,
+    "points": 267,
     "act": "II",
     "traits": [
       "Wilderness",
@@ -4441,7 +4647,7 @@
   },
   {
    "name": "Ogre",
-    "points": 256,
+    "points": 268,
     "act": "I",
     "attack": "Melee",
     "characteristics": [
@@ -4454,7 +4660,7 @@
   },
   {
     "name": "Ogre",
-    "points": 257,
+    "points": 269,
     "act": "I",
     "traits": [
       "Building",
@@ -4475,7 +4681,7 @@
   },
   {
    "name": "Ogre",
-    "points": 258,
+    "points": 270,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -4488,7 +4694,7 @@
   },
   {
     "name": "Ogre",
-    "points": 259,
+    "points": 271,
     "act": "II",
     "traits": [
       "Building",
@@ -4509,7 +4715,7 @@
   },
   {
    "name": "Troll",
-    "points": 260,
+    "points": 272,
     "act": "I",
     "attack": "Melee",
     "characteristics": [
@@ -4522,7 +4728,7 @@
   },
   {
     "name": "Troll",
-    "points": 261,
+    "points": 273,
     "act": "I",
     "traits": [
       "Mountains",
@@ -4544,7 +4750,7 @@
   },
   {
    "name": "Troll",
-    "points": 262,
+    "points": 274,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -4557,7 +4763,7 @@
   },
   {
     "name": "Troll",
-    "points": 263,
+    "points": 275,
     "act": "II",
     "traits": [
       "Mountains",
@@ -4579,7 +4785,7 @@
   },
   {
     "name": "Deep Elf",
-    "points": 264,
+    "points": 276,
     "act": "I",
     "attack": "Melee",
     "characteristics": [
@@ -4592,7 +4798,7 @@
   },
   {
     "name": "Deep Elf",
-    "points": 265,
+    "points": 277,
     "act": "I",
     "traits": [
       "Dark",
@@ -4614,7 +4820,7 @@
   },
   {
     "name": "Deep Elf",
-    "points": 266,
+    "points": 278,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -4627,7 +4833,7 @@
   },
   {
     "name": "Deep Elf",
-    "points": 267,
+    "points": 279,
     "act": "II",
     "traits": [
       "Dark",
@@ -4649,7 +4855,7 @@
   },
   {
    "name": "Hellhound",
-    "points": 268,
+    "points": 280,
     "act": "I",
     "attack": "Melee",
     "characteristics": [
@@ -4662,7 +4868,7 @@
   },
   {
     "name": "Hellhound",
-    "points": 269,
+    "points": 281,
     "act": "I",
     "traits": [
       "Hot",
@@ -4684,7 +4890,7 @@
   },
   {
    "name": "Hellhound",
-    "points": 270,
+    "points": 282,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -4697,7 +4903,7 @@
   },
   {
     "name": "Hellhound",
-    "points": 271,
+    "points": 283,
     "act": "II",
     "traits": [
       "Hot",
@@ -4719,7 +4925,7 @@
   },
   {
    "name": "Kobold",
-    "points": 272,
+    "points": 284,
     "act": "I",
     "attack": "Melee",
     "characteristics": [
@@ -4732,7 +4938,7 @@
   },
   {
     "name": "Kobold",
-    "points": 273,
+    "points": 285,
     "act": "I",
     "traits": [
       "Building",
@@ -4755,7 +4961,7 @@
   },
   {
    "name": "Kobold",
-    "points": 274,
+    "points": 286,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -4768,7 +4974,7 @@
   },
   {
     "name": "Kobold",
-    "points": 275,
+    "points": 287,
     "act": "II",
     "traits": [
       "Building",
@@ -4791,7 +4997,7 @@
   },
   {
    "name": "Crow Hag",
-    "points": 276,
+    "points": 288,
     "act": "I",
     "attack": "Range",
     "characteristics": [
@@ -4804,7 +5010,7 @@
   },
   {
     "name": "Crow Hag",
-    "points": 277,
+    "points": 289,
     "act": "I",
     "traits": [
       "Dark",
@@ -4825,7 +5031,7 @@
   },
   {
    "name": "Crow Hag",
-    "points": 278,
+    "points": 290,
     "act": "II",
     "attack": "Range",
     "characteristics": [
@@ -4838,7 +5044,7 @@
   },
   {
     "name": "Crow Hag",
-    "points": 279,
+    "points": 291,
     "act": "II",
     "traits": [
       "Dark",
@@ -4859,7 +5065,7 @@
   },
   {
     "name": "Demon Lord",
-    "points": 280,
+    "points": 292,
     "act": "I",
     "attack": "Range",
     "characteristics": [
@@ -4872,7 +5078,7 @@
   },
   {
     "name": "Demon Lord",
-    "points": 281,
+    "points": 293,
     "act": "I",
     "traits": [
       "Hot",
@@ -4894,7 +5100,7 @@
   },
   {
     "name": "Demon Lord",
-    "points": 282,
+    "points": 294,
     "act": "II",
     "attack": "Range",
     "characteristics": [
@@ -4907,7 +5113,7 @@
   },
   {
     "name": "Demon Lord",
-    "points": 283,
+    "points": 295,
     "act": "II",
     "traits": [
       "Hot",
@@ -4929,7 +5135,7 @@
   },
   {
    "name": "Skeleton Archer",
-    "points": 284,
+    "points": 296,
     "act": "I",
     "attack": "Range",
     "characteristics": [
@@ -4942,7 +5148,7 @@
   },
   {
     "name": "Skeleton Archer",
-    "points": 285,
+    "points": 297,
     "act": "I",
     "traits": [
       "Cursed",
@@ -4963,7 +5169,7 @@
   },
   {
    "name": "Skeleton Archer",
-    "points": 286,
+    "points": 298,
     "act": "II",
     "attack": "Range",
     "characteristics": [
@@ -4976,7 +5182,7 @@
   },
   {
     "name": "Skeleton Archer",
-    "points": 287,
+    "points": 299,
     "act": "II",
     "traits": [
       "Cursed",
@@ -4997,7 +5203,7 @@
   },
   {
     "name": "Blood Ape",
-    "points": 288,
+    "points": 300,
     "act": "I",
     "attack": "Melee",
     "characteristics": [
@@ -5010,7 +5216,7 @@
   },
   {
     "name": "Blood Ape",
-    "points": 289,
+    "points": 301,
     "act": "I",
     "traits": [
       "Cave",
@@ -5031,7 +5237,7 @@
   },
   {
     "name": "Blood Ape",
-    "points": 290,
+    "points": 302,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -5044,7 +5250,7 @@
   },
   {
     "name": "Blood Ape",
-    "points": 291,
+    "points": 303,
     "act": "II",
     "traits": [
       "Cave",
@@ -5065,7 +5271,7 @@
   },
   {
     "name": "Ferrox",
-    "points": 292,
+    "points": 304,
     "act": "I",
     "attack": "Melee",
     "characteristics": [
@@ -5078,7 +5284,7 @@
   },
   {
     "name": "Ferrox",
-    "points": 293,
+    "points": 305,
     "act": "I",
     "traits": [
       "Cave",
@@ -5100,7 +5306,7 @@
   },
   {
     "name": "Ferrox",
-    "points": 294,
+    "points": 306,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -5113,7 +5319,7 @@
   },
   {
     "name": "Ferrox",
-    "points": 295,
+    "points": 307,
     "act": "II",
     "traits": [
       "Cave",
@@ -5135,7 +5341,7 @@
   },
   {
    "name": "Naga",
-    "points": 296,
+    "points": 308,
     "act": "I",
     "attack": "Range",
     "characteristics": [
@@ -5148,7 +5354,7 @@
   },
   {
     "name": "Naga",
-    "points": 297,
+    "points": 309,
     "act": "I",
     "traits": [
       "Water",
@@ -5170,7 +5376,7 @@
   },
   {
    "name": "Naga",
-    "points": 298,
+    "points": 310,
     "act": "II",
     "attack": "Range",
     "characteristics": [
@@ -5183,7 +5389,7 @@
   },
   {
     "name": "Naga",
-    "points": 299,
+    "points": 311,
     "act": "II",
     "traits": [
       "Water",
@@ -5205,7 +5411,7 @@
   },
   {
    "name": "Dark Minotaur",
-    "points": 300,
+    "points": 312,
     "act": "I",
     "attack": "Melee",
     "characteristics": [
@@ -5218,7 +5424,7 @@
   },
   {
     "name": "Dark Minotaur",
-    "points": 301,
+    "points": 313,
     "act": "I",
     "traits": [
       "Civilized",
@@ -5241,7 +5447,7 @@
   },
   {
    "name": "Dark Minotaur",
-    "points": 302,
+    "points": 314,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -5254,7 +5460,7 @@
   },
   {
     "name": "Dark Minotaur",
-    "points": 303,
+    "points": 315,
     "act": "II",
     "traits": [
       "Civilized",
@@ -5277,7 +5483,7 @@
   },
   {
    "name": "Ice Wyrm",
-    "points": 304,
+    "points": 316,
     "act": "I",
     "attack": "Melee",
     "characteristics": [
@@ -5290,7 +5496,7 @@
   },
   {
     "name": "Ice Wyrm",
-    "points": 305,
+    "points": 317,
     "act": "I",
     "traits": [
       "Cold",
@@ -5312,7 +5518,7 @@
   },
   {
    "name": "Ice Wyrm",
-    "points": 306,
+    "points": 318,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -5325,7 +5531,7 @@
   },
   {
     "name": "Ice Wyrm",
-    "points": 307,
+    "points": 319,
     "act": "II",
     "traits": [
       "Cold",
@@ -5347,7 +5553,7 @@
   },
   {
    "name": "Shade",
-    "points": 308,
+    "points": 320,
     "act": "I",
     "attack": "Melee",
     "characteristics": [
@@ -5360,7 +5566,7 @@
   },
   {
     "name": "Shade",
-    "points": 309,
+    "points": 321,
     "act": "I",
     "traits": [
       "Cursed",
@@ -5382,7 +5588,7 @@
   },
   {
    "name": "Shade",
-    "points": 310,
+    "points": 322,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -5395,7 +5601,7 @@
   },
   {
     "name": "Shade",
-    "points": 311,
+    "points": 323,
     "act": "II",
     "traits": [
       "Cursed",
