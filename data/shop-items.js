@@ -1035,7 +1035,7 @@
     "xws": "blessedarmor"
   },
   {
-    "name": "Bloodthristy Bracers",
+    "name": "Bloodthirsty Bracers",
     "points": 69,
     "count": 1,
     "act": "II",
