@@ -1603,5 +1603,125 @@
     "card": "5/5",
     "image": "travel-event-decks/mists-of-bilehall/remains-of-a-wagon.png",
     "xws": "ramainsofawagon"
+  },
+  {
+    "name": "CR Travel Event 1 Of 2",
+    "points": 107,
+    "travel": [
+      "Road: You scurry off the road as a battalion of enemy soldiers marches into view. You press yourselves against the berm, desperate to not be seen. Each hero tests Awareness. For each hero who fails, each hero suffers 1 Fatigue.",
+      "Plain: Silent vultures congregate in the sky above you, their number ever growing. Each hero tests Willpower. Each hero who fails is Terrified. Each hero who passes chooses 1 monster on the map to be Terrified.",
+      "Forest: A young couple sifts through the charred remains of their cabin. The heroes may spend 25 gold. If they do, they may search the Overlord deck and discard 2 Overlord cards of their choice.",
+      "Water: No Event.",
+      "Mountain: No Event."
+    ],
+    "expansion": "The Chains That Rust",
+    "card": "1/2",
+    "image": "travel-event-decks/the-chains-that-rust/cr-travel-event-1-of-2.png",
+    "xws": "crtravelevent1of2"
+  },
+  {
+    "name": "Enemy Soldiers",
+    "points": 108,
+    "travel": [
+      "Road: You scurry off the road as a battalion of enemy soldiers marches into view. You press yourselves against the berm, desperate to not be seen. Each hero tests Awareness. For each hero who fails, each hero suffers 1 Fatigue.",
+      "Plain: Silent vultures congregate in the sky above you, their number ever growing. Each hero tests Willpower. Each hero who fails is Terrified. Each hero who passes chooses 1 monster on the map to be Terrified.",
+      "Forest: A young couple sifts through the charred remains of their cabin. The heroes may spend 25 gold. If they do, they may search the Overlord deck and discard 2 Overlord cards of their choice.",
+      "Water: No Event.",
+      "Mountain: No Event."
+    ],
+    "expansion": "The Chains That Rust",
+    "card": "1/2",
+    "image": "travel-event-decks/the-chains-that-rust/cr-enemy-soldiers.png",
+    "xws": "crenemysoldiers"
+  },
+  {
+    "name": "Silent Vultures",
+    "points": 109,
+    "travel": [
+      "Road: You scurry off the road as a battalion of enemy soldiers marches into view. You press yourselves against the berm, desperate to not be seen. Each hero tests Awareness. For each hero who fails, each hero suffers 1 Fatigue.",
+      "Plain: Silent vultures congregate in the sky above you, their number ever growing. Each hero tests Willpower. Each hero who fails is Terrified. Each hero who passes chooses 1 monster on the map to be Terrified.",
+      "Forest: A young couple sifts through the charred remains of their cabin. The heroes may spend 25 gold. If they do, they may search the Overlord deck and discard 2 Overlord cards of their choice.",
+      "Water: No Event.",
+      "Mountain: No Event."
+    ],
+    "expansion": "The Chains That Rust",
+    "card": "1/2",
+    "image": "travel-event-decks/the-chains-that-rust/cr-silent-vultures.png",
+    "xws": "crsilentvultures"
+  },
+  {
+    "name": "Young Couple",
+    "points": 110,
+    "travel": [
+      "Road: You scurry off the road as a battalion of enemy soldiers marches into view. You press yourselves against the berm, desperate to not be seen. Each hero tests Awareness. For each hero who fails, each hero suffers 1 Fatigue.",
+      "Plain: Silent vultures congregate in the sky above you, their number ever growing. Each hero tests Willpower. Each hero who fails is Terrified. Each hero who passes chooses 1 monster on the map to be Terrified.",
+      "Forest: A young couple sifts through the charred remains of their cabin. The heroes may spend 25 gold. If they do, they may search the Overlord deck and discard 2 Overlord cards of their choice.",
+      "Water: No Event.",
+      "Mountain: No Event."
+    ],
+    "expansion": "The Chains That Rust",
+    "card": "1/2",
+    "image": "travel-event-decks/the-chains-that-rust/cr-young-couple.png",
+    "xws": "cryoungcouple"
+  },
+  {
+    "name": "CR Travel Event 2 Of 2",
+    "points": 111,
+    "travel": [
+      "Water: Globules of blood bubble up from unseen depths, filling the air with putrid red mist. Each hero tests Knowledge. Each hero who fails is Diseased and tests Willpower. Each hero who fails again is Terrified.",
+      "Mountain: You happen upon an enormous coffin inlaid into the face of a cliff. The heroes choose a number of heroes to test Might. Each hero who fails suffers 3 Hearts. If 1 or more heroes pass, the heroes gain 25 gold.",
+      "Road: Twelve roads cross your path. One hero tests Knowledge or Awareness. If the hero fails, the overlord draws 1 additional Travel Event card and resolves any number of the events he chooses.",
+      "Forest: No Event.",
+      "Plain: No Event."
+    ],
+    "expansion": "The Chains That Rust",
+    "card": "2/2",
+    "image": "travel-event-decks/the-chains-that-rust/cr-travel-event-2-of-2.png",
+    "xws": "crtravelevent2of2"
+  },
+  {
+    "name": "Globules Of Blood",
+    "points": 112,
+    "travel": [
+      "Water: Globules of blood bubble up from unseen depths, filling the air with putrid red mist. Each hero tests Knowledge. Each hero who fails is Diseased and tests Willpower. Each hero who fails again is Terrified.",
+      "Mountain: You happen upon an enormous coffin inlaid into the face of a cliff. The heroes choose a number of heroes to test Might. Each hero who fails suffers 3 Hearts. If 1 or more heroes pass, the heroes gain 25 gold.",
+      "Road: Twelve roads cross your path. One hero tests Knowledge or Awareness. If the hero fails, the overlord draws 1 additional Travel Event card and resolves any number of the events he chooses.",
+      "Forest: No Event.",
+      "Plain: No Event."
+    ],
+    "expansion": "The Chains That Rust",
+    "card": "2/2",
+    "image": "travel-event-decks/the-chains-that-rust/cr-globules-of-blood.png",
+    "xws": "crglobulesofblood"
+  },
+  {
+    "name": "Enormous Coffin",
+    "points": 113,
+    "travel": [
+      "Water: Globules of blood bubble up from unseen depths, filling the air with putrid red mist. Each hero tests Knowledge. Each hero who fails is Diseased and tests Willpower. Each hero who fails again is Terrified.",
+      "Mountain: You happen upon an enormous coffin inlaid into the face of a cliff. The heroes choose a number of heroes to test Might. Each hero who fails suffers 3 Hearts. If 1 or more heroes pass, the heroes gain 25 gold.",
+      "Road: Twelve roads cross your path. One hero tests Knowledge or Awareness. If the hero fails, the overlord draws 1 additional Travel Event card and resolves any number of the events he chooses.",
+      "Forest: No Event.",
+      "Plain: No Event."
+    ],
+    "expansion": "The Chains That Rust",
+    "card": "2/2",
+    "image": "travel-event-decks/the-chains-that-rust/cr-enormous-coffin.png",
+    "xws": "crenormouscoffin"
+  },
+  {
+    "name": "Twelve Roads",
+    "points": 114,
+    "travel": [
+      "Water: Globules of blood bubble up from unseen depths, filling the air with putrid red mist. Each hero tests Knowledge. Each hero who fails is Diseased and tests Willpower. Each hero who fails again is Terrified.",
+      "Mountain: You happen upon an enormous coffin inlaid into the face of a cliff. The heroes choose a number of heroes to test Might. Each hero who fails suffers 3 Hearts. If 1 or more heroes pass, the heroes gain 25 gold.",
+      "Road: Twelve roads cross your path. One hero tests Knowledge or Awareness. If the hero fails, the overlord draws 1 additional Travel Event card and resolves any number of the events he chooses.",
+      "Forest: No Event.",
+      "Plain: No Event."
+    ],
+    "expansion": "The Chains That Rust",
+    "card": "2/2",
+    "image": "travel-event-decks/the-chains-that-rust/cr-twelve-roads.png",
+    "xws": "crtwelveroads"
   }
 ]
