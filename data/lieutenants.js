@@ -1166,8 +1166,46 @@
     "xws": "ardusixerebus"
   },
   {
-    "name": "Kyndrithul",
+    "name": "Ardus Ix'Erebus",
     "points": 64,
+    "act": "II",
+    "attack": "Melee: Blue Red Red",
+    "might": 5,
+    "knowledge": 2,
+    "willpower": 1,
+    "awareness": 4,
+	"abilities": [
+      "Flanking",
+      "Fury",
+      "Action: Rally",
+      "Surge: Pierce 1"
+    ],
+    "characteristics": [
+      "2 Heroes: Speed: 4, Health: 13, Defense: Black Brown",
+      "3 Heroes: Speed: 4, Health: 16, Defense: Black Gray",
+      "4 Heroes: Speed: 4, Health: 19, Defense: Black Gray"
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "lieutenants/ardus-ixerebus-cr-act2-front.png",
+    "xws": "ardusixerebus"
+  },
+  {
+    "name": "Ardus Ix'Erebus",
+    "points": 65,
+    "act": "II",
+    "ability rules": [
+      "Flanking: Each time Ardus Ix'Erebus performs an attack, he may choose 1 monster with the Cursed monster trait adjacent to the target. During that attack, Ardus Ix'Erebus may use the Surge abilities of that monster.",
+      "Fury: Each time Ardus Ix'Erebus performs an attack, after rolling dice, he may test Might. If he passes, add 1 Surge to the results. If he fails, that attack is a miss.",
+      "Rally: Each monster within 3 spaces of Ardus Ix'Erebus discards 1 condition.",
+      "Pierce X: This attack ignores X Shields on the defense dice."
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "lieutenants/ardus-ixerebus-cr-act2-back.png",
+    "xws": "ardusixerebus"
+  },
+  {
+    "name": "Kyndrithul",
+    "points": 66,
     "act": "I",
     "attack": "Range: Blue Yellow",
     "might": 3,
@@ -1190,7 +1228,7 @@
   },
   {
     "name": "Kyndrithul",
-    "points": 65,
+    "points": 67,
     "act": "I",
     "ability rules": [
       "Bloodlines: Add 1 Shield to Kyndrithul's defense results for each knocked-out hero.",
@@ -1202,8 +1240,46 @@
     "xws": "kyndrithul"
   },
   {
+    "name": "Kyndrithul",
+    "points": 68,
+    "act": "II",
+    "attack": "Range: Blue Yellow Yellow",
+    "might": 3,
+    "knowledge": 4,
+    "willpower": 4,
+    "awareness": 1,
+	"abilities": [
+      "Bloodlines",
+      "Enthrall",
+      "Sorcery 4",
+      "Surge: Bone Splinter"
+    ],
+    "characteristics": [
+      "2 Heroes: Speed: 4, Health: 13, Defense: Black",
+      "3 Heroes: Speed: 4, Health: 15, Defense: Black Brown",
+      "4 Heroes: Speed: 4, Health: 19, Defense: Black Brown"
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "lieutenants/kyndrithul-cr-act2-front.png",
+    "xws": "kyndrithul"
+  },
+  {
+    "name": "Kyndrithul",
+    "points": 69,
+    "act": "II",
+    "ability rules": [
+      "Bloodlines: Add 1 Shield to Kyndrithul's defense results for each knocked-out hero.",
+      "Entrhall: At the start of Kyndrithul's activation, you may choose any number of heroes in his line of sight to test Willpower. If none of the heroes pass, perform an attack with each chosen hero as if it were a monster.",
+      "Sorcery X: After making an attack roll, Kyndrithul may convert up to X range to Hearts, or up to X Hearts to range.",
+      "Bone Splinter: Each figure adjacent to the target suffers 2 Hearts."
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "lieutenants/kyndrithul-cr-act2-back.png",
+    "xws": "kyndrithul"
+  },
+  {
     "name": "Zarihell",
-    "points": 66,
+    "points": 70,
     "act": "I",
     "attack": "Range: Blue Red",
     "might": 2,
@@ -1226,7 +1302,7 @@
   },
   {
     "name": "Zarihell",
-    "points": 67,
+    "points": 71,
     "act": "I",
     "ability rules": [
       "Soul Mastery: Each time a hero within 3 spaces of Zarihell would be defeated, she may test Knowledge. If she passes, before that hero is knocked-out, perform an attack with that hero as if it were a monster. Then, that hero is defeated.",
@@ -1234,6 +1310,43 @@
     ],
     "expansion": "Mists Of Bilehall",
     "image": "lieutenants/zarihell-mb-act1-back.png",
+    "xws": "zarihell"
+  },
+  {
+    "name": "Zarihell",
+    "points": 72,
+    "act": "II",
+    "attack": "Range: Blue Red Yellow",
+    "might": 2,
+    "knowledge": 4,
+    "willpower": 3,
+    "awareness": 3,
+	"abilities": [
+      "Soul Mastery",
+      "Tormentress",
+      "Action: Exploit Fear",
+      "Surge: +2 Hearts"
+    ],
+    "characteristics": [
+      "2 Heroes: Speed: 5, Health: 11, Defense: Black",
+      "3 Heroes: Speed: 5, Health: 14, Defense: Gray Gray",
+      "4 Heroes: Speed: 5, Health: 17, Defense: Gray Gray"
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "lieutenants/zarihell-cr-act2-front.png",
+    "xws": "zarihell"
+  },
+  {
+    "name": "Zarihell",
+    "points": 73,
+    "act": "II",
+    "ability rules": [
+      "Soul Mastery: Each time a hero within 3 spaces of Zarihell would be defeated, she may test Knowledge. If she passes, before that hero is knocked-out, perform an attack with that hero as if it were a monster. Then, that hero is defeated.",
+      "Tormentress: When a hero starts his turn within 3 spaces of Zarihell or enters a space within 3 spaces of Zarihell, that hero is Terrified.",
+      "Exploit Fear: Each Terrified hero within 3 spaces of Zarihell tests Willpower. Each hero that fails is Stunned."
+    ],
+    "expansion": "The Chains That Rust",
+    "image": "lieutenants/zarihell-cr-act2-back.png",
     "xws": "zarihell"
   }
 ]
