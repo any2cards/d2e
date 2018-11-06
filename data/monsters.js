@@ -3400,7 +3400,7 @@
     "xws": "bonehorror"
   },
   {
-   "name": "Brood Walker",
+   "name": "Broodwalker",
     "points": 196,
     "act": "I",
     "attack": "Melee",
@@ -3409,11 +3409,11 @@
       "Master: Speed: 2, Health: 10, Defense: Brown, Attack: Blue Yellow, Abilities: Hive Defense, Overflowing, Surge: +1 Heart, Surge: Colonize"
     ],
     "expansion": "Mists Of Bilehall",
-    "image": "monsters/brood-walker-mb-act1-front.png",
+    "image": "monsters/broodwalker-mb-act1-front.png",
     "xws": "broodwalker"
   },
   {
-    "name": "Brood Walker",
+    "name": "Broodwalker",
     "points": 197,
     "act": "I",
     "traits": [
@@ -3432,11 +3432,11 @@
       "4 Heroes: 2,1"
     ],
     "expansion": "Mists Of Bilehall",
-    "image": "monsters/brood-walker-mb-act1-back.png",
+    "image": "monsters/broodwalker-mb-act1-back.png",
     "xws": "broodwalker"
   },
   {
-   "name": "Brood Walker",
+   "name": "Broodwalker",
     "points": 198,
     "act": "II",
     "attack": "Melee",
@@ -3445,11 +3445,11 @@
       "Master: Speed: 2, Health: 12, Defense: Gray, Attack: Blue Red Yellow, Abilities: Hive Defense, Overflowing, Surge: +1 Heart, Surge: Colonize"
     ],
     "expansion": "Mists Of Bilehall",
-    "image": "monsters/brood-walker-mb-act2-front.png",
+    "image": "monsters/broodwalker-mb-act2-front.png",
     "xws": "broodwalker"
   },
   {
-    "name": "Brood Walker",
+    "name": "Broodwalker",
     "points": 199,
     "act": "II",
     "traits": [
@@ -3468,7 +3468,7 @@
       "4 Heroes: 2,1"
     ],
     "expansion": "Mists Of Bilehall",
-    "image": "monsters/brood-walker-mb-act2-back.png",
+    "image": "monsters/broodwalker-mb-act2-back.png",
     "xws": "broodwalker"
   },
   {
