@@ -474,5 +474,61 @@
     "expansion": "Manor Of Ravens",
     "image": "class-items/double-crossbow-mr-scout-bounty-hunter.png",
     "xws": "doublecrossbow"
+  },
+  {
+    "name": "Harvester Scythe",
+    "points": 34,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "traits": "Magic, Blade, Staff",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "After you defeat a monster with this weapon, recover 1 Heart. Surge: Pierce 1",
+    "expansion": "Lost Legends",
+    "image": "class-items/harvester-scythe-ll-healer-soul-reaper.png",
+    "xws": "harvesterscythe"
+  },
+  {
+    "name": "Mirror of Souls",
+    "points": 35,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "traits": "Trinket",
+    "attack": "-",
+    "equip": "Other",
+    "dice": "-",
+    "rules": "Each time you discard 1 of your Conditions, place 1 damage token on Essence Harvest.",
+    "expansion": "Lost Legends",
+    "image": "class-items/mirror-of-souls-ll-healer-soul-reaper.png",
+    "xws": "mirrorofsouls"
+  },
+  {
+    "name": "Runeshard Cache",
+    "points": 36,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "traits": "Trinket",
+    "attack": "-",
+    "equip": "Other",
+    "dice": "-",
+    "rules": "Exhaust this card after you defeat a monster with a Magic weapon. While this card is exhausted, it is an exhausted Elemental card.",
+    "expansion": "Lost Legends",
+    "image": "class-items/runeshard-cache-ll-mage-elementalist.png",
+    "xws": "runeshardcache"
+  },
+  {
+    "name": "Spire of Conflux",
+    "points": 37,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "traits": "Magic, Staff",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "Surge: +1 Heart. Surge: If 2 or more of your Elemental cards are exhausted, +2 Hearts.",
+    "expansion": "Lost Legends",
+    "image": "class-items/spire-of-conflux-ll-mage-elementalist.png",
+    "xws": "spireofconflux"
   }
 ]
