@@ -260,8 +260,8 @@
     "rules": "When you gain this card, choose 1 standard Class deck belonging to the MAGE archetype. When you spend experience points, you may purchase skills from either Class deck, excluding cards with an XP cost of 3 from the chosen standard Class deck.",
     "fatigue cost": "0",
     "expansion": "Lost Legends",
-    "image": "hybrid-class-skills/healer-heretic-ll-dark-recovery.png",
-    "xws": "darkrecovery"
+    "image": "hybrid-class-skills/healer-heretic-ll-exiled-visionary.png",
+    "xws": "exiledvisionary"
   },
   {
     "name": "Arcane Healing",
@@ -552,7 +552,7 @@
     "xws": "intothefray"
   },
   {
-    "name": "Suprise Assault",
+    "name": "Surprise Assault",
     "points": 46,
     "archetype": "Warrior",
     "class": "Raider",
@@ -560,7 +560,7 @@
     "rules": "When you perform an attack that targets a monster that did not have line of sight to you at the start of your turn, add +1 Surge to the attack.",
     "fatigue cost": "0",
     "expansion": "Lost Legends",
-    "image": "hybrid-class-skills/warrior-raider-ll-suprise-assault.png",
+    "image": "hybrid-class-skills/warrior-raider-ll-surprise-assault.png",
     "xws": "surpriseassault"
   },
   {
