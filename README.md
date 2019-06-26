@@ -42,7 +42,7 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [D2e Companion](https://chrome.google.com/webstore/search/d2e%20companion)
+- [D2e Card Viewer](https://chrome.google.com/webstore/search/d2e%20card%20viewer)
 
 Want your project listed here? [Let us know!](https://github.com/any2cards/d2e/issues/new?title=Add%20Project)
 
