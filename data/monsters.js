@@ -4195,7 +4195,7 @@
   },
   {
    "name": "Golem",
-    "points": 241,
+    "points": 242,
     "act": "II",
     "attack": "Melee",
     "characteristics": [
@@ -5620,5 +5620,61 @@
     "expansion": "Shards Of Everdark",
     "image": "monsters/shade-se-act2-back.png",
     "xws": "shade"
+  },
+  {
+    "name": "Burrowing Horror",
+    "points": 324,
+    "expansion": "Sands Of The Past",
+    "image": "monsters/burrowing-horror-sotp-act1-front.png",
+    "xws": "burrowinghorror"
+  },
+  {
+    "name": "Burrowing Horror",
+    "points": 325,
+    "expansion": "Sands Of The Past",
+    "image": "monsters/burrowing-horror-sotp-act1-back.png",
+    "xws": "burrowinghorror"
+  },
+  {
+    "name": "Burrowing Horror",
+    "points": 326,
+    "expansion": "Sands Of The Past",
+    "image": "monsters/burrowing-horror-sotp-act2-front.png",
+    "xws": "burrowinghorror"
+  },
+  {
+    "name": "Burrowing Horror",
+    "points": 327,
+    "expansion": "Sands Of The Past",
+    "image": "monsters/burrowing-horror-sotp-act2-back.png",
+    "xws": "burrowinghorror"
+  },
+  {
+    "name": "Sarcophagus Guard",
+    "points": 328,
+    "expansion": "Sands Of The Past",
+    "image": "monsters/sarcophagus-guard-sotp-act1-front.png",
+    "xws": "sarcophagusguard"
+  },
+  {
+    "name": "Sarcophagus Guard",
+    "points": 329,
+    "expansion": "Sands Of The Past",
+    "image": "monsters/sarcophagus-guard-sotp-act1-back.png",
+    "xws": "sarcophagusguard"
+  },
+  {
+    "name": "Sarcophagus Guard",
+    "points": 330,
+    "expansion": "Sands Of The Past",
+    "image": "monsters/sarcophagus-guard-sotp-act2-front.png",
+    "xws": "sarcophagusguard"
+  },
+  {
+    "name": "Sarcophagus Guard",
+    "points": 331,
+    "expansion": "Sands Of The Past",
+    "image": "monsters/sarcophagus-guard-sotp-act2-back.png",
+    "xws": "sarcophagusguard"
   }
 ]

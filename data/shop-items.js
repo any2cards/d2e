@@ -1828,5 +1828,124 @@
     "expansion": "Manor Of Ravens",
     "image": "shop-items/act2/winged-blade-mr.png",
     "xws": "wingedblade"
+  },
+  {
+    "name": "Bag of Tricks",
+    "points": 122,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/bag-of-tricks-sotp.png",
+    "xws": "bagoftricks"
+  },
+  {
+    "name": "Crystal of Mirages",
+    "points": 123,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/crystal-of-mirages-sotp.png",
+    "xws": "crystalofmirages"
+  },
+  {
+    "name": "Golden Orb Mace",
+    "points": 124,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/golden-orb-mace-sotp.png",
+    "xws": "goldenorbmace"
+  },
+  {
+    "name": "Piercing Arrows",
+    "points": 125,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/piercing-arrows-sotp.png",
+    "xws": "piercingarrows"
+  },
+  {
+    "name": "Scar Pit Greaves",
+    "points": 126,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/scar-pit-greaves-sotp.png",
+    "xws": "scarpitgreaves"
+  },
+  {
+    "name": "Sun-Blessed Rune",
+    "points": 127,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/sun-blessed-rune-sotp.png",
+    "xws": "runblessedrune"
+  },
+  {
+    "name": "Sunspear",
+    "points": 128,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/sunspear-sotp.png",
+    "xws": "sunspear"
+  },
+  {
+    "name": "Vizier's Garment",
+    "points": 129,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/viziers-garment-sotp.png",
+    "xws": "viziersgarment"
+  },
+  {
+    "name": "Chain-Sickle",
+    "points": 130,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act2/chain-sickle-sotp.png",
+    "xws": "viziersgarment"
+  },
+  {
+    "name": "Eye of the Night",
+    "points": 131,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act2/eye-of-the-night-sotp.png",
+    "xws": "eyeofthenight"
+  },
+  {
+    "name": "Ibis Bow",
+    "points": 132,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act2/ibis-bow-sotp.png",
+    "xws": "ibisbow"
+  },
+  {
+    "name": "Lost Caliph's Crook",
+    "points": 133,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act2/lost-caliphs-crook-sotp.png",
+    "xws": "lostcaliphscrook"
+  },
+  {
+    "name": "Scarab Amulet",
+    "points": 134,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act2/scarab-amulet-sotp.png",
+    "xws": "scarabamulet"
+  },
+  {
+    "name": "Shimmering Shield",
+    "points": 135,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act2/shimmering-shield-sotp.png",
+    "xws": "shimmeringshield"
+  },
+  {
+    "name": "Star of A'tar",
+    "points": 136,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act2/star-of-atar-sotp.png",
+    "xws": "starofatar"
+  },
+  {
+    "name": "Starmetal Khopesh",
+    "points": 137,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act2/starmetal-khopesh-sotp.png",
+    "xws": "starmetalkhopesh"
+  },
+  {
+    "name": "Sunlight Ward",
+    "points": 138,
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act2/sunlight-ward-sotp.png",
+    "xws": "sunlightward"
   }
 ]

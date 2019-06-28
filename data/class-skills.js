@@ -2758,5 +2758,138 @@
     "expansion": "Lost Legends",
     "image": "class-skills/mage-elementalist-ll-volcanic-might.png",
     "xws": "volcanicmight"
+  },
+  {
+    "name": "Embalming Ritual",
+    "points": 230,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/healer-hierophant-sotp-embalming-ritual.png",
+    "xws": "embalmingritual"
+  },
+  {
+    "name": "Eternal Service",
+    "points": 231,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/healer-hierophant-sotp-eternal-service.png",
+    "xws": "eternalservice"
+  },
+  {
+    "name": "Path of Prophecy",
+    "points": 232,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/healer-hierophant-sotp-path-of-prophecy.png",
+    "xws": "pathofprophecy"
+  },
+  {
+    "name": "Hymn",
+    "points": 233,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/healer-hierophant-sotp-hymn.png",
+    "xws": "hymn"
+  },
+  {
+    "name": "Sands of Vengeance",
+    "points": 234,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/healer-hierophant-sotp-sands-of-vengeance.png",
+    "xws": "sandsofvengeance"
+  },
+  {
+    "name": "Shroud of Respite",
+    "points": 235,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/healer-hierophant-sotp-shroud-of-respite.png",
+    "xws": "shroudofrespite"
+  },
+  {
+    "name": "Words of Wisdom",
+    "points": 236,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/healer-hierophant-sotp-words-of-wisdom.png",
+    "xws": "wordsofwisdom"
+  },
+  {
+    "name": "Gift of the Desert",
+    "points": 237,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/healer-hierophant-sotp-gift-of-the-desert.png",
+    "xws": "giftofthedesert"
+  },
+  {
+    "name": "Royal Guard",
+    "points": 238,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/healer-hierophant-sotp-royal-guard.png",
+    "xws": "royalguard"
+  },
+  {
+    "name": "Mental Assault",
+    "points": 239,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/mage-pyschic-sotp-mental-assault.png",
+    "xws": "mentalassault"
+  },
+  {
+    "name": "Prescience",
+    "points": 240,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/mage-pyschic-sotp-prescience.png",
+    "xws": "prescience"
+  },
+  {
+    "name": "Prescience",
+    "points": 241,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/mage-pyschic-sotp-prescience-coop.png",
+    "xws": "presciencecoop"
+  },
+  {
+    "name": "Empathetic Resolve",
+    "points": 242,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/mage-pyschic-sotp-empathetic-resolve.png",
+    "xws": "empatheticresolve"
+  },
+  {
+    "name": "Overload",
+    "points": 243,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/mage-pyschic-sotp-overload.png",
+    "xws": "overload"
+  },
+  {
+    "name": "Mental Fortitude",
+    "points": 244,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/mage-pyschic-sotp-mental-fortitude.png",
+    "xws": "mentalfortitude"
+  },
+  {
+    "name": "Possession",
+    "points": 245,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/mage-pyschic-sotp-possession.png",
+    "xws": "possession"
+  },
+  {
+    "name": "Reaching Out",
+    "points": 246,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/mage-pyschic-sotp-reaching-out.png",
+    "xws": "reachingout"
+  },
+  {
+    "name": "Mind Over Matter",
+    "points": 247,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/mage-pyschic-sotp-mind-over-matter.png",
+    "xws": "mindovermatter"
+  },
+  {
+    "name": "Towering Intellect",
+    "points": 248,
+    "expansion": "Sands Of The Past",
+    "image": "class-skills/mage-pyschic-sotp-towering-intellect.png",
+    "xws": "toweringintellect"
   }
 ]

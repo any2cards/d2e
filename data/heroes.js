@@ -1135,7 +1135,7 @@
   },
   {
     "name": "Ulma Grimstone",
-    "points": 61,
+    "points": 63,
     "archetype": "Healer",
     "speed": 4,
     "health": 8,
@@ -1153,7 +1153,7 @@
   },
   {
     "name": "Augur Grisom",
-    "points": 63,
+    "points": 64,
     "archetype": "Healer",
     "speed": 3,
     "health": 12,
@@ -1171,7 +1171,7 @@
   },
   {
     "name": "Roganna The Shade",
-    "points": 64,
+    "points": 65,
     "archetype": "Scout",
     "speed": 5,
     "health": 10,
@@ -1189,7 +1189,7 @@
   },
   {
     "name": "Orkell The Swift",
-    "points": 65,
+    "points": 66,
     "archetype": "Warrior",
     "speed": 5,
     "health": 10,
@@ -1207,7 +1207,7 @@
   },
   {
     "name": "Ravaella Lightfoot",
-    "points": 66,
+    "points": 67,
     "archetype": "Mage",
     "speed": 5,
     "health": 8,
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "Rendiel",
-    "points": 67,
+    "points": 68,
     "archetype": "Healer",
     "speed": 5,
     "health": 10,
@@ -1243,7 +1243,7 @@
   },
   {
     "name": "Tinashi The Wanderer",
-    "points": 68,
+    "points": 69,
     "archetype": "Scout",
     "speed": 4,
     "health": 12,
@@ -1261,7 +1261,7 @@
   },
   {
   "name": "Alys Raine",
-    "points": 69,
+    "points": 70,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -1279,7 +1279,7 @@
   },
   {
     "name": "Thaiden Mistpeak",
-    "points": 70,
+    "points": 71,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1297,7 +1297,7 @@
   },
   {
     "name": "Elder Mok",
-    "points": 71,
+    "points": 72,
     "archetype": "Healer",
     "speed": 4,
     "health": 10,
@@ -1315,7 +1315,7 @@
   },
   {
     "name": "Laurel Of Bloodwood",
-    "points": 72,
+    "points": 73,
     "archetype": "Scout",
     "speed": 4,
     "health": 8,
@@ -1333,7 +1333,7 @@
   },
   {
     "name": "Shiver",
-    "points": 73,
+    "points": 74,
     "archetype": "Mage",
     "speed": 4,
     "health": 10,
@@ -1351,7 +1351,7 @@
   },
   {
     "name": "Trenloe The Strong",
-    "points": 74,
+    "points": 75,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -1369,7 +1369,7 @@
   },
   {
     "name": "Brother Gherinn",
-    "points": 75,
+    "points": 76,
     "archetype": "Healer",
     "speed": 3,
     "health": 12,
@@ -1387,7 +1387,7 @@
   },
   {
     "name": "Corbin",
-    "points": 76,
+    "points": 77,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -1405,7 +1405,7 @@
   },
   {
     "name": "Jaes The Exile",
-    "points": 77,
+    "points": 78,
     "archetype": "Mage",
     "speed": 4,
     "health": 12,
@@ -1423,7 +1423,7 @@
   },
   {
     "name": "Lindel",
-    "points": 78,
+    "points": 79,
     "archetype": "Scout",
     "speed": 5,
     "health": 10,
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Andira Runehand",
-    "points": 79,
+    "points": 80,
     "archetype": "Healer",
     "speed": 4,
     "health": 12,
@@ -1459,7 +1459,7 @@
   },
   {
     "name": "Astarra",
-    "points": 80,
+    "points": 81,
     "archetype": "Mage",
     "speed": 4,
     "health": 10,
@@ -1477,7 +1477,7 @@
   },
   {
     "name": "Tahlia",
-    "points": 81,
+    "points": 82,
     "archetype": "Warrior",
     "speed": 3,
     "health": 14,
@@ -1495,7 +1495,7 @@
   },
   {
     "name": "Tetherys",
-    "points": 82,
+    "points": 83,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1513,7 +1513,7 @@
   },
   {
     "name": "Lord Hawthorne",
-    "points": 83,
+    "points": 84,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -1531,7 +1531,7 @@
   },
   {
     "name": "Mordrog",
-    "points": 84,
+    "points": 85,
     "archetype": "Warrior",
     "speed": 4,
     "health": 14,
@@ -1549,7 +1549,7 @@
   },
   {
     "name": "Sahla",
-    "points": 85,
+    "points": 86,
     "archetype": "Healer",
     "speed": 4,
     "health": 10,
@@ -1567,7 +1567,7 @@
   },
   {
     "name": "Silhouette",
-    "points": 86,
+    "points": 87,
     "archetype": "Scout",
     "speed": 5,
     "health": 10,
@@ -1585,7 +1585,7 @@
   },
   {
     "name": "Ispher",
-    "points": 87,
+    "points": 88,
     "archetype": "Healer",
     "speed": 4,
     "health": 10,
@@ -1603,7 +1603,7 @@
   },
   {
     "name": "Master Thorn",
-    "points": 88,
+    "points": 89,
     "archetype": "Mage",
     "speed": 5,
     "health": 8,
@@ -1621,7 +1621,7 @@
   },
   {
     "name": "Nara The Fang",
-    "points": 89,
+    "points": 90,
     "archetype": "Warrior",
     "speed": 5,
     "health": 10,
@@ -1639,7 +1639,7 @@
   },
   {
     "name": "Sir Valadir",
-    "points": 90,
+    "points": 91,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -1657,7 +1657,7 @@
   },
   {
     "name": "Challara",
-    "points": 91,
+    "points": 92,
     "archetype": "Mage",
     "speed": 3,
     "health": 10,
@@ -1675,7 +1675,7 @@
   },
   {
     "name": "Lyssa",
-    "points": 92,
+    "points": 93,
     "archetype": "Mage",
     "speed": 5,
     "health": 8,
@@ -1693,7 +1693,7 @@
   },
   {
     "name": "Ronan Of The Wild",
-    "points": 93,
+    "points": 94,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1711,7 +1711,7 @@
   },
   {
     "name": "Vyrah The Falconer",
-    "points": 94,
+    "points": 95,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1729,7 +1729,7 @@
   },
   {
     "name": "Grey Ker",
-    "points": 95,
+    "points": 96,
     "archetype": "Scout",
     "speed": 4,
     "health": 12,
@@ -1747,7 +1747,7 @@
   },
   {
     "name": "Jonas The Kind",
-    "points": 96,
+    "points": 97,
     "archetype": "Healer",
     "speed": 4,
     "health": 10,
@@ -1765,7 +1765,7 @@
   },
   {
     "name": "Krutzbeck",
-    "points": 97,
+    "points": 98,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -1783,7 +1783,7 @@
   },
   {
     "name": "Zyla",
-    "points": 98,
+    "points": 99,
     "archetype": "Mage",
     "speed": 5,
     "health": 8,
@@ -1801,7 +1801,7 @@
   },
   {
     "name": "Nanok Of The Blade",
-    "points": 99,
+    "points": 100,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -1819,7 +1819,7 @@
   },
   {
     "name": "Okaluk And Rakash",
-    "points": 100,
+    "points": 101,
     "archetype": "Healer",
     "speed": 2,
     "health": 8,
@@ -1837,7 +1837,7 @@
   },
   {
     "name": "Seer Kel",
-    "points": 101,
+    "points": 102,
     "archetype": "Mage",
     "speed": 4,
     "health": 10,
@@ -1855,7 +1855,7 @@
   },
   {
     "name": "Tatianna",
-    "points": 102,
+    "points": 103,
     "archetype": "Scout",
     "speed": 5,
     "health": 12,
@@ -1873,7 +1873,7 @@
   },
   {
     "name": "Arvel Worldwalker",
-    "points": 103,
+    "points": 104,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1891,7 +1891,7 @@
   },
   {
     "name": "Karnon",
-    "points": 104,
+    "points": 105,
     "archetype": "Warrior",
     "speed": 4,
     "health": 14,
@@ -1909,7 +1909,7 @@
   },
   {
     "name": "One Fist",
-    "points": 105,
+    "points": 106,
     "archetype": "Warrior",
     "speed": 4,
     "health": 10,
@@ -1927,7 +1927,7 @@
   },
   {
     "name": "Steelhorns",
-    "points": 106,
+    "points": 107,
     "archetype": "Warrior",
     "speed": 4,
     "health": 14,
@@ -1945,7 +1945,7 @@
   },
   {
     "name": "Grisban The Thirsty",
-    "points": 107,
+    "points": 108,
     "archetype": "Warrior",
     "speed": 3,
     "health": 14,
@@ -1963,7 +1963,7 @@
   },
   {
     "name": "Thaiden Mistpeak",
-    "points": 108,
+    "points": 109,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1978,5 +1978,19 @@
     "expansion": "Manor Of Ravens",
     "image": "heroes/scouts/thaiden-mistpeak-mr-errata.png",
     "xws": "thaidenmistpeak"
+  },
+  {
+    "name": "Elga The Pilgrim",
+    "points": 110,
+    "expansion": "Sands Of The Past",
+    "image": "heroes/healers/elga-the-pilgrim-sotp.png",
+    "xws": "elgathepilgrim"
+  },
+  {
+    "name": "Runemaker Tara",
+    "points": 111,
+    "expansion": "Sands Of The Past",
+    "image": "heroes/mages/runemaker-tara-sotp.png",
+    "xws": "runemakertara"
   }
 ]

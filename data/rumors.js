@@ -412,5 +412,26 @@
     "expansion": "Shards Of Everdark",
     "image": "rumors/shards-of-everdark-se-act1.png",
     "xws": "shardsofeverdark"
+  },
+  {
+    "name": "The Unearthed Tomb",
+    "points": 25,
+    "expansion": "Sands Of The Past",
+    "image": "rumors/the-unearthed-tomb-sotp-act1.png",
+    "xws": "theunearthedtomb"
+  },
+  {
+    "name": "Halls of Toil",
+    "points": 26,
+    "expansion": "Sands Of The Past",
+    "image": "rumors/halls-of-toil-sotp-act1.png",
+    "xws": "hallsoftoil"
+  },
+  {
+    "name": "Valley of the Dead",
+    "points": 27,
+    "expansion": "Sands Of The Past",
+    "image": "rumors/valley-of-the-dead-sotp-act1.png",
+    "xws": "valleyofthedead"
   }
 ]

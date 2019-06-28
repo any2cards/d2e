@@ -530,5 +530,33 @@
     "expansion": "Lost Legends",
     "image": "class-items/spire-of-conflux-ll-mage-elementalist.png",
     "xws": "spireofconflux"
+  },
+  {
+    "name": "Ceremonial Staff",
+    "points": 38,
+    "expansion": "Sands Of The Past",
+    "image": "class-items/ceremonial-staff-sotp-healer-hierophant.png",
+    "xws": "ceremonialstaff"
+  },
+  {
+    "name": "Sacred Scriptures",
+    "points": 39,
+    "expansion": "Sands Of The Past",
+    "image": "class-items/sacred-scriptures-sotp-healer-hierophant.png",
+    "xws": "sacredscriptures"
+  },
+  {
+    "name": "Shadow Darts",
+    "points": 40,
+    "expansion": "Sands Of The Past",
+    "image": "class-items/shadow-darts-sotp-mage-psychic.png",
+    "xws": "shadowdarts"
+  },
+  {
+    "name": "Mind's Eye Turban",
+    "points": 41,
+    "expansion": "Sands Of The Past",
+    "image": "class-items/minds-eye-turban-sotp-mage-psychic.png",
+    "xws": "mindseyeturban"
   }
 ]

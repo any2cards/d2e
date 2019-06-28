@@ -88,5 +88,19 @@
     "expansion": "Mists Of Bilehall",
     "image": "conditions/terrified-mb.png",
     "xws": "terrified"
+  },
+  {
+    "name": "Blinded",
+    "points": 10,
+    "expansion": "Sands Of The Past",
+    "image": "conditions/blinded-sotp.png",
+    "xws": "blinded"
+  },
+  {
+    "name": "Blinded Token",
+    "points": 11,
+    "expansion": "Sands Of The Past",
+    "image": "conditions/blinded-token-sotp.png",
+    "xws": "blindedtoken"
   }
 ]

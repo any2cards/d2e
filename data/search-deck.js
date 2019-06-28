@@ -108,5 +108,61 @@
     "expansion": "The Trollfens",
     "image": "search-deck/secret-passage-tf.png",
     "xws": "secretpassage"
+  },
+  {
+    "name": "Blueprint",
+    "points": 10,
+    "expansion": "Sands Of The Past",
+    "image": "search-deck/blueprint-sotp.png",
+    "xws": "blueprint"
+  },
+  {
+    "name": "Curse Ward",
+    "points": 11,
+    "expansion": "Sands Of The Past",
+    "image": "search-deck/curse-ward-sotp.png",
+    "xws": "curseward"
+  },
+  {
+    "name": "Masterwork Tools",
+    "points": 12,
+    "expansion": "Sands Of The Past",
+    "image": "search-deck/masterwork-tools-sotp.png",
+    "xws": "masterworktools"
+  },
+  {
+    "name": "Protection Sphere",
+    "points": 13,
+    "expansion": "Sands Of The Past",
+    "image": "search-deck/protection-sphere-sotp.png",
+    "xws": "protectionsphere"
+  },
+  {
+    "name": "Scroll of Coercion",
+    "points": 14,
+    "expansion": "Sands Of The Past",
+    "image": "search-deck/scroll-of-coercion-sotp.png",
+    "xws": "scrollofcoercion"
+  },
+  {
+    "name": "Truestrike Potion",
+    "points": 15,
+    "expansion": "Sands Of The Past",
+    "image": "search-deck/truestrike-potion-sotp.png",
+    "xws": "truestrikepotion"
+  },
+  {
+    "name": "Haste Potion",
+    "points": 16,
+    "expansion": "Sands Of The Past",
+    "image": "search-deck/haste-potion-sotp.png",
+    "xws": "hastepotion"
+  },
+  {
+    "name": "Timmorran Shard",
+    "points": 17,
+    "expansion": "Sands Of The Past",
+    "image": "search-deck/timmorran-shard-sotp.png",
+    "xws": "timmorranshard"
   }
 ]

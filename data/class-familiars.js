@@ -58,5 +58,19 @@
     "expansion": "Shadow Of Nerekhall",
     "image": "class-familiars/shadow-soul-sn-scout-shadow-walker.png",
     "xws": "shadowsoul"
+  },
+  {
+    "name": "Bandaged Servant",
+    "points": 4,
+    "expansion": "Sands Of The Past",
+    "image": "class-familiars/bandaged-servant-sotp-healer-hierophant.png",
+    "xws": "bandagedservant"
+  },
+  {
+    "name": "Bandaged Servant Token",
+    "points": 5,
+    "expansion": "Sands Of The Past",
+    "image": "class-familiars/bandaged-servant-token-sotp.png",
+    "xws": "bandagedservanttoken"
   }
 ]

@@ -397,5 +397,19 @@
     "expansion": "Shards Of Everdark",
     "image": "advanced-quests/host-of-everdark-se-act2-back.png",
     "xws": "hostofeverdark"
+  },
+  {
+    "name": "The Sunken Temple",
+    "points": 32,
+    "expansion": "Sands Of The Past",
+    "image": "advanced-quests/the-sunken-temple-sotp-act2-front.png",
+    "xws": "thesunkentemple"
+  },
+  {
+    "name": "The Sunken Temple",
+    "points": 33,
+    "expansion": "Sands Of The Past",
+    "image": "advanced-quests/the-sunken-temple-sotp-act2-back.png",
+    "xws": "thesunkentemple"
   }
 ]
