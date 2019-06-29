@@ -8,7 +8,6 @@
     text-align: center;
     white-space: nowrap;
     min-width: 180px;
-    display: flex;
 }
 
 .__xwc-image-container > img {
@@ -16,7 +15,6 @@
     vertical-align: middle;
     max-height: 640px;
     max-width: 480px;
-    display: flex;
 }
 
 .__xwc-container {
