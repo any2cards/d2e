@@ -603,7 +603,7 @@
     "xws": "defeat"
   },
   {
-    "name": "prl-32",
+    "name": "prl-sta",
     "type": "Start Peril",
     "points": 67,
     "cardno": 32,	
@@ -612,7 +612,7 @@
     "xws": "startperil"
   },
   {
-    "name": "prl-33",
+    "name": "prl-min",
     "type": "Minor Peril",
     "points": 68,
     "cardno": 33,	
@@ -621,7 +621,7 @@
     "xws": "minorperil"
   },
   {
-    "name": "prl-34",
+    "name": "prl-maj",
     "type": "Major Peril",
     "points": 69,
     "cardno": 34,	
@@ -630,7 +630,7 @@
     "xws": "majorperil"
   },
   {
-    "name": "prl-35",
+    "name": "prl-dea",
     "type": "Deadly Peril",
     "points": 70,
     "cardno": 35,	
@@ -639,7 +639,7 @@
     "xws": "deadlyperil"
   },
   {
-    "name": "prl-36",
+    "name": "prl-que",
     "type": "Quest Peril",
     "points": 71,
     "cardno": 36,	
