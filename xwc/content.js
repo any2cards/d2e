@@ -8,12 +8,11 @@ const ignoredNodes = ['TEXTAREA', 'INPUT'];
 
 const xwcRed = '#e81e25';
 const offset = 5;
-const cardWidth = 480;
+const cardWidth = 640;
 const imagePadding = 4;
 let amountOfMatches = 1;
 const classname = '__xwc-container';
 
-// TODO: Github caches static files for ~5 mins. We probably want to cache longer than that!
 const fetchDataFile = (fileName) => fetch(dataUrl + fileName).then(res => res.json());
 
 const loadAllData = Promise
@@ -142,7 +141,6 @@ function processData(data) {
 }
 
 function getTextNodes(fn) {
-    // TODO: Would a TreeWalker be faster?
     const elements = Array.from(document.getElementsByTagName('*'));
     elements.forEach(function (e) {
         if (ignoredNodes.indexOf(e.nodeName) === -1) {
@@ -202,6 +200,12 @@ function moveTooltip(e) {
     const windowRightBound = window.scrollX + window.innerWidth;
     let x = window.scrollX + e.clientX + offset;
     let y = window.scrollY + e.clientY + offset;
+	
+	// The following is a temporary fix to prevent images from appearing off of the screen to the left or right
+	if (amountOfMatches > 2) {
+	  amountOfMatches = 2;
+	}
+	
     const right = x + (amountOfMatches * (cardWidth + imagePadding)) + 20;
 
     if (right > windowRightBound) {
@@ -251,7 +255,6 @@ document.body.addEventListener('mouseover', function (e) {
                 const image = new Image();
                 image.onload = resolve;
                 image.onerror = reject;
-                // TODO: Github caches static files for ~5 mins. We probably want to cache longer than that!
                 image.src = imgUrl + c.image;
                 hide(image);
 
