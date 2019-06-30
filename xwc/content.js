@@ -9,6 +9,7 @@ const ignoredNodes = ['TEXTAREA', 'INPUT'];
 const xwcRed = '#e81e25';
 const offset = 5;
 const cardWidth = 640;
+const cardHeight = 480;
 const imagePadding = 4;
 let amountOfMatches = 1;
 const classname = '__xwc-container';
@@ -200,18 +201,17 @@ function moveTooltip(e) {
     const windowRightBound = window.scrollX + window.innerWidth;
     let x = window.scrollX + e.clientX + offset;
     let y = window.scrollY + e.clientY + offset;
-	
-	// The following is a temporary fix to prevent images from appearing off of the screen to the left or right
+// The following if statement is a temporary fix to prevent the display of cards from moving off of the screen	
 	if (amountOfMatches > 2) {
 	  amountOfMatches = 2;
 	}
-	
+// End of temporary fix
     const right = x + (amountOfMatches * (cardWidth + imagePadding)) + 20;
 
     if (right > windowRightBound) {
       x -= right - windowRightBound;
     }
-
+	
     tooltip.style.top = y + 'px';
     tooltip.style.left = x + 'px';
 }
@@ -238,7 +238,7 @@ document.body.addEventListener('mouseover', function (e) {
         const match = target.textContent;
 
         // Set to 1 because we'll have at least 1 match, so it gets taken into account when
-        // positining the tooltip -- see moveTooltip()
+        // positioning the tooltip -- see moveTooltip()
         amountOfMatches = 1;
 
         show(tooltipLoader);
