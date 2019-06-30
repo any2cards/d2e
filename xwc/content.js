@@ -8,7 +8,7 @@ const ignoredNodes = ['TEXTAREA', 'INPUT'];
 
 const xwcRed = '#e81e25';
 const offset = 5;
-const cardWidth = 288;
+const cardWidth = 480;
 const imagePadding = 4;
 let amountOfMatches = 1;
 const classname = '__xwc-container';
@@ -57,7 +57,7 @@ const tooltip = document.createElement('div');
 let cardsData = {};
 let allMatches = {};
 
-// Put longer names first, so "Autoblaster Turret" matches before "Autoblaster"
+// Put longer names first, so "Barghest Activation" matches before "Barghest"
 function sortData(a, b) {
     return a.length > b.length ? -1 : 1;
 }
