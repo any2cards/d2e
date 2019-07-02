@@ -9,7 +9,6 @@ const ignoredNodes = ['TEXTAREA', 'INPUT'];
 const xwcRed = '#e81e25';
 const offset = 5;
 const cardWidth = 640;
-const cardHeight = 480;
 const imagePadding = 4;
 let amountOfMatches = 1;
 const classname = '__xwc-container';
