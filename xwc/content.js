@@ -202,8 +202,8 @@ function moveTooltip(e) {
     let x = window.scrollX + e.clientX + offset;
     let y = window.scrollY + e.clientY + offset;
 // The following if statement is a temporary fix to prevent the display of cards from moving off of the screen	
-	if (amountOfMatches > 2) {
-	  amountOfMatches = 2;
+	if (amountOfMatches >= 2) {
+	  amountOfMatches = 2.1;
 	}
 // End of temporary fix
     const right = x + (amountOfMatches * (cardWidth + imagePadding)) + 20;
