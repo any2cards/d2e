@@ -348,8 +348,20 @@
     "xws": "allknowing"
   },
   {
-    "name": "Clairvoyance",
+    "name": "All-Knowing",
     "points": 29,
+    "archetype": "Mage",
+    "class": "Lorekeeper",
+    "xp cost": 3,
+    "rules": "Apply +1 to your Knowledge (to a maximum of 6). Choose any number of your other skill cards and test Knowledge. Add Shields to the results equal to the number of chosen cards. If you pass, unexhaust each of those cards and ignore their fatigue cost until the end of the round.",
+    "fatigue cost": "1",
+    "expansion": "Lost Legends",
+    "image": "hybrid-class-skills/mage-lorekeeper-ll-all-knowing-errata.png",
+    "xws": "allknowing"
+  },
+  {
+    "name": "Clairvoyance",
+    "points": 30,
     "archetype": "Mage",
     "class": "Truthseer",
     "xp cost": 0,
@@ -361,7 +373,7 @@
   },
   {
     "name": "True Sight",
-    "points": 30,
+    "points": 31,
     "archetype": "Mage",
     "class": "Truthseer",
     "xp cost": 1,
@@ -373,7 +385,7 @@
   },
   {
     "name": "Translocation",
-    "points": 31,
+    "points": 32,
     "archetype": "Mage",
     "class": "Truthseer",
     "xp cost": 2,
@@ -385,7 +397,7 @@
   },
   {
     "name": "Premonition",
-    "points": 32,
+    "points": 33,
     "archetype": "Mage",
     "class": "Truthseer",
     "xp cost": 3,
@@ -397,7 +409,7 @@
   },
   {
     "name": "Battle-Hardened",
-    "points": 33,
+    "points": 34,
     "archetype": "Scout",
     "class": "Ravager",
     "xp cost": 0,
@@ -409,7 +421,7 @@
   },
   {
     "name": "Momentum",
-    "points": 34,
+    "points": 35,
     "archetype": "Scout",
     "class": "Ravager",
     "xp cost": 1,
@@ -421,7 +433,7 @@
   },
   {
     "name": "Charging Assault",
-    "points": 35,
+    "points": 36,
     "archetype": "Scout",
     "class": "Ravager",
     "xp cost": 2,
@@ -433,7 +445,7 @@
   },
   {
     "name": "Vicious Throw",
-    "points": 36,
+    "points": 37,
     "archetype": "Scout",
     "class": "Ravager",
     "xp cost": 3,
@@ -445,7 +457,7 @@
   },
   {
     "name": "Razzle-Dazzle",
-    "points": 37,
+    "points": 38,
     "archetype": "Scout",
     "class": "Trickster",
     "xp cost": 0,
@@ -457,7 +469,7 @@
   },
   {
     "name": "Private Collection",
-    "points": 38,
+    "points": 39,
     "archetype": "Scout",
     "class": "Trickster",
     "xp cost": 1,
@@ -469,7 +481,7 @@
   },
   {
     "name": "Now You See Me",
-    "points": 39,
+    "points": 40,
     "archetype": "Scout",
     "class": "Trickster",
     "xp cost": 2,
@@ -481,7 +493,7 @@
   },
   {
     "name": "Arcane Fusion",
-    "points": 40,
+    "points": 41,
     "archetype": "Scout",
     "class": "Trickster",
     "xp cost": 3,
@@ -493,7 +505,7 @@
   },
   {
     "name": "Justicar",
-    "points": 41,
+    "points": 42,
     "archetype": "Warrior",
     "class": "Avenger",
     "xp cost": 0,
@@ -505,7 +517,7 @@
   },
   {
     "name": "Holy Champion",
-    "points": 42,
+    "points": 43,
     "archetype": "Warrior",
     "class": "Avenger",
     "xp cost": 1,
@@ -517,7 +529,7 @@
   },
   {
     "name": "Vengeful Smite",
-    "points": 43,
+    "points": 44,
     "archetype": "Warrior",
     "class": "Avenger",
     "xp cost": 2,
@@ -529,7 +541,7 @@
   },
   {
     "name": "Death From Above",
-    "points": 44,
+    "points": 45,
     "archetype": "Warrior",
     "class": "Avenger",
     "xp cost": 3,
@@ -541,7 +553,7 @@
   },
   {
     "name": "Into The Fray",
-    "points": 45,
+    "points": 46,
     "archetype": "Warrior",
     "class": "Raider",
     "xp cost": 0,
@@ -553,7 +565,7 @@
   },
   {
     "name": "Surprise Assault",
-    "points": 46,
+    "points": 47,
     "archetype": "Warrior",
     "class": "Raider",
     "xp cost": 1,
@@ -565,7 +577,7 @@
   },
   {
     "name": "Divide The Spoils",
-    "points": 47,
+    "points": 48,
     "archetype": "Warrior",
     "class": "Raider",
     "xp cost": 2,
@@ -577,7 +589,7 @@
   },
   {
     "name": "Close The Gap",
-    "points": 48,
+    "points": 49,
     "archetype": "Warrior",
     "class": "Raider",
     "xp cost": 3,
