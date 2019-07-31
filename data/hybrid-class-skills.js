@@ -317,15 +317,27 @@
     "archetype": "Mage",
     "class": "Lorekeeper",
     "xp cost": 1,
-    "rules": "You gain +X Health where X is your Knowledge. Exhaust this card when a hero within 3 spaces of you gains a Condition. Tets Knowledge. If you succeed, that hero immediately discards that Condition.",
+    "rules": "You gain +X Health where X is your Knowledge. Exhaust this card when a hero within 3 spaces of you gains a Condition. Test Knowledge. If you succeed, that hero immediately discards that Condition.",
     "fatigue cost": "2",
     "expansion": "Lost Legends",
     "image": "hybrid-class-skills/mage-lorekeeper-ll-ancient-remedy.png",
     "xws": "ancientremedy"
   },
   {
-    "name": "Careful Balance",
+    "name": "Ancient Remedy",
     "points": 27,
+    "archetype": "Mage",
+    "class": "Lorekeeper",
+    "xp cost": 1,
+    "rules": "You gain +X Health where X is your Knowledge. Exhaust this card when a hero within 3 spaces of you gains a Condition. Test Knowledge. If you succeed, that hero immediately discards that Condition.",
+    "fatigue cost": "2",
+    "expansion": "Lost Legends",
+    "image": "hybrid-class-skills/mage-lorekeeper-ll-ancient-remedy-errata.png",
+    "xws": "ancientremedy"
+  },
+  {
+    "name": "Careful Balance",
+    "points": 28,
     "archetype": "Mage",
     "class": "Lorekeeper",
     "xp cost": 2,
@@ -337,11 +349,11 @@
   },
   {
     "name": "All-Knowing",
-    "points": 28,
+    "points": 29,
     "archetype": "Mage",
     "class": "Lorekeeper",
     "xp cost": 3,
-    "rules": "Apply +1 to your Knowledge (to a maximum of 6). Choose any number of your skill cards and test Knowledge. Add Shields to the results equal to the chosen number of cards. If you pass, unexhaust each of those cards and ignore their fatigue cost until the end of the round.",
+    "rules": "Apply +1 Knowledge (to a maximum of 6). Choose any number of your skill cards and test Knowledge. Add Shields to the results equal to the chosen number of cards. If you pass, refresh each of those cards and ignore their fatigue cost until the end of the round.",
     "fatigue cost": "1",
     "expansion": "Lost Legends",
     "image": "hybrid-class-skills/mage-lorekeeper-ll-all-knowing.png",
@@ -349,7 +361,7 @@
   },
   {
     "name": "All-Knowing",
-    "points": 29,
+    "points": 30,
     "archetype": "Mage",
     "class": "Lorekeeper",
     "xp cost": 3,
@@ -361,7 +373,7 @@
   },
   {
     "name": "Clairvoyance",
-    "points": 30,
+    "points": 31,
     "archetype": "Mage",
     "class": "Truthseer",
     "xp cost": 0,
@@ -373,7 +385,7 @@
   },
   {
     "name": "True Sight",
-    "points": 31,
+    "points": 32,
     "archetype": "Mage",
     "class": "Truthseer",
     "xp cost": 1,
@@ -385,7 +397,7 @@
   },
   {
     "name": "Translocation",
-    "points": 32,
+    "points": 33,
     "archetype": "Mage",
     "class": "Truthseer",
     "xp cost": 2,
@@ -397,7 +409,7 @@
   },
   {
     "name": "Premonition",
-    "points": 33,
+    "points": 34,
     "archetype": "Mage",
     "class": "Truthseer",
     "xp cost": 3,
@@ -409,7 +421,7 @@
   },
   {
     "name": "Battle-Hardened",
-    "points": 34,
+    "points": 35,
     "archetype": "Scout",
     "class": "Ravager",
     "xp cost": 0,
@@ -421,7 +433,7 @@
   },
   {
     "name": "Momentum",
-    "points": 35,
+    "points": 36,
     "archetype": "Scout",
     "class": "Ravager",
     "xp cost": 1,
@@ -432,8 +444,20 @@
     "xws": "momentum"
   },
   {
+    "name": "Momentum",
+    "points": 37,
+    "archetype": "Scout",
+    "class": "Ravager",
+    "xp cost": 1,
+    "rules": "Exhaust this card after you perform an attack with a Melee weapon. Gain a number of movement points equal to the Hearts the target suffered.",
+    "fatigue cost": "1",
+    "expansion": "Lost Legends",
+    "image": "hybrid-class-skills/scout-ravager-ll-momentum-errata.png",
+    "xws": "momentum"
+  },
+  {
     "name": "Charging Assault",
-    "points": 36,
+    "points": 38,
     "archetype": "Scout",
     "class": "Ravager",
     "xp cost": 2,
@@ -444,8 +468,20 @@
     "xws": "chargingassault"
   },
   {
+    "name": "Charging Assault",
+    "points": 39,
+    "archetype": "Scout",
+    "class": "Ravager",
+    "xp cost": 2,
+    "rules": "When you perform an attack with a Melee weapon, before dice are rolled, you may spend up to 3 movement points. That attack gains +1 Heart for each movement point spent.",
+    "fatigue cost": "0",
+    "expansion": "Lost Legends",
+    "image": "hybrid-class-skills/scout-ravager-ll-charging-assault-errata.png",
+    "xws": "chargingassault"
+  },
+  {
     "name": "Vicious Throw",
-    "points": 37,
+    "points": 40,
     "archetype": "Scout",
     "class": "Ravager",
     "xp cost": 3,
@@ -457,7 +493,7 @@
   },
   {
     "name": "Razzle-Dazzle",
-    "points": 38,
+    "points": 41,
     "archetype": "Scout",
     "class": "Trickster",
     "xp cost": 0,
@@ -469,7 +505,7 @@
   },
   {
     "name": "Private Collection",
-    "points": 39,
+    "points": 42,
     "archetype": "Scout",
     "class": "Trickster",
     "xp cost": 1,
@@ -481,7 +517,7 @@
   },
   {
     "name": "Now You See Me",
-    "points": 40,
+    "points": 43,
     "archetype": "Scout",
     "class": "Trickster",
     "xp cost": 2,
@@ -493,7 +529,7 @@
   },
   {
     "name": "Arcane Fusion",
-    "points": 41,
+    "points": 44,
     "archetype": "Scout",
     "class": "Trickster",
     "xp cost": 3,
@@ -505,7 +541,7 @@
   },
   {
     "name": "Justicar",
-    "points": 42,
+    "points": 45,
     "archetype": "Warrior",
     "class": "Avenger",
     "xp cost": 0,
@@ -517,7 +553,7 @@
   },
   {
     "name": "Holy Champion",
-    "points": 43,
+    "points": 46,
     "archetype": "Warrior",
     "class": "Avenger",
     "xp cost": 1,
@@ -529,7 +565,7 @@
   },
   {
     "name": "Vengeful Smite",
-    "points": 44,
+    "points": 47,
     "archetype": "Warrior",
     "class": "Avenger",
     "xp cost": 2,
@@ -541,7 +577,7 @@
   },
   {
     "name": "Death From Above",
-    "points": 45,
+    "points": 48,
     "archetype": "Warrior",
     "class": "Avenger",
     "xp cost": 3,
@@ -553,7 +589,7 @@
   },
   {
     "name": "Into The Fray",
-    "points": 46,
+    "points": 49,
     "archetype": "Warrior",
     "class": "Raider",
     "xp cost": 0,
@@ -565,7 +601,7 @@
   },
   {
     "name": "Surprise Assault",
-    "points": 47,
+    "points": 50,
     "archetype": "Warrior",
     "class": "Raider",
     "xp cost": 1,
@@ -577,7 +613,7 @@
   },
   {
     "name": "Divide The Spoils",
-    "points": 48,
+    "points": 51,
     "archetype": "Warrior",
     "class": "Raider",
     "xp cost": 2,
@@ -589,7 +625,7 @@
   },
   {
     "name": "Close The Gap",
-    "points": 49,
+    "points": 52,
     "archetype": "Warrior",
     "class": "Raider",
     "xp cost": 3,

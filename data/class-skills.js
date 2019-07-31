@@ -2741,15 +2741,27 @@
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 1,
-    "rules": "When you use Tide or Blaze, you may exhaust this card to reroll 1 attack or power die. When you purchase this card, gain an additional Elemental skill.",
+    "rules": "When you use Tide or Blaze, you may exhuast this card to reroll 1 attack or power die. When you purchase this card, gain an additional Elemental skill.",
     "fatigue cost": "0",
     "expansion": "Lost Legends",
     "image": "class-skills/mage-elementalist-ll-sun-and-sea.png",
     "xws": "sunandsea"
   },
   {
-    "name": "Tide",
+    "name": "Sun and Sea",
     "points": 229,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 1,
+    "rules": "When you use Tide or Blaze, you may exhaust this card to reroll 1 attack or power die. When you purchase this card, gain an additional Elemental skill.",
+    "fatigue cost": "0",
+    "expansion": "Lost Legends",
+    "image": "class-skills/mage-elementalist-ll-sun-and-sea-errata.png",
+    "xws": "sunandsea"
+  },
+  {
+    "name": "Tide",
+    "points": 230,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 9,
@@ -2761,7 +2773,7 @@
   },
   {
     "name": "Tide",
-    "points": 230,
+    "points": 231,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 9,
@@ -2773,7 +2785,7 @@
   },
   {
     "name": "Volcanic Might",
-    "points": 231,
+    "points": 232,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 2,
@@ -2785,133 +2797,133 @@
   },
   {
     "name": "Embalming Ritual",
-    "points": 232,
+    "points": 233,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-embalming-ritual.png",
     "xws": "embalmingritual"
   },
   {
     "name": "Eternal Service",
-    "points": 233,
+    "points": 234,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-eternal-service.png",
     "xws": "eternalservice"
   },
   {
     "name": "Path of Prophecy",
-    "points": 234,
+    "points": 235,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-path-of-prophecy.png",
     "xws": "pathofprophecy"
   },
   {
     "name": "Hymn",
-    "points": 235,
+    "points": 236,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-hymn.png",
     "xws": "hymn"
   },
   {
     "name": "Sands of Vengeance",
-    "points": 236,
+    "points": 237,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-sands-of-vengeance.png",
     "xws": "sandsofvengeance"
   },
   {
     "name": "Shroud of Respite",
-    "points": 237,
+    "points": 238,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-shroud-of-respite.png",
     "xws": "shroudofrespite"
   },
   {
     "name": "Words of Wisdom",
-    "points": 238,
+    "points": 239,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-words-of-wisdom.png",
     "xws": "wordsofwisdom"
   },
   {
     "name": "Gift of the Desert",
-    "points": 239,
+    "points": 240,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-gift-of-the-desert.png",
     "xws": "giftofthedesert"
   },
   {
     "name": "Royal Guard",
-    "points": 240,
+    "points": 241,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-royal-guard.png",
     "xws": "royalguard"
   },
   {
     "name": "Mental Assault",
-    "points": 241,
+    "points": 242,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-mental-assault.png",
     "xws": "mentalassault"
   },
   {
     "name": "Prescience",
-    "points": 242,
+    "points": 243,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-prescience.png",
     "xws": "prescience"
   },
   {
     "name": "Prescience",
-    "points": 243,
+    "points": 244,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-prescience-coop.png",
     "xws": "presciencecoop"
   },
   {
     "name": "Empathetic Resolve",
-    "points": 244,
+    "points": 245,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-empathetic-resolve.png",
     "xws": "empatheticresolve"
   },
   {
     "name": "Overload",
-    "points": 245,
+    "points": 246,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-overload.png",
     "xws": "overload"
   },
   {
     "name": "Mental Fortitude",
-    "points": 246,
+    "points": 247,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-mental-fortitude.png",
     "xws": "mentalfortitude"
   },
   {
     "name": "Possession",
-    "points": 247,
+    "points": 248,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-possession.png",
     "xws": "possession"
   },
   {
     "name": "Reaching Out",
-    "points": 248,
+    "points": 249,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-reaching-out.png",
     "xws": "reachingout"
   },
   {
     "name": "Mind Over Matter",
-    "points": 249,
+    "points": 250,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-mind-over-matter.png",
     "xws": "mindovermatter"
   },
   {
     "name": "Towering Intellect",
-    "points": 250,
+    "points": 251,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-towering-intellect.png",
     "xws": "toweringintellect"
