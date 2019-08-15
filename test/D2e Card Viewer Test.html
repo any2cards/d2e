@@ -1,0 +1,1259 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+	<head>
+		<title>D2e Card Viewer - Test Page</title>
+		<meta charset="utf-8">
+		<!--
+		<script src="https://code.jquery.com/jquery.min.js"></script>
+		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+		-->
+		<script src="https://code.jquery.com/jquery-3.4.0.js"></script>
+		<script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
+		<!-- link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/font-awesome.min.css" -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<style>
+			.accordion {
+				padding-left: 40px;
+			}
+			h1 .fa, h2 .fa, h3 .fa {
+				font-size: 10px;
+			}
+			.TextZone {
+				//to be used for custom display of the text;
+				padding-left: 40px;
+			}
+			.title {
+				top: 0;
+				left: 0;
+				position: fixed;
+				font-size: 10px;
+				padding: 5px;
+				margin: 5px 0 0 5px;
+				border-radius: 5px;
+				text-align: center;
+				border: 1px solid #9999ff;
+				background-color: #dddddd;
+			}
+		</style>
+		<script>
+			// at statup hide all
+			function Initialize(){
+				var $accordionIO = $('.accordion h1, h2, h3');
+				$accordionIO.next('div').hide();
+
+				$(".accordion h1, h2, h3").click(function() {
+					//catch icon to switch from + to - and the opposite
+					var Icon = $(this).children().first();
+
+					//catch zone do expand collapse
+					var LinkedTextZone = $(this).next();
+
+					if (Icon.hasClass('fa-plus')) {
+						//switch icin from + to -
+						Icon.removeClass('fa-plus').addClass('fa-minus');
+						//expand text Zone
+						LinkedTextZone.slideDown();
+					}
+					else {
+						//switch icin from - to +
+						Icon.removeClass('fa-minus').addClass('fa-plus');
+						//collapse text Zone
+						LinkedTextZone.slideUp();
+					}
+				})
+				$(".title").click(function() {
+					var Icon = $(this).children().first();
+					var $AllTextZones = $('.accordion h1, h2, h3');
+					if (Icon.hasClass('fa-minus')) {
+						//switch all icons from + to -
+						$('.fa-plus').removeClass('fa-plus').addClass('fa-minus');
+						//title icon is opposite of all others
+						Icon.removeClass('fa-minus').addClass('fa-plus');
+
+						//expand all
+						$AllTextZones.next('div').slideDown();
+					}
+					else {
+						//switch all icons from - to +
+						$('.fa-minus').removeClass('fa-minus').addClass('fa-plus');
+						//title icon is opposite of all others
+						Icon.removeClass('fa-plus').addClass('fa-minus');
+
+						//collapse all
+						$AllTextZones.next('div').slideUp();
+					}
+				})
+			}
+		</script>
+	</head>
+	<body onload="Initialize()">
+		<div class="title">
+			<i class="fa fa-minus"></i>
+			<br />
+			to All
+		</div>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Events </h1>
+			<div class="TextZone">
+				<div class="accordion">
+					<h2><i class="fa fa-plus"></i> Wildness </h2>
+					<div class="TextZone">
+						<ul>
+							<li>1. BG Travel Event 1 Of 10</li>
+							<li>2. BG Travel Event 2 Of 10</li>
+							<li>3. BG Travel Event 3 Of 10</li>
+							<li>4. BG Travel Event 4 Of 10</li>
+							<li>5. BG Travel Event 5 Of 10</li>
+							<li>6. BG Travel Event 6 Of 10</li>
+							<li>7. BG Travel Event 7 Of 10</li>
+							<li>8. BG Travel Event 8 Of 10</li>
+							<li>9. BG Travel Event 9 Of 10</li>
+							<li>10 BG Travel Event 10 Of 10</li>
+							<li>11. LW Travel Event 1 Of 3</li>
+							<li>12. LW Travel Event 2 Of 3</li>
+							<li>13. LW Travel Event 3 Of 3</li>
+							<li>14. LR Travel Event 1 Of 8</li>
+							<li>15. LR Travel Event 2 Of 8</li>
+							<li>16. LR Travel Event 3 Of 8</li>
+							<li>17. LR Travel Event 4 Of 8</li>
+							<li>18. LR Travel Event 5 Of 8</li>
+							<li>19. LR Travel Event 6 Of 8</li>
+							<li>20. LR Travel Event 7 Of 8</li>
+							<li>21. LR Travel Event 8 Of 8</li>
+							<li>22. TF Travel Event 1 Of 3</li>
+							<li>23. TF Travel Event 2 Of 3</li>
+							<li>24. TF Travel Event 3 Of 3</li>
+							<li>25. MB Travel Event 1 Of 5</li>
+							<li>26. MB Travel Event 2 Of 5</li>
+							<li>27. MB Travel Event 3 Of 5</li>
+							<li>28. MB Travel Event 4 Of 5</li>
+							<li>29. MB Travel Event 5 Of 5</li>
+							<li>30. CR Travel Event 1 Of 2</li>
+							<li>31. CR Travel Event 2 Of 2</li>
+						</ul>
+					</div>
+				</div>
+				<div class="accordion">
+					<h2><i class="fa fa-plus"></i> City </h2>
+					<div class="TextZone">
+						<ul>
+							<li>1. SN City Event 1 of 10</li>
+							<li>2. SN City Event 2 of 10</li>
+							<li>3. SN City Event 3 of 10</li>
+							<li>4. SN City Event 4 of 10</li>
+							<li>5. SN City Event 5 of 10</li>
+							<li>6. SN City Event 6 of 10</li>
+							<li>7. SN City Event 7 of 10</li>
+							<li>8. SN City Event 8 of 10</li>
+							<li>9. SN City Event 9 of 10</li>
+							<li>10. SN City Event 10 of 10</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Heroes </h1>
+			<div class="TextZone">
+				<div class="accordion">
+					<h2><i class="fa fa-plus"></i> Healers </h2>
+					<div class="TextZone">
+						<ul>
+							<li>1. Andira Runehand</li>
+							<li>2. Ashrian</li>
+							<li>3. Augur Grisom</li>
+							<li>4. Avric Albright</li>
+							<li>5. Brother Gherinn</li>
+							<li>6. Elder Mok</li>
+							<li>7. Jonas the Kind</li>
+							<li>8. Ispher</li>
+							<li>9. Okaluk and Rakash</li>
+							<li>10. Rendiel</li>
+							<li>11. Sahla</li>
+							<li>12. Serena</li>
+							<li>13. Ulma Grimstone</li>
+							<li>14. CK-Aurim</li>
+							<li>15. CK-Brother Glyr</li>
+						</ul>
+					</div>
+				</div>
+				<div class="accordion">
+					<h2><i class="fa fa-plus"></i> Mages </h2>
+					<div class="TextZone">
+						<ul>
+							<li>1. Astarra</li>
+							<li>2. Challara</li>
+							<li>3. Dezra the Vile</li>
+							<li>4. High Mage Quellen</li>
+							<li>5. Jaes the Exile</li>
+							<li>6. Leoric of the Book</li>
+							<li>7. Lyssa</li>
+							<li>8. Master Thorn</li>
+							<li>9. Ravaella Lightfoot</li>
+							<li>10. Shiver</li>
+							<li>11. Seer Kel</li>
+							<li>12. Widow Tarha</li>
+							<li>13. Zyla</li>
+							<li>14. CK-Landrec the Wise</li>
+							<li>15. CK-Mad Carthos</li>
+						</ul>
+					</div>
+				</div>
+				<div class="accordion">
+					<h2><i class="fa fa-plus"></i> Scouts </h2>
+					<div class="TextZone">
+						<ul>
+							<li>1. Arvel Worldwalker</li>
+							<li>2. Grey Ker</li>
+							<li>3. Jain Fairwood</li>
+							<li>4. Laurel of Bloodwood</li>
+							<li>5. Lindel</li>
+							<li>6. Logan Lashley</li>
+							<li>7. Raythen</li>
+							<li>8. Roganna the Shade</li>
+							<li>9. Ronan of the Wild</li>
+							<li>10. Silhouette</li>
+							<li>11. Tatianna</li>
+							<li>12. Tetherys</li>
+							<li>13. Thaiden Mistpeak</li>
+							<li>14. Tinashi the Wanderer</li>
+							<li>15. Tomble Burrowell</li>
+							<li>16. Vyrah the Falconer</li>
+							<li>17. CK-Bogran the Shadow</li>
+							<li>18. CK-Kirga</li>
+							<li>19. CK-Red Scorpion</li>
+							<li>20. CK-Tobin Farslayer</li>
+						</ul>
+					</div>
+				</div>
+				<div class="accordion">
+					<h2><i class="fa fa-plus"></i> Warriors </h2>
+					<div class="TextZone">
+						<ul>
+							<li>1. Alys Raine</li>
+							<li>2. Corbin</li>
+							<li>3. Grisban the Thirsty</li>
+							<li>4. Karnon</li>
+							<li>5. Krutzbeck</li>
+							<li>6. Lord Hawthorne</li>
+							<li>7. Mordrog</li>
+							<li>8. Nanok of the Blade</li>
+							<li>9. Nara the Fang</li>
+							<li>10. One Fist</li>
+							<li>11. Orkell the Swift</li>
+							<li>12. Pathfinder Durik</li>
+							<li>13. Reynhart the Worthy</li>
+							<li>14. Sir Valadir</li>
+							<li>15. Steelhorns</li>
+							<li>16. Syndrael</li>
+							<li>17. Tahlia</li>
+							<li>18. Trenloe the Strong</li>
+							<li>19. CK-Eliam</li>
+							<li>20. CK-Hugo the Glorious</li>
+							<li>21. CK-Laughin Buldar</li>
+							<li>22. CK-Varikas The Dead</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Heroes Classes </h1>
+			<div class="TextZone">
+				<div class="accordion">
+					<h2><i class="fa fa-plus"></i> Healers </h2>
+					<div class="TextZone">
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Apothecary </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Brew Elixir</li>
+									<li>Smoking Vials</li>
+									<li>Concoction</li>
+									<li>Herbal Lore</li>
+									<li>Inky Substance</li>
+									<li>Bottled Courage</li>
+									<li>Protective Tonic</li>
+									<li>Secret Formula</li>
+									<li>Hidden Stash</li>
+									<li>Potent Remedies</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Bard </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Aria Of War</li>
+									<li>Cacophony</li>
+									<li>Concentration</li>
+									<li>Dissonance</li>
+									<li>Lute', 0, item],</li>
+									<li>Peaceful Rest</li>
+									<li>Rehearsal</li>
+									<li>Song Of Mending</li>
+									<li>Travelers Blade</li>
+									<li>Understudy</li>
+									<li>Wayfarer</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Crusader </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Chosen of Kellos</li>
+									<li>Divine Light</li>
+									<li>Righteous</li>
+									<li>Zealous Aura</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Disciple </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Armor Of Faith</li>
+									<li>Blessed Strike</li>
+									<li>Cleansing Touch</li>
+									<li>Divine Fury</li>
+									<li>Holy Power</li>
+									<li>Iron Mace</li>
+									<li>Prayer Of Healing</li>
+									<li>Prayer Of Peace</li>
+									<li>Radiant Light</li>
+									<li>Time Of Need</li>
+									<li>Wooden Shield</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Heretic </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Arcane Healing</li>
+									<li>Dark Recovery</li>
+									<li>Exiled Visionary</li>
+									<li>Forbidden Arts</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Hierophant * </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Ceremonial Staff</li>
+									<li>Embalming Ritual</li>
+									<li>Eternal Service</li>
+									<li>Gift of the Desert</li>
+									<li>Hymn</li>
+									<li>Path of Prophecy</li>
+									<li>Royal Guard</li>
+									<li>Sacred Scriptures</li>
+									<li>Sands of Vengance</li>
+									<li>Shroud of Respite</li>
+									<li>Words of Wisdom</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Prophet </h3>
+							<div class="TextZone">
+								<ul>
+									<li>All Seeing</li>
+									<li>Battle Vision</li>
+									<li>Focused Insights</li>
+									<li>Forewarning</li>
+									<li>Grim Fate</li>
+									<li>Iron Flail</li>
+									<li>Lifeline</li>
+									<li>Omniscience</li>
+									<li>Sages Tome</li>
+									<li>Soothing Insight</li>
+									<li>Victory Foretold</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Soul Reaper </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Blight Extraction</li>
+									<li>Cursed Soul</li>
+									<li>Essence Harvest</li>
+									<li>Ethereal Armor</li>
+									<li>Font of Vitality</li>
+									<li>Galvanize</li>
+									<li>Harvester Scythe</li>
+									<li>Mirror of Souls</li>
+									<li>Reapers Pact</li>
+									<li>Spirit Link</li>
+									<li>Stream of Life</li>
+									<li>Unholy Bond</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Spiritspeaker </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Ancestor Spirits</li>
+									<li>Cloud Of Mist</li>
+									<li>Drain Spirit</li>
+									<li>Healing Rain</li>
+									<li>Natures Bounty</li>
+									<li>Oak Staff</li>
+									<li>Shared Pain</li>
+									<li>Stoneskin</li>
+									<li>Tempest</li>
+									<li>Vigor</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Watchman </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Quick Recovery</li>
+									<li>Trailblazer</li>
+									<li>Unity</li>
+									<li>Vigilance</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="accordion">
+					<h2><i class="fa fa-plus"></i> Mages </h2>
+					<div class="TextZone">
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Battlemage </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Arcane Veteran</li>
+									<li>Death Siphon</li>
+									<li>Planar Weapon</li>
+									<li>Runic Weave</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Conjurer </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Blinding Light</li>
+									<li>Channeling</li>
+									<li>Focus Fire</li>
+									<li>Illusory Path</li>
+									<li>Many Friends</li>
+									<li>Mirror Image</li>
+									<li>Prismatic Assault</li>
+									<li>Prismatic Staff</li>
+									<li>Refraction</li>
+									<li>Sleight Of Mind</li>
+									<li>Vortex</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Elementalist </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Blaze</li>
+									<li>Earth and Sky</li>
+									<li>Elemental Focus</li>
+									<li>Grasp</li>
+									<li>Gust</li>
+									<li>Natures Embrace</li>
+									<li>Natures Fury</li>
+									<li>Primal Harmony</li>
+									<li>Runeshard Cache</li>
+									<li>Spire of Conflux</li>
+									<li>Spiritual Balance</li>
+									<li>Storms Fury</li>
+									<li>Sun and Sea</li>
+									<li>Tide</li>
+									<li>Volcanic Might</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Geomancer </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Cataclysm</li>
+									<li>Earthen Anguish</li>
+									<li>Gravity Spike</li>
+									<li>Ley Line</li>
+									<li>Molten Fury</li>
+									<li>Quaking Word</li>
+									<li>Stasis Rune</li>
+									<li>Stone Tongue</li>
+									<li>Summoned Stone</li>
+									<li>Terracall</li>
+									<li>Ways Of Stone</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Hexer </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Accursed Arms</li>
+									<li>Affliction</li>
+									<li>Crippling Curse</li>
+									<li>Enfeebling Hex</li>
+									<li>Fel Command</li>
+									<li>Internal Rot</li>
+									<li>Plague Cloud</li>
+									<li>Plague Spasm</li>
+									<li>Staff Of The Grave</li>
+									<li>Viral Hex</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Lorekeeper </h3>
+							<div class="TextZone">
+								<ul>
+									<li>All Knowing</li>
+									<li>Ancient Remedy</li>
+									<li>Careful Balance</li>
+									<li>Interdisciplinary</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Necromancer </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Army Of Death</li>
+									<li>Corpse Blast</li>
+									<li>Dark Pact</li>
+									<li>Deathly Haste</li>
+									<li>Dying Command</li>
+									<li>Fury Of Undeath</li>
+									<li>Raise Dead</li>
+									<li>Reanimate</li>
+									<li>Reapers Scythe</li>
+									<li>Undead Might</li>
+									<li>Vampiric Blood</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Psychic * </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Mental Assault</li>
+									<li>Prescience</li>
+									<li>Prescience Coop</li>
+									<li>Empathic Resolve</li>
+									<li>Overload</li>
+									<li>Possession</li>
+									<li>Reaching Out</li>
+									<li>Mental Fortitude</li>
+									<li>Mind over Matter</li>
+									<li>Towering Intellect</li>
+									<li>Minds Eye Turban</li>
+									<li>Shadow Darts</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Runemaster </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Arcane Bolt</li>
+									<li>Break The Rune</li>
+									<li>Exploding Rune</li>
+									<li>Ghost Armor</li>
+									<li>Inscribe Rune</li>
+									<li>Iron Will</li>
+									<li>Quick Casting</li>
+									<li>Rune Mastery</li>
+									<li>Runic Knowledge</li>
+									<li>Runic Sorcery</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Truthseer </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Clairvoyance</li>
+									<li>Premonition</li>
+									<li>Translocation</li>
+									<li>True Sight</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="accordion">
+					<h2><i class="fa fa-plus"></i> Scouts </h2>
+					<div class="TextZone">
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Bounty Hunter </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Chosen Target</li>
+									<li>Dark Iron Chains</li>
+									<li>Double Crossbow</li>
+									<li>Evil Eye</li>
+									<li>Lie In Wait</li>
+									<li>Longshot</li>
+									<li>Not So Fast</li>
+									<li>Payday</li>
+									<li>Rapid Fire</li>
+									<li>Undercover</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Monk </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Greater calling</li>
+									<li>Inner Balance</li>
+									<li>Openhanded</li>
+									<li>Vow Of Freedom</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Ravager </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Battle Hardened</li>
+									<li>Charging Assault</li>
+									<li>Momentum</li>
+									<li>Vicious Throw</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Shadow Walker </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Dark Servant</li>
+									<li>Dark Shift</li>
+									<li>Endless Void</li>
+									<li>Faithful Friend</li>
+									<li>Feathered Hatchet</li>
+									<li>Otherworldly</li>
+									<li>Shadow Puppet</li>
+									<li>Shadow Soul</li>
+									<li>Shadow Step</li>
+									<li>Soul Bound</li>
+									<li>Through The Veil</li>
+									<li>Tribal Cloak</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Stalker </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Ambush</li>
+									<li>Black Widows Web</li>
+									<li>Easy Prey</li>
+									<li>Exploit</li>
+									<li>Hunters Mark</li>
+									<li>Hunting Knife</li>
+									<li>Lay Of The Land</li>
+									<li>Makeshift Trap</li>
+									<li>Poison Barbs</li>
+									<li>Set Trap</li>
+									<li>Upper Hand</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Thief </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Appraisal</li>
+									<li>Bushwhack</li>
+									<li>Caltrops</li>
+									<li>Dirty Tricks</li>
+									<li>Greedy</li>
+									<li>Lucky-Charm</li>
+									<li>Lurk</li>
+									<li>Sneaky</li>
+									<li>Throwing Knives</li>
+									<li>Tumble</li>
+									<li>Unseen</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Treasure Hunter </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Delver</li>
+									<li>Dungeoneer</li>
+									<li>Finders Keepers</li>
+									<li>Gold Rush</li>
+									<li>Guard The Spoils</li>
+									<li>Leather Whip</li>
+									<li>Lure Of Fortune</li>
+									<li>Sleight Of Hand</li>
+									<li>Survey</li>
+									<li>The Dead Mans Compass</li>
+									<li>Trail Of Riches</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Trickster </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Arcane Fusion</li>
+									<li>Now You See Me</li>
+									<li>Private Collection</li>
+									<li>Razzle Dazzle</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Wildlander </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Accurate</li>
+									<li>Black Arrow</li>
+									<li>Bow Mastery</li>
+									<li>Danger Sense</li>
+									<li>Eagle Eyes</li>
+									<li>First Strike</li>
+									<li>Fleet Of Foot</li>
+									<li>Nimble</li>
+									<li>Running Shot</li>
+									<li>Yew Shortbow</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="accordion">
+					<h2><i class="fa fa-plus"></i> Warriors </h2>
+					<div class="TextZone">
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Avenger </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Death From Above</li>
+									<li>Holy Champion</li>
+									<li>Justicar</li>
+									<li>Vengeful Smite</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Beastmaster </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Predator</li>
+									<li>Changing Skins</li>
+									<li>Shadow Hunter</li>
+									<li>Savagery</li>
+									<li>Feral Frenzy</li>
+									<li>Survivalist</li>
+									<li>Stalker</li>
+									<li>Bestial Rage</li>
+									<li>Bound by the Hunt</li>
+									<li>Wolf</li>
+									<li>Skinning Knife</li>
+									<li>Hunting Spear</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Berserker </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Execute</li>
+									<li>Death Rage</li>
+									<li>Whirlwind</li>
+									<li>Weapon Mastery</li>
+									<li>Charge</li>
+									<li>Cripple</li>
+									<li>Counter Attack</li>
+									<li>Brute</li>
+									<li>Rage</li>
+									<li>Chipped Greataxe</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Champion </h3>
+							<div class="TextZone">
+								<ul>
+									<li>A Living Legend</li>
+									<li>For The Cause</li>
+									<li>Glory Of Battle</li>
+									<li>Horn Of Courage</li>
+									<li>Inspiring Presence</li>
+									<li>Motivating Charge</li>
+									<li>No Mercy</li>
+									<li>Stoic Resolve</li>
+									<li>Valor Of Heroes</li>
+									<li>Valorous Strike</li>
+									<li>Worn Greatsword</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Knight </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Advance</li>
+									<li>Challenge</li>
+									<li>Defend</li>
+									<li>Defense Training</li>
+									<li>Guard</li>
+									<li>Inspiration</li>
+									<li>Iron Longsword</li>
+									<li>Oath Of Honor</li>
+									<li>Shield Slam</li>
+									<li>Stalwart</li>
+									<li>Wooden Shield</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Marshal </h3>
+							<div class="TextZone">
+								<ul>
+									<li>By The Book</li>
+									<li>By The Book Coop</li>
+									<li>Crushing Blow</li>
+									<li>I Am The Law</li>
+									<li>Just Reward</li>
+									<li>Just Reward Coop</li>
+									<li>Last Stand</li>
+									<li>Retribution</li>
+									<li>Shockwave</li>
+									<li>Signet Ring</li>
+									<li>Vigilant Watch</li>
+									<li>War Hammer</li>
+									<li>Zealous Fire</li>
+									<li>Zealous Fire Coop</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Raider </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Close the Gap</li>
+									<li>Divide the Spoils</li>
+									<li>Into the Fray</li>
+									<li>Surprise Assault</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Skirmisher </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Back In Action</li>
+									<li>Born In Battle</li>
+									<li>Carve A Path</li>
+									<li>Deep Wounds</li>
+									<li>Dual Strike</li>
+									<li>Ever In Motion</li>
+									<li>Jagged Handaxe</li>
+									<li>Keen Edge</li>
+									<li>Rusted Handaxe</li>
+									<li>Unrelenting</li>
+									<li>Unstoppable</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h3><i class="fa fa-plus"></i> Steelcaster </h3>
+							<div class="TextZone">
+								<ul>
+									<li>Iron Blooded</li>
+									<li>Rune Grafting</li>
+									<li>Runeguard</li>
+									<li>Shield Mage</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Items </h1>
+			<div class="TextZone">
+				<div class="accordion">
+					<h2><i class="fa fa-plus"></i> Act I </h2>
+					<div class="TextZone">
+						<ul>
+							<li>1. Archaic Scroll</li>
+							<li>2. Baron's Cloak</li>
+							<li>3. Battle Tome</li>
+							<li>4. Bearded Axe</li>
+							<li>5. Belt Of Alchemy</li>
+							<li>6. Belt Of Waterwalking</li>
+							<li>7. Blessed Shield</li>
+							<li>8. Bloodscript Ring</li>
+							<li>9. Bloody Dagger</li>
+							<li>10. Bone Blade</li>
+							<li>11. Boots Of Iron</li>
+							<li>12. Bow Of Bone</li>
+							<li>13. Chainmail</li>
+							<li>14. City Guard's Bow</li>
+							<li>15. Cloak Of Mists</li>
+							<li>16. Corpsebug Brooch</li>
+							<li>17. Crossbow</li>
+							<li>18. Deflecting Shield</li>
+							<li>19. Dire Flail</li>
+							<li>20. Elm Greatbow</li>
+							<li>21. Elven Boots</li>
+							<li>22. Flash Powder</li>
+							<li>23. Guardian Axe</li>
+							<li>24. Halberd</li>
+							<li>25. Handbow</li>
+							<li>26. Heavy Cloak</li>
+							<li>27. Immolation</li>
+							<li>28. Incendiary Arrows</li>
+							<li>29. Iron Battleaxe</li>
+							<li>30. Iron Shield</li>
+							<li>31. Iron Shield</li>
+							<li>32. Iron Spear</li>
+							<li>33. Ironbound Rune</li>
+							<li>34. Jeweled Mace</li>
+							<li>35. Jinn's Lamp</li>
+							<li>36. Leather Armor</li>
+							<li>37. Leather Armor</li>
+							<li>38. Lifedrain Scepter</li>
+							<li>39. Light Hammer</li>
+							<li>40. Lucky Charm</li>
+							<li>41. Mace Of Aver</li>
+							<li>42. Magic Staff</li>
+							<li>43. Magma Blast</li>
+							<li>44. Mana Weave</li>
+							<li>45. Mapstone</li>
+							<li>46. Marsh Cloak</li>
+							<li>47. Mistbane</li>
+							<li>48. Phoenix Pendant</li>
+							<li>49. Poisoned Blowgun</li>
+							<li>50. Ring of Power</li>
+							<li>51. Rune Plate</li>
+							<li>52. Scorpion Helm</li>
+							<li>53. Serpent Dagger</li>
+							<li>54. Shadow Bracers</li>
+							<li>55. Shield Of Light</li>
+							<li>56. Sling</li>
+							<li>57. Soulbound Sword</li>
+							<li>58. Soulstone</li>
+							<li>59. Staff Of Greyhaven</li>
+							<li>60. Steel Broadsword</li>
+							<li>61. Sunburst</li>
+							<li>62. Teleportation Rune</li>
+							<li>63. Thief's Vest</li>
+							<li>64. Trident</li>
+							<li>65. Undying Skull</li>
+							<li>66. White Wolf Cloak</li>
+							<li>67. Witch Hazel Bow</li>
+						</ul>
+					</div>
+				</div>
+				<div class="accordion">
+					<h2><i class="fa fa-plus"></i> Act II </h2>
+					<div class="TextZone">
+						<ul>
+							<li>1. Belt Of Strength</li>
+							<li>2. Black Iron Helm</li>
+							<li>3. Blasting Rune</li>
+							<li>4. Blessed Armor</li>
+							<li>5. Bloodthirsty Bracers</li>
+							<li>6. Bone Wand</li>
+							<li>7. Boomerang</li>
+							<li>8. Bow Of The Eclipse</li>
+							<li>9. Bow Of The Sky</li>
+							<li>10. Cloak Of Deception</li>
+							<li>11. Demonhide Leather</li>
+							<li>12. Dragontooth Hammer</li>
+							<li>13. Dwarven Firebomb</li>
+							<li>14. Elven Cloak</li>
+							<li>15. Fists of Iron</li>
+							<li>16. Glaive</li>
+							<li>17. Golden Mask</li>
+							<li>18. Grinding Axe</li>
+							<li>19. Hammer Of Doom</li>
+							<li>20. Heart Seeker</li>
+							<li>21. Heavy Steel Shield</li>
+							<li>22. Horned Shield</li>
+							<li>23. Ice Storm</li>
+							<li>24. Inscribed Robes</li>
+							<li>25. Iron-Bound Ring</li>
+							<li>26. Iron Claws</li>
+							<li>27. Ironbound Glaive</li>
+							<li>28. Ironbound Shield</li>
+							<li>29. Latari Longbow</li>
+							<li>30. Lightning Javelin</li>
+							<li>31. Lightning Strike</li>
+							<li>32. Mace Of Kellos</li>
+							<li>33. Mask of Horrors (item)</li>
+							<li>34. Merciful Boots</li>
+							<li>35. Nerekhall Plate</li>
+							<li>36. Obsidian Greataxe</li>
+							<li>37. Obsidian Scalemail</li>
+							<li>38. Platemail</li>
+							<li>39. Rage Blade</li>
+							<li>40. Rat-Tooth Dagger</li>
+							<li>41. Repeating Crossbow</li>
+							<li>42. Rune Of Blades</li>
+							<li>43. Rune Of Fate</li>
+							<li>44. Rune Of Misery</li>
+							<li>45. Rune-Touched Leather</li>
+							<li>46. Sash of the Slayer</li>
+							<li>47. Scalemail</li>
+							<li>48. Shadow Tome</li>
+							<li>49. Shroud Of Dusk</li>
+							<li>50. Staff Of Kellos</li>
+							<li>51. Staff Of The Wild</li>
+							<li>52. Star Of Kellos</li>
+							<li>53. Steel Greatsword</li>
+							<li>54. Stone Armor</li>
+							<li>55. Tival Crystal</li>
+							<li>56. Vestments Of Kellos</li>
+							<li>57. Winged Blade</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Lieutenants </h1>
+			<div class="TextZone">
+				<ul>
+					<li>Ardus Ix’Erebus</li>
+					<li>Ariad</li>
+					<li>Baron Zachareth</li>
+					<li>Belthir</li>
+					<li>Bol'Goreth</li>
+					<li>Kyndrithul</li>
+					<li>Lady Eliza Farrow</li>
+					<li>Lord Merick Farrow</li>
+					<li>Gargan Mirklace</li>
+					<li>Queen Ariad</li>
+					<li>Raythen</li>
+					<li>Rylan Olliven</li>
+					<li>Serena</li>
+					<li>Skarn</li>
+					<li>Sir Alric Farrow</li>
+					<li>Splig</li>
+					<li>Tristayne Olliven</li>
+					<li>Valyndra</li>
+					<li>Verminous</li>
+					<li>Zarihell</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Monsters </h1>
+			<div class="TextZone">
+				<ul>
+					<li>Arachyura</li>
+					<li>Bandit</li>
+					<li>Bane Spider</li>
+					<li>Barghest</li>
+					<li>Beastman</li>
+					<li>Blood Ape</li>
+					<li>Bone Horror</li>
+					<li>Broodwalker</li>
+					<li>Burrowing Horror *</li>
+					<li>Carrion Drake</li>
+					<li>Spider</li>
+					<li>Changeling</li>
+					<li>Chaos Beast</li>
+					<li>Crow Hag</li>
+					<li>Crypt Dragon</li>
+					<li>Minotaur</li>
+					<li>Priest</li>
+					<li>Deep Elf</li>
+					<li>Demon Lord</li>
+					<li>Elemental</li>
+					<li>Ettin</li>
+					<li>Ferrox</li>
+					<li>Fire Imps</li>
+					<li>Flesh Moulder</li>
+					<li>Giant</li>
+					<li>Goblin Archer</li>
+					<li>Goblin Witcher</li>
+					<li>Golem</li>
+					<li>Harpy</li>
+					<li>Hellhound</li>
+					<li>Hybrid Sentinel</li>
+					<li>Ice Wyrm</li>
+					<li>Ironbound</li>
+					<li>Kobold</li>
+					<li>Lava Beetle</li>
+					<li>Manticore</li>
+					<li>Marrow Priest</li>
+					<li>Medusa</li>
+					<li>Merriod</li>
+					<li>Sarcophagus Guard *</li>
+					<li>Naga</li>
+					<li>Ogre</li>
+					<li>Plague Worm</li>
+					<li>Rat Swarm</li>
+					<li>Razorwing</li>
+					<li>Reanimate</li>
+					<li>Shade</li>
+					<li>Shadow Dragon</li>
+					<li>Shambling Colossus</li>
+					<li>Skeleton Archer</li>
+					<li>Sorcerer</li>
+					<li>The Dispossessed</li>
+					<li>Troll</li>
+					<li>Volucrix Reaver</li>
+					<li>Wendigo</li>
+					<li>Wraith</li>
+					<li>Ynfernael Hulk</li>
+					<li>Zombie</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Relics </h1>
+			<div class="TextZone">
+				<ul>
+					<li>Aurium Mail</li>
+					<li>Azatheas Triumph</li>
+					<li>Band Of Foresight</li>
+					<li>Blade Of Brivala</li>
+					<li>Boneborn Bow</li>
+					<li>Bones Of Woe</li>
+					<li>Book Of Stars</li>
+					<li>Curative Vial</li>
+					<li>Dawnblade</li>
+					<li>Duskblade</li>
+					<li>Fallen Heart</li>
+					<li>Fear Eater</li>
+					<li>Fortunas Dice</li>
+					<li>Forewarned Ring</li>
+					<li>Gauntlets Of Power</li>
+					<li>Gauntlets Of Spite</li>
+					<li>Her Majestys Malice</li>
+					<li>Immunity Elixir</li>
+					<li>Living Heart</li>
+					<li>Mending Talisman</li>
+					<li>Omen Of Blight</li>
+					<li>Robes Of The Last</li>
+					<li>Scorpions Kiss</li>
+					<li>Shadow Plotter</li>
+					<li>Shards Of Ithyndrus</li>
+					<li>Shield Of The Dark God</li>
+					<li>Shield Of Zoreks Favor</li>
+					<li>Soulless Scythe</li>
+					<li>Spirited Scythe</li>
+					<li>Staff Of Light</li>
+					<li>Staff Of Shadows</li>
+					<li>Stone Of Wayward Means</li>
+					<li>Sun Stone</li>
+					<li>Suns Fury</li>
+					<li>Taskmasters Ring</li>
+					<li>The Manors Heart</li>
+					<li>The Shadow Rune</li>
+					<li>The White Crown</li>
+					<li>Tome Of The Five Lies</li>
+					<li>Trueshot</li>
+					<li>Undertakers Coat</li>
+					<li>Valyndras Bane</li>
+					<li>Valyndras Gift</li>
+					<li>Waiqars Favor</li>
+					<li>Wanderers Stone</li>
+					<li>Workmans Ring</li>
+					<li>Ynfernal Rune</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Rumors </h1>
+			<div class="TextZone">
+				<ul>
+					<li>A Dangerous Path</li>
+					<li>Atrocities</li>
+					<li>Burning Harvest</li>
+					<li>Crusade of the Forgotten</li>
+					<li>Cursed Treasures</li>
+					<li>Famine and Strife</li>
+					<li>Finders and Keepers</li>
+					<li>Food for Worms</li>
+					<li>Ghost Town</li>
+					<li>Gold Digger</li>
+					<li>Guardians of Deephall</li>
+					<li>My House, My Rules</li>
+					<li>Oath of the Outcast</li>
+					<li>One Man's Trash</li>
+					<li>Rude Awakening</li>
+					<li>Scarce Goods</li>
+					<li>Shards of Everdark</li>
+					<li>Sindaea's Secret</li>
+					<li>Spread Your Wings</li>
+					<li>Stewards of the Secret</li>
+					<li>Three Heads, One Mind</li>
+					<li>Trucebreaker</li>
+					<li>Unknown Treasures</li>
+					<li>Valyndra's Fury</li>
+					<li>What's Yours is Mine</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Secret Passages </h1>
+			<div class="TextZone">
+				<ul>
+					<li>Cursed Tomb</li>
+					<li>Overgrown Chasm</li>
+					<li>Place of Peace</li>
+					<li>Room of Keys</li>
+					<li>Tainted Spring</li>
+					<li>Troll Pit</li>
+					<li>Hidden Stash</li>
+					<li>The Armory</li>
+					<li>Brigand's Quarters</li>
+					<li>The Lorekeeper's Vault</li>
+					<li>The Dragon Shrine</li>
+					<li>The Dark Council</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Search Items </h1>
+			<div class="TextZone">
+				<ul>
+					<li>To be done</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Tainted </h1>
+			<div class="TextZone">
+				<ul>
+					<li>To be done</li>
+				</ul>
+			</div>
+		</div>
+
+		* Fan Based Content
+	</body>
+</html>
