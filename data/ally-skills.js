@@ -1,11 +1,11 @@
 [
   {
-    "name": "Backstrike",
+    "name": "Back Strike",
     "points": 0,
     "ally": "Raythen",
     "rules": "This ally gains +4 Health. Action: This ally performs an attack. THis attack must target a monster adjacent to another hero and the attack gains +3 Hearts.",
     "expansion": "Labyrinth Of Ruin",
-    "image": "ally-skills/raythen/backstrike-lr.png",
+    "image": "ally-skills/raythen/back-strike-lr.png",
     "xws": "backstrike"
   },
   {
