@@ -123,7 +123,7 @@
     "name": "Summon - Zachareth",
     "points": 9,
     "threat cost": 3,
-    "ability": "Exhaust this card after setup of each encounter to choose an open monster group. Replace 1 master and 1 minion monster in the chosen group with the Baron Zacareth agent. If the Baron Zacareth agent is defeated, return this card to your Plot deck. You cannot use this card in \"The Shadow Rune\" campaign.",
+    "ability": "Exhaust this card after setup of each encounter to choose an open monster group. Replace 1 master and 1 minion monster in the chosen group with the Baron Zachareth agent. If the Baron Zachareth agent is defeated, return this card to your Plot deck. You cannot use this card in \"The Shadow Rune\" campaign.",
     "trigger cost": 2,
     "expansion": "Base Game",
     "image": "plot-decks/seeds-of-betrayal/summon-zachareth.png",
