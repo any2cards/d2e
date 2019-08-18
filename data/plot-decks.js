@@ -1,6 +1,6 @@
 [
   {
-    "agent": "Baron Zacareth",
+    "agent": "Baron Zachareth",
     "deck": "Seeds Of Betrayal",
     "card": "1/12",
     "name": "Sole Purpose",
@@ -13,7 +13,7 @@
     "xws": "solepurpose"
   },
   {
-    "agent": "Baron Zacareth",
+    "agent": "Baron Zachareth",
     "deck": "Seeds Of Betrayal",
     "card": "2/12",
     "name": "Scrying And Plotting",
@@ -26,7 +26,7 @@
     "xws": "scryingandplotting"
   },
   {
-    "agent": "Baron Zacareth",
+    "agent": "Baron Zachareth",
     "deck": "Seeds Of Betrayal",
     "card": "3/12",
     "name": "Rush Of Power",
@@ -39,7 +39,7 @@
     "xws": "rushofpower"
   },
   {
-    "agent": "Baron Zacareth",
+    "agent": "Baron Zachareth",
     "deck": "Seeds Of Betrayal",
     "card": "4/12",
     "name": "Two-Pronged Gambit",
@@ -52,7 +52,7 @@
     "xws": "twoprongedgambit"
   },
   {
-    "agent": "Baron Zacareth",
+    "agent": "Baron Zachareth",
     "deck": "Seeds Of Betrayal",
     "card": "5/12",
     "name": "Nefarious Power",
@@ -65,7 +65,7 @@
     "xws": "nefariouspower"
   },
   {
-    "agent": "Baron Zacareth",
+    "agent": "Baron Zachareth",
     "deck": "Seeds Of Betrayal",
     "card": "6/12",
     "name": "Always Prepared",
@@ -78,7 +78,7 @@
     "xws": "alwaysprepared"
   },
   {
-    "agent": "Baron Zacareth",
+    "agent": "Baron Zachareth",
     "deck": "Seeds Of Betrayal",
     "card": "7/12",
     "name": "False Friends",
@@ -91,7 +91,7 @@
     "xws": "falsefriends"
   },
   {
-    "agent": "Baron Zacareth",
+    "agent": "Baron Zachareth",
     "deck": "Seeds Of Betrayal",
     "card": "8/12",
     "name": "Trouble On The Road",
@@ -104,7 +104,7 @@
     "xws": "troubleontheroad"
   },
   {
-    "agent": "Baron Zacareth",
+    "agent": "Baron Zachareth",
     "deck": "Seeds Of Betrayal",
     "card": "9/12",
     "name": "Meticulous Planning",
@@ -117,17 +117,17 @@
     "xws": "meticulousplanning"
   },
   {
-    "agent": "Baron Zacareth",
+    "agent": "Baron Zachareth",
     "deck": "Seeds Of Betrayal",
     "card": "10/12",
-    "name": "Summon - Zacareth",
+    "name": "Summon - Zachareth",
     "points": 9,
     "threat cost": 3,
     "ability": "Exhaust this card after setup of each encounter to choose an open monster group. Replace 1 master and 1 minion monster in the chosen group with the Baron Zacareth agent. If the Baron Zacareth agent is defeated, return this card to your Plot deck. You cannot use this card in \"The Shadow Rune\" campaign.",
     "trigger cost": 2,
     "expansion": "Base Game",
-    "image": "plot-decks/seeds-of-betrayal/summon-zacareth.png",
-    "xws": "summonzacareth"
+    "image": "plot-decks/seeds-of-betrayal/summon-zachareth.png",
+    "xws": "summonzachareth"
   },
   {
     "agent": "Belthir",
