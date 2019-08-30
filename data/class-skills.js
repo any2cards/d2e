@@ -1380,8 +1380,20 @@
     "xws": "potentremedies"
   },
   {
-    "name": "Enfeebling Hex",
+    "name": "Potent Remedies",
     "points": 115,
+    "archetype": "Healer",
+    "class": "Apothecary",
+    "xp cost": 3,
+    "rules": "When a hero discards an elixir token from his Hero sheet, he may roll 1 additional green power die and recover Fatigue equal to the Surges rolled, in addition to any Hearts recovered (even if this card is exhausted). You may exhaust this card to revive an adjacent hero without using an action.",
+    "fatigue cost": "0",
+    "expansion": "Labyrinth Of Ruin",
+    "image": "class-skills/healer-apothecary-lr-potent-remedies-errata.png",
+    "xws": "potentremedies"
+  },
+  {
+    "name": "Enfeebling Hex",
+    "points": 116,
     "archetype": "Mage",
     "class": "Hexer",
     "xp cost": 0,
@@ -1393,7 +1405,7 @@
   },
   {
     "name": "Affliction",
-    "points": 116,
+    "points": 117,
     "archetype": "Mage",
     "class": "Hexer",
     "xp cost": 1,
@@ -1405,7 +1417,7 @@
   },
   {
     "name": "Plague Spasm",
-    "points": 117,
+    "points": 118,
     "archetype": "Mage",
     "class": "Hexer",
     "xp cost": 1,
@@ -1417,7 +1429,7 @@
   },
   {
     "name": "Viral Hex",
-    "points": 118,
+    "points": 119,
     "archetype": "Mage",
     "class": "Hexer",
     "xp cost": 1,
@@ -1429,7 +1441,7 @@
   },
   {
     "name": "Crippling Curse",
-    "points": 119,
+    "points": 120,
     "archetype": "Mage",
     "class": "Hexer",
     "xp cost": 2,
@@ -1441,7 +1453,7 @@
   },
   {
     "name": "Fel Command",
-    "points": 120,
+    "points": 121,
     "archetype": "Mage",
     "class": "Hexer",
     "xp cost": 2,
@@ -1453,7 +1465,7 @@
   },
   {
     "name": "Internal Rot",
-    "points": 121,
+    "points": 122,
     "archetype": "Mage",
     "class": "Hexer",
     "xp cost": 2,
@@ -1465,7 +1477,7 @@
   },
   {
     "name": "Accursed Arms",
-    "points": 122,
+    "points": 123,
     "archetype": "Mage",
     "class": "Hexer",
     "xp cost": 3,
@@ -1477,7 +1489,7 @@
   },
   {
     "name": "Plague Cloud",
-    "points": 123,
+    "points": 124,
     "archetype": "Mage",
     "class": "Hexer",
     "xp cost": 3,
@@ -1489,7 +1501,7 @@
   },
   {
     "name": "Delver",
-    "points": 124,
+    "points": 125,
     "archetype": "Scout",
     "class": "Treasure Hunter",
     "xp cost": 0,
@@ -1501,7 +1513,7 @@
   },
   {
     "name": "Dungeoneer",
-    "points": 125,
+    "points": 126,
     "archetype": "Scout",
     "class": "Treasure Hunter",
     "xp cost": 1,
@@ -1513,7 +1525,7 @@
   },
   {
     "name": "Survey",
-    "points": 126,
+    "points": 127,
     "archetype": "Scout",
     "class": "Treasure Hunter",
     "xp cost": 1,
@@ -1525,7 +1537,7 @@
   },
   {
     "name": "Gold Rush",
-    "points": 127,
+    "points": 128,
     "archetype": "Scout",
     "class": "Treasure Hunter",
     "xp cost": 1,
@@ -1537,7 +1549,7 @@
   },
   {
     "name": "Guard The Spoils",
-    "points": 128,
+    "points": 129,
     "archetype": "Scout",
     "class": "Treasure Hunter",
     "xp cost": 2,
@@ -1549,7 +1561,7 @@
   },
   {
     "name": "Sleight Of Hand",
-    "points": 129,
+    "points": 130,
     "archetype": "Scout",
     "class": "Treasure Hunter",
     "xp cost": 2,
@@ -1561,7 +1573,7 @@
   },
   {
     "name": "Lure Of Fortune",
-    "points": 130,
+    "points": 131,
     "archetype": "Scout",
     "class": "Treasure Hunter",
     "xp cost": 2,
@@ -1573,7 +1585,7 @@
   },
   {
     "name": "Finder's Keeper's",
-    "points": 131,
+    "points": 132,
     "archetype": "Scout",
     "class": "Treasure Hunter",
     "xp cost": 3,
@@ -1585,7 +1597,7 @@
   },
   {
     "name": "Trail Of Riches",
-    "points": 132,
+    "points": 133,
     "archetype": "Scout",
     "class": "Treasure Hunter",
     "xp cost": 3,
@@ -1597,7 +1609,7 @@
   },
   {
     "name": "Soothing Insight",
-    "points": 133,
+    "points": 134,
     "archetype": "Healer",
     "class": "Prophet",
     "xp cost": 0,
@@ -1609,7 +1621,7 @@
   },
   {
     "name": "Battle Vision",
-    "points": 134,
+    "points": 135,
     "archetype": "Healer",
     "class": "Prophet",
     "xp cost": 1,
@@ -1621,7 +1633,7 @@
   },
   {
     "name": "Forewarning",
-    "points": 135,
+    "points": 136,
     "archetype": "Healer",
     "class": "Prophet",
     "xp cost": 1,
@@ -1633,7 +1645,7 @@
   },
   {
     "name": "Grim Fate",
-    "points": 136,
+    "points": 137,
     "archetype": "Healer",
     "class": "Prophet",
     "xp cost": 1,
@@ -1645,7 +1657,7 @@
   },
   {
     "name": "All-Seeing",
-    "points": 137,
+    "points": 138,
     "archetype": "Healer",
     "class": "Prophet",
     "xp cost": 2,
@@ -1657,7 +1669,7 @@
   },
   {
     "name": "Lifeline",
-    "points": 138,
+    "points": 139,
     "archetype": "Healer",
     "class": "Prophet",
     "xp cost": 2,
@@ -1669,7 +1681,7 @@
   },
   {
     "name": "Victory Foretold",
-    "points": 139,
+    "points": 140,
     "archetype": "Healer",
     "class": "Prophet",
     "xp cost": 2,
@@ -1681,7 +1693,7 @@
   },
   {
     "name": "Focused Insights",
-    "points": 140,
+    "points": 141,
     "archetype": "Healer",
     "class": "Prophet",
     "xp cost": 3,
@@ -1693,7 +1705,7 @@
   },
   {
     "name": "Omniscience",
-    "points": 141,
+    "points": 142,
     "archetype": "Healer",
     "class": "Prophet",
     "xp cost": 3,
@@ -1705,7 +1717,7 @@
   },
   {
     "name": "Set Trap",
-    "points": 142,
+    "points": 143,
     "archetype": "Scout",
     "class": "Stalker",
     "xp cost": 0,
@@ -1717,7 +1729,7 @@
   },
   {
     "name": "Hunter's Mark",
-    "points": 143,
+    "points": 144,
     "archetype": "Scout",
     "class": "Stalker",
     "xp cost": 1,
@@ -1729,7 +1741,7 @@
   },
   {
     "name": "Exploit",
-    "points": 144,
+    "points": 145,
     "archetype": "Scout",
     "class": "Stalker",
     "xp cost": 1,
@@ -1741,7 +1753,7 @@
   },
   {
     "name": "Makeshift Trap",
-    "points": 145,
+    "points": 146,
     "archetype": "Scout",
     "class": "Stalker",
     "xp cost": 1,
@@ -1753,7 +1765,7 @@
   },
   {
     "name": "Lay Of The Land",
-    "points": 146,
+    "points": 147,
     "archetype": "Scout",
     "class": "Stalker",
     "xp cost": 2,
@@ -1765,7 +1777,7 @@
   },
   {
     "name": "Easy Prey",
-    "points": 147,
+    "points": 148,
     "archetype": "Scout",
     "class": "Stalker",
     "xp cost": 2,
@@ -1777,7 +1789,7 @@
   },
   {
     "name": "Poison Barbs",
-    "points": 148,
+    "points": 149,
     "archetype": "Scout",
     "class": "Stalker",
     "xp cost": 2,
@@ -1789,7 +1801,7 @@
   },
   {
     "name": "Ambush",
-    "points": 149,
+    "points": 150,
     "archetype": "Scout",
     "class": "Stalker",
     "xp cost": 3,
@@ -1801,7 +1813,7 @@
   },
   {
     "name": "Upper Hand",
-    "points": 150,
+    "points": 151,
     "archetype": "Scout",
     "class": "Stalker",
     "xp cost": 3,
@@ -1813,7 +1825,7 @@
   },
   {
     "name": "Dual Strike",
-    "points": 151,
+    "points": 152,
     "archetype": "Warrior",
     "class": "Skirmisher",
     "xp cost": 0,
@@ -1825,7 +1837,7 @@
   },
   {
     "name": "Back In Action",
-    "points": 152,
+    "points": 153,
     "archetype": "Warrior",
     "class": "Skirmisher",
     "xp cost": 1,
@@ -1837,7 +1849,7 @@
   },
   {
     "name": "Deep Wounds",
-    "points": 153,
+    "points": 154,
     "archetype": "Warrior",
     "class": "Skirmisher",
     "xp cost": 1,
@@ -1849,7 +1861,7 @@
   },
   {
     "name": "Keen Edge",
-    "points": 154,
+    "points": 155,
     "archetype": "Warrior",
     "class": "Skirmisher",
     "xp cost": 1,
@@ -1861,7 +1873,7 @@
   },
   {
     "name": "Born In Battle",
-    "points": 155,
+    "points": 156,
     "archetype": "Warrior",
     "class": "Skirmisher",
     "xp cost": 2,
@@ -1873,7 +1885,7 @@
   },
   {
     "name": "Ever In Motion",
-    "points": 156,
+    "points": 157,
     "archetype": "Warrior",
     "class": "Skirmisher",
     "xp cost": 2,
@@ -1885,7 +1897,7 @@
   },
   {
     "name": "Unrelenting",
-    "points": 157,
+    "points": 158,
     "archetype": "Warrior",
     "class": "Skirmisher",
     "xp cost": 2,
@@ -1897,7 +1909,7 @@
   },
   {
     "name": "Carve A Path",
-    "points": 158,
+    "points": 159,
     "archetype": "Warrior",
     "class": "Skirmisher",
     "xp cost": 3,
@@ -1909,7 +1921,7 @@
   },
   {
     "name": "Unstoppable",
-    "points": 159,
+    "points": 160,
     "archetype": "Warrior",
     "class": "Skirmisher",
     "xp cost": 3,
@@ -1921,7 +1933,7 @@
   },
   {
     "name": "Song Of Mending",
-    "points": 160,
+    "points": 161,
     "archetype": "Healer",
     "class": "Bard",
     "xp cost": 0,
@@ -1933,7 +1945,7 @@
   },
   {
     "name": "Dissonance",
-    "points": 161,
+    "points": 162,
     "archetype": "Healer",
     "class": "Bard",
     "xp cost": 1,
@@ -1945,7 +1957,7 @@
   },
   {
     "name": "Peaceful Rest",
-    "points": 162,
+    "points": 163,
     "archetype": "Healer",
     "class": "Bard",
     "xp cost": 1,
@@ -1957,7 +1969,7 @@
   },
   {
     "name": "Understudy",
-    "points": 163,
+    "points": 164,
     "archetype": "Healer",
     "class": "Bard",
     "xp cost": 1,
@@ -1969,7 +1981,7 @@
   },
   {
     "name": "Aria Of War",
-    "points": 164,
+    "points": 165,
     "archetype": "Healer",
     "class": "Bard",
     "xp cost": 2,
@@ -1981,7 +1993,7 @@
   },
   {
     "name": "Concentration",
-    "points": 165,
+    "points": 166,
     "archetype": "Healer",
     "class": "Bard",
     "xp cost": 2,
@@ -1993,7 +2005,7 @@
   },
   {
     "name": "Rehearsal",
-    "points": 166,
+    "points": 167,
     "archetype": "Healer",
     "class": "Bard",
     "xp cost": 2,
@@ -2005,7 +2017,7 @@
   },
   {
     "name": "Cacophony",
-    "points": 167,
+    "points": 168,
     "archetype": "Healer",
     "class": "Bard",
     "xp cost": 3,
@@ -2017,7 +2029,7 @@
   },
   {
     "name": "Wayfarer",
-    "points": 168,
+    "points": 169,
     "archetype": "Healer",
     "class": "Bard",
     "xp cost": 3,
@@ -2029,7 +2041,7 @@
   },
   {
     "name": "Channeling",
-    "points": 169,
+    "points": 170,
     "archetype": "Mage",
     "class": "Conjurer",
     "xp cost": 1,
@@ -2041,7 +2053,7 @@
   },
   {
     "name": "Mirror Image",
-    "points": 170,
+    "points": 171,
     "archetype": "Mage",
     "class": "Conjurer",
     "xp cost": 0,
@@ -2053,7 +2065,7 @@
   },
   {
     "name": "Mirror Image",
-    "points": 171,
+    "points": 172,
     "archetype": "Mage",
     "class": "Conjurer",
     "xp cost": 0,
@@ -2065,7 +2077,7 @@
   },
   {
     "name": "Illusory Path",
-    "points": 172,
+    "points": 173,
     "archetype": "Mage",
     "class": "Conjurer",
     "xp cost": 1,
@@ -2077,7 +2089,7 @@
   },
   {
     "name": "Many Friends",
-    "points": 173,
+    "points": 174,
     "archetype": "Mage",
     "class": "Conjurer",
     "xp cost": 1,
@@ -2089,7 +2101,7 @@
   },
   {
     "name": "Refraction",
-    "points": 174,
+    "points": 175,
     "archetype": "Mage",
     "class": "Conjurer",
     "xp cost": 1,
@@ -2101,7 +2113,7 @@
   },
   {
     "name": "Blinding Light",
-    "points": 175,
+    "points": 176,
     "archetype": "Mage",
     "class": "Conjurer",
     "xp cost": 2,
@@ -2113,7 +2125,7 @@
   },
   {
     "name": "Focus Fire",
-    "points": 176,
+    "points": 177,
     "archetype": "Mage",
     "class": "Conjurer",
     "xp cost": 2,
@@ -2125,7 +2137,7 @@
   },
   {
     "name": "Sleight Of Mind",
-    "points": 177,
+    "points": 178,
     "archetype": "Mage",
     "class": "Conjurer",
     "xp cost": 2,
@@ -2137,7 +2149,7 @@
   },
   {
     "name": "Prismatic Assault",
-    "points": 178,
+    "points": 179,
     "archetype": "Mage",
     "class": "Conjurer",
     "xp cost": 3,
@@ -2149,7 +2161,7 @@
   },
   {
     "name": "Vortex",
-    "points": 179,
+    "points": 180,
     "archetype": "Mage",
     "class": "Conjurer",
     "xp cost": 3,
@@ -2161,7 +2173,7 @@
   },
   {
     "name": "Soul Bound",
-    "points": 180,
+    "points": 181,
     "archetype": "Scout",
     "class": "Shadow Walker",
     "xp cost": 0,
@@ -2173,7 +2185,7 @@
   },
   {
     "name": "Dark Servant",
-    "points": 181,
+    "points": 182,
     "archetype": "Scout",
     "class": "Shadow Walker",
     "xp cost": 1,
@@ -2185,7 +2197,7 @@
   },
   {
     "name": "Faithful Friend",
-    "points": 182,
+    "points": 183,
     "archetype": "Scout",
     "class": "Shadow Walker",
     "xp cost": 1,
@@ -2197,7 +2209,7 @@
   },
   {
     "name": "Through The Veil",
-    "points": 183,
+    "points": 184,
     "archetype": "Scout",
     "class": "Shadow Walker",
     "xp cost": 1,
@@ -2209,7 +2221,7 @@
   },
   {
     "name": "Dark Shift",
-    "points": 184,
+    "points": 185,
     "archetype": "Scout",
     "class": "Shadow Walker",
     "xp cost": 2,
@@ -2221,7 +2233,7 @@
   },
   {
     "name": "Endless Void",
-    "points": 185,
+    "points": 186,
     "archetype": "Scout",
     "class": "Shadow Walker",
     "xp cost": 2,
@@ -2233,7 +2245,7 @@
   },
   {
     "name": "Otherworldly",
-    "points": 186,
+    "points": 187,
     "archetype": "Scout",
     "class": "Shadow Walker",
     "xp cost": 2,
@@ -2245,7 +2257,7 @@
   },
   {
     "name": "Shadow Step",
-    "points": 187,
+    "points": 188,
     "archetype": "Scout",
     "class": "Shadow Walker",
     "xp cost": 3,
@@ -2257,7 +2269,7 @@
   },
   {
     "name": "Shadow Puppet",
-    "points": 188,
+    "points": 189,
     "archetype": "Scout",
     "class": "Shadow Walker",
     "xp cost": 3,
@@ -2269,7 +2281,7 @@
   },
   {
     "name": "Retribution",
-    "points": 189,
+    "points": 190,
     "archetype": "Warrior",
     "class": "Marshal",
     "xp cost": 0,
@@ -2281,7 +2293,7 @@
   },
   {
     "name": "Just Reward",
-    "points": 190,
+    "points": 191,
     "archetype": "Warrior",
     "class": "Marshal",
     "xp cost": 1,
@@ -2293,7 +2305,7 @@
   },
   {
     "name": "Shockwave",
-    "points": 191,
+    "points": 192,
     "archetype": "Warrior",
     "class": "Marshal",
     "xp cost": 1,
@@ -2305,7 +2317,7 @@
   },
   {
     "name": "Zealous Fire",
-    "points": 192,
+    "points": 193,
     "archetype": "Warrior",
     "class": "Marshal",
     "xp cost": 1,
@@ -2317,7 +2329,7 @@
   },
   {
     "name": "By The Book",
-    "points": 193,
+    "points": 194,
     "archetype": "Warrior",
     "class": "Marshal",
     "xp cost": 2,
@@ -2329,7 +2341,7 @@
   },
   {
     "name": "I Am The Law",
-    "points": 194,
+    "points": 195,
     "archetype": "Warrior",
     "class": "Marshal",
     "xp cost": 2,
@@ -2341,7 +2353,7 @@
   },
   {
     "name": "Vigilant Watch",
-    "points": 195,
+    "points": 196,
     "archetype": "Warrior",
     "class": "Marshal",
     "xp cost": 2,
@@ -2353,7 +2365,7 @@
   },
   {
     "name": "Crushing Blow",
-    "points": 196,
+    "points": 197,
     "archetype": "Warrior",
     "class": "Marshal",
     "xp cost": 3,
@@ -2365,7 +2377,7 @@
   },
   {
     "name": "Last Stand",
-    "points": 197,
+    "points": 198,
     "archetype": "Warrior",
     "class": "Marshal",
     "xp cost": 3,
@@ -2377,7 +2389,7 @@
   },
   {
     "name": "Chosen Target",
-    "points": 198,
+    "points": 199,
     "archetype": "Scout",
     "class": "Bounty Hunter",
     "xp cost": 0,
@@ -2389,7 +2401,7 @@
   },
   {
     "name": "Longshot",
-    "points": 199,
+    "points": 200,
     "archetype": "Scout",
     "class": "Bounty Hunter",
     "xp cost": 1,
@@ -2401,7 +2413,7 @@
   },
   {
     "name": "Lie In Wait",
-    "points": 200,
+    "points": 201,
     "archetype": "Scout",
     "class": "Bounty Hunter",
     "xp cost": 1,
@@ -2413,7 +2425,7 @@
   },
   {
     "name": "Not So Fast",
-    "points": 201,
+    "points": 202,
     "archetype": "Scout",
     "class": "Bounty Hunter",
     "xp cost": 1,
@@ -2425,7 +2437,7 @@
   },
   {
     "name": "Dark Iron Chains",
-    "points": 202,
+    "points": 203,
     "archetype": "Scout",
     "class": "Bounty Hunter",
     "xp cost": 2,
@@ -2437,7 +2449,7 @@
   },
   {
     "name": "Undercover",
-    "points": 203,
+    "points": 204,
     "archetype": "Scout",
     "class": "Bounty Hunter",
     "xp cost": 2,
@@ -2449,7 +2461,7 @@
   },
   {
     "name": "Evil Eye",
-    "points": 204,
+    "points": 205,
     "archetype": "Scout",
     "class": "Bounty Hunter",
     "xp cost": 2,
@@ -2461,7 +2473,7 @@
   },
   {
     "name": "Payday",
-    "points": 205,
+    "points": 206,
     "archetype": "Scout",
     "class": "Bounty Hunter",
     "xp cost": 3,
@@ -2473,7 +2485,7 @@
   },
   {
     "name": "Rapid Fire",
-    "points": 206,
+    "points": 207,
     "archetype": "Scout",
     "class": "Bounty Hunter",
     "xp cost": 3,
@@ -2485,7 +2497,7 @@
   },
   {
     "name": "Blight Extraction",
-    "points": 207,
+    "points": 208,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 1,
@@ -2497,7 +2509,7 @@
   },
   {
     "name": "Cursed Soul",
-    "points": 208,
+    "points": 209,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 2,
@@ -2509,7 +2521,7 @@
   },
   {
     "name": "Essence Harvest",
-    "points": 209,
+    "points": 210,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 0,
@@ -2521,7 +2533,7 @@
   },
   {
     "name": "Ethereal Armor",
-    "points": 210,
+    "points": 211,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 2,
@@ -2533,7 +2545,7 @@
   },
   {
     "name": "Font of Vitality",
-    "points": 211,
+    "points": 212,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 3,
@@ -2545,7 +2557,7 @@
   },
   {
     "name": "Galvanize",
-    "points": 212,
+    "points": 213,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 2,
@@ -2557,7 +2569,7 @@
   },
   {
     "name": "Reaper's Pact",
-    "points": 213,
+    "points": 214,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 3,
@@ -2569,7 +2581,7 @@
   },
   {
     "name": "Spirit Link",
-    "points": 214,
+    "points": 215,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 1,
@@ -2581,7 +2593,7 @@
   },
   {
     "name": "Stream of Life",
-    "points": 215,
+    "points": 216,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 0,
@@ -2593,7 +2605,7 @@
   },
   {
     "name": "Unholy Bond",
-    "points": 216,
+    "points": 217,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 1,
@@ -2605,7 +2617,7 @@
   },
   {
     "name": "Blaze",
-    "points": 217,
+    "points": 218,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 9,
@@ -2617,7 +2629,7 @@
   },
   {
     "name": "Earth and Sky",
-    "points": 218,
+    "points": 219,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 1,
@@ -2629,7 +2641,7 @@
   },
   {
     "name": "Elemental Focus",
-    "points": 219,
+    "points": 220,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 0,
@@ -2641,7 +2653,7 @@
   },
   {
     "name": "Grasp",
-    "points": 220,
+    "points": 221,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 9,
@@ -2653,7 +2665,7 @@
   },
   {
     "name": "Gust",
-    "points": 221,
+    "points": 222,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 9,
@@ -2665,7 +2677,7 @@
   },
   {
     "name": "Nature's Embrace",
-    "points": 222,
+    "points": 223,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 3,
@@ -2677,7 +2689,7 @@
   },
   {
     "name": "Nature's Embrace",
-    "points": 223,
+    "points": 224,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 3,
@@ -2689,7 +2701,7 @@
   },
   {
     "name": "Nature's Fury",
-    "points": 224,
+    "points": 225,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 3,
@@ -2701,7 +2713,7 @@
   },
   {
     "name": "Primal Harmony",
-    "points": 225,
+    "points": 226,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 1,
@@ -2713,7 +2725,7 @@
   },
   {
     "name": "Spiritual Balance",
-    "points": 226,
+    "points": 227,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 2,
@@ -2725,7 +2737,7 @@
   },
   {
     "name": "Storm's Fury",
-    "points": 227,
+    "points": 228,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 2,
@@ -2737,7 +2749,7 @@
   },
   {
     "name": "Sun and Sea",
-    "points": 228,
+    "points": 229,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 1,
@@ -2749,7 +2761,7 @@
   },
   {
     "name": "Sun and Sea",
-    "points": 229,
+    "points": 230,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 1,
@@ -2761,7 +2773,7 @@
   },
   {
     "name": "Tide",
-    "points": 230,
+    "points": 231,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 9,
@@ -2773,7 +2785,7 @@
   },
   {
     "name": "Tide",
-    "points": 231,
+    "points": 232,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 9,
@@ -2785,7 +2797,7 @@
   },
   {
     "name": "Volcanic Might",
-    "points": 232,
+    "points": 233,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 2,
@@ -2797,133 +2809,133 @@
   },
   {
     "name": "Embalming Ritual",
-    "points": 233,
+    "points": 234,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-embalming-ritual.png",
     "xws": "embalmingritual"
   },
   {
     "name": "Eternal Service",
-    "points": 234,
+    "points": 235,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-eternal-service.png",
     "xws": "eternalservice"
   },
   {
     "name": "Path of Prophecy",
-    "points": 235,
+    "points": 236,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-path-of-prophecy.png",
     "xws": "pathofprophecy"
   },
   {
     "name": "Hymn",
-    "points": 236,
+    "points": 237,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-hymn.png",
     "xws": "hymn"
   },
   {
     "name": "Sands of Vengeance",
-    "points": 237,
+    "points": 238,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-sands-of-vengeance.png",
     "xws": "sandsofvengeance"
   },
   {
     "name": "Shroud of Respite",
-    "points": 238,
+    "points": 239,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-shroud-of-respite.png",
     "xws": "shroudofrespite"
   },
   {
     "name": "Words of Wisdom",
-    "points": 239,
+    "points": 240,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-words-of-wisdom.png",
     "xws": "wordsofwisdom"
   },
   {
     "name": "Gift of the Desert",
-    "points": 240,
+    "points": 241,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-gift-of-the-desert.png",
     "xws": "giftofthedesert"
   },
   {
     "name": "Royal Guard",
-    "points": 241,
+    "points": 242,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-royal-guard.png",
     "xws": "royalguard"
   },
   {
     "name": "Mental Assault",
-    "points": 242,
+    "points": 243,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-mental-assault.png",
     "xws": "mentalassault"
   },
   {
     "name": "Prescience",
-    "points": 243,
+    "points": 244,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-prescience.png",
     "xws": "prescience"
   },
   {
     "name": "Prescience",
-    "points": 244,
+    "points": 245,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-prescience-coop.png",
     "xws": "presciencecoop"
   },
   {
     "name": "Empathetic Resolve",
-    "points": 245,
+    "points": 246,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-empathetic-resolve.png",
     "xws": "empatheticresolve"
   },
   {
     "name": "Overload",
-    "points": 246,
+    "points": 247,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-overload.png",
     "xws": "overload"
   },
   {
     "name": "Mental Fortitude",
-    "points": 247,
+    "points": 248,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-mental-fortitude.png",
     "xws": "mentalfortitude"
   },
   {
     "name": "Possession",
-    "points": 248,
+    "points": 249,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-possession.png",
     "xws": "possession"
   },
   {
     "name": "Reaching Out",
-    "points": 249,
+    "points": 250,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-reaching-out.png",
     "xws": "reachingout"
   },
   {
     "name": "Mind Over Matter",
-    "points": 250,
+    "points": 251,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-mind-over-matter.png",
     "xws": "mindovermatter"
   },
   {
     "name": "Towering Intellect",
-    "points": 251,
+    "points": 252,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-pyschic-sotp-towering-intellect.png",
     "xws": "toweringintellect"
