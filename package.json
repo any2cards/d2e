@@ -1,0 +1,24 @@
+{
+  "name": "d2e",
+  "version": "0.1.0",
+  "description": "An easy-to-use collection of data and images from D2e: Descent 2nd Edition by Fantasy Flight Games.",
+  "scripts": {
+    "release": "./node_modules/.bin/release-it",
+    "patch": "npm run release -- patch",
+    "minor": "npm run release -- minor",
+    "major": "npm run release -- major"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/any2cards/d2e"
+  },
+  "author": "William Habush <any2cards@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/any2cards/d2e/issues"
+  },
+  "homepage": "https://github.com/any2cards/d2e",
+  "devDependencies": {
+    "release-it": "^2.3.1"
+  }
+}
