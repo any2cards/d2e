@@ -9,6 +9,7 @@ const ignoredNodes = ['TEXTAREA', 'INPUT'];
 const xwcRed = '#e81e25';
 const offset = 5;
 const cardWidth = 768;
+const cardHeight = 492;
 const imagePadding = 4;
 let amountOfMatches = 1;
 const classname = '__xwc-container';
@@ -206,8 +207,8 @@ function moveTooltip(e) {
       x -= right - windowRightBound;
     }
 
-	if (y + 492 > window.scrollY + window.innerHeight) {
-      y = y - ( (y + 492) - (window.scrollY + window.innerHeight) ) - 20;
+	if (y + cardHeight > window.scrollY + window.innerHeight) {
+      y = y - ( (y + cardHeight) - (window.scrollY + window.innerHeight) ) - 20;
     }
 
     if (x < 0) {
