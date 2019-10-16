@@ -102,5 +102,18 @@
     "expansion": "Conversion Kit",
     "image": "familiars/skye-ck.png",
     "xws": "skye"
+  },
+  {
+    "name": "Drakon",
+    "points": 8,
+    "speed": "-",
+    "health": "-",
+    "defense": "-",
+    "attack": "-",
+    "type": "-",
+    "traits": "While your hero figure is replaced with the Drakon figure, add 1 additional gray die to your defense pool, 1 additional green power die to your attack pool, your speed is limited to 3 and you cannot spend Fatigue or use items to increase it.",
+    "expansion": "Maze of the Drakon",
+    "image": "familiars/drakon-motd.png",
+    "xws": "drakon"
   }
 ]

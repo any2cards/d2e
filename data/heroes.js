@@ -1992,5 +1992,12 @@
     "expansion": "Sands Of The Past",
     "image": "heroes/mages/runemaker-tara-sotp.png",
     "xws": "runemakertara"
+  },
+  {
+    "name": "Ocvist the Dragonslayer",
+    "points": 112,
+    "expansion": "Maze of the Drakon",
+    "image": "heroes/warriors/ocvist-the-dragonslayer-motd.png",
+    "xws": "ocvistthedragonslayer"
   }
 ]
