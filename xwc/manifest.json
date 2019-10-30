@@ -17,7 +17,7 @@
 	  "*://any2cards.github.io/d2e/*"
     ],
     "js": [
-      "content.js"
+	  "content.js"
     ],
     "css": [
       "content.css"

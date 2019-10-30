@@ -2874,70 +2874,70 @@
     "name": "Mental Assault",
     "points": 243,
     "expansion": "Sands Of The Past",
-    "image": "class-skills/mage-pyschic-sotp-mental-assault.png",
+    "image": "class-skills/mage-psychic-sotp-mental-assault.png",
     "xws": "mentalassault"
   },
   {
     "name": "Prescience",
     "points": 244,
     "expansion": "Sands Of The Past",
-    "image": "class-skills/mage-pyschic-sotp-prescience.png",
+    "image": "class-skills/mage-psychic-sotp-prescience.png",
     "xws": "prescience"
   },
   {
     "name": "Prescience",
     "points": 245,
     "expansion": "Sands Of The Past",
-    "image": "class-skills/mage-pyschic-sotp-prescience-coop.png",
+    "image": "class-skills/mage-psychic-sotp-prescience-coop.png",
     "xws": "presciencecoop"
   },
   {
     "name": "Empathetic Resolve",
     "points": 246,
     "expansion": "Sands Of The Past",
-    "image": "class-skills/mage-pyschic-sotp-empathetic-resolve.png",
+    "image": "class-skills/mage-psychic-sotp-empathetic-resolve.png",
     "xws": "empatheticresolve"
   },
   {
     "name": "Overload",
     "points": 247,
     "expansion": "Sands Of The Past",
-    "image": "class-skills/mage-pyschic-sotp-overload.png",
+    "image": "class-skills/mage-psychic-sotp-overload.png",
     "xws": "overload"
   },
   {
     "name": "Mental Fortitude",
     "points": 248,
     "expansion": "Sands Of The Past",
-    "image": "class-skills/mage-pyschic-sotp-mental-fortitude.png",
+    "image": "class-skills/mage-psychic-sotp-mental-fortitude.png",
     "xws": "mentalfortitude"
   },
   {
     "name": "Possession",
     "points": 249,
     "expansion": "Sands Of The Past",
-    "image": "class-skills/mage-pyschic-sotp-possession.png",
+    "image": "class-skills/mage-psychic-sotp-possession.png",
     "xws": "possession"
   },
   {
     "name": "Reaching Out",
     "points": 250,
     "expansion": "Sands Of The Past",
-    "image": "class-skills/mage-pyschic-sotp-reaching-out.png",
+    "image": "class-skills/mage-psychic-sotp-reaching-out.png",
     "xws": "reachingout"
   },
   {
     "name": "Mind Over Matter",
     "points": 251,
     "expansion": "Sands Of The Past",
-    "image": "class-skills/mage-pyschic-sotp-mind-over-matter.png",
+    "image": "class-skills/mage-psychic-sotp-mind-over-matter.png",
     "xws": "mindovermatter"
   },
   {
     "name": "Towering Intellect",
     "points": 252,
     "expansion": "Sands Of The Past",
-    "image": "class-skills/mage-pyschic-sotp-towering-intellect.png",
+    "image": "class-skills/mage-psychic-sotp-towering-intellect.png",
     "xws": "toweringintellect"
   }
 ]
