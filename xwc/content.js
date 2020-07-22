@@ -29,6 +29,7 @@ const files = [
   'tainted.js',
   'traps.js',
   'travel-event-decks.js',
+  'turn-summary.js',
 ]
 
 const repoBaseUrl = 'https://raw.githubusercontent.com/any2cards/d2e/master';

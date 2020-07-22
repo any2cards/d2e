@@ -2508,8 +2508,20 @@
     "xws": "blightextraction"
   },
   {
-    "name": "Cursed Soul",
+    "name": "Blight Extraction",
     "points": 209,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "xp cost": 1,
+    "rules": "Each time you use Stream of Life, the chosen hero may also discard 1 Condition. If another hero discards a Condition from this effect, you may gain that Condition and place 2 damage tokens on Essence Harvest.",
+    "fatigue cost": "0",
+    "expansion": "Lost Legends",
+    "image": "class-skills/healer-soul-reaper-ll-blight-extraction-errata.png",
+    "xws": "blightextraction"
+  },
+  {
+    "name": "Cursed Soul",
+    "points": 210,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 2,
@@ -2521,7 +2533,7 @@
   },
   {
     "name": "Essence Harvest",
-    "points": 210,
+    "points": 211,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 0,
@@ -2533,7 +2545,7 @@
   },
   {
     "name": "Ethereal Armor",
-    "points": 211,
+    "points": 212,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 2,
@@ -2545,7 +2557,7 @@
   },
   {
     "name": "Font of Vitality",
-    "points": 212,
+    "points": 213,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 3,
@@ -2557,7 +2569,7 @@
   },
   {
     "name": "Galvanize",
-    "points": 213,
+    "points": 214,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 2,
@@ -2569,7 +2581,7 @@
   },
   {
     "name": "Reaper's Pact",
-    "points": 214,
+    "points": 215,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 3,
@@ -2581,7 +2593,7 @@
   },
   {
     "name": "Spirit Link",
-    "points": 215,
+    "points": 216,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 1,
@@ -2593,7 +2605,7 @@
   },
   {
     "name": "Stream of Life",
-    "points": 216,
+    "points": 217,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 0,
@@ -2605,7 +2617,7 @@
   },
   {
     "name": "Unholy Bond",
-    "points": 217,
+    "points": 218,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "xp cost": 1,
@@ -2616,8 +2628,20 @@
     "xws": "unholybond"
   },
   {
+    "name": "Unholy Bond",
+    "points": 219,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "xp cost": 1,
+    "rules": "Each time a monster within 3 spaces performs an attack, you may spend 1 essence to force the monster to reroll 1 attack or power die.",
+    "fatigue cost": "0",
+    "expansion": "Lost Legends",
+    "image": "class-skills/healer-soul-reaper-ll-unholy-bond-errata.png",
+    "xws": "unholybond"
+  },
+  {
     "name": "Blaze",
-    "points": 218,
+    "points": 220,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 9,
@@ -2629,7 +2653,7 @@
   },
   {
     "name": "Earth and Sky",
-    "points": 219,
+    "points": 221,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 1,
@@ -2641,7 +2665,7 @@
   },
   {
     "name": "Elemental Focus",
-    "points": 220,
+    "points": 222,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 0,
@@ -2653,7 +2677,7 @@
   },
   {
     "name": "Grasp",
-    "points": 221,
+    "points": 223,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 9,
@@ -2665,7 +2689,7 @@
   },
   {
     "name": "Gust",
-    "points": 222,
+    "points": 224,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 9,
@@ -2677,7 +2701,7 @@
   },
   {
     "name": "Nature's Embrace",
-    "points": 223,
+    "points": 225,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 3,
@@ -2689,7 +2713,7 @@
   },
   {
     "name": "Nature's Embrace",
-    "points": 224,
+    "points": 226,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 3,
@@ -2701,7 +2725,7 @@
   },
   {
     "name": "Nature's Fury",
-    "points": 225,
+    "points": 227,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 3,
@@ -2712,8 +2736,20 @@
     "xws": "naturesfury"
   },
   {
+    "name": "Nature's Fury",
+    "points": 228,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 3,
+    "rules": "Apply +1 to your Stamina. After you use Blaze, add 1 yellow power die and add the results to your attack results. When you use Gust, you may choose yourself.",
+    "fatigue cost": "0",
+    "expansion": "Lost Legends",
+    "image": "class-skills/mage-elementalist-ll-natures-fury-errata.png",
+    "xws": "naturesfury"
+  },
+  {
     "name": "Primal Harmony",
-    "points": 226,
+    "points": 229,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 1,
@@ -2725,7 +2761,7 @@
   },
   {
     "name": "Spiritual Balance",
-    "points": 227,
+    "points": 230,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 2,
@@ -2737,7 +2773,7 @@
   },
   {
     "name": "Storm's Fury",
-    "points": 228,
+    "points": 231,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 2,
@@ -2749,7 +2785,7 @@
   },
   {
     "name": "Sun and Sea",
-    "points": 229,
+    "points": 232,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 1,
@@ -2761,7 +2797,7 @@
   },
   {
     "name": "Sun and Sea",
-    "points": 230,
+    "points": 233,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 1,
@@ -2773,7 +2809,7 @@
   },
   {
     "name": "Tide",
-    "points": 231,
+    "points": 234,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 9,
@@ -2785,7 +2821,7 @@
   },
   {
     "name": "Tide",
-    "points": 232,
+    "points": 235,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 9,
@@ -2797,7 +2833,7 @@
   },
   {
     "name": "Volcanic Might",
-    "points": 233,
+    "points": 236,
     "archetype": "Mage",
     "class": "Elementalist",
     "xp cost": 2,
@@ -2809,133 +2845,133 @@
   },
   {
     "name": "Embalming Ritual",
-    "points": 234,
+    "points": 237,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-embalming-ritual.png",
     "xws": "embalmingritual"
   },
   {
     "name": "Eternal Service",
-    "points": 235,
+    "points": 238,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-eternal-service.png",
     "xws": "eternalservice"
   },
   {
     "name": "Path of Prophecy",
-    "points": 236,
+    "points": 239,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-path-of-prophecy.png",
     "xws": "pathofprophecy"
   },
   {
     "name": "Hymn",
-    "points": 237,
+    "points": 240,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-hymn.png",
     "xws": "hymn"
   },
   {
     "name": "Sands of Vengeance",
-    "points": 238,
+    "points": 241,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-sands-of-vengeance.png",
     "xws": "sandsofvengeance"
   },
   {
     "name": "Shroud of Respite",
-    "points": 239,
+    "points": 242,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-shroud-of-respite.png",
     "xws": "shroudofrespite"
   },
   {
     "name": "Words of Wisdom",
-    "points": 240,
+    "points": 243,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-words-of-wisdom.png",
     "xws": "wordsofwisdom"
   },
   {
     "name": "Gift of the Desert",
-    "points": 241,
+    "points": 244,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-gift-of-the-desert.png",
     "xws": "giftofthedesert"
   },
   {
     "name": "Royal Guard",
-    "points": 242,
+    "points": 245,
     "expansion": "Sands Of The Past",
     "image": "class-skills/healer-hierophant-sotp-royal-guard.png",
     "xws": "royalguard"
   },
   {
     "name": "Mental Assault",
-    "points": 243,
+    "points": 246,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-psychic-sotp-mental-assault.png",
     "xws": "mentalassault"
   },
   {
     "name": "Prescience",
-    "points": 244,
+    "points": 247,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-psychic-sotp-prescience.png",
     "xws": "prescience"
   },
   {
     "name": "Prescience",
-    "points": 245,
+    "points": 248,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-psychic-sotp-prescience-coop.png",
     "xws": "presciencecoop"
   },
   {
     "name": "Empathetic Resolve",
-    "points": 246,
+    "points": 249,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-psychic-sotp-empathetic-resolve.png",
     "xws": "empatheticresolve"
   },
   {
     "name": "Overload",
-    "points": 247,
+    "points": 250,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-psychic-sotp-overload.png",
     "xws": "overload"
   },
   {
     "name": "Mental Fortitude",
-    "points": 248,
+    "points": 251,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-psychic-sotp-mental-fortitude.png",
     "xws": "mentalfortitude"
   },
   {
     "name": "Possession",
-    "points": 249,
+    "points": 252,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-psychic-sotp-possession.png",
     "xws": "possession"
   },
   {
     "name": "Reaching Out",
-    "points": 250,
+    "points": 253,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-psychic-sotp-reaching-out.png",
     "xws": "reachingout"
   },
   {
     "name": "Mind Over Matter",
-    "points": 251,
+    "points": 254,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-psychic-sotp-mind-over-matter.png",
     "xws": "mindovermatter"
   },
   {
     "name": "Towering Intellect",
-    "points": 252,
+    "points": 255,
     "expansion": "Sands Of The Past",
     "image": "class-skills/mage-psychic-sotp-towering-intellect.png",
     "xws": "toweringintellect"
