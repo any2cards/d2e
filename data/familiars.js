@@ -102,5 +102,44 @@
     "expansion": "Conversion Kit",
     "image": "familiars/skye-ck.png",
     "xws": "skye"
+  },
+  {
+    "name": "Drakon",
+    "points": 8,
+    "speed": "-",
+    "health": "-",
+    "defense": "-",
+    "attack": "-",
+    "type": "-",
+    "traits": "While your hero figure is replaced with the Drakon figure, add 1 additional gray die to your defense pool, 1 additional green power die to your attack pool, your speed is limited to 3 and you cannot gain movement points from items or suffering Fatigue.",
+    "expansion": "Maze of the Drakon",
+    "image": "familiars/drakon-motd.png",
+    "xws": "drakon"
+  },
+  {
+    "name": "Spring of Life",
+    "points": 9,
+    "speed": "0",
+    "health": "12",
+    "defense": "-",
+    "attack": "-",
+    "type": "-",
+    "traits": "Any figure that ends its turn in a space containing Spring of Life immediately rolls 1 red power die and recovers Heart equal to the Heart rolled and Fatigue equal to the Surge rolled. Then Spring of Life suffers Heart equal to the Heart and Surge rolled.",
+    "expansion": "Maze of the Drakon",
+    "image": "familiars/spring-of-life-motd.png",
+    "xws": "springoflife"
+  },
+  {
+    "name": "Roots of Protection",
+    "points": 10,
+    "speed": "0",
+    "health": "8",
+    "defense": "-",
+    "attack": "-",
+    "type": "-",
+    "traits": "Roots of Protection may be targeted and affected by any attack and are Unmovable. When any figure in a space containing Roots of Protection is targeted or affected by a Melee attack, Roots of Protection are declared as the target of the attack instead.",
+    "expansion": "Maze of the Drakon",
+    "image": "familiars/roots-of-protection-motd.png",
+    "xws": "rootsofprotection"
   }
 ]
