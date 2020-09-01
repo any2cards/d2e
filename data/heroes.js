@@ -2008,7 +2008,7 @@
     "ability": "If you performed a rest action during this turn, place your hero token here at the end of your turn. Each time you perform an attack, after dice are rolled, you may add 1 Surge to the results for each hero token you discard.",
     "feat": "Action: Mark up to 4 spaces within 3 spaces of you. Until the start of your next turn, these spaces are treated as Lava spaces. Each figure in a marked space suffers 1 Heart. Quest-related figures ignore the end turn effect of marked spaces.",
     "expansion": "Maze of the Drakon",
-    "image": "heroes/healers/aurora-motd.png",
+    "image": "heroes/mages/aurora-motd.png",
     "xws": "aurora"
   },
   {
@@ -2062,7 +2062,7 @@
     "ability": "You have the Drakon card. Each time you are attacked and suffer no Heart, recover 1 Fatigue.",
     "feat": "Use at the end of your turn, if possible to place the Drakon figure in your space. Until the end of your next turn, replace your figure with the Drakon figure.",
     "expansion": "Maze of the Drakon",
-    "image": "heroes/healers/ocvist-the-dragonslayer-motd.png",
+    "image": "heroes/warriors/ocvist-the-dragonslayer-motd.png",
     "xws": "ocvistthedragonslayer"
   },
   {
@@ -2080,7 +2080,7 @@
     "ability": "Each attack that targets you must roll 3 additional range beyond the normally required amount or the attack is a miss. If you are adjacent to any other hero, replace your brown defense die with gray defense die.",
     "feat": "Use when you are targeted by an attack, before dice are rolled, you may move up to 3 spaces. After the movement, if you cannot be declared as the target of the attack, attack is considered a miss.",
     "expansion": "Maze of the Drakon",
-    "image": "heroes/healers/ravvis-the-ranger-motd.png",
+    "image": "heroes/scouts/ravvis-the-ranger-motd.png",
     "xws": "ravvistheranger"
   }
 ]
