@@ -4269,7 +4269,7 @@
     "attack": "Range",
     "characteristics": [
       "Minion: Speed: 4, Health: 6, Defense: Gray Brown, Attack: Blue Yellow Yellow, Abilities: Surge: Immobilize, Surge: Poison",
-      "Master: Speed: 4, Health: 9, Defense: Gray BRown, Attack: Blue Yellow Yellow, Abilities: Surge: Immobilize, Surge: Poison, Surge: Stun"
+      "Master: Speed: 4, Health: 9, Defense: Gray Brown, Attack: Blue Yellow Yellow, Abilities: Surge: Immobilize, Surge: Poison, Surge: Stun"
     ],
     "expansion": "Crusade Of The Forgotten",
     "image": "monsters/medusa-cf-act2-front.png",
@@ -4894,7 +4894,7 @@
     "act": "II",
     "attack": "Melee",
     "characteristics": [
-      "Minion: Speed: 5, Health: 5, Defense: Black, Attack: Blue Red, Abilities: Surge: Hunt, Surge: Pierce 3",
+      "Minion: Speed: 5, Health: 6, Defense: Black, Attack: Blue Red, Abilities: Surge: Hunt, Surge: Pierce 3",
       "Master: Speed: 5, Health: 8, Defense: Black, Attack: Blue Red Yellow, Abilities: Surge: Hunt, Surge: Fire Breath, Surge: Pierce 3"
     ],
     "expansion": "Bonds Of The Wild",
