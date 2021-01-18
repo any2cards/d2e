@@ -877,15 +877,15 @@
   },
   {
     "deck": "Unkindness",
-    "name": "Envelope",
+    "name": "Envelop",
     "points": 73,
     "count": 1,
     "type": "Event",
     "ability": "Play this card when 1 servant resolves an attack that defeats a hero. Remove his hero token from the map and place it on this card. If the servant is defeated (or of it is removed from the map for any reason), place the hero token in its space and discard this card. The hero cannot recover Hearts for any reason until this card is discarded.",
     "xp cost": "3",
     "expansion": "Manor Of Ravens",
-    "image": "overlord-decks/unkindness/envelope.png",
-    "xws": "envelope"
+    "image": "overlord-decks/unkindness/envelop.png",
+    "xws": "envelop"
   },
   {
     "deck": "Warlord",
