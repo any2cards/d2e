@@ -1500,7 +1500,7 @@
     "xws": "bograntheshadow"
   },
   {
-    "name": "Bogran The Shadow Back UC",
+    "name": "Bogran The Shadow UC Back",
     "points": 115,
     "quote": "I am a deadly wind, invisible and inescapable. You cannot see me, but you can see where I have been.",
     "expansion": "USer Community",
