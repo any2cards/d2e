@@ -724,7 +724,7 @@
     "points": 55,
     "quote": "You'd be surprised what you can learn when you've no one to tell you how to think.",
     "expansion": "Crusade Of The Forgotten",
-    "image": "heroes/healers/astarra-cf-back.png",
+    "image": "heroes/mages/astarra-cf-back.png",
     "xws": "astarraback"
   },
   {
@@ -750,7 +750,7 @@
     "points": 57,
     "quote": "The Rune Keepers said I was too unruly to be taught, so all I needed to know I've learned on my own.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/astarra-ck-back.png",
+    "image": "heroes/mages/astarra-ck-back.png",
     "xws": "astarraback"
   },
   {
@@ -776,7 +776,7 @@
     "points": 59,
     "quote": "In the end, everything will burn!",
     "expansion": "Maze Of The Drakon",
-    "image": "heroes/healers/aurora-motd-back.png",
+    "image": "heroes/mages/aurora-motd-back.png",
     "xws": "auroraback"
   },
   {
@@ -802,7 +802,7 @@
     "points": 61,
     "quote": "The flames of my fury you have survived, but can you endure the flame of my dragon?",
     "expansion": "Bonds Of The Wild",
-    "image": "heroes/healers/challara-bw-back.png",
+    "image": "heroes/mages/challara-bw-back.png",
     "xws": "challaraback"
   },
   {
@@ -828,7 +828,7 @@
     "points": 63,
     "quote": "All I accomplish, every enemy I vanquish, is to the glory of my ancestors.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/challara-ck-back.png",
+    "image": "heroes/mages/challara-ck-back.png",
     "xws": "challaraback"
   },
   {
@@ -854,7 +854,7 @@
     "points": 65,
     "quote": "Very few people understand my abilities. I prefer it that way.",
     "expansion": "Labyrinth Of Ruin",
-    "image": "heroes/healers/dezra-the-vile-lr-back.png",
+    "image": "heroes/mages/dezra-the-vile-lr-back.png",
     "xws": "dezrathevileback"
   },
   {
@@ -880,7 +880,7 @@
     "points": 67,
     "quote": "I feed off the wisdom of others, even when it's less filling than my own.",
     "expansion": "Lair Of The Wyrm",
-    "image": "heroes/healers/high-mage-quellen-lw-back.png",
+    "image": "heroes/mages/high-mage-quellen-lw-back.png",
     "xws": "highmagequellenback"
   },
   {
@@ -906,7 +906,7 @@
     "points": 69,
     "quote": "Courage and sacrifice mean nothing! We must overcome or die in shame.",
     "expansion": "Crown Of Destiny",
-    "image": "heroes/healers/jaes-the-exile-cd-back.png",
+    "image": "heroes/mages/jaes-the-exile-cd-back.png",
     "xws": "jaestheexileback"
   },
   {
@@ -932,7 +932,7 @@
     "points": 71,
     "quote": "The Dragon Wars almost destroyed my people. I will die before I let that happen again.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/jaes-the-exile-ck-back.png",
+    "image": "heroes/mages/jaes-the-exile-ck-back.png",
     "xws": "jaestheexileback"
   },
   {
@@ -958,7 +958,7 @@
     "points": 73,
     "quote": "Wisdown comes with age, but knowledge must always be searched for.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/landrec-the-wise-ck-back.png",
+    "image": "heroes/mages/landrec-the-wise-ck-back.png",
     "xws": "landrecthewiseback"
   },
   {
@@ -984,7 +984,7 @@
     "points": 75,
     "quote": "Wisdown comes with age, but knowledge must always be searched for.",
     "expansion": "User Community",
-    "image": "heroes/healers/landrec-the-wise-uc-back.png",
+    "image": "heroes/mages/landrec-the-wise-uc-back.png",
     "xws": "landrecthewiseback"
   },
   {
@@ -1010,7 +1010,7 @@
     "points": 77,
     "quote": "If my years of study have taught me anything, it is that I am worthy of the knowledge I possess.",
     "expansion": "Base Game",
-    "image": "heroes/healers/leoric-of-the-book-bg-back.png",
+    "image": "heroes/mages/leoric-of-the-book-bg-back.png",
     "xws": "leoricofthebookback"
   },
   {
@@ -1036,7 +1036,7 @@
     "points": 79,
     "quote": "There is more knowledge in the squirming of my prey than in all your dusty tomes.",
     "expansion": "Bonds Of The Wild",
-    "image": "heroes/healers/lyssa-bw-back.png",
+    "image": "heroes/mages/lyssa-bw-back.png",
     "xws": "lyssaback"
   },
   {
@@ -1062,7 +1062,7 @@
     "points": 81,
     "quote": "My people are one with nature.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/lyssa-ck-back.png",
+    "image": "heroes/mages/lyssa-ck-back.png",
     "xws": "lyssaback"
   },
   {
@@ -1088,7 +1088,7 @@
     "points": 83,
     "quote": "If it's madness to seek power at any cost, then yes, you may call me mad.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/mad-carthos-ck-back.png",
+    "image": "heroes/mages/mad-carthos-ck-back.png",
     "xws": "madcarthosback"
   },
   {
@@ -1114,7 +1114,7 @@
     "points": 85,
     "quote": "If it's madness to seek power at any cost, then yes, you may call me mad.",
     "expansion": "User Community",
-    "image": "heroes/healers/mad-carthos-uc-back.png",
+    "image": "heroes/mages/mad-carthos-uc-back.png",
     "xws": "madcarthosback"
   },
   {
@@ -1140,7 +1140,7 @@
     "points": 87,
     "quote": "I walk the unseen paths, those that were never meant for the feet of men.",
     "expansion": "Visions Of Dawn",
-    "image": "heroes/healers/master-thorn-vd-back.png",
+    "image": "heroes/mages/master-thorn-vd-back.png",
     "xws": "masterthornback"
   },
   {
@@ -1166,7 +1166,7 @@
     "points": 89,
     "quote": "You can't see the paths I walk, because they were not meant to be tread.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/master-thorn-ck-back.png",
+    "image": "heroes/mages/master-thorn-ck-back.png",
     "xws": "masterthornback"
   },
   {
@@ -1192,7 +1192,7 @@
     "points": 91,
     "quote": "Am I here? Am I over there? Or am I right behind you!",
     "expansion": "Shadow Of Nerekhall",
-    "image": "heroes/healers/ravaella-lightfoot-sn-back.png",
+    "image": "heroes/mages/ravaella-lightfoot-sn-back.png",
     "xws": "ravaellalightfootback"
   },
   {
@@ -1218,7 +1218,7 @@
     "points": 93,
     "quote": "When you speak with living lightning you must use your loudest voice.",
     "expansion": "Sands Of The Past",
-    "image": "heroes/healers/runemaker-tara-sotp-back.png",
+    "image": "heroes/mages/runemaker-tara-sotp-back.png",
     "xws": "runemakertaraback"
   },
   {
@@ -1244,7 +1244,7 @@
     "points": 95,
     "quote": "Some say they've seen the whole of Terrinoth. They are blind.",
     "expansion": "Stewards Of The Secret",
-    "image": "heroes/healers/seer-key-ss-back.png",
+    "image": "heroes/mages/seer-key-ss-back.png",
     "xws": "seerkelback"
   },
   {
@@ -1270,7 +1270,7 @@
     "points": 97,
     "quote": "I care not the cost or pain, nor if my judgement was just; I will work out my redemption.",
     "expansion": "Oath Of The Outcast",
-    "image": "heroes/healers/shiver-oo-back.png",
+    "image": "heroes/mages/shiver-oo-back.png",
     "xws": "shiverback"
   },
   {
@@ -1296,7 +1296,7 @@
     "points": 99,
     "quote": "My sins were grevious, but I have repented for millenia. How long was I meant to suffer for my crimes?",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/shiver-ck-back.png",
+    "image": "heroes/mages/shiver-ck-back.png",
     "xws": "shiverback"
   },
   {
@@ -1322,7 +1322,7 @@
     "points": 101,
     "quote": "I see what others cannot, and into places others dare not.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/truthseer-kel-ck-back.png",
+    "image": "heroes/mages/truthseer-kel-ck-back.png",
     "xws": "truthseerkelback"
   },
   {
@@ -1348,7 +1348,7 @@
     "points": 103,
     "quote": "I have nothing left to lose. Yet, there is so much more power for me to gain.",
     "expansion": "Base Game",
-    "image": "heroes/healers/widow-tarha-bg-back.png",
+    "image": "heroes/mages/widow-tarha-bg-back.png",
     "xws": "widowtarhaback"
   },
   {
@@ -1374,7 +1374,7 @@
     "points": 105,
     "quote": "Pursue me all you want; we'll meet when and where I decide - then you die.",
     "expansion": "Treaty Of Champions",
-    "image": "heroes/healers/zyla-tc-back.png",
+    "image": "heroes/mages/zyla-tc-back.png",
     "xws": "zylaback"
   },
   {
@@ -1400,7 +1400,7 @@
     "points": 107,
     "quote": "Can't hit what you can't catch!",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/zyla-ck-back.png",
+    "image": "heroes/mages/zyla-ck-back.png",
     "xws": "zylaback"
   },
   {
@@ -1426,7 +1426,7 @@
     "points": 109,
     "quote": "My quest remains unsatisfied - the search for a problem to which I am not the answer!",
     "expansion": "Shards Of Everdark",
-    "image": "heroes/healers/arvel-worldwalker-se-back.png",
+    "image": "heroes/scouts/arvel-worldwalker-se-back.png",
     "xws": "arvelworldwalkerback"
   },
   {
@@ -1452,7 +1452,7 @@
     "points": 111,
     "quote": "This Land is harsh and terrible, I grant you. But I have seen as harsh before and lived.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/arvel-worldwalker-ck-back.png",
+    "image": "heroes/scouts/arvel-worldwalker-ck-back.png",
     "xws": "arvelworldwalkerback"
   },
   {
@@ -1478,7 +1478,7 @@
     "points": 113,
     "quote": "I am a deadly wind, invisible and inescapable. You cannot see me, but you can see where I have been.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/bogran-the-shadow-ck-back.png",
+    "image": "heroes/scouts/bogran-the-shadow-ck-back.png",
     "xws": "bograntheshadowback"
   },
   {
@@ -1504,7 +1504,7 @@
     "points": 115,
     "quote": "I am a deadly wind, invisible and inescapable. You cannot see me, but you can see where I have been.",
     "expansion": "USer Community",
-    "image": "heroes/healers/bogran-the-shadow-uc-back.png",
+    "image": "heroes/scouts/bogran-the-shadow-uc-back.png",
     "xws": "bograntheshadowback"
   },
   {
@@ -1530,7 +1530,7 @@
     "points": 117,
     "quote": "If justice is the shadow of a setting sun, I am the midnight that follows.",
     "expansion": "Treaty Of Champions",
-    "image": "heroes/healers/grey-ker-tc-back.png",
+    "image": "heroes/scouts/grey-ker-tc-back.png",
     "xws": "greykerback"
   },
   {
@@ -1556,7 +1556,7 @@
     "points": 119,
     "quote": "I'm not the thin line between black and white... I'm the thin line between life and your death.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/grey-ker-ck-back.png",
+    "image": "heroes/scouts/grey-ker-ck-back.png",
     "xws": "greykerback"
   },
   {
@@ -1582,7 +1582,7 @@
     "points": 121,
     "quote": "Out here in the wilds, I protect those who have misjudged me.",
     "expansion": "Base Game",
-    "image": "heroes/healers/jain-fairwood-bg-back.png",
+    "image": "heroes/scouts/jain-fairwood-bg-back.png",
     "xws": "jainfairwoodback"
   },
   {
@@ -1608,7 +1608,7 @@
     "points": 123,
     "quote": "Knowing how to find things helps keep one hidden. And I know how to find anything...",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/kirga-ck-back.png",
+    "image": "heroes/scouts/kirga-ck-back.png",
     "xws": "kirgaback"
   },
   {
@@ -1634,7 +1634,7 @@
     "points": 125,
     "quote": "Knowing how to find things helps keep one hidden. And I know how to find anything...",
     "expansion": "User Community",
-    "image": "heroes/healers/kirga-uc-back.png",
+    "image": "heroes/scouts/kirga-uc-back.png",
     "xws": "kirgaback"
   },
   {
@@ -1660,7 +1660,7 @@
     "points": 127,
     "quote": "Herald and reaper, my arrow calls your name; answer with silence and blood.",
     "expansion": "Oath Of The Outcast",
-    "image": "heroes/healers/laurel-of-bloodwood-oo-back.png",
+    "image": "heroes/scouts/laurel-of-bloodwood-oo-back.png",
     "xws": "laurelofbloodwoodback"
   },
   {
@@ -1686,7 +1686,7 @@
     "points": 129,
     "quote": "No matter what you hear, it was our bows that gave my home its name, not the autumn winds.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/laurel-of-bloodwood-ck-back.png",
+    "image": "heroes/scouts/laurel-of-bloodwood-ck-back.png",
     "xws": "laurelofbloodwoodback"
   },
   {
@@ -1712,7 +1712,7 @@
     "points": 131,
     "quote": "I have been here before and watch darkness triumph. It will not happen again.",
     "expansion": "Crown Of Destiny",
-    "image": "heroes/healers/lindel-cd-back.png",
+    "image": "heroes/scouts/lindel-cd-back.png",
     "xws": "lindelback"
   },
   {
@@ -1738,7 +1738,7 @@
     "points": 133,
     "quote": "There is so much sorrow in the world, I do what I may to end the cruelty that plagues this Land.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/lindel-ck-back.png",
+    "image": "heroes/scouts/lindel-ck-back.png",
     "xws": "lindelback"
   },
   {
@@ -1764,7 +1764,7 @@
     "points": 135,
     "quote": "There is no question that you need me. The question is, can you afford me?",
     "expansion": "Labyrinth Of Ruin",
-    "image": "heroes/healers/logan-lashley-lr-back.png",
+    "image": "heroes/scouts/logan-lashley-lr-back.png",
     "xws": "loganlashleyback"
   },
   {
@@ -1790,7 +1790,7 @@
     "points": 137,
     "quote": "Did you hear that?",
     "expansion": "Maze Of The Drakon",
-    "image": "heroes/healers/ravvis-the-ranger-motd-back.png",
+    "image": "heroes/scouts/ravvis-the-ranger-motd-back.png",
     "xws": "ravvistherangerback"
   },
   {
@@ -1816,7 +1816,7 @@
     "points": 139,
     "quote": "Just be careful, I'd wager this place still has a few tricks up its sleeve.",
     "expansion": "Labyrinth Of Ruin",
-    "image": "heroes/healers/raythen-lr-back.png",
+    "image": "heroes/scouts/raythen-lr-back.png",
     "xws": "raythenback"
   },
   {
@@ -1842,7 +1842,7 @@
     "points": 141,
     "quote": "Balance is the essence of success. To succeed, one must be balanced in all things.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/red-scorpion-ck-back.png",
+    "image": "heroes/scouts/red-scorpion-ck-back.png",
     "xws": "redscorpionback"
   },
   {
@@ -1868,7 +1868,7 @@
     "points": 143,
     "quote": "Balance is the essence of success. To succeed, one must be balanced in all things.",
     "expansion": "User Community",
-    "image": "heroes/healers/red-scorpion-uc-back.png",
+    "image": "heroes/scouts/red-scorpion-uc-back.png",
     "xws": "redscorpionback"
   },
   {
@@ -1894,7 +1894,7 @@
     "points": 145,
     "quote": "Keep perfectly still. It may look small, but that creature is aggressive, and its bite is fatal.",
     "expansion": "The Trollfens",
-    "image": "heroes/healers/roganna-the-shade-tf-back.png",
+    "image": "heroes/scouts/roganna-the-shade-tf-back.png",
     "xws": "rogannatheshadeback"
   },
   {
@@ -1920,7 +1920,7 @@
     "points": 147,
     "quote": "The forest is stirring...but we are prepared for anything.",
     "expansion": "Bonds Of The Wild",
-    "image": "heroes/healers/ronan-of-the-wild-bw-back.png",
+    "image": "heroes/scouts/ronan-of-the-wild-bw-back.png",
     "xws": "ronanofthewildback"
   },
   {
@@ -1946,7 +1946,7 @@
     "points": 149,
     "quote": "There's something unnatural stirring in the forests.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/ronan-of-the-wild-ck-back.png",
+    "image": "heroes/scouts/ronan-of-the-wild-ck-back.png",
     "xws": "ronanofthewildback"
   },
   {
@@ -1972,7 +1972,7 @@
     "points": 151,
     "quote": "Don't worry... I'll just be right around the corner.",
     "expansion": "Guardians Of Deephall",
-    "image": "heroes/healers/silhouette-gd-back.png",
+    "image": "heroes/scouts/silhouette-gd-back.png",
     "xws": "silhouetteback"
   },
   {
@@ -1998,7 +1998,7 @@
     "points": 153,
     "quote": "Shhh... This will only hurt for a moment.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/silhouette-ck-back.png",
+    "image": "heroes/scouts/silhouette-ck-back.png",
     "xws": "silhouetteback"
   },
   {
@@ -2024,7 +2024,7 @@
     "points": 155,
     "quote": "My sisters have given me everything. I seek only to return that favor.",
     "expansion": "Stewards Of The Secret",
-    "image": "heroes/healers/tatianna-ss-back.png",
+    "image": "heroes/scouts/tatianna-ss-back.png",
     "xws": "tatiannaback"
   },
   {
@@ -2050,7 +2050,7 @@
     "points": 157,
     "quote": "I will journey where my tribe will not go and hunt that which no one else dares to hunt.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/tatianna-ck-back.png",
+    "image": "heroes/scouts/tatianna-ck-back.png",
     "xws": "tatiannaback"
   },
   {
@@ -2076,7 +2076,7 @@
     "points": 159,
     "quote": "I am a daughter of darkness and a companion of chaos; fate has forgotten my name.",
     "expansion": "Crusade Of The Forgotten",
-    "image": "heroes/healers/tetherys-cf-back.png",
+    "image": "heroes/scouts/tetherys-cf-back.png",
     "xws": "tetherysback"
   },
   {
@@ -2102,7 +2102,7 @@
     "points": 161,
     "quote": "Sometimes even I don't know just where I will strike next.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/tetherys-ck-back.png",
+    "image": "heroes/scouts/tetherys-ck-back.png",
     "xws": "tetherysback"
   },
   {
@@ -2128,7 +2128,7 @@
     "points": 163,
     "quote": "We all have debts to pay.",
     "expansion": "Manor Of Ravens",
-    "image": "heroes/healers/thaiden-mistpeak-mr-back.png",
+    "image": "heroes/scouts/thaiden-mistpeak-mr-back.png",
     "xws": "thaidenmistpeakback"
   },
   {
@@ -2154,7 +2154,7 @@
     "points": 165,
     "quote": "We all have debts to pay.",
     "expansion": "Manor Of Ravens",
-    "image": "heroes/healers/thaiden-mistpeak-mr-errata-back.png",
+    "image": "heroes/scouts/thaiden-mistpeak-mr-errata-back.png",
     "xws": "thaidenmistpeakback"
   },
   {
@@ -2180,7 +2180,7 @@
     "points": 167,
     "quote": "Shadows keep me. Shadows protect me. There is nothing to fear in the shadows...except me.",
     "expansion": "Shadow Of Nerekhall",
-    "image": "heroes/healers/tinashi-the-wanderer-sn-back.png",
+    "image": "heroes/scouts/tinashi-the-wanderer-sn-back.png",
     "xws": "tinashithewandererback"
   },
   {
@@ -2206,7 +2206,7 @@
     "points": 169,
     "quote": "It matters not how far away you are. My bow can reach you.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/tobin-farslayer-ck-back.png",
+    "image": "heroes/scouts/tobin-farslayer-ck-back.png",
     "xws": "tobinfarslayerback"
   },
   {
@@ -2232,7 +2232,7 @@
     "points": 171,
     "quote": "It matters not how far away you are. My bow can reach you.",
     "expansion": "User Community",
-    "image": "heroes/healers/tobin-farslayer-uc-back.png",
+    "image": "heroes/scouts/tobin-farslayer-uc-back.png",
     "xws": "tobinfarslayerback"
   },
   {
@@ -2258,7 +2258,7 @@
     "points": 173,
     "quote": "Don't think of this as you being robbed. Instead, think of it as you donating to a worthy cause.",
     "expansion": "Base Game",
-    "image": "heroes/healers/tomble-burrowell-bg-back.png",
+    "image": "heroes/scouts/tomble-burrowell-bg-back.png",
     "xws": "tombleburrowellback"
   },
   {
@@ -2284,7 +2284,7 @@
     "points": 175,
     "quote": "If you train a falcon well, you begin to trust her more than your own eyes.",
     "expansion": "Bonds Of The Wild",
-    "image": "heroes/healers/vyrah-the-falconer-bw-back.png",
+    "image": "heroes/scouts/vyrah-the-falconer-bw-back.png",
     "xws": "vyrahthefalconerback"
   },
   {
@@ -2310,7 +2310,7 @@
     "points": 177,
     "quote": "My loyal falcon sees far.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/vyrah-the-falconer-ck-back.png",
+    "image": "heroes/scouts/vyrah-the-falconer-ck-back.png",
     "xws": "vyrahthefalconerback"
   },
   {
@@ -2336,7 +2336,7 @@
     "points": 179,
     "quote": "The thief and the lord are equal; the law calls them both to justice.",
     "expansion": "Manor Of Ravens",
-    "image": "heroes/healers/alys-raine-mr-back.png",
+    "image": "heroes/warriors/alys-raine-mr-back.png",
     "xws": "alysraineback"
   },
   {
@@ -2362,7 +2362,7 @@
     "points": 181,
     "quote": "I don't hold grudges. I keep short accounts. Now fight me!",
     "expansion": "Crown Of Destiny",
-    "image": "heroes/healers/corbin-cd-back.png",
+    "image": "heroes/warriors/corbin-cd-back.png",
     "xws": "corbinback"
   },
   {
@@ -2388,7 +2388,7 @@
     "points": 183,
     "quote": "The only way I'll stop fightin' is if I take you down with me.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/corbin-ck-back.png",
+    "image": "heroes/warriors/corbin-ck-back.png",
     "xws": "corbinback"
   },
   {
@@ -2414,7 +2414,7 @@
     "points": 185,
     "quote": "Battle is a dance of blades and wits.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/eliam-ck-back.png",
+    "image": "heroes/warriors/eliam-ck-back.png",
     "xws": "eliamback"
   },
   {
@@ -2440,7 +2440,7 @@
     "points": 187,
     "quote": "Battle is a dance of blades and wits.",
     "expansion": "User Community",
-    "image": "heroes/healers/eliam-uc-back.png",
+    "image": "heroes/warriors/eliam-uc-back.png",
     "xws": "eliamback"
   },
   {
@@ -2466,7 +2466,7 @@
     "points": 189,
     "quote": "All this killing is thirsty work. Drink with me!",
     "expansion": "Base Game",
-    "image": "heroes/healers/grisban-the-thirsty-bg-back.png",
+    "image": "heroes/warriors/grisban-the-thirsty-bg-back.png",
     "xws": "grisbanthethirstyback"
   },
   {
@@ -2492,7 +2492,7 @@
     "points": 191,
     "quote": "All this killing is thirsty work. Drink with me!",
     "expansion": "Base Game",
-    "image": "heroes/healers/grisban-the-thirsty-bg-errata-back.png",
+    "image": "heroes/warriors/grisban-the-thirsty-bg-errata-back.png",
     "xws": "grisbanthethirstyback"
   },
   {
@@ -2518,7 +2518,7 @@
     "points": 193,
     "quote": "The songs of my name and my triumphs should be heard in every corner of the world.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/hugo-the-glorious-ck-back.png",
+    "image": "heroes/warriors/hugo-the-glorious-ck-back.png",
     "xws": "hugothegloriousback"
   },
   {
@@ -2544,7 +2544,7 @@
     "points": 195,
     "quote": "The songs of my name and my triumphs should be heard in every corner of the world.",
     "expansion": "User Community",
-    "image": "heroes/healers/hugo-the-glorious-uc-back.png",
+    "image": "heroes/warriors/hugo-the-glorious-uc-back.png",
     "xws": "hugothegloriousback"
   },
   {
@@ -2570,7 +2570,7 @@
     "points": 197,
     "quote": "At end of ages, Karnon remain: ever strong, ever alone.",
     "expansion": "Shards Of Everdark",
-    "image": "heroes/healers/karnon-se-back.png",
+    "image": "heroes/warriors/karnon-se-back.png",
     "xws": "karnonback"
   },
   {
@@ -2596,7 +2596,7 @@
     "points": 199,
     "quote": "Karnon needs no help from little man. Karnon is Karnon.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/karnon-ck-back.png",
+    "image": "heroes/warriors/karnon-ck-back.png",
     "xws": "karnonback"
   },
   {
@@ -2622,7 +2622,7 @@
     "points": 201,
     "quote": "Hit 'em hard. If they're still standing, hit 'em again-harder.",
     "expansion": "Treaty Of Champions",
-    "image": "heroes/healers/krutzbeck-tc-back.png",
+    "image": "heroes/warriors/krutzbeck-tc-back.png",
     "xws": "krutzbeckback"
   },
   {
@@ -2648,7 +2648,7 @@
     "points": 203,
     "quote": "Smash it. Crush it. If that doesn't work, smash it and crush it again.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/krutzbeck-ck-back.png",
+    "image": "heroes/warriors/krutzbeck-ck-back.png",
     "xws": "krutzbeckback"
   },
   {
@@ -2674,7 +2674,7 @@
     "points": 205,
     "quote": "Courage, my brothers! Surrender yourselves to the joy of battle and we shall meet our destiny together!",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/laughin-buldar-ck-back.png",
+    "image": "heroes/warriors/laughin-buldar-ck-back.png",
     "xws": "laughinbuldarback"
   },
   {
@@ -2700,7 +2700,7 @@
     "points": 207,
     "quote": "Courage, my brothers! Surrender yourselves to the joy of battle and we shall meet our destiny together!",
     "expansion": "User Community",
-    "image": "heroes/healers/laughin-buldar-uc-back.png",
+    "image": "heroes/warriors/laughin-buldar-uc-back.png",
     "xws": "laughinbuldarback"
   },
   {
@@ -2726,7 +2726,7 @@
     "points": 209,
     "quote": "None fall faster than they that flee.",
     "expansion": "Guardians Of Deephall",
-    "image": "heroes/healers/lord-hawthorne-gd-back.png",
+    "image": "heroes/warriors/lord-hawthorne-gd-back.png",
     "xws": "lordhawthorneback"
   },
   {
@@ -2752,7 +2752,7 @@
     "points": 211,
     "quote": "If you decide to flee from me, you better hope you flee far enough.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/lord-hawthorne-ck-back.png",
+    "image": "heroes/warriors/lord-hawthorne-ck-back.png",
     "xws": "lordhawthorneback"
   },
   {
@@ -2778,7 +2778,7 @@
     "points": 213,
     "quote": "Prejudice is only a mask for jealousy.",
     "expansion": "Guardians Of Deephall",
-    "image": "heroes/healers/mordrog-gd-back.png",
+    "image": "heroes/warriors/mordrog-gd-back.png",
     "xws": "mordrogback"
   },
   {
@@ -2804,7 +2804,7 @@
     "points": 215,
     "quote": "You call me beast. You call me animal. But I call you coward.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/mordrog-ck-back.png",
+    "image": "heroes/warriors/mordrog-ck-back.png",
     "xws": "mordrogback"
   },
   {
@@ -2830,7 +2830,7 @@
     "points": 217,
     "quote": "Some fools cower behind metal, thinking the purpose of battle is survival.",
     "expansion": "Stewards Of The Secret",
-    "image": "heroes/healers/nanok-of-the-blade-ss-back.png",
+    "image": "heroes/warriors/nanok-of-the-blade-ss-back.png",
     "xws": "nanokofthebladeback"
   },
   {
@@ -2856,7 +2856,7 @@
     "points": 219,
     "quote": "To wear armor is to fear that a foe might strike me. It is cowardice. I am no coward.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/nanok-of-the-blade-ck-back.png",
+    "image": "heroes/warriors/nanok-of-the-blade-ck-back.png",
     "xws": "nanokofthebladeback"
   },
   {
@@ -2882,7 +2882,7 @@
     "points": 221,
     "quote": "Take your lessons from the wind; swift and constant, striking as a howling gale.",
     "expansion": "Visions Of Dawn",
-    "image": "heroes/healers/nara-the-fang-vd-back.png",
+    "image": "heroes/warriors/nara-the-fang-vd-back.png",
     "xws": "narathefangback"
   },
   {
@@ -2908,7 +2908,7 @@
     "points": 223,
     "quote": "I leap, I attack, I stab, I kill!",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/nara-the-fang-ck-back.png",
+    "image": "heroes/warriors/nara-the-fang-ck-back.png",
     "xws": "narathefangback"
   },
   {
@@ -2934,7 +2934,7 @@
     "points": 225,
     "quote": "One of you will be allowed to escape. The rest will be my next meal...",
     "expansion": "Maze Of The Drakon",
-    "image": "heroes/healers/ocvist-the-dragonslayer-motd-back.png",
+    "image": "heroes/warriors/ocvist-the-dragonslayer-motd-back.png",
     "xws": "ocvistthedragonslayerback"
   },
   {
@@ -2960,7 +2960,7 @@
     "points": 227,
     "quote": "I didn't get the hook after losing my hand. I forfeited my hand to make room for the hook!",
     "expansion": "Shards Of Everdark",
-    "image": "heroes/healers/one-fist-se-back.png",
+    "image": "heroes/warriors/one-fist-se-back.png",
     "xws": "onefistback"
   },
   {
@@ -2986,7 +2986,7 @@
     "points": 229,
     "quote": "I've fought many battles and seen the worst the world has to offer. Do your worst. I have no fear.",
     "expansion": "Shards Of Everdark",
-    "image": "heroes/healers/one-fist-se-back.png",
+    "image": "heroes/warriors/one-fist-se-back.png",
     "xws": "onefistback"
   },
   {
@@ -3012,7 +3012,7 @@
     "points": 231,
     "quote": "Just try to keep up, all right?",
     "expansion": "Shadow Of Nerekhall",
-    "image": "heroes/healers/orkell-the-swift-sn-back.png",
+    "image": "heroes/warriors/orkell-the-swift-sn-back.png",
     "xws": "orkelltheswiftback"
   },
   {
@@ -3038,7 +3038,7 @@
     "points": 233,
     "quote": "The ways I know are dangerous, and I tread them carefully. I advise you do the same...",
     "expansion": "Labyrinth Of Ruin",
-    "image": "heroes/healers/pathfinder-durik-lr-back.png",
+    "image": "heroes/warriors/pathfinder-durik-lr-back.png",
     "xws": "pathfinderdurikback"
   },
   {
@@ -3064,7 +3064,7 @@
     "points": 235,
     "quote": "I've been known to lose, but never to give up!",
     "expansion": "Lair Of The Wyrm",
-    "image": "heroes/healers/reynhart-the-worthy-lw-back.png",
+    "image": "heroes/warriors/reynhart-the-worthy-lw-back.png",
     "xws": "reynharttheworthyback"
   },
   {
@@ -3090,7 +3090,7 @@
     "points": 237,
     "quote": "Stay close. I've got the bigger sword.",
     "expansion": "Visions Of Dawn",
-    "image": "heroes/healers/sir-valadir-vd-back.png",
+    "image": "heroes/warriors/sir-valadir-vd-back.png",
     "xws": "sirvaladirback"
   },
   {
@@ -3116,7 +3116,7 @@
     "points": 239,
     "quote": "Ours is a noble crusade! We will fight gloriously and die with honor!",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/sir-valadir-ck-back.png",
+    "image": "heroes/warriors/sir-valadir-ck-back.png",
     "xws": "sirvaladirback"
   },
   {
@@ -3142,7 +3142,7 @@
     "points": 241,
     "quote": "Friends are an awful lot like foes. Neither knows when to get out of the way.",
     "expansion": "Shards Of Everdark",
-    "image": "heroes/healers/steelhorns-se-back.png",
+    "image": "heroes/warriors/steelhorns-se-back.png",
     "xws": "steelhornsback"
   },
   {
@@ -3168,7 +3168,7 @@
     "points": 243,
     "quote": "Humans have called us monsters throughout the ages, but we know who the real beasts are.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/steelhorns-ck-back.png",
+    "image": "heroes/warriors/steelhorns-ck-back.png",
     "xws": "steelhornsback"
   },
   {
@@ -3194,7 +3194,7 @@
     "points": 245,
     "quote": "You swear undying loyalty, yet you are mortal. What can you know of commitment?",
     "expansion": "Base Game",
-    "image": "heroes/healers/syndrael-bg-back.png",
+    "image": "heroes/warriors/syndrael-bg-back.png",
     "xws": "syndraelback"
   },
   {
@@ -3220,7 +3220,7 @@
     "points": 247,
     "quote": "We will only prevail when evil fears the darkness more than it hates the light!",
     "expansion": "Crusade Of The Forgotten",
-    "image": "heroes/healers/tahlia-cf-back.png",
+    "image": "heroes/warriors/tahlia-cf-back.png",
     "xws": "tahliaback"
   },
   {
@@ -3246,7 +3246,7 @@
     "points": 249,
     "quote": "Fools are fools, no matter where they are. They never see me coming.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/tahlia-ck-back.png",
+    "image": "heroes/warriors/tahlia-ck-back.png",
     "xws": "tahliaback"
   },
   {
@@ -3272,7 +3272,7 @@
     "points": 251,
     "quote": "I will stand when none others do. Though my body may fail, my courage will never break!",
     "expansion": "Oath Of The Outcast",
-    "image": "heroes/healers/trenloe-the-strong-oo-back.png",
+    "image": "heroes/warriors/trenloe-the-strong-oo-back.png",
     "xws": "trenloethestrongback"
   },
   {
@@ -3298,7 +3298,7 @@
     "points": 253,
     "quote": "Nothing will stand in the way of my ultimate quest!",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/trenloe-the-strong-ck-back.png",
+    "image": "heroes/warriors/trenloe-the-strong-ck-back.png",
     "xws": "trenloethestrongback"
   },
   {
@@ -3324,7 +3324,7 @@
     "points": 255,
     "quote": "I have already died for freedom once before. If I must die again, I will not die alone.",
     "expansion": "Conversion Kit",
-    "image": "heroes/healers/varikas-the-dead-ck-back.png",
+    "image": "heroes/warriors/varikas-the-dead-ck-back.png",
     "xws": "varikasthedeadback"
   },
   {
@@ -3350,7 +3350,7 @@
     "points": 257,
     "quote": "I have already died for freedom once before. If I must die again, I will not die alone.",
     "expansion": "User Community",
-    "image": "heroes/healers/varikas-the-dead-uc-back.png",
+    "image": "heroes/warriors/varikas-the-dead-uc-back.png",
     "xws": "varikasthedeadback"
   }
 ]
