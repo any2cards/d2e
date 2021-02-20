@@ -1244,7 +1244,7 @@
     "points": 95,
     "quote": "Some say they've seen the whole of Terrinoth. They are blind.",
     "expansion": "Stewards Of The Secret",
-    "image": "heroes/mages/seer-key-ss-back.png",
+    "image": "heroes/mages/seer-kel-ss-back.png",
     "xws": "seerkelback"
   },
   {
