@@ -137,7 +137,7 @@
     "defense": "-",
     "attack": "-",
     "type": "-",
-    "traits": "Roots of Protection may be targeted and affected by any attack and are Unmovable. When any figure in a space containing Roots of Protection is targeted or affected by a Melee attack, Roots of Protection are declared as the target of the attack instead.",
+    "traits": "Roots of Protection may be targeted and affected by any attack and are Unmovable. When any figure in a space containing Roots of Protection is attacked by a Melee attack, they are declared as the target of the attack instead.",
     "expansion": "Maze of the Drakon",
     "image": "familiars/roots-of-protection-motd.png",
     "xws": "rootsofprotection"
