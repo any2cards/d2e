@@ -1,27 +1,69 @@
-# D2e
+# Descent Second Edition (D2E)
 
-An easy-to-use collection of data and images from [D2e: Descent 2nd Edition](https://www.fantasyflightgames.com/en/products/descent-journeys-in-the-dark-second-edition/) by [Fantasy Flight Games](http://fantasyflightgames.com/).
+An easy-to-use collection of data and images from [Descent 2nd Edition](https://www.fantasyflightgames.com/en/products/descent-journeys-in-the-dark-second-edition/) by [Fantasy Flight Games](http://fantasyflightgames.com/).
 
 ## What's included
 
-There are two top-level directories; `data` and `images`.
+This repository contains data and images for the following components:
+
+- advanced-quests
+- agendas*
+- agents
+- allies
+- ally-skills
+- city-event-decks
+- class-familiars
+- class-items
+- class-skills
+- conditions
+- corrupt-citizens
+- familiars
+- heroes
+- hybrid-class-skills
+- lieutenants
+- monster-activations*
+- monsters
+- overlord-decks
+- perils*
+- plot-decks
+- relics
+- round-summary*
+- rumors
+- search-deck
+- secret-rooms
+- shop-items
+- statuses*
+- tainted
+- traps*
+- travel-event-decks
+- turn-summary
+
+** The items listed above with a post-pended asterisk are from Community Driven Content **
+
+There are four top-level directories: `data` , `images` , `images-orig` ,and `xwc`.
 
 ### data
 
-The `data` folder contains all D2e data; advanced-quests, allies, classes, conditions, familiars, heroes, monsters, lieutenants, items, overlord-decks, etc.
+The `data` folder contains all D2e Card Viewer data in JSON format.
 
 ### images
 
-The `images` folder contains images for each of the above data cards.
+The `images` folder contains D2e Card Viewer images for each of the above data components.
+
+### images.orig
+
+The `images.orig` folder contains the original D2e Card Viewer images for each of the above data components.  It is used for comparison purposes to the images in the `images` folder.
+
+### xwc
+
+The `xwc` folder contains all of the files that power the D2e Card Viewer Chrome Extension/Firefox Add-On.
 
 ## Usage
 
 You can use this data to build your own apps, etc.
 
-The easiest way to do this is via [Bower](http://bower.io/), [NPM](https://www.npmjs.com/package/d2e) or as a [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules#Starting-with-Submodules):
+The easiest way to do this is via [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules#Starting-with-Submodules):
 
-* Bower: `bower install d2e`
-* NPM: `npm install d2e`
 * Git submodule: `git submodule add https://github.com/any2cards/d2e.git`
 
 ## Bugs / Issues
@@ -60,11 +102,10 @@ See the [Releases tab](https://github.com/any2cards/d2e/releases) in Github.
 ## Contributors
 
 - William Habush (any2cards@yahoo.com)
-- Guido Kessels (mail@guidokessels.com)
 
 This work would not have been possible without the invaluable help and guidance of Guido Kessels. You can find his excellent X-Wing data at: https://github.com/guidokessels/xwing-data.
 
 ---
 
-D2e: Descent 2nd Edition and all related properties, images and text are owned by Fantasy Flight Games.
+D2e: Descent 2nd Edition and all related properties, images and text are owned by Fantasy Flight Games (FFG).
 
