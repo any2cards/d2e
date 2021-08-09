@@ -102,6 +102,7 @@ See the [Releases tab](https://github.com/any2cards/d2e/releases) in Github.
 ## Contributors
 
 - William Habush (any2cards@yahoo.com)
+- Guido Hansen (sadgit@penultimate.de)
 
 This work would not have been possible without the invaluable help and guidance of Guido Kessels. You can find his excellent X-Wing data at: https://github.com/guidokessels/xwing-data.
 
