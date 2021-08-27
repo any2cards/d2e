@@ -2985,8 +2985,8 @@
     "name": "One Fist Back",
     "points": 229,
     "quote": "I've fought many battles and seen the worst the world has to offer. Do your worst. I have no fear.",
-    "expansion": "Shards Of Everdark",
-    "image": "heroes/warriors/one-fist-se-back.png",
+    "expansion": "Conversion Kit",
+    "image": "heroes/warriors/one-fist-ck-back.png",
     "xws": "onefistback"
   },
   {
