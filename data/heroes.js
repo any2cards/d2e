@@ -1503,7 +1503,7 @@
     "name": "Bogran The Shadow UC Back",
     "points": 115,
     "quote": "I am a deadly wind, invisible and inescapable. You cannot see me, but you can see where I have been.",
-    "expansion": "USer Community",
+    "expansion": "User Community",
     "image": "heroes/scouts/bogran-the-shadow-uc-back.png",
     "xws": "bograntheshadowback"
   },
