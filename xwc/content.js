@@ -14,6 +14,7 @@ const files = [
   'heroes.js',
   'hybrid-class-skills.js',
   'lieutenants.js',
+  'map-pieces.js',
   'monster-activations.js',
   'monsters.js',
   'overlord-decks.js',
