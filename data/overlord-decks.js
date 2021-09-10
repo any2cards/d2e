@@ -1213,15 +1213,15 @@
   },
   {
     "deck": "Overlord Reward",
-    "name": "Secrets Of The Flesh",
+    "name": "Secrets Of Flesh",
     "points": 101,
     "count": 1,
     "type": "Magic",
     "ability": "Play this card at the start of your turn and roll 1 red power die. Each of your monsters recovers Hearts equal to the Hearts rolled.",
     "xp cost": "-",
     "expansion": "The Trollfens",
-    "image": "overlord-decks/overlord-reward/secrets-of-the-flesh.png",
-    "xws": "secretsoftheflesh"
+    "image": "overlord-decks/overlord-reward/secrets-of-flesh.png",
+    "xws": "secretsofflesh"
   },
   {
     "deck": "Overlord Reward",
