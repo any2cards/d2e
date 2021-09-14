@@ -39,7 +39,7 @@ This repository contains data and images for the following components:
 - travel-event-decks
 - turn-summary
 
-** The items listed above with a post-pended asterisk are from Community Driven Content **
+**The items listed above with a post-pended asterisk are from Community Driven Content**
 
 There are four top-level directories: `data` , `images` , `images-orig` ,and `xwc`.
 
