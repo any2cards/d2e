@@ -21,6 +21,7 @@ This repository contains data and images for the following components:
 - heroes
 - hybrid-class-skills
 - lieutenants
+- map-pieces
 - monster-activations*
 - monsters
 - overlord-decks
