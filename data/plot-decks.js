@@ -9,7 +9,7 @@
     "ability": "Use this card when removing Overlord cards from your deck before a quest to remove additional Overlord cards, creating an Overlord deck with a minimum of 13 Overlord cards instead of 15.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/seeds-of-betrayal/sole-purpose.png",
+    "image": "plot-decks/seeds-of-betrayal/sole-purpose-bg.png",
     "xws": "solepurpose"
   },
   {
@@ -22,7 +22,7 @@
     "ability": "Exhaust this card during quest setup. Instead of drawing your starting hand as normal, search your Overlord deck and choose a number of Overlord cards equal to the number of heroes. These cards are your starting hand. Then, shuffle your Overlord deck.",
     "trigger cost": 3,
     "expansion": "Base Game",
-    "image": "plot-decks/seeds-of-betrayal/scrying-and-plotting.png",
+    "image": "plot-decks/seeds-of-betrayal/scrying-and-plotting-bg.png",
     "xws": "scryingandplotting"
   },
   {
@@ -35,7 +35,7 @@
     "ability": "Exhaust this card at the start of your turn. At the end of this turn, draw 2 Overlord cards.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/seeds-of-betrayal/rush-of-power.png",
+    "image": "plot-decks/seeds-of-betrayal/rush-of-power-bg.png",
     "xws": "rushofpower"
   },
   {
@@ -48,7 +48,7 @@
     "ability": "Exhaust this card during setup of the first encounter. Then, place a threat token from the supply beneath this card with either the threat or fortune side faceup. No hero player can know which side is faceup. Reveal the token at the end of the quest. If the threat side is faceup and the overlord won, gain 3 threat. If the fortune side is faceup and the heroes won, gain 3 threat.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/seeds-of-betrayal/two-pronged-gambit.png",
+    "image": "plot-decks/seeds-of-betrayal/two-pronged-gambit-bg.png",
     "xws": "twoprongedgambit"
   },
   {
@@ -61,7 +61,7 @@
     "ability": "Exhaust this card when a hero performs an attribute test, after the dice are rolled, to add 1 Shield to his results.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/seeds-of-betrayal/nefarious-power.png",
+    "image": "plot-decks/seeds-of-betrayal/nefarious-power-bg.png",
     "xws": "nefariouspower"
   },
   {
@@ -74,7 +74,7 @@
     "ability": "Exhaust this card at the start of your turn and discard up to 2 Overlord cards from your hand. Then, draw Overlord cards equal to the number of discarded cards.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/seeds-of-betrayal/always-prepared.png",
+    "image": "plot-decks/seeds-of-betrayal/always-prepared-bg.png",
     "xws": "alwaysprepared"
   },
   {
@@ -87,7 +87,7 @@
     "ability": "Exhaust this card during setup of the first encounter. While this card is exhausted, reveal 2 fewer Shop Item cards during the next Shopping step of the Campaign phase. This card does not refresh as normal. Refresh this card after the next Shopping step.",
     "trigger cost": 2,
     "expansion": "Base Game",
-    "image": "plot-decks/seeds-of-betrayal/false-friends.png",
+    "image": "plot-decks/seeds-of-betrayal/false-friends-bg.png",
     "xws": "falsefriends"
   },
   {
@@ -100,7 +100,7 @@
     "ability": "Exhaust this card after the Travel step of the Campaign phase. Each hero tests one attribute of your choice. Each hero that tests Might or Knowledge and fails is Stunned. Each hero that tests Awareness and fails is Diseased. Each hero that tests Willpower and fails is Poisoned.",
     "trigger cost": 2,
     "expansion": "Base Game",
-    "image": "plot-decks/seeds-of-betrayal/trouble-on-the-road.png",
+    "image": "plot-decks/seeds-of-betrayal/trouble-on-the-road-bg.png",
     "xws": "troubleontheroad"
   },
   {
@@ -113,7 +113,7 @@
     "ability": "Exhaust this card after a hero draws (and chooses to keep) a Search card to force that hero to place that Search card on the bottom of the deck and draw a new one.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/seeds-of-betrayal/meticulous-planning.png",
+    "image": "plot-decks/seeds-of-betrayal/meticulous-planning-bg.png",
     "xws": "meticulousplanning"
   },
   {
@@ -126,7 +126,7 @@
     "ability": "Exhaust this card after setup of each encounter to choose an open monster group. Replace 1 master and 1 minion monster in the chosen group with the Baron Zachareth agent. If the Baron Zachareth agent is defeated, return this card to your Plot deck. You cannot use this card in \"The Shadow Rune\" campaign.",
     "trigger cost": 2,
     "expansion": "Base Game",
-    "image": "plot-decks/seeds-of-betrayal/summon-zachareth.png",
+    "image": "plot-decks/seeds-of-betrayal/summon-zachareth-bg.png",
     "xws": "summonzachareth"
   },
   {
@@ -139,7 +139,7 @@
     "ability": "Exhaust this card when you target a monster with the \"Frenzy\" Overlord card. During this turn, each monster in the target monster's group gains +1 Heart on each attack. Exhaust this card when you target a monster with the \"Dash\" Overlord card. Each other monster in the target monster's group may immediately move 1 space.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/hybrid-loyalty/dual-training.png",
+    "image": "plot-decks/hybrid-loyalty/dual-training-bg.png",
     "xws": "dualtraining"
   },
   {
@@ -152,7 +152,7 @@
     "ability": "Exhaust this card and discard a Trap Overlord card before triggering the ability of another Plot card. Reduce the Plot card's trigger cost by 1 (to a minimum of 0).",
     "trigger cost": 0,
     "expansion": "Base Game",
-    "image": "plot-decks/hybrid-loyalty/fight-with-honor.png",
+    "image": "plot-decks/hybrid-loyalty/fight-with-honor-bg.png",
     "xws": "fightwithhonor"
   },
   {
@@ -165,7 +165,7 @@
     "ability": "Exhaust this card at the end of a quest to add the following Rewards to that quest: If the heroes win, the overlord gains 1 threat token and the heroes receive 25 gold. If the overlord wins, he gains 2 threat tokens and the heroes receive 25 gold.",
     "trigger cost": 0,
     "expansion": "Base Game",
-    "image": "plot-decks/hybrid-loyalty/cut-a-deal.png",
+    "image": "plot-decks/hybrid-loyalty/cut-a-deal-bg.png",
     "xws": "cutadeal"
   },
   {
@@ -178,7 +178,7 @@
     "ability": "Exhaust this card when you knock out a hero, before drawing an overlord card or gaining a threat token for knocking out that hero. While this card is exhausted, each time you gain a threat token, you may draw an Overlord card. This card does not refresh as normal. Refresh this card at the end of each quest.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/hybrid-loyalty/show-of-force.png",
+    "image": "plot-decks/hybrid-loyalty/show-of-force-bg.png",
     "xws": "showofforce"
   },
   {
@@ -191,7 +191,7 @@
     "ability": "Exhaust this card after resolving a \"Dark Fortune\" Overlord card to change the rerolled die to a result of your choice.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/hybrid-loyalty/make-our-own-luck.png",
+    "image": "plot-decks/hybrid-loyalty/make-our-own-luck-bg.png",
     "xws": "makeourownluck"
   },
   {
@@ -204,7 +204,7 @@
     "ability": "Exhaust this card when you play a \"Critical Blow\" Overlord card to add 1 Surge to the attack results.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/hybrid-loyalty/end-it.png",
+    "image": "plot-decks/hybrid-loyalty/end-it-bg.png",
     "xws": "endit"
   },
   {
@@ -217,7 +217,7 @@
     "ability": "Exhaust this card after resolving the effects of a \"Dark Charm\" Overlord card to return that card to your hand. Immediately play it, targeting a different hero. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 2,
     "expansion": "Base Game",
-    "image": "plot-decks/hybrid-loyalty/bribery.png",
+    "image": "plot-decks/hybrid-loyalty/bribery-bg.png",
     "xws": "bribery"
   },
   {
@@ -230,7 +230,7 @@
     "ability": "Exhaust this card at the start of your turn instead of drawing an Overlord card. Choose a basic Overlord card in your discard pile and place it on top of your Overlord deck.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/hybrid-loyalty/resourceful.png",
+    "image": "plot-decks/hybrid-loyalty/resourceful-bg.png",
     "xws": "resourceful"
   },
   {
@@ -243,7 +243,7 @@
     "ability": "Exhaust this card when placing reinforcements. You may spend threat tokens to place 1 additional monster from one of your monster groups that you can reinforce, respecting group limits. Spend threat tokens as follows: SMALL monsters cost 1 threat token. MEDIUM monsters cost 2 threat tokens. HUGE monsters cost 3 threat tokens. MASSIVE monsters cost 4 threat tokens.",
     "trigger cost": 0,
     "expansion": "Base Game",
-    "image": "plot-decks/hybrid-loyalty/hazard-pay.png",
+    "image": "plot-decks/hybrid-loyalty/hazard-pay-bg.png",
     "xws": "hazardpay"
   },
   {
@@ -256,7 +256,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose an open monster group. Replace 1 master and 1 minion monster in the chosen group with the Belthir agent. If the Belthir agent is defeated during this encounter, return this card to your Plot deck. You cannot use this card in any quest that uses the Belthir lieutenant.",
     "trigger cost": 2,
     "expansion": "Base Game",
-    "image": "plot-decks/hybrid-loyalty/summon-belthir.png",
+    "image": "plot-decks/hybrid-loyalty/summon-belthir-bg.png",
     "xws": "summonbelthir"
   },
   {
@@ -269,7 +269,7 @@
     "ability": "Exhaust this card during your turn to choose two monsters. One monster suffers 2 Hearts and the other monster recovers 1 Heart. If both monsters have the Dark monster trait, the monster suffering Hearts suffers 1 fewer Heart.",
     "trigger cost": 0,
     "expansion": "Base Game",
-    "image": "plot-decks/endless-thirst/bloodline.png",
+    "image": "plot-decks/endless-thirst/bloodline-bg.png",
     "xws": "bloodline"
   },
   {
@@ -282,7 +282,7 @@
     "ability": "Exhaust this card at the end of the Travel step of the Campaign phase. Each hero tests Willpower. Each hero who fails suffers 2 Fatigue.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/endless-thirst/bad-dreams.png",
+    "image": "plot-decks/endless-thirst/bad-dreams-bg.png",
     "xws": "baddreams"
   },
   {
@@ -295,7 +295,7 @@
     "ability": "Use this card after setup of an encounter to choose one of your monster groups. During this encounter, that monster group gains the Dark monster trait. Place a threat token from the supply on that group's Monster card as a reminder.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/endless-thirst/nights-embrace.png",
+    "image": "plot-decks/endless-thirst/nights-embrace-bg.png",
     "xws": "nightsembrace"
   },
   {
@@ -308,7 +308,7 @@
     "ability": "Exhaust this card when a monster deals at least 1 Heart from an attack. That monster recovers 2 Hearts. If that monster has the Dark monster trait, it recovers an additional 1 Heart.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/endless-thirst/fangs-in-the-dark.png",
+    "image": "plot-decks/endless-thirst/fangs-in-the-dark-bg.png",
     "xws": "fangsinthedark"
   },
   {
@@ -321,7 +321,7 @@
     "ability": "Exhaust this card when a SMALL monster declares a move action. Move that monster 1 space. While this card is exhausted, if that monster has the Dark monster trait, it gains +1 Heart on each attack.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/endless-thirst/the-power-of-blood.png",
+    "image": "plot-decks/endless-thirst/the-power-of-blood-bg.png",
     "xws": "thepowerofblood"
   },
   {
@@ -334,7 +334,7 @@
     "ability": "Exhaust this card when a monster with the Dark monster trait performs an attack, before dice are rolled, to add 1 additional yellow power die to its attack pool. Exhaust this card when a monster with the Dark monster trait is attacked, before dice are rolled, to add 1 additional black die to its defense pool.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/endless-thirst/nighttime-hunt.png",
+    "image": "plot-decks/endless-thirst/nighttime-hunt-bg.png",
     "xws": "nighttimehunt"
   },
   {
@@ -347,7 +347,7 @@
     "ability": "Exhaust this card when a monster attacks a hero that has 6 or more damage tokens on his Hero sheet, before dice are rolled. This attack gains: Surge: +3 Hearts. If the monster has the Dark monster trait, you may reroll the attack die once during this attack.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/endless-thirst/scent-of-blood.png",
+    "image": "plot-decks/endless-thirst/scent-of-blood-bg.png",
     "xws": "scentofblood"
   },
   {
@@ -360,7 +360,7 @@
     "ability": "Exhaust this card when a monster knocks out a hero. Mark that monster by placing 1 threat token from the supply on its base. If it has the Dark monster trait, you may immediately move it up to its Speed. Each marked monster applies +1 to its Health per hero.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/endless-thirst/the-taste-of-suffering.png",
+    "image": "plot-decks/endless-thirst/the-taste-of-suffering-bg.png",
     "xws": "thetasteofsuffering"
   },
   {
@@ -373,7 +373,7 @@
     "ability": "Exhaust this card during your turn to choose a monster and roll 1 red power die. The chosen monster recovers Hearts equal to the Hearts rolled. If the chosen monster has the Dark monster trait, each other monster in its group recovers 1 Heart.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/endless-thirst/the-ladys-care.png",
+    "image": "plot-decks/endless-thirst/the-ladys-care-bg.png",
     "xws": "theladyscare"
   },
   {
@@ -386,7 +386,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose an open monster group. Replace 1 master monster in that group with the Lady Eliza Farrow agent. If the Lady Eliza Farrow agent is defeated, return this card to your Plot deck. You cannot use this card in any quest that uses the Lady Eliza Farrow lieutenant.",
     "trigger cost": 2,
     "expansion": "Base Game",
-    "image": "plot-decks/endless-thirst/summon-eliza.png",
+    "image": "plot-decks/endless-thirst/summon-eliza-bg.png",
     "xws": "summoneliza"
   },
   {
@@ -399,7 +399,7 @@
     "ability": "After setup of the first encounter of each quest, the hero players choose a hero and place that hero's hero token on this card. When the chosen hero suffers any amount of Hearts, he may exhaust this card to reduce the amount of Hearts suffered by up to 2. If he does, you gain 1 threat token. At the end of each quest, discard the hero token from this card.",
     "trigger cost": 0,
     "expansion": "Base Game",
-    "image": "plot-decks/cursed-by-power/dark-pact.png",
+    "image": "plot-decks/cursed-by-power/dark-pact-bg.png",
     "xws": "darkpact"
   },
   {
@@ -412,7 +412,7 @@
     "ability": "Exhaust this card when a monster performs an attack, after dice are rolled, to discard the top card from your Overlord deck. This attack gains +2 Hearts. If the discarded card was a Magic Overlord card, this attack gains +3 Hearts instead.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/cursed-by-power/greater-power.png",
+    "image": "plot-decks/cursed-by-power/greater-power-bg.png",
     "xws": "greaterpower"
   },
   {
@@ -425,7 +425,7 @@
     "ability": "After setup of the first encounter of each quest, the hero players choose a hero and place that hero's hero token on this card. Exhaust this card when a hero suffers at least 1 Heart. That hero suffers no Hearts and the hero whose hero token is on this card suffers 2 Hearts instead. At the end of the quest, discard the hero token from this card.",
     "trigger cost": 0,
     "expansion": "Base Game",
-    "image": "plot-decks/cursed-by-power/the-dark-mark.png",
+    "image": "plot-decks/cursed-by-power/the-dark-mark-bg.png",
     "xws": "thedarkmark"
   },
   {
@@ -438,7 +438,7 @@
     "ability": "Exhaust this card when a hero performs a stand-up action or is revived by another hero. That hero rolls 1 red power die instead of 2.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/cursed-by-power/the-grasping-grave.png",
+    "image": "plot-decks/cursed-by-power/the-grasping-grave-bg.png",
     "xws": "thegraspinggrave"
   },
   {
@@ -451,7 +451,7 @@
     "ability": "Exhaust this card when a hero performs an attack, before dice are rolled. If you do, the attack is a miss. This card does not refresh as normal. Refresh this card at the end of each quest.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/cursed-by-power/masques.png",
+    "image": "plot-decks/cursed-by-power/masques-bg.png",
     "xws": "masques"
   },
   {
@@ -464,7 +464,7 @@
     "ability": "Use this card after you play a Magic Overlord card. Place 1 fatigue token on this card. You may discard 1 fatigue token from this card, after dice are rolled, to either gain +2 Hearts for an attack or add 2 Shields to a defense result. At the end of each quest, discard all fatigue tokens on this card.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/cursed-by-power/mystic-might.png",
+    "image": "plot-decks/cursed-by-power/mystic-might-bg.png",
     "xws": "mysticmight"
   },
   {
@@ -477,7 +477,7 @@
     "ability": "Exhaust this card at the end of your turn and discard a Magic Overlord card from your hand to search your discard pile for a Magic Overlord card of your choice. Reveal that card and place it in your hand.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/cursed-by-power/thaumaturgy.png",
+    "image": "plot-decks/cursed-by-power/thaumaturgy-bg.png",
     "xws": "thaumaturgy"
   },
   {
@@ -490,7 +490,7 @@
     "ability": "Exhaust this card during your turn to choose a hero. Perform an attack targeting the chosen hero using the following dice: Range: Blue Yellow. If the total range is less than 4, it is a miss. This attack gains: Surge: +2 Range. Surge: +2 Hearts.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/cursed-by-power/bolt-from-the-blue.png",
+    "image": "plot-decks/cursed-by-power/bolt-from-the-blue-bg.png",
     "xws": "boltfromtheblue"
   },
   {
@@ -503,7 +503,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose a monster group and place this card near that group's Monster card. Each master monster in that group gains: Surge: Overseer: This monster deals +1 Heart for each other monster in its group within 3 spaces of the target, (to a maximum of +4 Hearts).",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/cursed-by-power/cabal.png",
+    "image": "plot-decks/cursed-by-power/cabal-bg.png",
     "xws": "cabal"
   },
   {
@@ -516,7 +516,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose an open monster group. Replace 1 master monster in that group with the Lord Merick Farrow agent. If the Lord Merick Farrow agent is defeated, return this card to your Plot deck. You cannot use this card in any quest that uses the Lord Merick Farrow lieutenant.",
     "trigger cost": 2,
     "expansion": "Base Game",
-    "image": "plot-decks/cursed-by-power/summon-merick.png",
+    "image": "plot-decks/cursed-by-power/summon-merick-bg.png",
     "xws": "summonmerick"
   },
   {
@@ -529,7 +529,7 @@
     "ability": "Exhaust this card when a monster is attacked, after dice are rolled, to add 2 Shields to the results.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/the-fallen-elite/armor-of-darkness.png",
+    "image": "plot-decks/the-fallen-elite/armor-of-darkness-bg.png",
     "xws": "armorofdarkness"
   },
   {
@@ -542,7 +542,7 @@
     "ability": "Exhaust this card when a master monster performs an attack, before dice are rolled. If this attack defeats a hero that has at least 4 Might, gain 2 threat tokens. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/the-fallen-elite/trial-of-knighthood.png",
+    "image": "plot-decks/the-fallen-elite/trial-of-knighthood-bg.png",
     "xws": "trialofknighthood"
   },
   {
@@ -555,7 +555,7 @@
     "ability": "Exhaust this card after setup of an encounter. At the end of this encounter, gain 1 threat token for each master monster remaining on the map (to a maximum of 3 threat tokens). This card does not refresh as normal. Refresh this card at the end of each quest.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/the-fallen-elite/veteran-council.png",
+    "image": "plot-decks/the-fallen-elite/veteran-council-bg.png",
     "xws": "veterancouncil"
   },
   {
@@ -568,7 +568,7 @@
     "ability": "Exhaust this card when a monster is attacked, before dice are rolled. Add 1 Shield to the results for each monster in the monster's group that is adjacent to it (to a maximum of 3 Shields). If the defending monster does not suffer at least 1 Heart from this attack, gain 1 threat token.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/the-fallen-elite/fight-in-formation.png",
+    "image": "plot-decks/the-fallen-elite/fight-in-formation-bg.png",
     "xws": "fightinformation"
   },
   {
@@ -581,7 +581,7 @@
     "ability": "Exhaust this card when a master monster is defeated. Replace the master monster with a minion monster from the same monster group, respecting group limits. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 2,
     "expansion": "Base Game",
-    "image": "plot-decks/the-fallen-elite/unkillable.png",
+    "image": "plot-decks/the-fallen-elite/unkillable-bg.png",
     "xws": "unkillable"
   },
   {
@@ -594,7 +594,7 @@
     "ability": "After setup of each encounter, choose a monster group of SMALL monsters and place this card near the chosen group's Monster card. Exhaust this card when a monster of the chosen group is attacked, after dice are rolled, to reroll 1 defense die. While this card is exhausted, each time a monster of that group is attacked, after dice are rolled, you may reroll 1 defense die.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/the-fallen-elite/knight-training.png",
+    "image": "plot-decks/the-fallen-elite/knight-training-bg.png",
     "xws": "knighttraining"
   },
   {
@@ -607,7 +607,7 @@
     "ability": "Exhaust this card after setup of an encounter. While this card is exhausted, each master monster gains +2 Health and adds 1 additional brown die to its defense pool. Each of its attacks gains: Surge: +2 Hearts. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 3,
     "expansion": "Base Game",
-    "image": "plot-decks/the-fallen-elite/dark-champions.png",
+    "image": "plot-decks/the-fallen-elite/dark-champions-bg.png",
     "xws": "darkchampions"
   },
   {
@@ -620,7 +620,7 @@
     "ability": "After setup of each encounter, choose a monster group of SMALL monsters and place this card near the chosen group's Monster card. Exhaust this card at the end of your turn. While this card is exhausted, each time a hero performs an attack that deals at least 1 Heart to a monster of that group, that hero suffers 1 Heart.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/the-fallen-elite/vengeful-resolve.png",
+    "image": "plot-decks/the-fallen-elite/vengeful-resolve-bg.png",
     "xws": "vengefulresolve"
   },
   {
@@ -633,7 +633,7 @@
     "ability": "Exhaust this card at the start of your turn to choose a monster. Place a threat token on that monster's base as a reminder. While this card is exhausted, the chosen monster applies +2 to its Health. The monster also recovers 2 Hearts at the start of each overlord turn. This card does not refresh as normal. It refreshes when the chosen monster is defeated or at the end of the encounter.",
     "trigger cost": 2,
     "expansion": "Base Game",
-    "image": "plot-decks/the-fallen-elite/refuse-to-die.png",
+    "image": "plot-decks/the-fallen-elite/refuse-to-die-bg.png",
     "xws": "refusetodie"
   },
   {
@@ -646,7 +646,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose an open monster group. Replace 1 master and 1 minion monster in the chosen group with the Sir Alric Farrow agent. If the Sir Alric Farrow agent is defeated, return this card to your Plot deck. You cannot use this card in any quest that uses the Sir Alric Farrow lieutenant.",
     "trigger cost": 2,
     "expansion": "Base Game",
-    "image": "plot-decks/the-fallen-elite/summon-alric.png",
+    "image": "plot-decks/the-fallen-elite/summon-alric-bg.png",
     "xws": "summonalric"
   },
   {
@@ -659,7 +659,7 @@
     "ability": "Exhaust this card when a SMALL monster with the Wilderness monster trait declares a move action. Move that monster 1 space. If that monster ends this move action within 3 spaces of a hero, it may move 1 additional space.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/goblin-uprising/spirited-retreat.png",
+    "image": "plot-decks/goblin-uprising/spirited-retreat-bg.png",
     "xws": "spiritedretreat"
   },
   {
@@ -672,7 +672,7 @@
     "ability": "Use this card after setup of an encounter to choose one of your monster groups. During this encounter, that group gains the Wilderness monster trait. Place a threat token from the supply on that group's Monster card as a reminder.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/goblin-uprising/feral-instincts.png",
+    "image": "plot-decks/goblin-uprising/feral-instincts-bg.png",
     "xws": "feralinstincts"
   },
   {
@@ -685,7 +685,7 @@
     "ability": "Exhaust this card after setup of an encounter. While this card is exhausted, each monster with the Wilderness monster trait applies +2 to its Health and -1 to its Speed. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/goblin-uprising/overfed.png",
+    "image": "plot-decks/goblin-uprising/overfed-bg.png",
     "xws": "overfed"
   },
   {
@@ -698,7 +698,7 @@
     "ability": "Exhaust this card when a monster suffers any amount of Hearts. Choose a monster adjacent to that monster to suffer all of the Hearts instead.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/goblin-uprising/meat-shield.png",
+    "image": "plot-decks/goblin-uprising/meat-shield-bg.png",
     "xws": "meatshield"
   },
   {
@@ -711,7 +711,7 @@
     "ability": "Exhaust this card during your turn to choose a monster and roll 1 red power die. The chosen monster recovers Hearts equal to the Hearts rolled. If that monster has the Wilderness monster trait, it recovers 1 additional Heart.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/goblin-uprising/emergency-rations.png",
+    "image": "plot-decks/goblin-uprising/emergency-rations-bg.png",
     "xws": "emergencyrations"
   },
   {
@@ -724,7 +724,7 @@
     "ability": "Exhaust this card after a hero resolves an attack affecting a monster. If that monster was not defeated, it may immediately move 3 spaces. If that monster has the Wilderness monster trait, it adds 1 additional black die to its defense pool until the start of your next turn. Place a threat token from the supply on that monster's base as a reminder.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/goblin-uprising/dive-into-cover.png",
+    "image": "plot-decks/goblin-uprising/dive-into-cover-bg.png",
     "xws": "diveintocover"
   },
   {
@@ -737,7 +737,7 @@
     "ability": "Exhaust this card after a hero enters an empty space. Perform an attack targeting that hero as if from a master goblin archer. If the total range of this attack is less than 4, it is a miss. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/goblin-uprising/goblin-ambush.png",
+    "image": "plot-decks/goblin-uprising/goblin-ambush-bg.png",
     "xws": "goblinambush"
   },
   {
@@ -750,7 +750,7 @@
     "ability": "Exhaust this card at the start of your turn and choose a monster group. Place this card near that group's Monster card. While this card is exhausted, each monster in that group adds 1 Surge to each of its attack results and 1 Shield to each of its defense results. If that group has the Wilderness monster trait, each monster in that group gains +1 Heart on each attack.",
     "trigger cost": 2,
     "expansion": "Base Game",
-    "image": "plot-decks/goblin-uprising/raided-armory.png",
+    "image": "plot-decks/goblin-uprising/raided-armory-bg.png",
     "xws": "raidedarmory"
   },
   {
@@ -763,7 +763,7 @@
     "ability": "Exhaust this card at the start of your turn. While this card in exhausted, each of your monsters gains: Action: If this monster is in a space containing or adjacent to a knocked-out hero, place 1 threat token from the supply on this card. No more than 6 threat tokens can be on this card at any time. At the end of the quest, gain all threat tokens on this card.",
     "trigger cost": 1,
     "expansion": "Base Game",
-    "image": "plot-decks/goblin-uprising/scavenge.png",
+    "image": "plot-decks/goblin-uprising/scavenge-bg.png",
     "xws": "scavenge"
   },
   {
@@ -776,7 +776,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose an open monster group. Replace 1 master monster in the chosen group with the Splig agent. If the Splig agent is defeated, return this card to your Plot deck. You cannot use this card in any quest that uses the Splig lieutenant.",
     "trigger cost": 2,
     "expansion": "Base Game",
-    "image": "plot-decks/goblin-uprising/summon-splig.png",
+    "image": "plot-decks/goblin-uprising/summon-splig-bg.png",
     "xws": "summonsplig"
   },
   {
@@ -789,7 +789,7 @@
     "ability": "At the end of each encounter, place a number of threat tokens on this card equal to the number of search tokens remaining on the map. You may return this card to the game box at the end of any quest to gain all threat tokens on this card. If you do not do this, discard all threat tokens on this card.",
     "trigger cost": 0,
     "expansion": "Lair Of The Wyrm",
-    "image": "plot-decks/dragons-greed/mine-all-mine.png",
+    "image": "plot-decks/dragons-greed/mine-all-mine-lw.png",
     "xws": "mineallmine"
   },
   {
@@ -802,7 +802,7 @@
     "ability": "Exhaust this card at the start of your turn. While this card is exhausted, each hero within 3 spaces of a HUGE or MASSIVE monster applies -1 to his Might, Willpower, Knowledge, and Awareness, (to a minimum of 1).",
     "trigger cost": 1,
     "expansion": "Lair Of The Wyrm",
-    "image": "plot-decks/dragons-greed/terrifying-presence.png",
+    "image": "plot-decks/dragons-greed/terrifying-presence-lw.png",
     "xws": "terrifyingpresence"
   },
   {
@@ -815,7 +815,7 @@
     "ability": "Exhaust this card when a monster is attacked, before dice are rolled, to add 2 Shields to the results. If you roll one or more blanks, add an additional 1 Shield to the results.",
     "trigger cost": 1,
     "expansion": "Lair Of The Wyrm",
-    "image": "plot-decks/dragons-greed/iron-hard-scales.png",
+    "image": "plot-decks/dragons-greed/iron-hard-scales-lw.png",
     "xws": "ironhardscales"
   },
   {
@@ -828,7 +828,7 @@
     "ability": "Exhaust this card when a hero declares a search action to choose a monster within 5 spaces of that hero. Remove that monster from the map and place it in an empty space adjacent to that hero. Then, that monster immediately performs an attack targeting that hero. After resolving this attack, if the hero was not defeated, he may continue his turn.",
     "trigger cost": 2,
     "expansion": "Lair Of The Wyrm",
-    "image": "plot-decks/dragons-greed/jealous-rage.png",
+    "image": "plot-decks/dragons-greed/jealous-rage-lw.png",
     "xws": "jealousrage"
   },
   {
@@ -841,7 +841,7 @@
     "ability": "Exhaust this card when a HUGE or MASSIVE monster ends or interrupts its movement. You can place that monster's base in spaces occupied by heroes. Move each hero in the occupied spaces to the closest empty space. The HUGE or MASSIVE monster suffers 1 Heart for each hero it moves.",
     "trigger cost": 1,
     "expansion": "Lair Of The Wyrm",
-    "image": "plot-decks/dragons-greed/massive-bulk.png",
+    "image": "plot-decks/dragons-greed/massive-bulk-lw.png",
     "xws": "massivebulk"
   },
   {
@@ -854,7 +854,7 @@
     "ability": "Exhaust this card at the start of your turn. While this card is exhausted, each of your monsters gains: Surge: Crush: This monster deals +1 Heart for each space its base occupies that exceeds the target hero's Might.",
     "trigger cost": 2,
     "expansion": "Lair Of The Wyrm",
-    "image": "plot-decks/dragons-greed/punish-the-weak.png",
+    "image": "plot-decks/dragons-greed/punish-the-weak-lw.png",
     "xws": "punishtheweak"
   },
   {
@@ -867,7 +867,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose a HUGE or MASSIVE monster group. Place this card near that group's Monster card. Each monster in that group applies +2 to its Health and is immune to Pierce. This card does not refresh as normal. Refresh this card at the start of each encounter.",
     "trigger cost": 2,
     "expansion": "Lair Of The Wyrm",
-    "image": "plot-decks/dragons-greed/aurium-plating.png",
+    "image": "plot-decks/dragons-greed/aurium-plating-lw.png",
     "xws": "auriumplating"
   },
   {
@@ -880,7 +880,7 @@
     "ability": "Exhaust this card at the end of your turn to choose a hero. Mark him with a threat token from the supply. At the start of your next turn, perform an attack targeting the marked hero as if from the Valyndra agent. You cannot use this card in any quest that uses the Valyndra lieutenant or the Valyndra agent. This card does not refresh as normal. Refresh this card at the end of each quest.",
     "trigger cost": 1,
     "expansion": "Lair Of The Wyrm",
-    "image": "plot-decks/dragons-greed/valyndras-shadow.png",
+    "image": "plot-decks/dragons-greed/valyndras-shadow-lw.png",
     "xws": "valyndrasshadow"
   },
   {
@@ -893,7 +893,7 @@
     "ability": "Use this card after setup of an encounter to place any number of your threat tokens on this card. Threat tokens on this card cannot be spent during this encounter. Return all threat tokens from this card to your play area at the end of each encounter. If there are more threat tokens on this card than there are HUGE and MASSIVE monsters on the map, each HUGE and MASSIVE monster gains gain +1 Heart on each attack.",
     "trigger cost": 0,
     "expansion": "Lair Of The Wyrm",
-    "image": "plot-decks/dragons-greed/guardians-of-the-hoard.png",
+    "image": "plot-decks/dragons-greed/guardians-of-the-hoard-lw.png",
     "xws": "guardiansofthehoard"
   },
   {
@@ -906,7 +906,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose an open monster group. Replace 1 master and 2 minion monsters in the chosen group with the Valyndra agent. If the Valyndra agent is defeated, return this card to your Plot deck. You cannot use this card in any quest that uses the Valyndra lieutenant.",
     "trigger cost": 2,
     "expansion": "Lair Of The Wyrm",
-    "image": "plot-decks/dragons-greed/summon - valyndra.png",
+    "image": "plot-decks/dragons-greed/summon - valyndra-lw.png",
     "xws": "summonvalyndra"
   },
   {
@@ -919,7 +919,7 @@
     "ability": "Exhaust this card when a monster performs an attack that is a miss. Reroll the attack die. If that monster has the Cursed monster trait, you may also reroll 1 power die. If that attack deals at least 1 Heart (after the defense roll), the monster that performed the attack may move 1 space.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/dark-illusions/misdirection.png",
+    "image": "plot-decks/dark-illusions/misdirection-lr.png",
     "xws": "misdirection"
   },
   {
@@ -932,7 +932,7 @@
     "ability": "Use this card after setup of an encounter to choose one of your monster groups. During this encounter, that monster group gains the Cursed monster trait. Place 1 threat token from the supply on that group's Monster card as a reminder.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/dark-illusions/tainted-blood.png",
+    "image": "plot-decks/dark-illusions/tainted-blood-lr.png",
     "xws": "taintedblood"
   },
   {
@@ -945,7 +945,7 @@
     "ability": "During the Choose Next Quest step of the Campaign Phase, each time you would choose the next quest to be played, you may force the heroes to choose which quest will be played next. If you do, gain 3 threat tokens.",
     "trigger cost": 0,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/dark-illusions/intricate-schemes.png",
+    "image": "plot-decks/dark-illusions/intricate-schemes-lr.png",
     "xws": "intricateschemes"
   },
   {
@@ -958,7 +958,7 @@
     "ability": "Exhaust this card at the end of your turn. While this card is exhausted, each attack that targets a monster with the Cursed monster trait gains +1 Heart. After resolving each of these attacks, the attacking hero suffers 1 Heart and 1 Fatigue.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/dark-illusions/malediction.png",
+    "image": "plot-decks/dark-illusions/malediction-lr.png",
     "xws": "malediction"
   },
   {
@@ -971,7 +971,7 @@
     "ability": "Exhaust this card when a hero resolves an attack that does not deal at least 1 Heart (after the defense roll). Remove 1 monster affected by this attack from the map and place it in an empty space within 3 spaces of its original space. If that monster has the Cursed monster trait, the attacking hero suffers 1 Fatigue.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/dark-illusions/mirage.png",
+    "image": "plot-decks/dark-illusions/mirage-lr.png",
     "xws": "mirage"
   },
   {
@@ -984,7 +984,7 @@
     "ability": "Exhaust this card at the start of your turn to choose 1 monster. Each hero in that monster's line of sight tests Willpower. If that monster has the Cursed monster trait, add 1 Shield to the results of each test. You may move each hero who fails 2 spaces.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/dark-illusions/enthrall.png",
+    "image": "plot-decks/dark-illusions/enthrall-lr.png",
     "xws": "enthrall"
   },
   {
@@ -997,7 +997,7 @@
     "ability": "Exhaust this card when a hero attacks a master monster with the Cursed monster trait, before dice are rolled. While this card is exhausted, each attack that targets that monster must roll 3 range in addition to any other range requirements, or the attack is a miss.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/dark-illusions/phantasm.png",
+    "image": "plot-decks/dark-illusions/phantasm-lr.png",
     "xws": "phantasm"
   },
   {
@@ -1010,7 +1010,7 @@
     "ability": "Exhaust this card at the start of your turn. Until the start of your next turn, line of sight for Ranged attacks can only be measured up to a range of 2. Monsters with the Cursed monster trait, lieutenants, and agents are not affected by this card. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/dark-illusions/darkness-falls.png",
+    "image": "plot-decks/dark-illusions/darkness-falls-lr.png",
     "xws": "darknessfalls"
   },
   {
@@ -1023,7 +1023,7 @@
     "ability": "At the start of each encounter, place fatigue tokens on this card equal to the number of heroes. Each of your master monsters gains: Action: Discard 1 fatigue token from \"The Ritual Continues\". At the end of each encounter, if there are no fatigue tokens on this card, gain 2 threat tokens. Then, discard all tokens from this card.",
     "trigger cost": 0,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/dark-illusions/the-ritual-continues.png",
+    "image": "plot-decks/dark-illusions/the-ritual-continues-lr.png",
     "xws": "theritualcontinues"
   },
   {
@@ -1036,7 +1036,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose an open monster group. Replace 1 master and 1 minion monster in that group with the Ariad agent. If the Ariad agent is defeated, return this card to your Plot deck. You cannot use this card in any quest that uses the Ariad or Queen Ariad lieutenant.",
     "trigger cost": 2,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/dark-illusions/summon-ariad.png",
+    "image": "plot-decks/dark-illusions/summon-ariad-lr.png",
     "xws": "summonariad"
   },
   {
@@ -1049,7 +1049,7 @@
     "ability": "At the start of an encounter, exhaust this card. While this card is exhausted, each time a monster with the Wilderness monster trait rolls at least 1 blank when rolling defense dice, add 1 Shield to the results for each blank rolled. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/tangled-web/natural-camouflage.png",
+    "image": "plot-decks/tangled-web/natural-camouflage-lr.png",
     "xws": "natualcamouflage"
   },
   {
@@ -1062,7 +1062,7 @@
     "ability": "Use this card after setup of an encounter to choose one of your monster groups. During this encounter, that group gains the Wilderness monster trait. Place a threat token from the supply on that group's Monster card as a reminder.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/tangled-web/feral-instincts.png",
+    "image": "plot-decks/tangled-web/feral-instincts-lr.png",
     "xws": "feralinstincts"
   },
   {
@@ -1075,7 +1075,7 @@
     "ability": "Exhaust this card when a hero gains a Condition card. Replace that card with a different Condition card of your choice.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/tangled-web/web-of-deception.png",
+    "image": "plot-decks/tangled-web/web-of-deception-lr.png",
     "xws": "webofdeception"
   },
   {
@@ -1088,7 +1088,7 @@
     "ability": "Exhaust this card at the end of your turn to choose a monster group and place this card near that group's Monster card. While this card is exhausted, each hero must spend 1 additional movement point to enter a space adjacent to at least 1 monster in that group.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/tangled-web/entangling-weave.png",
+    "image": "plot-decks/tangled-web/entangling-weave-lr.png",
     "xws": "entanglingweave"
   },
   {
@@ -1101,7 +1101,7 @@
     "ability": "Exhaust this card after resolving a Trap card to return that card to your hand. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 2,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/tangled-web/unsafe-passage.png",
+    "image": "plot-decks/tangled-web/unsafe-passage-lr.png",
     "xws": "unsafepassage"
   },
   {
@@ -1114,7 +1114,7 @@
     "ability": "Exhaust this card after setup of an encounter. While this card is exhausted, each monster with the Wilderness monster trait gains: Ambush: Each time this monster performs an attack that targets a hero that did not have line of sight to this monster at the start of its activation, that attack gains Pierce 2. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/tangled-web/hidden-predator.png",
+    "image": "plot-decks/tangled-web/hidden-predator-lr.png",
     "xws": "hiddenpredator"
   },
   {
@@ -1127,7 +1127,7 @@
     "ability": "Exhaust this card during your turn. Gain 1 threat token for each knocked-out hero. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/tangled-web/embrace-darkness.png",
+    "image": "plot-decks/tangled-web/embrace-darkness-lr.png",
     "xws": "embracedarkness"
   },
   {
@@ -1140,7 +1140,7 @@
     "ability": "Exhaust this card when a monster performs an attack that targets a hero who is not adjacent to any other hero, before dice are rolled. This attack gains +2 Hearts. Additionally, if the monster has the Wilderness monster trait, this attack gains Pierce 1.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/tangled-web/solitary-prey.png",
+    "image": "plot-decks/tangled-web/solitary-prey-lr.png",
     "xws": "solitaryprey"
   },
   {
@@ -1153,7 +1153,7 @@
     "ability": "Exhaust this card when you resolve a Trap card played on a hero during his turn. Choose 1 monster with the Wilderness monster trait. That monster may immediately perform an attack targeting that hero. After this attack is resolved, the active player resumes his turn.",
     "trigger cost": 2,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/tangled-web/savage-exploitation.png",
+    "image": "plot-decks/tangled-web/savage-exploitation-lr.png",
     "xws": "savageexploitation"
   },
   {
@@ -1166,7 +1166,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose an open monster group. Replace that group with the Queen Ariad agent. If the Queen Ariad agent is defeated, return this card to your Plot deck. You cannot use this card in the \"Labyrinth Of Ruin\" campaign.",
     "trigger cost": 2,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/tangled-web/summon-queen-ariad.png",
+    "image": "plot-decks/tangled-web/summon-queen-ariad-lr.png",
     "xws": "summonqueenariad"
   },
   {
@@ -1179,7 +1179,7 @@
     "ability": "Exhaust this card at the start of your turn. While this card is exhausted, each of your monsters gains the following abilities: This monster may spend 2 movement points to reveal 1 adjacent search token. If it is not a unique search token, place it on this monster's base. While a search token is on this monster's base, the token cannot be searched by any hero. If this monster is defeated or leaves the map for any reason, place any search tokens on its base in the space last occupied by the monster.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/skulduggery/petty-theft.png",
+    "image": "plot-decks/skulduggery/petty-theft-lr.png",
     "xws": "pettytheft"
   },
   {
@@ -1192,7 +1192,7 @@
     "ability": "Exhaust this card when you activate a monster with at least 1 search token on its base. Look at the top 2 cards of the Search deck. Place 1 card on the top of the Search deck and 1 card on the bottom. This card does not refresh as normal. Refresh this card at the end of each quest, or spend 1 threat token at the start of your turn to refresh it.",
     "trigger cost": 0,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/skulduggery/concealment.png",
+    "image": "plot-decks/skulduggery/concealment-lr.png",
     "xws": "concealment"
   },
   {
@@ -1205,7 +1205,7 @@
     "ability": "Exhaust this card when you activate a monster. That monster may move into spaces occupied by enemy figures at a cost of 1 additional movement point per space. The monster must end its movement in an empty space following normal movement rules. If that monster has at least 1 search token on its base, refresh this card at the end of that monster's activation.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/skulduggery/slippery.png",
+    "image": "plot-decks/skulduggery/slippery-lr.png",
     "xws": "slippery"
   },
   {
@@ -1218,7 +1218,7 @@
     "ability": "Exhaust this card when a hero declares an attack targeting a monster with at least 1 search token on its base. Remove 1 search token from that monster's base and place it in a space adjacent to the hero performing the attack. That hero immediately searches that search token instead of performing the attack. Then, he is Stunned, and you may move the monster up to 2 spaces.",
     "trigger cost": 2,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/skulduggery/distraction.png",
+    "image": "plot-decks/skulduggery/distraction-lr.png",
     "xws": "distraction"
   },
   {
@@ -1231,7 +1231,7 @@
     "ability": "Exhaust this card after a hero draws (and chooses to keep) a Search card. Set that Search card aside and that hero draws another Search card. Then, return the Search card that was set aside to the top of the Search deck.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/skulduggery/foiled-again.png",
+    "image": "plot-decks/skulduggery/foiled-again-lr.png",
     "xws": "foiledagain"
   },
   {
@@ -1244,7 +1244,7 @@
     "ability": "Exhaust this card when a hero draws a Search card. While this card is exhausted, add 1 Surge to the results of each attack that targets a hero with at least 1 faceup Search card in his play area. This card does not refresh as normal. Refresh this card at the end of your turn.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/skulduggery/covetous.png",
+    "image": "plot-decks/skulduggery/covetous-lr.png",
     "xws": "covetous"
   },
   {
@@ -1257,7 +1257,7 @@
     "ability": "Each monster with at least 1 search token on its base adds 1 Shield to its defense results. At the end of each encounter, if there is at least 1 monster with a search token on its base, gain 1 threat token.",
     "trigger cost": 0,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/skulduggery/guarded-treasure.png",
+    "image": "plot-decks/skulduggery/guarded-treasure-lr.png",
     "xws": "guardedtreasure"
   },
   {
@@ -1270,7 +1270,7 @@
     "ability": "Exhaust this card when a hero within 3 spaces of a monster searches a search token. You may place 1 threat token on this card. This card cannot hold more than 4 threat tokens at any time. At the end of the quest, gain all threat tokens on this card.",
     "trigger cost": 0,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/skulduggery/cursed-treasure.png",
+    "image": "plot-decks/skulduggery/cursed-treasure-lr.png",
     "xws": "cursedtreasure"
   },
   {
@@ -1283,7 +1283,7 @@
     "ability": "Exhaust this card when a hero enters an empty space adjacent to a search token. Choose 1 SMALL monster within 5 spaces of that search token. The chosen monster and that search token trade spaces. Then, that monster may immediately perform an attack targeting that hero. After this attack is resolved, the active player resumes their turn.",
     "trigger cost": 2,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/skulduggery/bait-and-switch.png",
+    "image": "plot-decks/skulduggery/bait-and-switch-lr.png",
     "xws": "baitandswitch"
   },
   {
@@ -1296,7 +1296,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose an open monster group. Replace 1 master monster in that group with the Raythen agent. If the Raythen agent is defeated, return this card to your Plot deck. You cannot use this card in any quest that uses the Raythen lieutenant, ally, or hero.",
     "trigger cost": 2,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/skulduggery/summon-raythen.png",
+    "image": "plot-decks/skulduggery/summon-raythen-lr.png",
     "xws": "summonraythen"
   },
   {
@@ -1309,7 +1309,7 @@
     "ability": "Exhaust this card when you activate a monster group with the Civilized monster trait. Choose 2 monsters in that group. The first monster performs 1 less action this turn, and the second monster may perform 1 additional action this turn.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/silent-protector/brethren.png",
+    "image": "plot-decks/silent-protector/brethren-lr.png",
     "xws": "brethren"
   },
   {
@@ -1322,7 +1322,7 @@
     "ability": "Use this card after setup of an encounter to choose one of your monster groups. During this encounter, that group gains the Civilized monster trait. Place 1 threat token from the supply on that group's Monster card as a reminder.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/silent-protector/diplomatic.png",
+    "image": "plot-decks/silent-protector/diplomatic-lr.png",
     "xws": "diplomatic"
   },
   {
@@ -1335,7 +1335,7 @@
     "ability": "Exhaust this card at the start of your turn. While this card is exhausted, each master monster with the Civilized monster trait gains: Action: Perform an attack. If this attack deals at least 1 Heart (after the defense roll), this monster and 1 monster within 3 spaces of this monster each recover 2 Hearts.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/silent-protector/curative-spirit.png",
+    "image": "plot-decks/silent-protector/curative-spirit-lr.png",
     "xws": "curativespirit"
   },
   {
@@ -1348,7 +1348,7 @@
     "ability": "Exhaust this card at the end of your turn. While this card is exhausted, heroes cannot suffer Fatigue to gain movement points.",
     "trigger cost": 2,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/silent-protector/travelers-rest.png",
+    "image": "plot-decks/silent-protector/travelers-rest-lr.png",
     "xws": "travelersrest"
   },
   {
@@ -1361,7 +1361,7 @@
     "ability": "Exhaust this card when a hero performs an attack targeting a monster that has at least 1 Heart token, before dice are rolled. The hero suffers 1 Fatigue and tests Willpower. If he fails, he removes 1 Surge from the attack results. After the attack is resolved, if that monster has the Civilized monster trait and was not defeated, the monster may move 2 spaces.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/silent-protector/pity-the-weak.png",
+    "image": "plot-decks/silent-protector/pity-the-weak-lr.png",
     "xws": "pitytheweak"
   },
   {
@@ -1374,7 +1374,7 @@
     "ability": "Exhaust this card when a monster performs an attack that targets a hero, before dice are rolled. If that attack is not a miss, that hero is Stunned.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/silent-protector/pacify.png",
+    "image": "plot-decks/silent-protector/pacify-lr.png",
     "xws": "pacify"
   },
   {
@@ -1387,7 +1387,7 @@
     "ability": "Exhaust this card when a monster suffers at least 2 Hearts to reduce the amount of Hearts that monster suffers to a minimum of 1 Heart. Then, all monsters in that monster's group suffer an amount of Hearts equal to the amount by which you reduced the first monster's Hearts, divided any way you choose between those monsters.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/silent-protector/shared-burdens.png",
+    "image": "plot-decks/silent-protector/shared-burdens-lr.png",
     "xws": "sharedburdens"
   },
   {
@@ -1400,7 +1400,7 @@
     "ability": "Exhaust this card when a master monster is defeated. You may place 2 threat tokens on this card. This card cannot hold more than 8 threat tokens at any time. At the end of the quest, gain all threat tokens on this card.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/silent-protector/power-in-mourning.png",
+    "image": "plot-decks/silent-protector/power-in-mourning-lr.png",
     "xws": "powerinmourning"
   },
   {
@@ -1413,7 +1413,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose a monster. While this card is exhausted, that monster cannot perform any actions except for move actions. At the end of each of your turns, each monster within 3 spaces of that monster recovers 2 Hearts. Place 1 threat token from the supply on that monster's base as a reminder. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/silent-protector/oath-of-silence.png",
+    "image": "plot-decks/silent-protector/oath-of-silence-lr.png",
     "xws": "oathofsilence"
   },
   {
@@ -1426,7 +1426,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose an open monster group. Replace 1 master monster in that group with the Serena agent. If the Serena agent is defeated, return this card to your Plot deck. You cannot use this card in any quest that uses the Serena lieutenant, ally, or hero.",
     "trigger cost": 2,
     "expansion": "Labyrinth Of Ruin",
-    "image": "plot-decks/silent-protector/summon-serena.png",
+    "image": "plot-decks/silent-protector/summon-serena-lr.png",
     "xws": "summonserena"
   },
   {
@@ -1439,7 +1439,7 @@
     "ability": "Exhaust this card when a hero who is Poisoned or Diseased is defeated. If that hero was Poisoned, each hero within 3 spaces tests Might. Each hero who fails is Poisoned. If that hero was Diseased, each hero within 3 spaces tests Willpower. Each hero who fails is Diseased.",
     "trigger cost": 1,
     "expansion": "The Trollfens",
-    "image": "plot-decks/raging-infection/plague-release.png",
+    "image": "plot-decks/raging-infection/plague-release-tf.png",
     "xws": "plaguerelease"
   },
   {
@@ -1452,7 +1452,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose one of your monster groups, and place this card near that group's Monster card. While this card is exhausted, each master monster in the group gains: Surge: Disease. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "The Trollfens",
-    "image": "plot-decks/raging-infection/infected.png",
+    "image": "plot-decks/raging-infection/infected-tf.png",
     "xws": "infected"
   },
   {
@@ -1465,7 +1465,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose one of your monster groups, and place this card near that group's Monster card. While this card is exhausted, each master monster in the group gains: Surge: Poison. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "The Trollfens",
-    "image": "plot-decks/raging-infection/envenom.png",
+    "image": "plot-decks/raging-infection/envenom-tf.png",
     "xws": "envenom"
   },
   {
@@ -1478,7 +1478,7 @@
     "ability": "Exhaust this card at the start of your turn. Each hero discards all Condition cards from his play area. For each Condition card discarded, gain 1 threat token (to a maximum of 4). This card does not refresh as normal. Refresh this card at the end of each quest.",
     "trigger cost": 1,
     "expansion": "The Trollfens",
-    "image": "plot-decks/raging-infection/mass-mutation.png",
+    "image": "plot-decks/raging-infection/mass-mutation-tf.png",
     "xws": "massmutation"
   },
   {
@@ -1491,7 +1491,7 @@
     "ability": "Use this card after setup of an encounter to choose a monster. Each hero that starts his turn within 5 spaces of that monster is Diseased. Place a threat token on the monster's base as a reminder.",
     "trigger cost": 2,
     "expansion": "The Trollfens",
-    "image": "plot-decks/raging-infection/affliction-aura.png",
+    "image": "plot-decks/raging-infection/affliction-aura-tf.png",
     "xws": "afflictionaura"
   },
   {
@@ -1504,7 +1504,7 @@
     "ability": "Exhaust this card when a hero passes an attribute test from a Poisoned or Diseased Condition card. That hero fails the test instead.",
     "trigger cost": 1,
     "expansion": "The Trollfens",
-    "image": "plot-decks/raging-infection/fetid-stench.png",
+    "image": "plot-decks/raging-infection/fetid-stench-tf.png",
     "xws": "fetidstench"
   },
   {
@@ -1517,7 +1517,7 @@
     "ability": "Exhaust this card after setup of an encounter. While this card is exhausted, each time a hero fails an attribute test while Poisoned or Diseased, that hero suffers 1 Heart in addition to any other effects. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 2,
     "expansion": "The Trollfens",
-    "image": "plot-decks/raging-infection/weakness-within.png",
+    "image": "plot-decks/raging-infection/weakness-within-tf.png",
     "xws": "weaknesswithin"
   },
   {
@@ -1530,7 +1530,7 @@
     "ability": "Exhaust this card when a hero is defeated to mark that hero with a threat token from the supply. Each marked hero applies -1 to his Willpower (to a minimum of 1) while he is Diseased and -1 to his Might (to a minimum of 1) while he is Poisoned. Discard all threat tokens on heroes at the end of the quest.",
     "trigger cost": 1,
     "expansion": "The Trollfens",
-    "image": "plot-decks/raging-infection/weakened-spirit.png",
+    "image": "plot-decks/raging-infection/weakened-spirit-tf.png",
     "xws": "weakenedspirit"
   },
   {
@@ -1543,7 +1543,7 @@
     "ability": "Exhaust this card during your turn. Each hero with the Poisoned condition suffers 1 Heart and each hero with the Diseased condition suffers 1 Fatigue. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "The Trollfens",
-    "image": "plot-decks/raging-infection/virulent-cloud.png",
+    "image": "plot-decks/raging-infection/virulent-cloud-tf.png",
     "xws": "virulentcloud"
   },
   {
@@ -1556,7 +1556,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose an open monster group. Replace 1 master and 2 minion monsters in the chosen group with the Bol'Goreth agent. If the Bol'Goreth agent is defeated, return this card to your Plot deck. You cannot use this card in a quest that uses the Bol'Goreth lieutenant.",
     "trigger cost": 2,
     "expansion": "The Trollfens",
-    "image": "plot-decks/raging-infection/summon-bolgoreth.png",
+    "image": "plot-decks/raging-infection/summon-bolgoreth-tf.png",
     "xws": "summonbolgoreth"
   },
   {
@@ -1569,7 +1569,7 @@
     "ability": "Exhaust this card when a monster performs an attack, before dice are rolled. That attack affects all figures adjacent to the target. After that attack resolves, if that monster has the Hot monster trait, it recovers Hearts equal to the number of figures affected by the attack.",
     "trigger cost": 2,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/burning-ambition/inferno.png",
+    "image": "plot-decks/burning-ambition/inferno-sn.png",
     "xws": "inferno"
   },
   {
@@ -1582,7 +1582,7 @@
     "ability": "Use this card after setup of an encounter and choose 1 monster group. During this encounter, that group gains the Hot monster trait. Place 1 threat token from the supply on that group's Monster card as a reminder.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/burning-ambition/enkindle.png",
+    "image": "plot-decks/burning-ambition/enkindle-sn.png",
     "xws": "enkindle"
   },
   {
@@ -1595,7 +1595,7 @@
     "ability": "A hero may exhaust this card when he performs an attack, before dice are rolled. If he does, that attack gains +2 Hearts, and you gain 1 threat token.",
     "trigger cost": 0,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/burning-ambition/taste-of-the-forbidden.png",
+    "image": "plot-decks/burning-ambition/taste-of-the-forbidden-sn.png",
     "xws": "tasteoftheforbidden"
   },
   {
@@ -1608,7 +1608,7 @@
     "ability": "Exhaust this card after setup of an encounter. While this card is exhausted, each time a hero enters a space adjacent to at least 1 monster with the Hot monster trait, that hero suffers 1 Heart. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/burning-ambition/scorching-presence.png",
+    "image": "plot-decks/burning-ambition/scorching-presence-sn.png",
     "xws": "scorchingpresence"
   },
   {
@@ -1621,7 +1621,7 @@
     "ability": "Exhaust this card at the start of your turn and choose a space on the map. Each hero within 3 spaces of the chosen space tests Might or Awareness, your choice. Move each hero that fails 2 spaces.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/burning-ambition/shifting-earth.png",
+    "image": "plot-decks/burning-ambition/shifting-earth-sn.png",
     "xws": "shiftingearth"
   },
   {
@@ -1634,7 +1634,7 @@
     "ability": "Exhaust this card when a monster performs an attack. You may measure range and line of sight from one of the other monsters in that monster's group for that attack.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/burning-ambition/ynfernael-bonds.png",
+    "image": "plot-decks/burning-ambition/ynfernael-bonds-sn.png",
     "xws": "ynfernaelbonds"
   },
   {
@@ -1647,7 +1647,7 @@
     "ability": "Exhaust this card at the end of your turn and choose 1 knocked-out hero and an amount of Hearts and Fatigue. That hero may choose to immediately recover that amount of Hearts and Fatigue. If he does, you gain 3 threat tokens. This card does not refresh as normal. Refresh this card if the hero chooses not to recover the Hearts and Fatigue or at the end of each quest.",
     "trigger cost": 0,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/burning-ambition/demons-bargain.png",
+    "image": "plot-decks/burning-ambition/demons-bargain-sn.png",
     "xws": "demonsbargain"
   },
   {
@@ -1660,7 +1660,7 @@
     "ability": "Exhaust this card when you activate a monster. That monster may perform 1 additional attack action this turn in addition to its normal 2 actions. At the end of the monster's activation, it suffers 2 Hearts for each attack it performed this turn. If that monster has the Hot monster trait, you may reroll 1 die during each attack the monster performs this turn.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/burning-ambition/blazing-rage.png",
+    "image": "plot-decks/burning-ambition/blazing-rage-sn.png",
     "xws": "blazingrage"
   },
   {
@@ -1673,7 +1673,7 @@
     "ability": "Exhaust this card at the end of your turn. Each hero tests Might or Willpower, your choice. Place 1 threat token from the supply on the Hero sheet of each hero who fails. A hero with a threat token on his Hero sheet suffers Fatigue equal to his Stamina at the end of his turn. Each time a hero performs a rest action, he may test Might or Willpower, his choice. He discards his threat token if he passes that test, or if he is defeated. This card does not refresh as normal. Refresh this card at the end of each quest.",
     "trigger cost": 2,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/burning-ambition/crushing-exhaustion.png",
+    "image": "plot-decks/burning-ambition/crushing-exhaustion-sn.png",
     "xws": "crushingexhaustion"
   },
   {
@@ -1686,7 +1686,7 @@
     "ability": "Exhaust this card after setup of an encounter and choose 1 open monster group. Replace that group with the Gargan Mirklace agent. If the Gargan Mirklace agent is defeated, return this card to your Plot deck. You cannot use this card in the \"Shadow Of Nerekhall\" campaign.",
     "trigger cost": 2,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/burning-ambition/summon-gargan-mirklace.png",
+    "image": "plot-decks/burning-ambition/summon-gargan-mirklace-sn.png",
     "xws": "summongarganmirklace"
   },
   {
@@ -1699,7 +1699,7 @@
     "ability": "Exhaust this card at the end of your turn to choose 1 monster. Until the start of your next turn, a hero cannot declare that monster as the target of an attack if there is another monster within 3 spaces of that monster. Place 1 threat token from the supply on that monster's base as a reminder. This card does not refresh as normal. Refresh this card at the end of each quest.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/inner-corruption/friend-or-foe.png",
+    "image": "plot-decks/inner-corruption/friend-or-foe-sn.png",
     "xws": "friendorfoe"
   },
   {
@@ -1712,7 +1712,7 @@
     "ability": "Exhaust this card after setup of an encounter to look at the top 3 cards of the Search deck. Place 2 of those cards on top of the Search deck in the order of your choice and place the remaining card on the bottom of the Search deck.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/inner-corruption/thieves-guild.png",
+    "image": "plot-decks/inner-corruption/thieves-guild-sn.png",
     "xws": "thievesguild"
   },
   {
@@ -1725,7 +1725,7 @@
     "ability": "Exhaust this card during the Shopping step of the Campaign phase, after revealing the Shop Item cards, and discard 1 threat token to choose 1 Shop Item card. That card costs an additional 50 gold to purchase.",
     "trigger cost": 0,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/inner-corruption/merchants-guild.png",
+    "image": "plot-decks/inner-corruption/merchants-guild-sn.png",
     "xws": "merchantsguild"
   },
   {
@@ -1738,7 +1738,7 @@
     "ability": "Exhaust this card after setup of the first encounter of each quest and place up to 3 Overlord cards from your hand facedown under this card. Gain 1 threat token for each card placed under this card. While this card is exhausted, you cannot use cards under this card. When you refresh this card, discard all cards under this card. This card does not refresh as normal. Refresh this card at the end of the first encounter.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/inner-corruption/shadow-council.png",
+    "image": "plot-decks/inner-corruption/shadow-council-sn.png",
     "xws": "shadowcouncil"
   },
   {
@@ -1751,7 +1751,7 @@
     "ability": "Exhaust this card when a hero starts his turn. That hero tests Willpower. If he fails, he suffers Fatigue equal to his Willpower. If he passes, gain 2 threat tokens. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/inner-corruption/traitorous-friend.png",
+    "image": "plot-decks/inner-corruption/traitorous-friend-sn.png",
     "xws": "traitorousfriend"
   },
   {
@@ -1764,7 +1764,7 @@
     "ability": "Exhaust this card at the end of the Travel step of the Campaign phase. The heroes choose 1 hero to test Awareness. If he fails, the heroes return to the location in which they started this Travel step and perform a second Travel step.",
     "trigger cost": 0,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/inner-corruption/false-informant.png",
+    "image": "plot-decks/inner-corruption/false-informant-sn.png",
     "xws": "falseinformant"
   },
   {
@@ -1777,7 +1777,7 @@
     "ability": "Exhaust this card when a hero tests Willpower and fails. Immediately move that hero up to his Speed. Then, perform an attack with that hero as if he were 1 of your monsters. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 2,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/inner-corruption/one-of-us.png",
+    "image": "plot-decks/inner-corruption/one-of-us-sn.png",
     "xws": "oneofus"
   },
   {
@@ -1790,7 +1790,7 @@
     "ability": "Use this card during the Spend Experience Points step of the Campaign phase. You receive 1 XP. Then, return this card to the game box.",
     "trigger cost": 0,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/inner-corruption/deceitful-scribe.png",
+    "image": "plot-decks/inner-corruption/deceitful-scribe-sn.png",
     "xws": "deceitfulscribe"
   },
   {
@@ -1803,7 +1803,7 @@
     "ability": "Exhaust this card at the end of your turn. Each hero tests Knowledge. Each hero who fails suffers 1 Fatigue. If 2 or more heroes fail, draw 1 Overlord card. If 3 or more heroes fail, 1 of those heroes is Stunned, your choice. If 4 or more heroes fail, gain 1 threat token. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/inner-corruption/mages-guild.png",
+    "image": "plot-decks/inner-corruption/mages-guild-sn.png",
     "xws": "magesguild"
   },
   {
@@ -1816,7 +1816,7 @@
     "ability": "Exhaust this card after setup of an encounter and choose 1 open monster group. Replace 1 master and 1 minion monster in that group with the Rylan Olliven agent. If the Rylan Olliven agent is defeated, return this card to your Plot deck. You cannot use this card in the \"Shadow Of Nerekhall\" campaign.",
     "trigger cost": 2,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/inner-corruption/summon-rylan-olliven.png",
+    "image": "plot-decks/inner-corruption/summon-rylan-olliven-sn.png",
     "xws": "summonrylanolliven"
   },
   {
@@ -1829,7 +1829,7 @@
     "ability": "Exhaust this card when a master monster performs an attack, before dice are rolled, to add 1 Surge to the attack results. When you exhaust this card, you may discard 1 threat token. After resolving this attack, if you did not discard 1 threat token and that attack did not deal 1 or more Hearts, discard 1 threat token and the monster that attacked is defeated.",
     "trigger cost": 0,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unstable-forces/wild-energy.png",
+    "image": "plot-decks/unstable-forces/wild-energy-sn.png",
     "xws": "wildenergy"
   },
   {
@@ -1842,7 +1842,7 @@
     "ability": "Exhaust this card during your turn and choose 1 monster group. Place this card near that group's Monster card. While this card is exhausted, you may activate 1 master monster of the chosen group during any other monster group's activation instead of the chosen group's activation.",
     "trigger cost": 0,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unstable-forces/pariah.png",
+    "image": "plot-decks/unstable-forces/pariah-sn.png",
     "xws": "pariah"
   },
   {
@@ -1855,7 +1855,7 @@
     "ability": "Exhaust this card when a monster is defeated. Each figure within 3 spaces of that monster suffers 2 Hearts.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unstable-forces/explosive-fall.png",
+    "image": "plot-decks/unstable-forces/explosive-fall-sn.png",
     "xws": "explosivefall"
   },
   {
@@ -1868,7 +1868,7 @@
     "ability": "Exhaust this card when a master monster is defeated to place 1 fatigue token in its space. At the start of your next turn, replace the fatigue token with a master monster in the same group as the defeated monster, respecting group limits. This card does not refresh as normal. Refresh this card at the end of each quest.",
     "trigger cost": 2,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unstable-forces/mortal-coil.png",
+    "image": "plot-decks/unstable-forces/mortal-coil-sn.png",
     "xws": "mortalcoil"
   },
   {
@@ -1881,7 +1881,7 @@
     "ability": "Exhaust this card when a master monster performs an attack, before dice are rolled. That monster may suffer up to 2 Hearts. If it does, that attack deals additional Hearts equal to the Hearts suffered. That monster cannot do this if suffering the Hearts would defeat it.",
     "trigger cost": 0,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unstable-forces/power-and-sacrifice.png",
+    "image": "plot-decks/unstable-forces/power-and-sacrifice-sn.png",
     "xws": "powerandsacrifice"
   },
   {
@@ -1894,7 +1894,7 @@
     "ability": "Exhaust this card at the end of your turn. Each hero tests Knowledge or Willpower, your choice, in an order of your choice. Each time a hero fails, gain 1 threat token. If a hero passes, all heroes after that hero do not test. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unstable-forces/descend-to-madness.png",
+    "image": "plot-decks/unstable-forces/descend-to-madness-sn.png",
     "xws": "descendtomadness"
   },
   {
@@ -1907,7 +1907,7 @@
     "ability": "Exhaust this card during your turn and choose 1 master monster on the map. That monster is immediately defeated, and you gain 2 threat tokens. If that monster is a large monster, you gain 1 additional threat token. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unstable-forces/love-of-chaos.png",
+    "image": "plot-decks/unstable-forces/love-of-chaos-sn.png",
     "xws": "loveofchaos"
   },
   {
@@ -1920,7 +1920,7 @@
     "ability": "Exhaust this card at the start of your turn and choose 1 monster group. Place this card near the chosen group's Monster card. While this card is exhausted, each monster in the chosen group gains: Ravage: Both of this monster's actions on a turn may be attack actions.",
     "trigger cost": 2,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unstable-forces/onslaught.png",
+    "image": "plot-decks/unstable-forces/onslaught-sn.png",
     "xws": "onslaught"
   },
   {
@@ -1933,7 +1933,7 @@
     "ability": "Exhaust this card at the end of your turn. While this card is exhausted, each time a knocked-out hero recovers 1 or more Hearts, each hero within 3 spaces of that hero suffers 1 Heart.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unstable-forces/soul-ensnare.png",
+    "image": "plot-decks/unstable-forces/soul-ensnare-sn.png",
     "xws": "soulensnare"
   },
   {
@@ -1946,7 +1946,7 @@
     "ability": "Exhaust this card after setup of an encounter and choose 1 open monster group. Replace 1 master and 1 minion monster in that group with the Tristayne Olliven agent. If the Tristayne Olliven agent is defeated, return this card to your Plot deck. You cannot use this card in the \"Shadow Of Nerekhall\" campaign.",
     "trigger cost": 2,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unstable-forces/summon-tristayne-olliven.png",
+    "image": "plot-decks/unstable-forces/summon-tristayne-olliven-sn.png",
     "xws": "summontristayneolliven"
   },
   {
@@ -1959,7 +1959,7 @@
     "ability": "Exhaust this card when a monster with 4 or less Health defeats a hero. Gain 1 threat token. This card does not refresh as normal. Refresh this card at the end of each encounter. After transitioning to Act II, Plot cards that require monsters with 4 or less Health require monsters with 6 or less Health instead (even while this card is exhausted).",
     "trigger cost": 0,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unseen-legions/mouths-to-feed.png",
+    "image": "plot-decks/unseen-legions/mouths-to-feed-sn.png",
     "xws": "mouthstofeed"
   },
   {
@@ -1972,7 +1972,7 @@
     "ability": "Exhaust this card when you place a monster as a reinforcement. Place 1 minion monster with 4 or less Health from the same monster group in an empty space adjacent to that monster, respecting group limits.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unseen-legions/infestation.png",
+    "image": "plot-decks/unseen-legions/infestation-sn.png",
     "xws": "infestation"
   },
   {
@@ -1985,7 +1985,7 @@
     "ability": "Exhaust this card and discard 1 Trap Overlord card from your hand when a hero declares an open door or search action. That hero tests Awareness. If he fails, perform an attack that targets that hero with 1 monster with 4 or less Health that is on the map, ignoring range and line of sight.",
     "trigger cost": 0,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unseen-legions/in-every-shadow.png",
+    "image": "plot-decks/unseen-legions/in-every-shadow-sn.png",
     "xws": "ineveryshadow"
   },
   {
@@ -1998,7 +1998,7 @@
     "ability": "Exhaust this card at the start of your turn. While this card is exhausted, each monster with 4 or less Health gains: Action: Perform an attack that targets 1 hero with 1 or more Relic cards equipped. This attack gains +1 Heart.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unseen-legions/envious-swarm.png",
+    "image": "plot-decks/unseen-legions/envious-swarm-sn.png",
     "xws": "enviousswarm"
   },
   {
@@ -2011,7 +2011,7 @@
     "ability": "Exhaust this card at the end of your turn. Until the start of your next turn, each monster with 4 or less Health gains: Skittish: Each time a hero within 3 spaces of this monster suffers 1 Fatigue to gain 1 movement point, this monster may immediately move 1 space. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unseen-legions/flee-the-light.png",
+    "image": "plot-decks/unseen-legions/flee-the-light-sn.png",
     "xws": "fleethelight"
   },
   {
@@ -2024,7 +2024,7 @@
     "ability": "Exhaust this card when more than 1 monster in a monster group is affected by an attack. Before damage is dealt, choose 1 monster affected by that attack. That monster suffers all damage all other monsters in its group would suffer from that attack.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unseen-legions/ignoble-sacrifice.png",
+    "image": "plot-decks/unseen-legions/ignoble-sacrifice-sn.png",
     "xws": "ignoblesacrifice"
   },
   {
@@ -2037,7 +2037,7 @@
     "ability": "Use this card when a minion monster with 4 or less Health knocks out a hero. Until that monster is defeated, it uses the characteristics, abilities, and dice of the master monster (not including an agent) in its group. Place 1 threat token on that monster's base as a reminder.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unseen-legions/initiation.png",
+    "image": "plot-decks/unseen-legions/initiation-sn.png",
     "xws": "initiation"
   },
   {
@@ -2050,7 +2050,7 @@
     "ability": "Use this card when you activate a monster with 4 or less Health. Instead of performing actions, remove that monster from the map and place it on this card. Each monster on this card still counts toward the group limit of its monster group. When a hero declares a rest action, you must place each monster on this card in an empty space adjacent to that hero. Then, each of those monsters may perform an attack that targets that hero.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unseen-legions/into-the-shadows.png",
+    "image": "plot-decks/unseen-legions/into-the-shadows-sn.png",
     "xws": "intotheshadows"
   },
   {
@@ -2063,7 +2063,7 @@
     "ability": "Exhaust this card at the start of an encounter. While this card is exhausted, at the start of each overlord turn, you may look at the top card of the Overlord deck. Then, place that card on the top or bottom of the Overlord deck. This card does not refresh as normal. Refresh this card at the end of each quest.",
     "trigger cost": 1,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unseen-legions/always-watching.png",
+    "image": "plot-decks/unseen-legions/always-watching-sn.png",
     "xws": "alwayswatching"
   },
   {
@@ -2076,7 +2076,7 @@
     "ability": "Exhaust this card after setup of an encounter and choose 1 open monster group. Replace 1 master monster in that group with the Verminous agent. If the Verminous agent is defeated, return this card to your Plot deck. You cannot use this card in any quest that uses the Verminous lieutenant.",
     "trigger cost": 2,
     "expansion": "Shadow Of Nerekhall",
-    "image": "plot-decks/unseen-legions/summon-verminous.png",
+    "image": "plot-decks/unseen-legions/summon-verminous-sn.png",
     "xws": "summonverminous"
   },
   {
@@ -2089,7 +2089,7 @@
     "ability": "Exhaust this card when a monster suffers 1 or more Hearts. If that monster was not defeated, it recovers 1 Heart. Mark that monster with a threat token from the supply. Each marked monster adds 1 brown die to its defense pool.",
     "trigger cost": 1,
     "expansion": "Manor Of Ravens",
-    "image": "plot-decks/twisted-soul/what-doesnt-kill.png",
+    "image": "plot-decks/twisted-soul/what-doesnt-kill-mr.png",
     "xws": "whatdoesntkill"
   },
   {
@@ -2102,7 +2102,7 @@
     "ability": "Use this card when you exhaust the \"Summon Skarn\" Plot card. Gain threat tokens equal to the number of relics in the play areas of the heroes and the overlord. Then, return this card to the game box.",
     "trigger cost": 0,
     "expansion": "Manor Of Ravens",
-    "image": "plot-decks/twisted-soul/possessive-nature.png",
+    "image": "plot-decks/twisted-soul/possessive-nature-mr.png",
     "xws": "posessivenature"
   },
   {
@@ -2115,7 +2115,7 @@
     "ability": "Exhaust this card at the start of your turn. While this card is exhausted, each time a monster marked with a threat token performs an attack, that attack gains +2 Hearts. This card does not refresh as normal. Refresh this card at the end of each quest.",
     "trigger cost": 1,
     "expansion": "Manor Of Ravens",
-    "image": "plot-decks/twisted-soul/bitter-rage.png",
+    "image": "plot-decks/twisted-soul/bitter-rage-mr.png",
     "xws": "bitterrage"
   },
   {
@@ -2128,7 +2128,7 @@
     "ability": "Exhaust this card at the start of your turn. While this card is exhausted, each time a hero suffers 1 or more Fatigue, that hero suffers 1 additional Fatigue. This card does not refresh as normal. Refresh this card at the end of your turn.",
     "trigger cost": 2,
     "expansion": "Manor Of Ravens",
-    "image": "plot-decks/twisted-soul/desolation.png",
+    "image": "plot-decks/twisted-soul/desolation-mr.png",
     "xws": "desolation"
   },
   {
@@ -2141,7 +2141,7 @@
     "ability": "Exhaust this card at the start of your turn. While this card is exhausted, each monster marked with a threat token applies +2 to its Health. This card does not refresh as normal. Refresh this card at the end of each quest.",
     "trigger cost": 1,
     "expansion": "Manor Of Ravens",
-    "image": "plot-decks/twisted-soul/thick-scars.png",
+    "image": "plot-decks/twisted-soul/thick-scars-mr.png",
     "xws": "thickscars"
   },
   {
@@ -2154,7 +2154,7 @@
     "ability": "Exhaust this card when a HUGE or MASSIVE monster suffers damage equal to its Health and is defeated. Each hero adjacent to that monster is Stunned.",
     "trigger cost": 1,
     "expansion": "Manor Of Ravens",
-    "image": "plot-decks/twisted-soul/thunderous-fall.png",
+    "image": "plot-decks/twisted-soul/thunderous-fall-mr.png",
     "xws": "thunderousfall"
   },
   {
@@ -2167,7 +2167,7 @@
     "ability": "Exhaust this card when a hero enters an empty space that is 5 or more spaces away from each other hero. That hero tests Willpower. If he fails, you may immediately move him up to his Speed. Then, the active player continues his turn.",
     "trigger cost": 1,
     "expansion": "Manor Of Ravens",
-    "image": "plot-decks/twisted-soul/delusional-path.png",
+    "image": "plot-decks/twisted-soul/delusional-path-mr.png",
     "xws": "delusionalpath"
   },
   {
@@ -2180,7 +2180,7 @@
     "ability": "Use this card when you exhaust the \"Summon Skarn\" Plot card. Each hero tests Knowledge. FOr each hero who fails, you gain 1 threat token.",
     "trigger cost": 0,
     "expansion": "Manor Of Ravens",
-    "image": "plot-decks/twisted-soul/unknown-origin.png",
+    "image": "plot-decks/twisted-soul/unknown-origin-mr.png",
     "xws": "unknownorigin"
   },
   {
@@ -2193,7 +2193,7 @@
     "ability": "Exhaust this card when the Skarn agent is defeated. Gain 3 threat tokens.",
     "trigger cost": 0,
     "expansion": "Manor Of Ravens",
-    "image": "plot-decks/twisted-soul/faithful-guardian.png",
+    "image": "plot-decks/twisted-soul/faithful-guardian-mr.png",
     "xws": "faithfulguardian"
   },
   {
@@ -2206,7 +2206,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose an open monster group. Replace 1 master and 2 minion monsters in that group with the Skarn agent. If the Skarn agent is defeated, return this card to your Plot deck. You cannot use this card in a quest that uses the Skarn lieutenant.",
     "trigger cost": 2,
     "expansion": "Manor Of Ravens",
-    "image": "plot-decks/twisted-soul/summon-skarn.png",
+    "image": "plot-decks/twisted-soul/summon-skarn-mr.png",
     "xws": "summonskarn"
   },
   {
@@ -2219,7 +2219,7 @@
     "ability": "Exhaust this card when a SMALL monster performs an attack, before dice are rolled. This attack gains: Pierce X, where X is the number of monsters from that monster's group adjacent to the target.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/first-legion/strength-in-numbers.png",
+    "image": "plot-decks/first-legion/strength-in-numbers-mb.png",
     "xws": "strengthinnumbers"
   },
   {
@@ -2232,7 +2232,7 @@
     "ability": "Exhaust this card when 2 or more SMALL monsters are defeated by the same attack. Choose 1 monster from the same monster group as 1 of the defeated monsters. The chosen monster immediately moves up to its Speed and then performs an attack. This attack gains: Pierce X, where X is the number of monsters defeated by the hero's attack.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/first-legion/retribution.png",
+    "image": "plot-decks/first-legion/retribution-mb.png",
     "xws": "retribution"
   },
   {
@@ -2245,7 +2245,7 @@
     "ability": "Exhaust this card at the end of your turn. While this card is exhausted, at the start of each hero's turn, that hero tests Willpower. If he fails, he suffers 1 Fatigue for each monster adjacent to him.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/first-legion/swarming-tide.png",
+    "image": "plot-decks/first-legion/swarming-tide-mb.png",
     "xws": "swarmingtide"
   },
   {
@@ -2258,7 +2258,7 @@
     "ability": "Exhaust this card when a hero enters an empty space adjacent to 1 or more monsters during his turn. That hero must choose to either immediately end his turn or test Might. If he tests and fails, gain 1 threat token for each monster adjacent to that hero. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/first-legion/threatening-masses.png",
+    "image": "plot-decks/first-legion/threatening-masses-mb.png",
     "xws": "threateningmasses"
   },
   {
@@ -2271,7 +2271,7 @@
     "ability": "Use this card during setup of an encounter an choose 1 monster group; place a threat token from the supply on that group's Monster card as a reminder. During this encounter, each SMALL monster in that group gains: Comrade: Each time a hero performs an attack that targets a SMALL monster adjacent to this monster, after dice are rolled, that hero must choose to either suffer 1 Fatigue or not spend Surges during that attack.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/first-legion/camaraderie.png",
+    "image": "plot-decks/first-legion/camaraderie-mb.png",
     "xws": "camaraderie"
   },
   {
@@ -2284,7 +2284,7 @@
     "ability": "Exhaust this card at the end of your turn. While this card is exhausted, each time a master monster or lieutenant is affected by an attack, after dice are rolled, you may choose 1 SMALL minion monster adjacent to that master monster or lieutenant to suffer 5 Hearts. If you do, add 2 Shields to that master monster or lieutenant's defense results.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/first-legion/fealty.png",
+    "image": "plot-decks/first-legion/fealty-mb.png",
     "xws": "fealty"
   },
   {
@@ -2297,7 +2297,7 @@
     "ability": "Exhaust this card at the end of your turn and choose 1 tile; place a threat token from the supply on that tile as a reminder. While this card is exhausted, each time a hero spends movement points to enter a space on the chosen tile, he must spend 1 additional movement point. This card does not refresh as normal. Refresh this card if there are more heroes on the chosen tile than monsters.",
     "trigger cost": 2,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/first-legion/defensive-position.png",
+    "image": "plot-decks/first-legion/defensive-position-mb.png",
     "xws": "defensiveposition"
   },
   {
@@ -2310,7 +2310,7 @@
     "ability": "Exhaust this card when a SMALL master monster is defeated. While this card is exhausted, each minion monster in that monster's group uses the Speed, Health, Defense, surge abilities, and attack dice of the master monster (not including an agent) in its group; place this card near that monster group as a reminder. This card does not refresh as normal. Refresh this card at the end of your turn.",
     "trigger cost": 0,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/first-legion/rise-to-the-challenge.png",
+    "image": "plot-decks/first-legion/rise-to-the-challenge-mb.png",
     "xws": "risetothechallenge"
   },
   {
@@ -2323,7 +2323,7 @@
     "ability": "Exhaust this card after setup of an encounter and choose 1 of your open groups. While this card is exhausted, each SMALL monster that belongs to the chosen group applies +1 to its Health. This card does not refresh as normal. Refresh this card at the end of each encounter.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/first-legion/loyalty-rewarded.png",
+    "image": "plot-decks/first-legion/loyalty-rewarded-mb.png",
     "xws": "loyaltyrewarded"
   },
   {
@@ -2336,7 +2336,7 @@
     "ability": "Exhaust this card after setup of an encounter and choose one open monster group. Replace 1 master and 1 minion monster in that group with the Ardus Ix'Erebus agent. If the Ardus Ix'Erebus agent is defeated, return this card to your Plot deck. You cannot use this card in any quest that uses the Ardus Ix'Erebus lieutenant.",
     "trigger cost": 2,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/first-legion/summon-ardus-ixerebus.png",
+    "image": "plot-decks/first-legion/summon-ardus-ixerebus-mb.png",
     "xws": "summonardusixerebus"
   },
   {
@@ -2349,7 +2349,7 @@
     "ability": "Exhaust this card when a hero is defeated. Instead of gaining 1 threat token or drawing 1 Overlord card, you may place 1 threat token from the supply on 1 of that hero's Class cards that has a fatigue cost. Each Class card with 1 or more threat tokens on it costs 1 additional fatigue to use. At the end of each quest, return all threat tokens on Class cards to the supply.",
     "trigger cost": 0,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/vital-essence/broken.png",
+    "image": "plot-decks/vital-essence/broken-mb.png",
     "xws": "broken"
   },
   {
@@ -2362,7 +2362,7 @@
     "ability": "Exhaust this card when a hero defeats a lieutenant or agent. Place 1 threat token from the supply on 1 of that hero's Class cards that has a fatigue cost. Then, that hero suffers Fatigue equal to the number of threat tokens on all his Class cards.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/vital-essence/last-words.png",
+    "image": "plot-decks/vital-essence/last-words-mb.png",
     "xws": "lastwords"
   },
   {
@@ -2375,7 +2375,7 @@
     "ability": "Exhaust this card at the start of your turn. While this card is exhausted, each time a hero uses a Class card with 1 or more threat tokens on it, that hero suffers 3 Hearts. This card does not refresh as normal. Refresh this card at the end of your turn.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/vital-essence/no-interference.png",
+    "image": "plot-decks/vital-essence/no-interference-mb.png",
     "xws": "nointerference"
   },
   {
@@ -2388,7 +2388,7 @@
     "ability": "Exhaust this card after a hero discards an overlord card from your hand or forces you to place an overlord card on top of your deck. That hero test Knowledge. If he fails, he suffers Hearts equal to the Shields rolled in excess of his Knowledge value. If he passes, gain 1 threat token.",
     "trigger cost": 0,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/vital-essence/dangerous-knowledge.png",
+    "image": "plot-decks/vital-essence/dangerous-knowledge-mb.png",
     "xws": "dangerousknowledge"
   },
   {
@@ -2401,7 +2401,7 @@
     "ability": "Exhaust this card at the end of your turn and choose 1 hero; mark that hero with a threat token. Each time a marked hero would refresh a Class card with 1 or more threat tokens on it, he may choose to not refresh it. If he does refresh that card, he suffers 1 condition of your choice. When you refresh this card, discard the threat token from the marked hero.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/vital-essence/plague-of-the-mind.png",
+    "image": "plot-decks/vital-essence/plague-of-the-mind-mb.png",
     "xws": "plagueofthemind"
   },
   {
@@ -2414,7 +2414,7 @@
     "ability": "Exhaust this card after a hero uses a Class card that has a fatigue cost. Place 1 threat token from the supply on that Class card.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/vital-essence/worn-down.png",
+    "image": "plot-decks/vital-essence/worn-down-mb.png",
     "xws": "worndown"
   },
   {
@@ -2427,7 +2427,7 @@
     "ability": "Exhaust this card at the start of your turn. While this card is exhausted, each hero reduces his Speed by the number of threat tokens on all his Class cards (to a minimum of 1).",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/vital-essence/slow-bones.png",
+    "image": "plot-decks/vital-essence/slow-bones-mb.png",
     "xws": "slowbones"
   },
   {
@@ -2440,7 +2440,7 @@
     "ability": "Exhaust this card after a hero uses a Class card with 1 or more threat tokens on it. Discard 1 threat token from that Class card. Then, that hero suffers 1 Heart and 1 Fatigue.",
     "trigger cost": 0,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/vital-essence/bleed-it-out.png",
+    "image": "plot-decks/vital-essence/bleed-it-out-mb.png",
     "xws": "bleeditout"
   },
   {
@@ -2453,7 +2453,7 @@
     "ability": "Use this card at the end of each quest. For each hero with 1 or more threat tokens on 1 or more of his Class cards, gain 1 threat token.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/vital-essence/invest-in-the-flesh.png",
+    "image": "plot-decks/vital-essence/invest-in-the-flesh-mb.png",
     "xws": "investintheflesh"
   },
   {
@@ -2466,7 +2466,7 @@
     "ability": "Exhaust this card after setup of an encounter and choose one open monster group. Replace 1 master and 2 minion monsters in that group with the Kyndrithul agent. If the Kyndrithul agent is defeated, return this card to your Plot deck. You cannot use this card in any quest that uses the Kyndrithul lieutenant.",
     "trigger cost": 2,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/vital-essence/summon-kyndrithul.png",
+    "image": "plot-decks/vital-essence/summon-kyndrithul-mb.png",
     "xws": "summonkyndrithul"
   },
   {
@@ -2479,7 +2479,7 @@
     "ability": "Exhaust this card when a hero performs an attack, before rolling dice. After that attack resolves, that hero suffers an amount of Fatigue equal to the Surge results. If that hero did not spend all Surge results during that attack, refresh this card after that attack resolves.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/eternal-agony/spite.png",
+    "image": "plot-decks/eternal-agony/spite-mb.png",
     "xws": "spite"
   },
   {
@@ -2492,7 +2492,7 @@
     "ability": "Exhaust this card when a master monster performs an attack, after spending Surges. If the Shield results are equal to or greater than the Heart results, the target is Poisoned or Diseased, your choice.",
     "trigger cost": 2,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/eternal-agony/if-looks-could-kill.png",
+    "image": "plot-decks/eternal-agony/if-looks-could-kill-mb.png",
     "xws": "iflookscouldkill"
   },
   {
@@ -2505,7 +2505,7 @@
     "ability": "Each time the Zarihell agent is affected by an attack, before Hearts is dealt, place 1 damage token on this card. Use this card when the Zarihell agent is defeated. Each hero suffers an amount of Hearts equal to the number of damage tokens on his card minus his Knowledge value. Then, gain 1 threat token for each hero defeated by this Hearts.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/eternal-agony/long-suffering.png",
+    "image": "plot-decks/eternal-agony/long-suffering-mb.png",
     "xws": "longsuffering"
   },
   {
@@ -2518,7 +2518,7 @@
     "ability": "Exhaust this card when a monster rolls an X. That monster is immediately defeated. While this card is exhausted, you may change each X result to another result of your choice.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/eternal-agony/make-no-excuse.png",
+    "image": "plot-decks/eternal-agony/make-no-excuse-mb.png",
     "xws": "makenoexcuse"
   },
   {
@@ -2531,7 +2531,7 @@
     "ability": "Exhaust this card when a hero suffers exactly 1 Heart. That hero suffers an additional 2 Hearts and 1 Fatigue.",
     "trigger cost": 0,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/eternal-agony/pins-and-needles.png",
+    "image": "plot-decks/eternal-agony/pins-and-needles-mb.png",
     "xws": "pinsandneedles"
   },
   {
@@ -2544,7 +2544,7 @@
     "ability": "Use this card when a hero is defeated. Place 1 threat token from the supply on his Hero sheet. Each hero applies -1 to his Willpower and Might for each threat token on his Hero sheet (to a minimum of 1). Each time a hero performs a rest action, he may suffer 2 Fatigue to discard 1 threat token from his Hero sheet. Limit once per rest action.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/eternal-agony/branded.png",
+    "image": "plot-decks/eternal-agony/branded-mb.png",
     "xws": "branded"
   },
   {
@@ -2557,7 +2557,7 @@
     "ability": "Exhaust this card when a monster that did not perform an attack during its activation ends its activation. That monster suffers 2 Hearts, and 1 other monster in its group immediately performs an attack.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/eternal-agony/idle-hands.png",
+    "image": "plot-decks/eternal-agony/idle-hands-mb.png",
     "xws": "idlehands"
   },
   {
@@ -2570,7 +2570,7 @@
     "ability": "Use this card when a hero ends his turn while knocked out. Choose 1 hero and place 1 of that hero's hero tokens on this card. Each hero applies -1 to his Stamina (to a minimum of 0) for each of his hero tokens on this card. Discard all hero tokens from this card at the end of each quest.",
     "trigger cost": 1,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/eternal-agony/time-on-the-rack.png",
+    "image": "plot-decks/eternal-agony/time-on-the-rack-mb.png",
     "xws": "timeontherack"
   },
   {
@@ -2583,7 +2583,7 @@
     "ability": "Exhaust this card at the start of your turn. While this card is exhausted, each of your plot cards costs 1 less threat to trigger.",
     "trigger cost": 2,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/eternal-agony/sadist.png",
+    "image": "plot-decks/eternal-agony/sadist-mb.png",
     "xws": "sadist"
   },
   {
@@ -2596,7 +2596,7 @@
     "ability": "Exhaust this card after setup of an encounter and choose one open monster group. Replace 1 master and 2 minion monsters in that group with the Zarihell agent. If the Zarihell agent is defeated, return this card to your Plot deck. You cannot use this card in any quest that uses the Zarihell lieutenant.",
     "trigger cost": 2,
     "expansion": "Mists Of Bilehall",
-    "image": "plot-decks/eternal-agony/summon-zarihell.png",
+    "image": "plot-decks/eternal-agony/summon-zarihell-mb.png",
     "xws": "summonzarihell"
   }
 ]
