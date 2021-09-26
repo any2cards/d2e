@@ -560,7 +560,7 @@
     "ability": "Play this card after a hero opens a door or searches. That hero, and each hero within 2 spaces of him tests Awareness. Each hero who fails suffers 1 Heart for each Shield rolled in excess of his Awareness.",
     "xp cost": "1",
     "expansion": "Base Game",
-    "image": "overlord-decks/saboteur/explosive-runes.png",
+    "image": "overlord-decks/saboteur/explosive-runes-bg.png",
     "xws": "explosiverunes"
   },
   {
@@ -572,7 +572,7 @@
     "ability": "Play this card when a hero enters an empty space. That hero and each hero adjacent to him tests Might. Each hero who fails is Immobilized.",
     "xp cost": "1",
     "expansion": "Base Game",
-    "image": "overlord-decks/saboteur/web-trap.png",
+    "image": "overlord-decks/saboteur/web-trap-bg.png",
     "xws": "webtrap"
   },
   {
