@@ -11,7 +11,7 @@
     ],
     "expansion": "Base Game",
     "card": "1/10",
-    "image": "travel-event-decks/base-game/bg-travel-event-1-of-10.png",
+    "image": "travel-event-decks/base-game/travel-event-1-of-10-bg.png",
     "xws": "bgtravelevent1of10"
   },
   {
@@ -26,7 +26,7 @@
     ],
     "expansion": "Base Game",
     "card": "1/10",
-    "image": "travel-event-decks/base-game/standing-stones.png",
+    "image": "travel-event-decks/base-game/standing-stones-bg.png",
     "xws": "standingstones"
   },
   {
@@ -41,7 +41,7 @@
     ],
     "expansion": "Base Game",
     "card": "1/10",
-    "image": "travel-event-decks/base-game/weeping.png",
+    "image": "travel-event-decks/base-game/weeping-bg.png",
     "xws": "weeping"
   },
   {
@@ -56,7 +56,7 @@
     ],
     "expansion": "Base Game",
     "card": "1/10",
-    "image": "travel-event-decks/base-game/unforgiving-slopes.png",
+    "image": "travel-event-decks/base-game/unforgiving-slopes-bg.png",
     "xws": "unforgivingslopes"
   },
   {
@@ -71,7 +71,7 @@
     ],
     "expansion": "Base Game",
     "card": "2/10",
-    "image": "travel-event-decks/base-game/bg-travel-event-2-of-10.png",
+    "image": "travel-event-decks/base-game/travel-event-2-of-10-bg.png",
     "xws": "bgtravelevent2of10"
   },
   {
@@ -86,7 +86,7 @@
     ],
     "expansion": "Base Game",
     "card": "2/10",
-    "image": "travel-event-decks/base-game/traveling-merchant.png",
+    "image": "travel-event-decks/base-game/traveling-merchant-bg.png",
     "xws": "travelingmerchant"
   },
   {
@@ -101,7 +101,7 @@
     ],
     "expansion": "Base Game",
     "card": "2/10",
-    "image": "travel-event-decks/base-game/band-of-refugees.png",
+    "image": "travel-event-decks/base-game/band-of-refugees-bg.png",
     "xws": "bandifrefugees"
   },
   {
@@ -116,7 +116,7 @@
     ],
     "expansion": "Base Game",
     "card": "2/10",
-    "image": "travel-event-decks/base-game/lost.png",
+    "image": "travel-event-decks/base-game/lost-bg.png",
     "xws": "lost"
   },
   {
@@ -131,7 +131,7 @@
     ],
     "expansion": "Base Game",
     "card": "3/10",
-    "image": "travel-event-decks/base-game/bg-travel-event-3-of-10.png",
+    "image": "travel-event-decks/base-game/travel-event-3-of-10-bg.png",
     "xws": "bgtravelevent3of10"
   },
   {
@@ -146,7 +146,7 @@
     ],
     "expansion": "Base Game",
     "card": "3/10",
-    "image": "travel-event-decks/base-game/smoke.png",
+    "image": "travel-event-decks/base-game/smoke-bg.png",
     "xws": "smoke"
   },
   {
@@ -161,7 +161,7 @@
     ],
     "expansion": "Base Game",
     "card": "3/10",
-    "image": "travel-event-decks/base-game/glade.png",
+    "image": "travel-event-decks/base-game/glade-bg.png",
     "xws": "glade"
   },
   {
@@ -176,7 +176,7 @@
     ],
     "expansion": "Base Game",
     "card": "3/10",
-    "image": "travel-event-decks/base-game/mountains.png",
+    "image": "travel-event-decks/base-game/mountains-bg.png",
     "xws": "mountains"
   },
   {
@@ -191,7 +191,7 @@
     ],
     "expansion": "Base Game",
     "card": "4/10",
-    "image": "travel-event-decks/base-game/bg-travel-event-4-of-10.png",
+    "image": "travel-event-decks/base-game/travel-event-4-of-10-bg.png",
     "xws": "bgtravelevent4of10"
   },
   {
@@ -206,7 +206,7 @@
     ],
     "expansion": "Base Game",
     "card": "4/10",
-    "image": "travel-event-decks/base-game/lawless-brigands.png",
+    "image": "travel-event-decks/base-game/lawless-brigands-bg.png",
     "xws": "lawlessbrigands"
   },
   {
@@ -221,7 +221,7 @@
     ],
     "expansion": "Base Game",
     "card": "4/10",
-    "image": "travel-event-decks/base-game/webs-hang-everywhere.png",
+    "image": "travel-event-decks/base-game/webs-hang-everywhere-bg.png",
     "xws": "webshangeverywhere"
   },
   {
@@ -236,7 +236,7 @@
     ],
     "expansion": "Base Game",
     "card": "4/10",
-    "image": "travel-event-decks/base-game/something-glimmers.png",
+    "image": "travel-event-decks/base-game/something-glimmers-bg.png",
     "xws": "somethingglimmers"
   },
   {
@@ -251,7 +251,7 @@
     ],
     "expansion": "Base Game",
     "card": "5/10",
-    "image": "travel-event-decks/base-game/bg-travel-event-5-of-10.png",
+    "image": "travel-event-decks/base-game/travel-event-5-of-10-bg.png",
     "xws": "bgtravelevent5of10"
   },
   {
@@ -266,7 +266,7 @@
     ],
     "expansion": "Base Game",
     "card": "5/10",
-    "image": "travel-event-decks/base-game/latari-elves.png",
+    "image": "travel-event-decks/base-game/latari-elves-bg.png",
     "xws": "latarielves"
   },
   {
@@ -281,7 +281,7 @@
     ],
     "expansion": "Base Game",
     "card": "5/10",
-    "image": "travel-event-decks/base-game/dwarf-of-dunwarr.png",
+    "image": "travel-event-decks/base-game/dwarf-of-dunwarr-bg.png",
     "xws": "dwarfofdunwarr"
   },
   {
@@ -296,7 +296,7 @@
     ],
     "expansion": "Base Game",
     "card": "5/10",
-    "image": "travel-event-decks/base-game/bloated-corpses.png",
+    "image": "travel-event-decks/base-game/bloated-corpses-bg.png",
     "xws": "bloatedcorpses"
   },
   {
@@ -311,7 +311,7 @@
     ],
     "expansion": "Base Game",
     "card": "6/10",
-    "image": "travel-event-decks/base-game/bg-travel-event-6-of-10.png",
+    "image": "travel-event-decks/base-game/travel-event-6-of-10-bg.png",
     "xws": "bgtravelevent6of10"
   },
   {
@@ -326,7 +326,7 @@
     ],
     "expansion": "Base Game",
     "card": "6/10",
-    "image": "travel-event-decks/base-game/hidden-path.png",
+    "image": "travel-event-decks/base-game/hidden-path-bg.png",
     "xws": "hiddenpath"
   },
   {
@@ -341,7 +341,7 @@
     ],
     "expansion": "Base Game",
     "card": "6/10",
-    "image": "travel-event-decks/base-game/minions-emerge.png",
+    "image": "travel-event-decks/base-game/minions-emerge-bg.png",
     "xws": "minionsemerge"
   },
   {
@@ -356,7 +356,7 @@
     ],
     "expansion": "Base Game",
     "card": "7/10",
-    "image": "travel-event-decks/base-game/bg-travel-event-7-of-10.png",
+    "image": "travel-event-decks/base-game/travel-event-7-of-10-bg.png",
     "xws": "bgtravelevent7of10"
   },
   {
@@ -371,7 +371,7 @@
     ],
     "expansion": "Base Game",
     "card": "7/10",
-    "image": "travel-event-decks/base-game/traveling-sage.png",
+    "image": "travel-event-decks/base-game/traveling-sage-bg.png",
     "xws": "travelingsage"
   },
   {
@@ -386,7 +386,7 @@
     ],
     "expansion": "Base Game",
     "card": "7/10",
-    "image": "travel-event-decks/base-game/spiders.png",
+    "image": "travel-event-decks/base-game/spiders-bg.png",
     "xws": "spiders"
   },
   {
@@ -401,7 +401,7 @@
     ],
     "expansion": "Base Game",
     "card": "7/10",
-    "image": "travel-event-decks/base-game/pestilential-miasma.png",
+    "image": "travel-event-decks/base-game/pestilential-miasma-bg.png",
     "xws": "pestilentialmiasma"
   },
   {
@@ -416,7 +416,7 @@
     ],
     "expansion": "Base Game",
     "card": "8/10",
-    "image": "travel-event-decks/base-game/bg-travel-event-8-of-10.png",
+    "image": "travel-event-decks/base-game/travel-event-8-of-10-bg.png",
     "xws": "bgtravelevent8of10"
   },
   {
@@ -431,7 +431,7 @@
     ],
     "expansion": "Base Game",
     "card": "8/10",
-    "image": "travel-event-decks/base-game/farm-already-burning.png",
+    "image": "travel-event-decks/base-game/farm-already-burning-bg.png",
     "xws": "farmalreadyburning"
   },
   {
@@ -446,7 +446,7 @@
     ],
     "expansion": "Base Game",
     "card": "8/10",
-    "image": "travel-event-decks/base-game/cave-mouth.png",
+    "image": "travel-event-decks/base-game/cave-mouth-bg.png",
     "xws": "cavemouth"
   },
   {
@@ -461,7 +461,7 @@
     ],
     "expansion": "Base Game",
     "card": "8/10",
-    "image": "travel-event-decks/base-game/robed-figure.png",
+    "image": "travel-event-decks/base-game/robed-figure-bg.png",
     "xws": "robedfigure"
   },
   {
@@ -476,7 +476,7 @@
     ],
     "expansion": "Base Game",
     "card": "9/10",
-    "image": "travel-event-decks/base-game/bg-travel-event-9-of-10.png",
+    "image": "travel-event-decks/base-game/travel-event-9-of-10-bg.png",
     "xws": "bgtravelevent9of10"
   },
   {
@@ -491,7 +491,7 @@
     ],
     "expansion": "Base Game",
     "card": "9/10",
-    "image": "travel-event-decks/base-game/spies.png",
+    "image": "travel-event-decks/base-game/spies-bg.png",
     "xws": "spies"
   },
   {
@@ -506,7 +506,7 @@
     ],
     "expansion": "Base Game",
     "card": "9/10",
-    "image": "travel-event-decks/base-game/landslide.png",
+    "image": "travel-event-decks/base-game/landslide-bg.png",
     "xws": "landslide"
   },
   {
@@ -521,7 +521,7 @@
     ],
     "expansion": "Base Game",
     "card": "9/10",
-    "image": "travel-event-decks/base-game/last-nights-rain.png",
+    "image": "travel-event-decks/base-game/last-nights-rain-bg.png",
     "xws": "lastnightsrain"
   },
   {
@@ -536,7 +536,7 @@
     ],
     "expansion": "Base Game",
     "card": "10/10",
-    "image": "travel-event-decks/base-game/bg-travel-event-10-of-10.png",
+    "image": "travel-event-decks/base-game/travel-event-10-of-10-bg.png",
     "xws": "bgtravelevent10of10"
   },
   {
@@ -551,7 +551,7 @@
     ],
     "expansion": "Base Game",
     "card": "10/10",
-    "image": "travel-event-decks/base-game/orchard.png",
+    "image": "travel-event-decks/base-game/orchard-bg.png",
     "xws": "orchard"
   },
   {
@@ -566,7 +566,7 @@
     ],
     "expansion": "Base Game",
     "card": "10/10",
-    "image": "travel-event-decks/base-game/arrows-fly.png",
+    "image": "travel-event-decks/base-game/arrows-fly-bg.png",
     "xws": "arrowsfly"
   },
   {
@@ -581,7 +581,7 @@
     ],
     "expansion": "Base Game",
     "card": "10/10",
-    "image": "travel-event-decks/base-game/tentacles.png",
+    "image": "travel-event-decks/base-game/tentacles-bg.png",
     "xws": "tentacles"
   },
   {
@@ -596,7 +596,7 @@
     ],
     "expansion": "Lair Of The Wyrm",
     "card": "1/3",
-    "image": "travel-event-decks/lair-of-the-wyrm/lw-travel-event-1-of-3.png",
+    "image": "travel-event-decks/lair-of-the-wyrm/travel-event-1-of-3-lw.png",
     "xws": "lwtravelevent1of3"
   },
   {
@@ -611,7 +611,7 @@
     ],
     "expansion": "Lair Of The Wyrm",
     "card": "1/3",
-    "image": "travel-event-decks/lair-of-the-wyrm/wrong-turn.png",
+    "image": "travel-event-decks/lair-of-the-wyrm/wrong-turn-lw.png",
     "xws": "wrongturn"
   },
   {
@@ -626,7 +626,7 @@
     ],
     "expansion": "Lair Of The Wyrm",
     "card": "1/3",
-    "image": "travel-event-decks/lair-of-the-wyrm/ferryman.png",
+    "image": "travel-event-decks/lair-of-the-wyrm/ferryman-lw.png",
     "xws": "ferryman"
   },
   {
@@ -641,7 +641,7 @@
     ],
     "expansion": "Lair Of The Wyrm",
     "card": "1/3",
-    "image": "travel-event-decks/lair-of-the-wyrm/winged-minions.png",
+    "image": "travel-event-decks/lair-of-the-wyrm/winged-minions-lw.png",
     "xws": "wingedminions"
   },
   {
@@ -656,7 +656,7 @@
     ],
     "expansion": "Lair Of The Wyrm",
     "card": "2/3",
-    "image": "travel-event-decks/lair-of-the-wyrm/lw-travel-event-2-of-3.png",
+    "image": "travel-event-decks/lair-of-the-wyrm/travel-event-2-of-3-lw.png",
     "xws": "lwtravelevent2of3"
   },
   {
@@ -671,7 +671,7 @@
     ],
     "expansion": "Lair Of The Wyrm",
     "card": "2/3",
-    "image": "travel-event-decks/lair-of-the-wyrm/herald.png",
+    "image": "travel-event-decks/lair-of-the-wyrm/herald-lw.png",
     "xws": "herald"
   },
   {
@@ -686,7 +686,7 @@
     ],
     "expansion": "Lair Of The Wyrm",
     "card": "3/3",
-    "image": "travel-event-decks/lair-of-the-wyrm/lw-travel-event-3-of-3.png",
+    "image": "travel-event-decks/lair-of-the-wyrm/travel-event-3-of-3-lw.png",
     "xws": "lwtravelevent3of3"
   },
   {
@@ -701,7 +701,7 @@
     ],
     "expansion": "Lair Of The Wyrm",
     "card": "3/3",
-    "image": "travel-event-decks/lair-of-the-wyrm/enemys-scouts.png",
+    "image": "travel-event-decks/lair-of-the-wyrm/enemys-scouts-lw.png",
     "xws": "enemysscouts"
   },
   {
@@ -716,7 +716,7 @@
     ],
     "expansion": "Lair Of The Wyrm",
     "card": "3/3",
-    "image": "travel-event-decks/lair-of-the-wyrm/old-crone.png",
+    "image": "travel-event-decks/lair-of-the-wyrm/old-crone-lw.png",
     "xws": "oldcrone"
   },
   {
@@ -731,7 +731,7 @@
     ],
     "expansion": "Lair Of The Wyrm",
     "card": "3/3",
-    "image": "travel-event-decks/lair-of-the-wyrm/jester.png",
+    "image": "travel-event-decks/lair-of-the-wyrm/jester-lw.png",
     "xws": "jester"
   },
   {
@@ -746,7 +746,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "1/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/lr-travel-event-1-of-8.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/travel-event-1-of-8-lr.png",
     "xws": "lrtravelevent1of8"
   },
   {
@@ -761,7 +761,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "1/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/invigorated.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/invigorated-lr.png",
     "xws": "invigorated"
   },
   {
@@ -776,7 +776,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "1/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/wandering-mystic.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/wandering-mystic-lr.png",
     "xws": "wanderingmystic"
   },
   {
@@ -791,7 +791,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "1/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/heavy-fog.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/heavy-fog-lr.png",
     "xws": "heavyfog"
   },
   {
@@ -806,7 +806,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "2/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/lr-travel-event-2-of-8.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/travel-event-2-of-8-lr.png",
     "xws": "lrtravelevent2of8"
   },
   {
@@ -821,7 +821,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "2/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/discarded-scroll.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/discarded-scroll-lr.png",
     "xws": "discardedscroll"
   },
   {
@@ -836,7 +836,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "2/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/traveling-healer.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/traveling-healer-lr.png",
     "xws": "travelinghealer"
   },
   {
@@ -851,7 +851,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "2/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/dark-forest.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/dark-forest-lr.png",
     "xws": "darkforest"
   },
   {
@@ -866,7 +866,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "3/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/lr-travel-event-3-of-8.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/travel-event-3-of-8-lr.png",
     "xws": "lrtravelevent3of8"
   },
   {
@@ -881,7 +881,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "3/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/sense-an-ambush.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/sense-an-ambush-lr.png",
     "xws": "senseamambush"
   },
   {
@@ -896,7 +896,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "3/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/lost-merchant.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/lost-merchant-lr.png",
     "xws": "lostmerchant"
   },
   {
@@ -911,7 +911,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "3/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/mountain-path.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/mountain-path-lr.png",
     "xws": "mountainpath"
   },
   {
@@ -926,7 +926,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "4/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/lr-travel-event-4-of-8.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/travel-event-4-of-8-lr.png",
     "xws": "lrtravelevent4of8"
   },
   {
@@ -941,7 +941,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "4/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/painfully-exhausting.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/painfully-exhausting-lr.png",
     "xws": "painfullyexhausting"
   },
   {
@@ -956,7 +956,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "4/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/gold-key.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/gold-key-lr.png",
     "xws": "goldkey"
   },
   {
@@ -971,7 +971,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "4/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/lost-messenger.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/lost-messenger-lr.png",
     "xws": "lostmessenger"
   },
   {
@@ -986,7 +986,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "5/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/lr-travel-event-5-of-8.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/travel-event-5-of-8-lr.png",
     "xws": "lrtravelevent5of8"
   },
   {
@@ -1001,7 +1001,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "5/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/wild-beast.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/wild-beast-lr.png",
     "xws": "wildbeast"
   },
   {
@@ -1016,7 +1016,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "5/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/chest-sealed-with-a-rune.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/chest-sealed-with-a-rune-lr.png",
     "xws": "chestsealedwitharune"
   },
   {
@@ -1031,7 +1031,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "5/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/whispering-incoherently.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/whispering-incoherently-lr.png",
     "xws": "whisperingincoherently"
   },
   {
@@ -1046,7 +1046,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "6/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/lr-travel-event-6-of-8.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/travel-event-6-of-8-lr.png",
     "xws": "lrtravelevent6of8"
   },
   {
@@ -1061,7 +1061,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "6/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/cloaked-traveller.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/cloaked-traveller-lr.png",
     "xws": "cloakedtraveller"
   },
   {
@@ -1076,7 +1076,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "6/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/mountain-trail.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/mountain-trail-lr.png",
     "xws": "mountaintrail"
   },
   {
@@ -1091,7 +1091,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "6/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/dark-fog.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/dark-fog-lr.png",
     "xws": "darkfog"
   },
   {
@@ -1106,7 +1106,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "7/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/lr-travel-event-7-of-8.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/travel-event-7-of-8-lr.png",
     "xws": "lrtravelevent7of8"
   },
   {
@@ -1121,7 +1121,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "7/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/tall-tree.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/tall-tree-lr.png",
     "xws": "talltree"
   },
   {
@@ -1136,7 +1136,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "7/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/catching-a-spy.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/catching-a-spy-lr.png",
     "xws": "catchingaspy"
   },
   {
@@ -1151,7 +1151,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "7/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/water-appears-dark.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/water-appears-dark-lr.png",
     "xws": "waterappearsdark"
   },
   {
@@ -1166,7 +1166,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "8/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/lr-travel-event-8-of-8.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/travel-event-8-of-8-lr.png",
     "xws": "lrtravelevent8of8"
   },
   {
@@ -1181,7 +1181,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "8/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/barren-field.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/barren-field-lr.png",
     "xws": "barrenfield"
   },
   {
@@ -1196,7 +1196,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "8/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/evil-minions.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/evil-minions-lr.png",
     "xws": "evilminions"
   },
   {
@@ -1211,7 +1211,7 @@
     ],
     "expansion": "Labyrinth Of Ruin",
     "card": "8/8",
-    "image": "travel-event-decks/labyrinth-of-ruin/haggling.png",
+    "image": "travel-event-decks/labyrinth-of-ruin/haggling-lr.png",
     "xws": "haggling"
   },
   {
@@ -1226,7 +1226,7 @@
     ],
     "expansion": "The Trollfens",
     "card": "1/3",
-    "image": "travel-event-decks/the-trollfens/tf-travel-event-1-of-3.png",
+    "image": "travel-event-decks/the-trollfens/travel-event-1-of-3-tf.png",
     "xws": "tftravelevent1of3"
   },
   {
@@ -1241,7 +1241,7 @@
     ],
     "expansion": "The Trollfens",
     "card": "1/3",
-    "image": "travel-event-decks/the-trollfens/shady-traveler.png",
+    "image": "travel-event-decks/the-trollfens/shady-traveler-tf.png",
     "xws": "shadytraveler"
   },
   {
@@ -1256,7 +1256,7 @@
     ],
     "expansion": "The Trollfens",
     "card": "1/3",
-    "image": "travel-event-decks/the-trollfens/goblin-scout.png",
+    "image": "travel-event-decks/the-trollfens/goblin-scout-tf.png",
     "xws": "goblinscout"
   },
   {
@@ -1271,7 +1271,7 @@
     ],
     "expansion": "The Trollfens",
     "card": "1/3",
-    "image": "travel-event-decks/the-trollfens/vicious-thunderstorm.png",
+    "image": "travel-event-decks/the-trollfens/vicious-thunderstorm-tf.png",
     "xws": "viciousthunderstorm"
   },
   {
@@ -1286,7 +1286,7 @@
     ],
     "expansion": "The Trollfens",
     "card": "2/3",
-    "image": "travel-event-decks/the-trollfens/tf-travel-event-2-of-3.png",
+    "image": "travel-event-decks/the-trollfens/travel-event-2-of-3-tf.png",
     "xws": "tftravelevent2of3"
   },
   {
@@ -1301,7 +1301,7 @@
     ],
     "expansion": "The Trollfens",
     "card": "2/3",
-    "image": "travel-event-decks/the-trollfens/hideous-plague-worm.png",
+    "image": "travel-event-decks/the-trollfens/hideous-plague-worm-tf.png",
     "xws": "hideousplagueworm"
   },
   {
@@ -1316,7 +1316,7 @@
     ],
     "expansion": "The Trollfens",
     "card": "2/3",
-    "image": "travel-event-decks/the-trollfens/something-foul.png",
+    "image": "travel-event-decks/the-trollfens/something-foul-tf.png",
     "xws": "somethingfoul"
   },
   {
@@ -1331,7 +1331,7 @@
     ],
     "expansion": "The Trollfens",
     "card": "2/3",
-    "image": "travel-event-decks/the-trollfens/captured-spy.png",
+    "image": "travel-event-decks/the-trollfens/captured-spy-tf.png",
     "xws": "capturedspy"
   },
   {
@@ -1346,7 +1346,7 @@
     ],
     "expansion": "The Trollfens",
     "card": "3/3",
-    "image": "travel-event-decks/the-trollfens/tf-travel-event-3-of-3.png",
+    "image": "travel-event-decks/the-trollfens/travel-event-3-of-3-tf.png",
     "xws": "tftravelevent3of3"
   },
   {
@@ -1361,7 +1361,7 @@
     ],
     "expansion": "The Trollfens",
     "card": "3/3",
-    "image": "travel-event-decks/the-trollfens/lone-knight.png",
+    "image": "travel-event-decks/the-trollfens/lone-knight-tf.png",
     "xws": "loneknight"
   },
   {
@@ -1376,7 +1376,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "1/5",
-    "image": "travel-event-decks/mists-of-bilehall/mb-travel-event-1-of-5.png",
+    "image": "travel-event-decks/mists-of-bilehall/travel-event-1-of-5-mb.png",
     "xws": "mbtravelevent1of5"
   },
   {
@@ -1391,7 +1391,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "1/5",
-    "image": "travel-event-decks/mists-of-bilehall/inviting-lagoon.png",
+    "image": "travel-event-decks/mists-of-bilehall/inviting-lagoon-mb.png",
     "xws": "invitinglagoon"
   },
   {
@@ -1406,7 +1406,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "1/5",
-    "image": "travel-event-decks/mists-of-bilehall/wild-witch.png",
+    "image": "travel-event-decks/mists-of-bilehall/wild-witch-mb.png",
     "xws": "wildwitch"
   },
   {
@@ -1421,7 +1421,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "1/5",
-    "image": "travel-event-decks/mists-of-bilehall/strange-locket.png",
+    "image": "travel-event-decks/mists-of-bilehall/strange-locket-mb.png",
     "xws": "strangelocket"
   },
   {
@@ -1436,7 +1436,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "2/5",
-    "image": "travel-event-decks/mists-of-bilehall/mb-travel-event-2-of-5.png",
+    "image": "travel-event-decks/mists-of-bilehall/travel-event-2-of-5-mb.png",
     "xws": "mbtravelevent2of5"
   },
   {
@@ -1451,7 +1451,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "2/5",
-    "image": "travel-event-decks/mists-of-bilehall/large-tree.png",
+    "image": "travel-event-decks/mists-of-bilehall/large-tree-mb.png",
     "xws": "largetree"
   },
   {
@@ -1466,7 +1466,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "2/5",
-    "image": "travel-event-decks/mists-of-bilehall/unnatural-figures.png",
+    "image": "travel-event-decks/mists-of-bilehall/unnatural-figures-mb.png",
     "xws": "unnaturalfigures"
   },
   {
@@ -1481,7 +1481,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "2/5",
-    "image": "travel-event-decks/mists-of-bilehall/recent-rain.png",
+    "image": "travel-event-decks/mists-of-bilehall/recent-rain-mb.png",
     "xws": "recentrain"
   },
   {
@@ -1496,7 +1496,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "3/5",
-    "image": "travel-event-decks/mists-of-bilehall/mb-travel-event-3-of-5.png",
+    "image": "travel-event-decks/mists-of-bilehall/travel-event-3-of-5-mb.png",
     "xws": "mbtravelevent3of5"
   },
   {
@@ -1511,7 +1511,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "3/5",
-    "image": "travel-event-decks/mists-of-bilehall/festering-leeches.png",
+    "image": "travel-event-decks/mists-of-bilehall/festering-leeches-mb.png",
     "xws": "festeringleeches"
   },
   {
@@ -1526,7 +1526,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "3/5",
-    "image": "travel-event-decks/mists-of-bilehall/burning-flesh.png",
+    "image": "travel-event-decks/mists-of-bilehall/burning-flesh-mb.png",
     "xws": "burningflesh"
   },
   {
@@ -1541,7 +1541,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "3/5",
-    "image": "travel-event-decks/mists-of-bilehall/turn-back.png",
+    "image": "travel-event-decks/mists-of-bilehall/turn-back-mb.png",
     "xws": "turnback"
   },
   {
@@ -1556,7 +1556,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "4/5",
-    "image": "travel-event-decks/mists-of-bilehall/mb-travel-event-4-of-5.png",
+    "image": "travel-event-decks/mists-of-bilehall/travel-event-4-of-5-mb.png",
     "xws": "mbtravelevent4of5"
   },
   {
@@ -1571,7 +1571,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "4/5",
-    "image": "travel-event-decks/mists-of-bilehall/ancient-graveyard.png",
+    "image": "travel-event-decks/mists-of-bilehall/ancient-graveyard-mb.png",
     "xws": "ancientgraveyard"
   },
   {
@@ -1586,7 +1586,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "5/5",
-    "image": "travel-event-decks/mists-of-bilehall/mb-travel-event-5-of-5.png",
+    "image": "travel-event-decks/mists-of-bilehall/travel-event-5-of-5-mb.png",
     "xws": "mbtravelevent5of5"
   },
   {
@@ -1601,7 +1601,7 @@
     ],
     "expansion": "Mists Of Bilehall",
     "card": "5/5",
-    "image": "travel-event-decks/mists-of-bilehall/remains-of-a-wagon.png",
+    "image": "travel-event-decks/mists-of-bilehall/remains-of-a-wagon-mb.png",
     "xws": "ramainsofawagon"
   },
   {
@@ -1616,7 +1616,7 @@
     ],
     "expansion": "The Chains That Rust",
     "card": "1/2",
-    "image": "travel-event-decks/the-chains-that-rust/cr-travel-event-1-of-2.png",
+    "image": "travel-event-decks/the-chains-that-rust/travel-event-1-of-2-cr.png",
     "xws": "crtravelevent1of2"
   },
   {
@@ -1631,7 +1631,7 @@
     ],
     "expansion": "The Chains That Rust",
     "card": "1/2",
-    "image": "travel-event-decks/the-chains-that-rust/cr-enemy-soldiers.png",
+    "image": "travel-event-decks/the-chains-that-rust/enemy-soldiers-cr.png",
     "xws": "crenemysoldiers"
   },
   {
@@ -1646,7 +1646,7 @@
     ],
     "expansion": "The Chains That Rust",
     "card": "1/2",
-    "image": "travel-event-decks/the-chains-that-rust/cr-silent-vultures.png",
+    "image": "travel-event-decks/the-chains-that-rust/silent-vultures-cr.png",
     "xws": "crsilentvultures"
   },
   {
@@ -1661,7 +1661,7 @@
     ],
     "expansion": "The Chains That Rust",
     "card": "1/2",
-    "image": "travel-event-decks/the-chains-that-rust/cr-young-couple.png",
+    "image": "travel-event-decks/the-chains-that-rust/young-couple-cr.png",
     "xws": "cryoungcouple"
   },
   {
@@ -1676,7 +1676,7 @@
     ],
     "expansion": "The Chains That Rust",
     "card": "2/2",
-    "image": "travel-event-decks/the-chains-that-rust/cr-travel-event-2-of-2.png",
+    "image": "travel-event-decks/the-chains-that-rust/travel-event-2-of-2-cr.png",
     "xws": "crtravelevent2of2"
   },
   {
@@ -1691,7 +1691,7 @@
     ],
     "expansion": "The Chains That Rust",
     "card": "2/2",
-    "image": "travel-event-decks/the-chains-that-rust/cr-globules-of-blood.png",
+    "image": "travel-event-decks/the-chains-that-rust/globules-of-blood-cr.png",
     "xws": "crglobulesofblood"
   },
   {
@@ -1706,7 +1706,7 @@
     ],
     "expansion": "The Chains That Rust",
     "card": "2/2",
-    "image": "travel-event-decks/the-chains-that-rust/cr-enormous-coffin.png",
+    "image": "travel-event-decks/the-chains-that-rust/enormous-coffin-cr.png",
     "xws": "crenormouscoffin"
   },
   {
@@ -1721,7 +1721,7 @@
     ],
     "expansion": "The Chains That Rust",
     "card": "2/2",
-    "image": "travel-event-decks/the-chains-that-rust/cr-twelve-roads.png",
+    "image": "travel-event-decks/the-chains-that-rust/twelve-roads-cr.png",
     "xws": "crtwelveroads"
   }
 ]
