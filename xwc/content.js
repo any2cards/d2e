@@ -25,6 +25,7 @@ const files = [
   'rumors.js',
   'search-deck.js',
   'secret-rooms.js',
+  'servants.js',
   'shop-items.js',
   'statuses.js',
   'tainted.js',
