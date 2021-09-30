@@ -906,7 +906,7 @@
     "ability": "Exhaust this card after setup of an encounter to choose an open monster group. Replace 1 master and 2 minion monsters in the chosen group with the Valyndra agent. If the Valyndra agent is defeated, return this card to your Plot deck. You cannot use this card in any quest that uses the Valyndra lieutenant.",
     "trigger cost": 2,
     "expansion": "Lair Of The Wyrm",
-    "image": "plot-decks/dragons-greed/summon - valyndra-lw.png",
+    "image": "plot-decks/dragons-greed/summon-valyndra-lw.png",
     "xws": "summonvalyndra"
   },
   {
