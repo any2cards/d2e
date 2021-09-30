@@ -779,351 +779,351 @@
   {
     "name": "50a",
     "points": 111,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/50a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/50a.png",
     "xws": "50a"
   },
   {
     "name": "50b",
     "points": 112,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/50b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/50b.png",
     "xws": "50b"
   },
   {
     "name": "51a",
     "points": 113,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/51a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/51a.png",
     "xws": "51a"
   },
   {
     "name": "51b",
     "points": 114,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/51b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/51b.png",
     "xws": "51b"
   },
   {
     "name": "52a",
     "points": 115,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/52a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/52a.png",
     "xws": "52a"
   },
   {
     "name": "52b",
     "points": 116,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/52b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/52b.png",
     "xws": "52b"
   },
   {
     "name": "53a",
     "points": 117,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/53a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/53a.png",
     "xws": "53a"
   },
   {
     "name": "53b",
     "points": 118,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/53b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/53b.png",
     "xws": "53b"
   },
   {
     "name": "54a",
     "points": 119,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/54a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/54a.png",
     "xws": "54a"
   },
   {
     "name": "54b",
     "points": 120,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/54b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/54b.png",
     "xws": "54b"
   },
   {
     "name": "55a",
     "points": 121,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/55a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/55a.png",
     "xws": "55a"
   },
   {
     "name": "55b",
     "points": 122,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/55b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/55b.png",
     "xws": "55b"
   },
   {
     "name": "56a",
     "points": 123,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/56a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/56a.png",
     "xws": "56a"
   },
   {
     "name": "56b",
     "points": 124,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/56b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/56b.png",
     "xws": "56b"
   },
   {
     "name": "57a",
     "points": 125,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/57a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/57a.png",
     "xws": "57a"
   },
   {
     "name": "57b",
     "points": 126,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/57b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/57b.png",
     "xws": "57b"
   },
   {
     "name": "58a",
     "points": 127,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/58a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/58a.png",
     "xws": "58a"
   },
   {
     "name": "58b",
     "points": 128,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/58b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/58b.png",
     "xws": "58b"
   },
   {
     "name": "59a",
     "points": 129,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/59a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/59a.png",
     "xws": "59a"
   },
   {
     "name": "59b",
     "points": 130,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/59b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/59b.png",
     "xws": "59b"
   },
   {
     "name": "60a",
     "points": 131,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/60a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/60a.png",
     "xws": "60a"
   },
   {
     "name": "60b",
     "points": 132,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/60b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/60b.png",
     "xws": "60b"
   },
   {
     "name": "61a",
     "points": 133,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/61a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/61a.png",
     "xws": "61a"
   },
   {
     "name": "61b",
     "points": 134,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/61b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/61b.png",
     "xws": "61b"
   },
   {
     "name": "62a",
     "points": 135,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/62a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/62a.png",
     "xws": "62a"
   },
   {
     "name": "62b",
     "points": 136,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/62b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/62b.png",
     "xws": "62b"
   },
   {
     "name": "63a",
     "points": 137,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/63a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/63a.png",
     "xws": "63a"
   },
   {
     "name": "63b",
     "points": 138,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/63b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/63b.png",
     "xws": "63b"
   },
   {
     "name": "64a",
     "points": 139,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/64a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/64a.png",
     "xws": "64a"
   },
   {
     "name": "64b",
     "points": 140,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/64b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/64b.png",
     "xws": "64b"
   },
   {
     "name": "65a",
     "points": 141,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/65a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/65a.png",
     "xws": "65a"
   },
   {
     "name": "65b",
     "points": 142,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/65b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/65b.png",
     "xws": "65b"
   },
   {
     "name": "66a",
     "points": 143,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/66a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/66a.png",
     "xws": "66a"
   },
   {
     "name": "66b",
     "points": 144,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/66b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/66b.png",
     "xws": "66b"
   },
   {
     "name": "67a",
     "points": 145,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/67a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/67a.png",
     "xws": "67a"
   },
   {
     "name": "67b",
     "points": 146,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/67b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/67b.png",
     "xws": "67b"
   },
   {
     "name": "68a",
     "points": 147,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/68a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/68a.png",
     "xws": "68a"
   },
   {
     "name": "68b",
     "points": 148,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/68b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/68b.png",
     "xws": "68b"
   },
   {
     "name": "69a",
     "points": 149,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/69a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/69a.png",
     "xws": "69a"
   },
   {
     "name": "69b",
     "points": 150,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/69b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/69b.png",
     "xws": "69b"
   },
   {
     "name": "end cap",
     "points": 151,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/end-cap-indoor.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/end-cap-indoor.png",
     "xws": "endcap"
   },
   {
     "name": "end cap",
     "points": 152,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/end-cap-outdoor.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/end-cap-outdoor.png",
     "xws": "endcap"
   },
   {
     "name": "entrance",
     "points": 153,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/entrance.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/entrance.png",
     "xws": "entrance"
   },
   {
     "name": "exit",
     "points": 154,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/exit.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/exit.png",
     "xws": "exit"
   },
   {
     "name": "extension",
     "points": 155,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/extension-indoor-a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/extension-indoor-a.png",
     "xws": "extension"
   },
   {
     "name": "extension",
     "points": 156,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/extension-outdoor-a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/extension-outdoor-a.png",
     "xws": "extension"
   },
   {
     "name": "extension",
     "points": 157,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/extension-indoor-b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/extension-indoor-b.png",
     "xws": "extension"
   },
   {
     "name": "extension",
     "points": 158,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/extension-outdoor-b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/extension-outdoor-b.png",
     "xws": "extension"
   },
   {
     "name": "transition",
     "points": 159,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/transition-a.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/transition-a.png",
     "xws": "transition"
   },
   {
     "name": "transition",
     "points": 160,
-    "expansion": "Shadows Of Nerekhall",
-    "image": "map-pieces/shadows-of-nerekhall/transition-b.png",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "map-pieces/shadow-of-nerekhall/transition-b.png",
     "xws": "transition"
   },
   {

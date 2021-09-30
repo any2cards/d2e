@@ -403,7 +403,7 @@
     "awareness": 1,
     "ability": "Each time you declare an attack, you may choose to attack with an equipped weapon of a hero adjacent to you.",
     "feat": "Use when you or a hero adjacent to you is attacked, after dice are rolled. Roll 1 black defense die and add Shields rolled to the defense results. Before this attack is resolved, that hero recovers Heart equal to all the Shields rolled in this attack.",
-    "expansion": "Maze of the Drakon",
+    "expansion": "Maze Of The Drakon",
     "image": "heroes/healers/gristtun-the-merry-motd.png",
     "xws": "gristtunthemerry"
   },
