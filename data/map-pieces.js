@@ -1515,8 +1515,8 @@
     "name": "94b",
     "points": 216,
     "expansion": "The Chains That Rust",
-    "image": "map-pieces/the-chains-that-rust/95b.png",
-    "xws": "95b"
+    "image": "map-pieces/the-chains-that-rust/94b.png",
+    "xws": "94b"
   },
   {
     "name": "95a",
@@ -1529,8 +1529,8 @@
     "name": "95b",
     "points": 218,
     "expansion": "The Chains That Rust",
-    "image": "map-pieces/the-chains-that-rust/96b.png",
-    "xws": "96b"
+    "image": "map-pieces/the-chains-that-rust/95b.png",
+    "xws": "95b"
   },
   {
     "name": "96a",
