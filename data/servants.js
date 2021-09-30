@@ -9,7 +9,7 @@
     "type": "Blue Red",
     "traits": "After transitioning to Act II, add 1 additional yellow power die to this servant's attack pool. Surge: +1 Heart",
     "expansion": "Manor Of Ravens",
-    "image": "servants/raven-flock-mr.png",
+    "image": "familiars/raven-flock-mr.png",
     "xws": "ravenflock"
   },
   {
