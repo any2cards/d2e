@@ -52,34 +52,8 @@
     "xws": "pico"
   },
   {
-    "name": "Raven Flock",
-    "points": 4,
-    "speed": "4",
-    "health": "4",
-    "defense": "Gray",
-    "attack": "Melee",
-    "type": "Blue Red",
-    "traits": "After transitioning to Act II, add 1 additional yellow power die to this servant's attack pool. Surge: +1 Heart",
-    "expansion": "Manor Of Ravens",
-    "image": "familiars/raven-flock-mr.png",
-    "xws": "ravenflock"
-  },
-  {
-    "name": "Scourge",
-    "points": 5,
-    "speed": "1",
-    "health": "4",
-    "defense": "Brown",
-    "attack": "Melee",
-    "type": "Blue Red",
-    "traits": "Each time a hero adjacent to the Scourge suffers 1 or more Fatigue from an effect other than this one, choose another hero to suffer 1 Fatigue. After transitioning to Act II, this servant applies +3 to its Health.",
-    "expansion": "The Chains That Rust",
-    "image": "familiars/scourge-cr.png",
-    "xws": "scourge"
-  },
-  {
     "name": "Skye",
-    "points": 6,
+    "points": 4,
     "speed": "5",
     "health": "-",
     "defense": "-",
@@ -92,7 +66,7 @@
   },
   {
     "name": "Skye",
-    "points": 7,
+    "points": 5,
     "speed": "5",
     "health": "-",
     "defense": "-",
@@ -105,7 +79,7 @@
   },
   {
     "name": "Drakon",
-    "points": 8,
+    "points": 6,
     "speed": "-",
     "health": "-",
     "defense": "-",
@@ -118,7 +92,7 @@
   },
   {
     "name": "Spring of Life",
-    "points": 9,
+    "points": 7,
     "speed": "0",
     "health": "12",
     "defense": "-",
@@ -131,7 +105,7 @@
   },
   {
     "name": "Roots of Protection",
-    "points": 10,
+    "points": 8,
     "speed": "0",
     "health": "8",
     "defense": "-",
