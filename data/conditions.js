@@ -90,15 +90,24 @@
     "xws": "terrified"
   },
   {
-    "name": "Blinded",
+    "name": "Terrified",
     "points": 10,
+    "count": 4,
+    "traits": "You cannot spend Surges. If there are no enemy figures in your line of sight at the end of your turn, discard this card or token.",
+    "expansion": "The Chains That Rust",
+    "image": "conditions/terrified-cr.png",
+    "xws": "terrified"
+  },
+  {
+    "name": "Blinded",
+    "points": 11,
     "expansion": "Sands Of The Past",
     "image": "conditions/blinded-sotp.png",
     "xws": "blinded"
   },
   {
     "name": "Blinded Token",
-    "points": 11,
+    "points": 12,
     "expansion": "Sands Of The Past",
     "image": "conditions/blinded-token-sotp.png",
     "xws": "blindedtoken"
