@@ -37,9 +37,26 @@
 				border: 1px solid #9999ff;
 				background-color: #dddddd;
 			}
+			.ul {
+				list-style-type: disc;
+			}
+			.ul.columns>li {
+				display: inline;
+				padding-left: 40px;
+			}
+			.ul.columns>li:before {
+				content:"";
+				display: list-item;
+				position: absolute;
+			}
 			.li-ck {
 				display: inline;
 				padding-left: 40px;
+			}
+			.li-ck:before {
+				content:"";
+				display: list-item;
+				position: absolute;
 			}
 		</style>
 		<script>
@@ -1633,12 +1650,12 @@
 		</div>
 
 		<div class="accordion">
-			<h1><i class="fa fa-plus"></i> Monsters-3 </h1>
+			<h1><i class="fa fa-plus"></i> Monsters-5 </h1>
 			<div class="TextZone">
 				<ul>
 					<li>Arachyura</li>
 					<li>Bandit</li>
-					<li">Bane Spider</li>
+					<li>Bane Spider</li>
 					<li class="li-ck">CK-Bane Spider</li>
 					<li>Barghest</li>
 <!--
