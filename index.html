@@ -43,6 +43,11 @@
 			.tb tr {
 				display: list-item;
 				list-style-type: disc;
+				list-style-position: outside;
+				margin-left: 40px;
+			}
+			.tb tr > * {
+				display: inline-block;
 			}
 		</style>
 		<script>
@@ -1636,10 +1641,10 @@
 		</div>
 
 		<div class="accordion">
-			<h1><i class="fa fa-plus"></i> Monsters-1 </h1>
+			<h1><i class="fa fa-plus"></i> Monsters </h1>
 			<div class="TextZone"">
 				<table class="table-padded">
-					<tb>
+					<tb class="tb">
 						<tr><td>Arachyura</td></tr>
 						<tr><td>Bandit</td></tr>
 						<tr><td>Bane Spider</td><td>CK-Bane Spider</td></tr>
