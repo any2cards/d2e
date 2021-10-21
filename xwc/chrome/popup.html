@@ -1,0 +1,943 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<p>Select Expansions / Assets:</p>
+		<div class="top">
+			<div>
+				<details id="d2e-details">
+					<summary><input type="checkbox" id="d2e" value="d2e">
+						<label for="d2e">Descent Second Edition</label><br>
+					</summary>
+					<div class="indent">
+						<details id="ffg-details">
+							<summary><input type="checkbox" id="ffg" value="ffg">
+								<label for="ffg">FFG Official Content</label><br>
+							</summary>
+							<div class="indent">
+								<details id="bg-details">
+									<summary><input type="checkbox" id="bg" value="bg">
+										<label for="bg">Base Game</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="bg-agents" value="bg-agents">
+										<label for="bg-agents">Agents</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bg-class-familiars" value="bg-class-familiars">
+										<label for="bg-class-familiars">Class Familiars</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bg-class-items" value="bg-class-items">
+										<label for="bg-class-items">Class Items</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bg-class-skills" value="bg-class-skills">
+										<label for="bg-class-skills">Class Skills</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bg-conditions" value="bg-conditions">
+										<label for="bg-conditions">Conditions</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bg-heroes" value="bg-heroes">
+										<label for="bg-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bg-lieutenants" value="bg-lieutenants">
+										<label for="bg-lieutenants">Lieutenants</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bg-map-pieces" value="bg-map-pieces">
+										<label for="bg-map-pieces">Map Pieces</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bg-monsters" value="bg-monsters">
+										<label for="bg-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bg-overlord-decks" value="bg-overlord-decks">
+										<label for="bg-overlord-decks">Overlord Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bg-plot-decks" value="bg-plot-decks">
+										<label for="bg-plot-decks">Plot Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bg-relics" value="bg-relics">
+										<label for="bg-relics">Relics</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bg-search-deck" value="bg-search-deck">
+										<label for="bg-search-deck">Search Deck</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bg-shop-items" value="bg-shop-items">
+										<label for="bg-shop-items">Shop Items</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bg-travel-event-decks" value="bg-travel-event-decks">
+										<label for="bg-travel-event-decks">Travel Event Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bg-turn-summary" value="bg-turn-summary">
+										<label for="bg-turn-summary">Turn Summary</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="ck-details">
+									<summary><input type="checkbox" id="ck" value="ck">
+										<label for="lw">Conversion Kit</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="ck-familiars" value="ck-familiars">
+										<label for="ck-familiars">Familiars</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="ck-heroes" value="ck-heroes">
+										<label for="ck-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="ck-monsters" value="ck-monsters">
+										<label for="ck-heroes">Monsters</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="lw-details">
+									<summary><input type="checkbox" id="lw" value="lw">
+										<label for="lw">Lair Of The Wyrm</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="lw-advanced-quests" value="lw-advanced-quests">
+										<label for="lw-advanced-quests">Advanced Quests</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-agents" value="lw-agents">
+										<label for="lw-agents">Agents</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-class-familiars" value="lw-class-familiars">
+										<label for="lw-class-familiars">Class Familiars</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-class-items" value="lw-class-items">
+										<label for="lw-class-items">Class Items</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-class-skills" value="lw-class-skills">
+										<label for="lw-class-skills">Class Skills</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-conditions" value="lw-conditions">
+										<label for="lw-conditions">Conditions</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-heroes" value="lw-heroes">
+										<label for="lw-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-lieutenants" value="lw-lieutenants">
+										<label for="lw-lieutenants">Lieutenants</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-map-pieces" value="lw-map-pieces">
+										<label for="lw-map-pieces">Map Pieces</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-monsters" value="lw-monsters">
+										<label for="lw-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-overlord-decks" value="lw-overlord-decks">
+										<label for="lw-overlord-decks">Overlord Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-plot-decks" value="lw-plot-decks">
+										<label for="lw-plot-decks">Plot Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-relics" value="lw-relics">
+										<label for="lw-relics">Relics</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-rumors" value="lw-rumors">
+										<label for="lw-rumors">Rumors</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-search-deck" value="lw-search-deck">
+										<label for="lw-search-deck">Search Deck</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-secret-rooms" value="lw-secret-rooms">
+										<label for="lw-secret-rooms">Secret Rooms</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-shop-items" value="lw-shop-items">
+										<label for="lw-shop-items">Shop Items</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lw-travel-event-decks" value="lw-travel-event-decks">
+										<label for="lw-travel-event-decks">Travel Event Decks</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="lr-details">
+									<summary><input type="checkbox" id="lr" value="lr">
+										<label for="lr">Labyrinth Of Ruin</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="lr-agents" value="lr-agents">
+										<label for="lr-agents">Agents</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lr-allies" value="lr-allies">
+										<label for="lr-allies">Allies</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lr-ally-skills" value="lr-ally-skills">
+										<label for="lr-ally-skills">Ally Skills</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lr-class-familiars" value="lr-class-familiars">
+										<label for="lr-class-familiars">Class Familiars</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lr-class-items" value="lr-class-items">
+										<label for="lr-class-items">Class Items</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lr-class-skills" value="lr-class-skills">
+										<label for="lr-class-skills">Class Skills</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lr-conditions" value="lr-conditions">
+										<label for="lr-conditions">Conditions</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lr-heroes" value="lr-heroes">
+										<label for="lr-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lr-lieutenants" value="lr-lieutenants">
+										<label for="lr-lieutenants">Lieutenants</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lr-map-pieces" value="lr-map-pieces">
+										<label for="lr-map-pieces">Map Pieces</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lr-monsters" value="lr-monsters">
+										<label for="lr-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lr-overlord-decks" value="lr-overlord-decks">
+										<label for="lr-overlord-decks">Overlord Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lr-plot-decks" value="lr-plot-decks">
+										<label for="lr-plot-decks">Plot Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lr-relics" value="lr-relics">
+										<label for="lr-relics">Relics</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lr-shop-items" value="lr-shop-items">
+										<label for="lr-shop-items">Shop Items</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="lr-travel-event-decks" value="lr-travel-event-decks">
+										<label for="lr-travel-event-decks">Travel Event Decks</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="tf-details">
+									<summary><input type="checkbox" id="tf" value="tf">
+										<label for="tf">The Trollfens</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="tf-advanced-quests" value="tf-advanced-quests">
+										<label for="tf-advanced-quests">Advanced Quests</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-agents" value="tf-agents">
+										<label for="tf-agents">Agents</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-class-items" value="tf-class-items">
+										<label for="tf-class-items">Class Items</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-class-skills" value="tf-class-skills">
+										<label for="tf-class-skills">Class Skills</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-conditions" value="tf-conditions">
+										<label for="tf-conditions">Conditions</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-heroes" value="tf-heroes">
+										<label for="tf-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-lieutenants" value="tf-lieutenants">
+										<label for="tf-lieutenants">Lieutenants</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-map-pieces" value="tf-map-pieces">
+										<label for="tf-map-pieces">Map Pieces</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-monsters" value="tf-monsters">
+										<label for="tf-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-overlord-decks" value="tf-overlord-decks">
+										<label for="tf-overlord-decks">Overlord Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-plot-decks" value="tf-plot-decks">
+										<label for="tf-plot-decks">Plot Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-relics" value="tf-relics">
+										<label for="tf-relics">Relics</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-rumors" value="tf-rumors">
+										<label for="tf-rumors">Rumors</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-search-deck" value="tf-search-deck">
+										<label for="tf-search-deck">Search Deck</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-secret-rooms" value="tf-secret-rooms">
+										<label for="tf-secret-rooms">Secret Rooms</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-shop-items" value="tf-shop-items">
+										<label for="tf-shop-items">Shop Items</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tf-travel-event-decks" value="tf-travel-event-decks">
+										<label for="tf-travel-event-decks">Travel Event Decks</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="sn-details">
+									<summary><input type="checkbox" id="sn" value="sn">
+										<label for="sn">Shadows Of Nerekhall</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="sn-agents" value="sn-agents">
+										<label for="sn-agents">Agents</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sn-city-event-decks" value="sn-city-event-decks">
+										<label for="sn-city-event-decks">City Event Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sn-class-familiars" value="sn-class-familiars">
+										<label for="sn-class-familiars">Class Familiars</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sn-class-items" value="sn-class-items">
+										<label for="sn-class-items">Class Items</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sn-class-skills" value="sn-class-skills">
+										<label for="sn-class-skills">Class Skills</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sn-conditions" value="sn-conditions">
+										<label for="sn-conditions">Conditions</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sn-corrupt-citizens" value="sn-corrupt-citizens">
+										<label for="sn-corrupt-citizens">Corrupt Citizens</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sn-heroes" value="sn-heroes">
+										<label for="sn-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sn-lieutenants" value="sn-lieutenants">
+										<label for="sn-lieutenants">Lieutenants</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sn-map-pieces" value="sn-map-pieces">
+										<label for="sn-map-pieces">Map Pieces</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sn-monsters" value="sn-monsters">
+										<label for="sn-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sn-overlord-decks" value="sn-overlord-decks">
+										<label for="sn-oversond-decks">Oversond Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sn-plot-decks" value="sn-plot-decks">
+										<label for="sn-plot-decks">Plot Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sn-relics" value="sn-relics">
+										<label for="sn-relics">Relics</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sn-shop-items" value="sn-shop-items">
+										<label for="sn-shop-items">Shop Items</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="mr-details">
+									<summary><input type="checkbox" id="mr" value="mr">
+										<label for="mr">Manor Of Ravens</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="mr-advanced-quests" value="mr-advanced-quests">
+										<label for="mr-advanced-quests">Advanced Quests</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mr-agents" value="mr-agents">
+										<label for="mr-agents">Agents</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mr-class-items" value="mr-class-items">
+										<label for="mr-class-items">Class Items</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mr-class-skills" value="mr-class-skills">
+										<label for="mr-class-skills">Class Skills</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mr-conditions" value="mr-conditions">
+										<label for="mr-conditions">Conditions</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mr-heroes" value="mr-heroes">
+										<label for="mr-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mr-lieutenants" value="mr-lieutenants">
+										<label for="mr-lieutenants">Lieutenants</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mr-map-pieces" value="mr-map-pieces">
+										<label for="mr-map-pieces">Map Pieces</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mr-monsters" value="mr-monsters">
+										<label for="mr-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mr-overlord-decks" value="mr-overlord-decks">
+										<label for="mr-overlord-decks">Overlord Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mr-plot-decks" value="mr-plot-decks">
+										<label for="mr-plot-decks">Plot Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mr-relics" value="mr-relics">
+										<label for="mr-relics">Relics</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mr-rumors" value="mr-rumors">
+										<label for="mr-rumors">Rumors</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mr-servants" value="mr-servants">
+										<label for="mr-servants">Servants</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mr-shop-items" value="mr-shop-items">
+										<label for="mr-shop-items">Shop Items</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="mb-details">
+									<summary><input type="checkbox" id="mb" value="mb">
+										<label for="mb">Mists Of Bilehall</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="mb-agents" value="mb-agents">
+										<label for="mb-agents">Agents</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mb-conditions" value="mb-conditions">
+										<label for="mb-conditions">Conditions</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mb-lieutenants" value="mb-lieutenants">
+										<label for="mb-lieutenants">Lieutenants</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mb-map-pieces" value="mb-map-pieces">
+										<label for="mb-map-pieces">Map Pieces</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mb-monsters" value="mb-monsters">
+										<label for="mb-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mb-plot-decks" value="mb-plot-decks">
+										<label for="mb-plot-decks">Plot Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mb-relics" value="mb-relics">
+										<label for="mb-relics">Relics</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mb-shop-items" value="mb-shop-items">
+										<label for="mb-shop-items">Shop Items</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mb-tainted" value="mb-tainted">
+										<label for="mb-tainted">Tainted</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="mb-travel-event-decks" value="mb-travel-event-decks">
+										<label for="mb-travel-event-decks">Travel Event Decks</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="cr-details">
+									<summary><input type="checkbox" id="cr" value="cr">
+										<label for="cr">The Chains That Rust</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="cr-conditions" value="cr-conditions">
+										<label for="cr-conditions">Conditions</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cr-hybrid-class-skills" value="cr-hybrid-class-skills">
+										<label for="cr-hybrid-class-skills">Hybrid Class Skills</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cr-lieutenants" value="cr-lieutenants">
+										<label for="cr-lieutenants">Lieutenants</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cr-map-pieces" value="cr-map-pieces">
+										<label for="cr-map-pieces">Map Pieces</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cr-monsters" value="cr-monsters">
+										<label for="cr-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cr-overlord-decks" value="cr-overlord-decks">
+										<label for="cr-overlord-decks">Overlord Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cr-relics" value="cr-relics">
+										<label for="cr-relics">Relics</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cr-servants" value="cr-servants">
+										<label for="cr-servants">Servants</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cr-shop-items" value="cr-shop-items">
+										<label for="cr-shop-items">Shop Items</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cr-tainted" value="cr-tainted">
+										<label for="cr-tainted">Tainted</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cr-travel-event-decks" value="cr-travel-event-decks">
+										<label for="cr-travel-event-decks">Travel Event Decks</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="oo-details">
+									<summary><input type="checkbox" id="oo" value="oo">
+										<label for="oo">Oath Of The Outcast</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="oo-advanced-quests" value="oo-advanced-quests">
+										<label for="oo-advanced-quests">Advanced Quests</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="oo-heroes" value="oo-heroes">
+										<label for="oo-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="oo-monsters" value="oo-monsters">
+										<label for="oo-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="oo-overlord-decks" value="oo-overlord-decks">
+										<label for="oo-overlord-decks">Overlord Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="oo-rumors" value="oo-rumors">
+										<label for="oo-rumors">Rumors</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="cd-details">
+									<summary><input type="checkbox" id="cd" value="cd">
+										<label for="cd">Crown Of Destiny</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="cd-advanced-quests" value="cd-advanced-quests">
+										<label for="cd-advanced-quests">Advanced Quests</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cd-heroes" value="cd-heroes">
+										<label for="cd-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cd-monsters" value="cd-monsters">
+										<label for="cd-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cd-overlord-decks" value="cd-overlord-decks">
+										<label for="cd-overlord-decks">Overlord Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cd-rumors" value="cd-rumors">
+										<label for="cd-rumors">Rumors</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="cf-details">
+									<summary><input type="checkbox" id="cf" value="cf">
+										<label for="cf">Crusade Of The Forgotten</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="cf-advanced-quests" value="cf-advanced-quests">
+										<label for="cf-advanced-quests">Advanced Quests</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cf-heroes" value="cf-heroes">
+										<label for="cf-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cf-monsters" value="cf-monsters">
+										<label for="cf-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cf-overlord-decks" value="cf-overlord-decks">
+										<label for="cf-overlord-decks">Overlord Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="cf-rumors" value="cf-rumors">
+										<label for="cf-rumors">Rumors</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="gd-details">
+									<summary><input type="checkbox" id="gd" value="gd">
+										<label for="gd">Guardians Of Deephall</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="gd-advanced-quests" value="gd-advanced-quests">
+										<label for="gd-advanced-quests">Advanced Quests</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="gd-heroes" value="gd-heroes">
+										<label for="gd-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="gd-monsters" value="gd-monsters">
+										<label for="gd-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="gd-overlord-decks" value="gd-overlord-decks">
+										<label for="gd-overlord-decks">Overlord Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="gd-rumors" value="gd-rumors">
+										<label for="gd-rumors">Rumors</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="vd-details">
+									<summary><input type="checkbox" id="vd" value="vd">
+										<label for="vd">Visions Of Dawn</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="vd-advanced-quests" value="vd-advanced-quests">
+										<label for="vd-advanced-quests">Advanced Quests</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="vd-heroes" value="vd-heroes">
+										<label for="vd-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="vd-monsters" value="vd-monsters">
+										<label for="vd-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="vd-overlord-decks" value="vd-overlord-decks">
+										<label for="vd-overlord-decks">Overlord Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="vd-rumors" value="vd-rumors">
+										<label for="vd-rumors">Rumors</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="bw-details">
+									<summary><input type="checkbox" id="bw" value="bw">
+										<label for="bw">Bonds Of The Wild</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="bw-advanced-quests" value="bw-advanced-quests">
+										<label for="bw-advanced-quests">Advanced Quests</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bw-familiars" value="bw-familiars">
+										<label for="bw-familiars">Familiars</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bw-heroes" value="bw-heroes">
+										<label for="bw-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bw-monsters" value="bw-monsters">
+										<label for="bw-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bw-overlord-decks" value="bw-overlord-decks">
+										<label for="bw-overlord-decks">Overlord Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="bw-rumors" value="bw-rumors">
+										<label for="bw-rumors">Rumors</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="tc-details">
+									<summary><input type="checkbox" id="tc" value="tc">
+										<label for="tc">Treaty Of Champions</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="tc-advanced-quests" value="tc-advanced-quests">
+										<label for="tc-advanced-quests">Advanced Quests</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tc-heroes" value="tc-heroes">
+										<label for="tc-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tc-monsters" value="tc-monsters">
+										<label for="tc-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tc-overlord-decks" value="tc-overlord-decks">
+										<label for="tc-overlord-decks">Overlord Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="tc-rumors" value="tc-rumors">
+										<label for="tc-rumors">Rumors</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="ss-details">
+									<summary><input type="checkbox" id="ss" value="ss">
+										<label for="ss">Stewards Of The Secret</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="ss-advanced-quests" value="ss-advanced-quests">
+										<label for="ss-advanced-quests">Advanced Quests</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="ss-heroes" value="ss-heroes">
+										<label for="ss-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="ss-monsters" value="ss-monsters">
+										<label for="ss-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="ss-overlord-decks" value="ss-overlord-decks">
+										<label for="ss-overlord-decks">Overlord Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="ss-rumors" value="ss-rumors">
+										<label for="ss-rumors">Rumors</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="se-details">
+									<summary><input type="checkbox" id="se" value="se">
+										<label for="se">Shards Of Everdark</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="se-advanced-quests" value="se-advanced-quests">
+										<label for="se-advanced-quests">Advanced Quests</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="se-heroes" value="se-heroes">
+										<label for="se-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="se-monsters" value="se-monsters">
+										<label for="se-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="se-overlord-decks" value="se-overlord-decks">
+										<label for="se-overlord-decks">Overlord Decks</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="se-rumors" value="se-rumors">
+										<label for="se-rumors">Rumors</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="ll-details">
+									<summary><input type="checkbox" id="ll" value="ll">
+										<label for="ll">Lost Legends</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="ll-class-items" value="ll-class-items">
+										<label for="ll-class-items">Class Items</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="ll-class-skills" value="ll-class-skills">
+										<label for="ll-class-skills">Class Skills</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="ll-hybrid-class-skills" value="ll-hybrid-class-skills">
+										<label for="ll-hybrid-class-skills">Hybrid Class Skills</label><br>
+									</div>
+								</details>
+							</div>
+						</details>
+					</div>
+					<div class="indent">
+						<details id="usrcom-details">
+							<summary><input type="checkbox" id="usrcom" value="usrcom">
+								<label for="usrcom">User Community Content</label><br>
+							</summary>
+							<div class="indent">
+								<details id="sotp-details">
+									<summary><input type="checkbox" id="sotp" value="sotp">
+										<label for="sotp">Sands of the Past</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="sotp-advanced-quests" value="sotp-advanced-quests">
+										<label for="sotp-advanced-quests">Advanced Quests</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sotp-agendas" value="sotp-agendas">
+										<label for="sotp-agendas">Agendas</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sotp-class-familiars" value="sotp-class-familiars">
+										<label for="sotp-class-familiars">Class Familiars</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sotp-class-items" value="sotp-class-items">
+										<label for="sotp-class-items">Class Items</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sotp-class-skills" value="sotp-class-skills">
+										<label for="sotp-class-skills">Class Skills</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sotp-conditions" value="sotp-conditions">
+										<label for="sotp-conditions">Conditions</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sotp-heroes" value="sotp-heroes">
+										<label for="sotp-heroes">Heroes</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sotp-monster-activations" value="sotp-monster-activations">
+										<label for="sotp-monster-activations">Monster Activations</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sotp-monsters" value="sotp-monsters">
+										<label for="sotp-monsters">Monsters</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sotp-perils" value="sotp-perils">
+										<label for="sotp-perils">Perils</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sotp-rumors" value="sotp-rumors">
+										<label for="sotp-rumors">Rumors</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sotp-round-summary" value="sotp-round-summary">
+										<label for="sotp-round-summary">Round Summary</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sotp-search-deck" value="sotp-search-deck">
+										<label for="sotp-search-deck">Search Deck</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sotp-shop-items" value="sotp-shop-items">
+										<label for="sotp-shop-items">Shop Items</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sotp-statuses" value="sotp-statuses">
+										<label for="sotp-statuses">Statuses</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="sotp-traps" value="sotp-traps">
+										<label for="sotp-traps">Traps</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="uc-details">
+									<summary><input type="checkbox" id="uc" value="uc">
+										<label for="uc">User Community</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="uc-heroes" value="uc-heroes">
+										<label for="uc-heroes">Heroes</label><br>
+									</div>
+								</details>
+							</div>
+							<div class="indent">
+								<details id="motd-details">
+									<summary><input type="checkbox" id="motd" value="motd">
+										<label for="motd">Maze Of The Drakon</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="motd-familiars" value="motd-familiars">
+										<label for="motd-familiars">Familiars</label><br>
+									</div>
+									<div class="indent">
+										<input type="checkbox" id="motd-heroes" value="motd-heroes">
+										<label for="motd-heroes">Heroes</label><br>
+									</div>
+								</details>
+							</div>
+						</details>
+					</div>
+				</details>
+			</div>
+		</div>
+		<script src="popup.js"></script>
+	</body>
+</html>
