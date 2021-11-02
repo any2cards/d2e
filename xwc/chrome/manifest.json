@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "D2e Card Viewer",
-  "description": "Adds card images when it finds card names from the Descent 2nd Edition game.",
-  "version": "4.0.0",
+  "description": "Display Descent Second Edition Game Assets",
+  "version": "4.0.1",
   "web_accessible_resources": [
     "icon-32.png"
   ],
@@ -12,9 +12,9 @@
       "*://*.boardgamegeek.com/*",
       "*://*.reddit.com/r/JourneysInTheDark/*",
       "*://*.roll20.net/*",
-		  "*://*.descent2e.fandom.com/*",
-		  "*://*.descent-community.org/*",
-	  	"*://any2cards.github.io/d2e/*"
+	  "*://*.descent2e.fandom.com/*",
+	  "*://*.descent-community.org/*",
+	  "*://any2cards.github.io/d2e/*"
     ],
     "js": [
       "content.js"

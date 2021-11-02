@@ -118,7 +118,7 @@ const filterData = data => {
   return filtered;
 }
 
-async function getDataAndAddTooltips() {
+async function getData() {
   files = await getFilesList().then(function(foo) {
     return foo;
   }).catch(function(bar) {
@@ -144,7 +144,6 @@ async function getDataAndAddTooltips() {
     const regExp = new RegExp(generateRegExpString(data), 'ig');
     getTextNodes((parent, node) => replaceMatchesInNode(node, regExp));
   }
-  createTooltip();
   return true;
 }
 
@@ -154,19 +153,20 @@ function sleep(ms) {
 
 let stopInterval;
 
-async function mustGetDataAndAddTooltips() {
-  let success = await getDataAndAddTooltips();
+async function mustGetData() {
+  let success = await getData();
   if (success) {
     clearInterval(stopInterval);
   } else {
-    console.log("GetDataAndAddTooltips failed, retrying...")
+    console.log("GetData failed, retrying...")
   }
 }
 
 document.body.onload = function() {
-  stopInterval = setInterval(mustGetDataAndAddTooltips, 100);
+  stopInterval = setInterval(mustGetData, 1000);
+  createTooltip();
 }
- 
+
 let cardsData = {};
 let allMatches = {};
 
@@ -319,6 +319,7 @@ const generateRegExpString = data => {
 // Show the tooltip after entering the highlighted area
 document.body.addEventListener(
   'mouseover',
+
   e => {
     const target = e.target;
     if (target && target != document && target.matches('.' + classname)) {
@@ -329,6 +330,9 @@ document.body.addEventListener(
 
       show(tooltipLoader);
       tooltipImgContainer.innerHTML = '';
+      
+      // Update tooltip position
+      moveTooltip(e);
 
       // Update tooltip image source
       let promises = [];
@@ -348,18 +352,16 @@ document.body.addEventListener(
         promises.push(promise);
       });
 
-      // Update tooltip position
-       moveTooltip(e);
-
       // When all images are loaded; Hide loader and show images
       Promise.all(promises).then(() => {
-
         images.forEach(image => {
           // image.height = 'auto';
           // image.width = 'auto';
           show(image);
         });
         hide(tooltipLoader);
+        // Update tooltip position
+        moveTooltip(e);
       });
 
       showTooltip();
