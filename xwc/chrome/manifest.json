@@ -1,49 +1,49 @@
 {
-	"manifest_version": 2,
-	"name": "D2e Card Viewer",
-	"description": "Display Descent Second Edition Game Assets",
-	"version": "4.0.1",
-	"web_accessible_resources": [
-		"icon-32.png"
-	],
-	"content_scripts": [{
-		"matches": [
-			"*://*.fantasyflightgames.com/*",
-			"*://*.boardgamegeek.com/*",
-			"*://*.reddit.com/r/JourneysInTheDark/*",
-			"*://*.roll20.net/*",
+  "manifest_version": 2,
+  "name": "D2e Card Viewer",
+  "description": "Display Descent Second Edition Game Assets.",
+  "version": "4.6.0",
+  "web_accessible_resources": [
+    "icon-32.png"
+  ],
+  "content_scripts": [{
+    "matches": [
+      "*://*.fantasyflightgames.com/*",
+      "*://*.boardgamegeek.com/*",
+      "*://*.reddit.com/r/JourneysInTheDark/*",
+      "*://*.roll20.net/*",
 			"*://*.descent2e.fandom.com/*",
 			"*://*.descent-community.org/*",
 			"*://any2cards.github.io/d2e/*"
-		],
-		"js": [
-			"content.js"
-		],
-		"css": [
-			"content.css"
-		],
-		"run_at": "document_idle"
-	}],
-	"permissions": [
-		"storage",
-		"contextMenus",
-		"activeTab",
-		"https://raw.githubusercontent.com/*"
-	],
-	"background": {
-		"persistent": false,
-		"scripts": ["background.js"]
-	},
-	"icons": {
-		"32": "icon-32.png"
-	},
-	"browser_action": {
-		"default_title": "D2e Card Viewer Options",
-		"default_popup": "popup.html",
-		"default_icon": {
-			"32": "icon-32.png",
-			"48": "icon-48.png",
-			"128": "icon-128.png"
-		}
-	}
+    ],
+    "js": [
+      "content.js"
+    ],
+    "css": [
+      "content.css"
+    ],
+    "run_at": "document_idle"
+  }],
+  "permissions": [
+    "storage",
+    "contextMenus",
+    "activeTab",
+    "https://raw.githubusercontent.com/*"
+  ],
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "32": "icon-32.png"
+  },
+  "browser_action": {
+    "default_title": "D2e Card Viewer Options",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "32": "icon-32.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    }
+  }
 }

@@ -1,8 +1,95 @@
-const inputChange = (evt) => {
-  chrome.tabs.query({'active': true, 'currentWindow': true}, function (tabs) {
-    chrome.runtime.sendMessage({input_id: evt.target.id, tab_id: tabs[0].id, checked: evt.target.checked});
+var expansion_conversion = {
+  "bg": "Base Game",
+  "ck": "Conversion Kit",
+  "lw": "Lair Of The Wyrm",
+  "lr": "Labyrinth Of Ruin",
+  "tf": "The Trollfens",
+  "sn": "Shadow Of Nerekhall",
+  "mr": "Manor Of Ravens",
+  "mb": "Mists Of Bilehall",
+  "cr": "The Chains That Rust",
+  "oo": "Oath Of The Outcast",
+  "cd": "Crown Of Destiny",
+  "cf": "Crusade Of The Forgotten",
+  "gd": "Guardians Of Deephall",
+  "vd": "Visions Of Dawn",
+  "bw": "Bonds Of The Wild",
+  "tc": "Treaty Of Champions",
+  "ss": "Stewards Of The Secret",
+  "se": "Shards Of Everdark",
+  "ll": "Lost Legends",
+  "sotp": "Sands Of The Past",
+  "uc": "User Community",
+  "motd": "Maze Of The Drakon",
+};
+
+const getExpFromInputId = (input_id) => {
+  let idx = input_id.indexOf("-");
+  if (idx >= 0) {
+    shortExp = input_id.substring(0, input_id.indexOf("-"));
+    return expansion_conversion[shortExp];
+  }
+  return null
+}
+
+const getTypeFromInputId = (input_id) => {
+  let idx = input_id.indexOf("-");
+  if (idx >= 0) {
+    return input_id.substring(input_id.indexOf("-")+1);
+  }
+  return null
+}
+
+function sendExpansionData(expansion_card_type) {
+  return new Promise((resolve, reject) => {
+    chrome.tabs.query({'active': true, 'currentWindow': true}, function (tabs) {
+      chrome.runtime.sendMessage({tab_id: tabs[0].id,
+                                  method: 'expansions_data',
+                                  expansions: expansion_card_type}, response => {
+        if (response) {
+          resolve(response);
+        } else {
+          reject(response);
+        }
+      });
+    });
   });
-  
+}
+
+async function sendToBackground(expansion_card_type) {
+  response = await sendExpansionData(expansion_card_type).then(function(foo) {
+    return foo;
+  }).catch(function(bar) {
+    return bar;
+  });
+}
+
+async function getAndSendInputs() {
+  // retrieve <inputs> into map
+  let inputArr = {};
+  Array.from(document.getElementsByTagName("input")).forEach(input => {
+    inputArr[input.id] = input.checked;
+  });
+
+  // create expansion_card_type map
+  let expansion_card_type = {};
+  for (const [input_id, checked] of Object.entries(inputArr)) {
+    let exp = getExpFromInputId(input_id);
+    let type = getTypeFromInputId(input_id);
+    if (exp == null || type == null) {
+      continue;
+    }
+    if (expansion_card_type[exp] == null) {
+      expansion_card_type[exp] = {};
+    }
+    expansion_card_type[exp][type] = checked;
+  }
+  // send to background.js
+  sendToBackground(expansion_card_type);
+  return inputArr;
+}
+
+const inputChange = async (evt) => {
   // check/uncheck children checkboxes
   var parent = evt.target.parentElement;
   while (parent.nodeName != "DIV") {
@@ -54,10 +141,9 @@ const inputChange = (evt) => {
     }
   }
 
-  let inputArr = {};
-  Array.from(document.getElementsByTagName("input")).forEach(input => {
-    inputArr[input.id] = input.checked;
-  });
+  inputArr = await getAndSendInputs();
+
+  // save map into storage
   chrome.storage.sync.set({inputArr: inputArr});
 };
 
