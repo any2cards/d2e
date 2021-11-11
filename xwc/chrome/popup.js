@@ -18,6 +18,7 @@ var expansion_conversion = {
   "ss": "Stewards Of The Secret",
   "se": "Shards Of Everdark",
   "ll": "Lost Legends",
+  "fs": "Forgotten Souls",
   "sotp": "Sands Of The Past",
   "uc": "User Community",
   "motd": "Maze Of The Drakon",
