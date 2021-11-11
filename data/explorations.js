@@ -4,7 +4,7 @@
     "type": "*",
     "points": 0,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/explorations/fs-ec-0-the-onset.png",
+    "image": "explorations/fs-ec-0-the-onset.png",
     "xws": "theonset"
   },
   {
@@ -12,7 +12,7 @@
     "type": "1",
     "points": 1,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/explorations/fs-ec-1-room-of-souls.png",
+    "image": "explorations/fs-ec-1-room-of-souls.png",
     "xws": "roomofsouls"
   },
   {
@@ -20,7 +20,7 @@
     "type": "2",
     "points": 2,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/explorations/fs-ec-2-the-lava-tomb.png",
+    "image": "explorations/fs-ec-2-the-lava-tomb.png",
     "xws": "thelavatomb"
   },
   {
@@ -28,7 +28,7 @@
     "type": "3",
     "points": 3,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/explorations/fs-ec-3-throne-of-the-fallen.png",
+    "image": "explorations/fs-ec-3-throne-of-the-fallen.png",
     "xws": "throneofthefallen"
   },
   {
@@ -36,7 +36,7 @@
     "type": "N",
     "points": 4,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/explorations/fs-ec-4-deadly-kennel.png",
+    "image": "explorations/fs-ec-4-deadly-kennel.png",
     "xws": "deadlykennel"
   },
   {
@@ -44,7 +44,7 @@
     "type": "N",
     "points": 5,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/explorations/fs-ec-5-fog-filled-passage.png",
+    "image": "explorations/fs-ec-5-fog-filled-passage.png",
     "xws": "fogfilledpassage"
   },
   {
@@ -52,7 +52,7 @@
     "type": "N",
     "points": 6,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/explorations/fs-ec-6-hall-of-riddles.png",
+    "image": "explorations/fs-ec-6-hall-of-riddles.png",
     "xws": "hallofriddles"
   },
   {
@@ -60,7 +60,7 @@
     "type": "N",
     "points": 7,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/explorations/fs-ec-7-lengthy-sewers.png",
+    "image": "explorations/fs-ec-7-lengthy-sewers.png",
     "xws": "lengthysewers"
   },
   {
@@ -68,7 +68,7 @@
     "type": "N",
     "points": 8,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/explorations/fs-ec-8-shiny-corridor.png",
+    "image": "explorations/fs-ec-8-shiny-corridor.png",
     "xws": "shinycorridor"
   },
   {
@@ -76,7 +76,7 @@
     "type": "N",
     "points": 9,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/explorations/fs-ec-9-trash-heap.png",
+    "image": "explorations/fs-ec-9-trash-heap.png",
     "xws": "trashheap"
   },
   {
@@ -84,7 +84,7 @@
     "type": "N",
     "points": 10,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/explorations/fs-ec-10-treasure-vault.png",
+    "image": "explorations/fs-ec-10-treasure-vault.png",
     "xws": "treasurevault"
   },
   {
@@ -92,7 +92,7 @@
     "type": "N",
     "points": 11,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/explorations/fs-ec-11-tunnels-end.png",
+    "image": "explorations/fs-ec-11-tunnels-end.png",
     "xws": "tunnelsend"
   },
   {
@@ -100,7 +100,7 @@
     "type": "B",
     "points": 12,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/explorations/fs-ec-back.png",
+    "image": "explorations/fs-ec-back.png",
     "xws": "theonset"
   }
 ]

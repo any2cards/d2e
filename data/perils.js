@@ -3,77 +3,77 @@
     "name": "FS Perils 1 of 10",
     "points": 0,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/perils/fs-pc-1-of-10.png",
+    "image": "perils/fs-pc-1-of-10.png",
     "xws": "fsperils1of10"
   },
   {
     "name": "FS Perils 2 of 10",
     "points": 1,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/perils/fs-pc-2-of-10.png",
+    "image": "perils/fs-pc-2-of-10.png",
     "xws": "fsperils2of10"
   },
   {
     "name": "FS Perils 3 of 10",
     "points": 2,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/perils/fs-pc-3-of-10.png",
+    "image": "perils/fs-pc-3-of-10.png",
     "xws": "fsperils3of10"
   },
   {
     "name": "FS Perils 4 of 10",
     "points": 3,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/perils/fs-pc-4-of-10.png",
+    "image": "perils/fs-pc-4-of-10.png",
     "xws": "fsperils4of10"
   },
   {
     "name": "FS Perils 5 of 10",
     "points": 4,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/perils/fs-pc-5-of-10.png",
+    "image": "perils/fs-pc-5-of-10.png",
     "xws": "fsperils5of10"
   },
   {
     "name": "FS Perils 6 of 10",
     "points": 5,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/perils/fs-pc-6-of-10.png",
+    "image": "perils/fs-pc-6-of-10.png",
     "xws": "fsperils6of10"
   },
   {
     "name": "FS Perils 7 of 10",
     "points": 6,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/perils/fs-pc-7-of-10.png",
+    "image": "perils/fs-pc-7-of-10.png",
     "xws": "fsperils7of10"
   },
   {
     "name": "FS Perils 8 of 10",
     "points": 7,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/perils/fs-pc-8-of-10.png",
+    "image": "perils/fs-pc-8-of-10.png",
     "xws": "fsperils8of10"
   },
   {
     "name": "FS Perils 9 of 10",
     "points": 8,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/perils/fs-pc-9-of-10.png",
+    "image": "perils/fs-pc-9-of-10.png",
     "xws": "fsperils9of10"
   },
   {
     "name": "FS Perils 10 of 10",
     "points": 9,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/perils/fs-pc-10-of-10.png",
+    "image": "perils/fs-pc-10-of-10.png",
     "xws": "fsperils10of10"
   },
   {
     "name": "FS-Perils-Back",
     "points": 10,
     "expansion": "Forgotten Souls",
-    "image": "co-ops/forgotten-souls/perils/fs-pc-back.png",
+    "image": "perils/fs-pc-back.png",
     "xws": "fsperilsback"
   },
   {
