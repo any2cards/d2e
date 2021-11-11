@@ -1,69 +1,69 @@
 [
   {
-    "name": "FS Monster Activations 1 of 10",
+    "name": "FS Monster Activations 1 Of 10",
     "points": 0,
     "expansion": "Forgotten Souls",
     "image": "monster-activations/fs-mac-1-of-10.png",
     "xws": "fsmonsteractivation1of10"
   },
   {
-    "name": "FS Monster Activations 2 of 10",
+    "name": "FS Monster Activations 2 Of 10",
     "points": 1,
     "expansion": "Forgotten Souls",
     "image": "monster-activations/fs-mac-2-of-10.png",
     "xws": "fsmonsteractivation2of10"
   },
   {
-    "name": "FS Monster Activations 3 of 10",
+    "name": "FS Monster Activations 3 Of 10",
     "points": 2,
     "expansion": "Forgotten Souls",
     "image": "monster-activations/fs-mac-3-of-10.png",
     "xws": "fsmonsteractivation3of10"
   },
   {
-    "name": "FS Monster Activations 4 of 10",
+    "name": "FS Monster Activations 4 Of 10",
     "points": 3,
     "expansion": "Forgotten Souls",
     "image": "monster-activations/fs-mac-4-of-10.png",
     "xws": "fsmonsteractivation4of10"
   },
   {
-    "name": "FS Monster Activations 5 of 10",
+    "name": "FS Monster Activations 5 Of 10",
     "points": 4,
     "expansion": "Forgotten Souls",
     "image": "monster-activations/fs-mac-5-of-10.png",
     "xws": "fsmonsteractivation5of10"
   },
   {
-    "name": "FS Monster Activations 6 of 10",
+    "name": "FS Monster Activations 6 Of 10",
     "points": 5,
     "expansion": "Forgotten Souls",
     "image": "monster-activations/fs-mac-6-of-10.png",
     "xws": "fsmonsteractivation6of10"
   },
   {
-    "name": "FS Monster Activations 7 of 10",
+    "name": "FS Monster Activations 7 Of 10",
     "points": 6,
     "expansion": "Forgotten Souls",
     "image": "monster-activations/fs-mac-7-of-10.png",
     "xws": "fsmonsteractivation7of10"
   },
   {
-    "name": "FS Monster Activations 8 of 10",
+    "name": "FS Monster Activations 8 Of 10",
     "points": 7,
     "expansion": "Forgotten Souls",
     "image": "monster-activations/fs-mac-8-of-10.png",
     "xws": "fsmonsteractivation8of10"
   },
   {
-    "name": "FS Monster Activations 9 of 10",
+    "name": "FS Monster Activations 9 Of 10",
     "points": 8,
     "expansion": "Forgotten Souls",
     "image": "monster-activations/fs-mac-9-of-10.png",
     "xws": "fsmonsteractivation9of10"
   },
   {
-    "name": "FS Monster Activations 10 of 10",
+    "name": "FS Monster Activations 10 Of 10",
     "points": 9,
     "expansion": "Forgotten Souls",
     "image": "monster-activations/fs-mac-10-of-10.png",

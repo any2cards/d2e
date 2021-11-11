@@ -56,7 +56,7 @@
     "xws": "hallofriddles"
   },
   {
-    "name": "Lengthy Wewers",
+    "name": "Lengthy Sewers",
     "type": "N",
     "points": 7,
     "expansion": "Forgotten Souls",
