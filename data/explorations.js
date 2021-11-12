@@ -216,7 +216,7 @@
     "xws": "lastbreath"
   },
   {
-    "name": "Sqaure One",
+    "name": "Square One",
     "type": "1",
     "points": 27,
     "expansion": "Dark Elements",
@@ -296,12 +296,12 @@
     "xws": "passageofthepresent"
   },
   {
-    "name": "Stones Of The Founder",
+    "name": "Stones Of The Founders",
     "type": "N",
     "points": 37,
     "expansion": "Dark Elements",
-    "image": "explorations/de-ec-11-stones-of-the-founder.png",
-    "xws": "stonesofthefounder"
+    "image": "explorations/de-ec-11-stones-of-the-founders.png",
+    "xws": "stonesofthefounders"
   },
   {
     "name": "Explorations-Back",
