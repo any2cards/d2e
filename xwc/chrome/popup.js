@@ -20,6 +20,7 @@ var expansion_conversion = {
   "ll": "Lost Legends",
   "fs": "Forgotten Souls",
   "ni": "Nature's Ire",
+  "de": "Dark Elements",
   "sotp": "Sands Of The Past",
   "uc": "User Community",
   "motd": "Maze Of The Drakon",
