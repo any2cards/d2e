@@ -154,9 +154,86 @@
     "xws": "niperilsback"
   },
   {
+    "name": "De Perils 1 Of 10",
+    "points": 22,
+    "expansion": "Dark Elements",
+    "image": "perils/de-pc-1-of-10.png",
+    "xws": "deperils1of10"
+  },
+  {
+    "name": "De Perils 2 Of 10",
+    "points": 23,
+    "expansion": "Dark Elements",
+    "image": "perils/de-pc-2-of-10.png",
+    "xws": "deperils2of10"
+  },
+  {
+    "name": "De Perils 3 Of 10",
+    "points": 24,
+    "expansion": "Dark Elements",
+    "image": "perils/de-pc-3-of-10.png",
+    "xws": "deperils3of10"
+  },
+  {
+    "name": "De Perils 4 Of 10",
+    "points": 25,
+    "expansion": "Dark Elements",
+    "image": "perils/de-pc-4-of-10.png",
+    "xws": "deperils4of10"
+  },
+  {
+    "name": "De Perils 5 Of 10",
+    "points": 26,
+    "expansion": "Dark Elements",
+    "image": "perils/de-pc-5-of-10.png",
+    "xws": "deperils5of10"
+  },
+  {
+    "name": "De Perils 6 Of 10",
+    "points": 27,
+    "expansion": "Dark Elements",
+    "image": "perils/de-pc-6-of-10.png",
+    "xws": "deperils6of10"
+  },
+  {
+    "name": "De Perils 7 Of 10",
+    "points": 28,
+    "expansion": "Dark Elements",
+    "image": "perils/de-pc-7-of-10.png",
+    "xws": "deperils7of10"
+  },
+  {
+    "name": "De Perils 8 Of 10",
+    "points": 29,
+    "expansion": "Dark Elements",
+    "image": "perils/de-pc-8-of-10.png",
+    "xws": "deperils8of10"
+  },
+  {
+    "name": "De Perils 9 Of 10",
+    "points": 30,
+    "expansion": "Dark Elements",
+    "image": "perils/de-pc-9-of-10.png",
+    "xws": "deperils9of10"
+  },
+  {
+    "name": "De Perils 10 Of 10",
+    "points": 31,
+    "expansion": "Dark Elements",
+    "image": "perils/de-pc-10-of-10.png",
+    "xws": "deperils10of10"
+  },
+  {
+    "name": "DE-Perils-Back",
+    "points": 32,
+    "expansion": "Dark Elements",
+    "image": "perils/de-pc-back.png",
+    "xws": "deperilsback"
+  },
+  {
     "name": "And So It Begins",
     "type": "Start Peril",
-    "points": 22,
+    "points": 33,
     "cardno": 1,	
     "expansion": "Sands Of The Past",
     "image": "perils/and-so-it-begins-sotp.png",
@@ -165,7 +242,7 @@
   {
     "name": "Dark Schemes",
     "type": "Quest Peril",
-    "points": 23,
+    "points": 34,
     "cardno": 2,	
     "expansion": "Sands Of The Past",
     "image": "perils/dark-schemes-sotp.png",
@@ -174,7 +251,7 @@
   {
     "name": "Distrust",
     "type": "Minor Peril",
-    "points": 24,
+    "points": 35,
     "cardno": 3,	
     "expansion": "Sands Of The Past",
     "image": "perils/distrust-sotp.png",
@@ -183,7 +260,7 @@
   {
     "name": "Explosive Assault",
     "type": "Minor Peril",
-    "points": 25,
+    "points": 36,
     "cardno": 4,	
     "expansion": "Sands Of The Past",
     "image": "perils/explosive-assault-sotp.png",
@@ -192,7 +269,7 @@
   {
     "name": "Dangerous Brawl",
     "type": "Minor Peril",
-    "points": 26,
+    "points": 37,
     "cardno": 5,	
     "expansion": "Sands Of The Past",
     "image": "perils/dangerous-brawl-sotp.png",
@@ -201,7 +278,7 @@
   {
     "name": "Breath of the Manticore",
     "type": "Minor Peril",
-    "points": 27,
+    "points": 38,
     "cardno": 6,	
     "expansion": "Sands Of The Past",
     "image": "perils/breath-of-the-manticore-sotp.png",
@@ -210,7 +287,7 @@
   {
     "name": "Deadheart Powder",
     "type": "Minor Peril",
-    "points": 28,
+    "points": 39,
     "cardno": 7,	
     "expansion": "Sands Of The Past",
     "image": "perils/deadheart-powder-sotp.png",
@@ -219,7 +296,7 @@
   {
     "name": "10,000 Mouths to Feed",
     "type": "Minor Peril",
-    "points": 29,
+    "points": 40,
     "cardno": 8,	
     "expansion": "Sands Of The Past",
     "image": "perils/10000-mouths-to-feed-sotp.png",
@@ -228,7 +305,7 @@
   {
     "name": "Rising Dead",
     "type": "Minor Peril",
-    "points": 30,
+    "points": 41,
     "cardno": 9,	
     "expansion": "Sands Of The Past",
     "image": "perils/rising-dead-sotp.png",
@@ -237,7 +314,7 @@
   {
     "name": "Whispers in the Wind",
     "type": "Minor Peril",
-    "points": 31,
+    "points": 42,
     "cardno": 10,	
     "expansion": "Sands Of The Past",
     "image": "perils/whispers-in-the-wind-sotp.png",
@@ -246,7 +323,7 @@
   {
     "name": "Enter the Darkness",
     "type": "Minor Peril",
-    "points": 32,
+    "points": 43,
     "cardno": 11,	
     "expansion": "Sands Of The Past",
     "image": "perils/enter-the-darkness-sotp.png",
@@ -255,7 +332,7 @@
   {
     "name": "Bleeding Out",
     "type": "Minor Peril",
-    "points": 33,
+    "points": 44,
     "cardno": 12,	
     "expansion": "Sands Of The Past",
     "image": "perils/bleeding-out-sotp.png",
@@ -264,7 +341,7 @@
   {
     "name": "The Chosen One",
     "type": "Minor Peril",
-    "points": 34,
+    "points": 45,
     "cardno": 13,	
     "expansion": "Sands Of The Past",
     "image": "perils/the-chosen-one-sotp.png",
@@ -273,7 +350,7 @@
   {
     "name": "Pit Trap",
     "type": "Minor Peril",
-    "points": 35,
+    "points": 46,
     "cardno": 14,	
     "expansion": "Sands Of The Past",
     "image": "perils/pit-trap-sotp.png",
@@ -282,7 +359,7 @@
   {
     "name": "Accuracy",
     "type": "Minor Peril",
-    "points": 36,
+    "points": 47,
     "cardno": 15,	
     "expansion": "Sands Of The Past",
     "image": "perils/accuracy-sotp.png",
@@ -291,7 +368,7 @@
   {
     "name": "Blood Link",
     "type": "Minor Peril",
-    "points": 37,
+    "points": 48,
     "cardno": 16,	
     "expansion": "Sands Of The Past",
     "image": "perils/blood-link-sotp.png",
@@ -300,7 +377,7 @@
   {
     "name": "Blood Lust",
     "type": "Minor Peril",
-    "points": 38,
+    "points": 49,
     "cardno": 17,	
     "expansion": "Sands Of The Past",
     "image": "perils/blood-lust-sotp.png",
@@ -309,7 +386,7 @@
   {
     "name": "Cull the Weak",
     "type": "Minor Peril",
-    "points": 39,
+    "points": 50,
     "cardno": 18,	
     "expansion": "Sands Of The Past",
     "image": "perils/cull-the-weak-sotp.png",
@@ -318,7 +395,7 @@
   {
     "name": "Blood Rage",
     "type": "Major Peril",
-    "points": 40,
+    "points": 51,
     "cardno": 19,	
     "expansion": "Sands Of The Past",
     "image": "perils/blood-rage-sotp.png",
@@ -327,7 +404,7 @@
   {
     "name": "Divide and Conquer",
     "type": "Major Peril",
-    "points": 41,
+    "points": 52,
     "cardno": 20,	
     "expansion": "Sands Of The Past",
     "image": "perils/divide-and-conquer-sotp.png",
@@ -336,7 +413,7 @@
   {
     "name": "Nature's Wrath",
     "type": "Major Peril",
-    "points": 42,
+    "points": 53,
     "cardno": 21,	
     "expansion": "Sands Of The Past",
     "image": "perils/natures-wrath-sotp.png",
@@ -345,7 +422,7 @@
   {
     "name": "Shadow Binder",
     "type": "Major Peril",
-    "points": 43,
+    "points": 54,
     "cardno": 22,	
     "expansion": "Sands Of The Past",
     "image": "perils/shadow-binder-sotp.png",
@@ -354,7 +431,7 @@
   {
     "name": "Frozen in Fear",
     "type": "Major Peril",
-    "points": 44,
+    "points": 55,
     "cardno": 23,	
     "expansion": "Sands Of The Past",
     "image": "perils/frozen-in-fear-sotp.png",
@@ -363,7 +440,7 @@
   {
     "name": "Shattered Defense",
     "type": "Major Peril",
-    "points": 45,
+    "points": 56,
     "cardno": 24,	
     "expansion": "Sands Of The Past",
     "image": "perils/shattered-defense-sotp.png",
@@ -372,7 +449,7 @@
   {
     "name": "Blood for Blood",
     "type": "Major Peril",
-    "points": 46,
+    "points": 57,
     "cardno": 25,	
     "expansion": "Sands Of The Past",
     "image": "perils/blood-for-blood-sotp.png",
@@ -381,7 +458,7 @@
   {
     "name": "Claimed by the Fire",
     "type": "Major Peril",
-    "points": 47,
+    "points": 58,
     "cardno": 26,	
     "expansion": "Sands Of The Past",
     "image": "perils/claimed-by-the-fire-sotp.png",
@@ -390,7 +467,7 @@
   {
     "name": "Tendrils of Darkness",
     "type": "Major Peril",
-    "points": 48,
+    "points": 59,
     "cardno": 27,	
     "expansion": "Sands Of The Past",
     "image": "perils/tendrils-of-darkness-sotp.png",
@@ -399,7 +476,7 @@
   {
     "name": "Shadowborn Summoning",
     "type": "Major Peril",
-    "points": 49,
+    "points": 60,
     "cardno": 28,	
     "expansion": "Sands Of The Past",
     "image": "perils/shadowborn-summoning-sotp.png",
@@ -408,7 +485,7 @@
   {
     "name": "Ynfernal Hound",
     "type": "Major Peril",
-    "points": 50,
+    "points": 61,
     "cardno": 29,	
     "expansion": "Sands Of The Past",
     "image": "perils/ynfernal-hound-sotp.png",
@@ -417,7 +494,7 @@
   {
     "name": "Assassin Squad",
     "type": "Major Peril",
-    "points": 51,
+    "points": 62,
     "cardno": 30,	
     "expansion": "Sands Of The Past",
     "image": "perils/assassin-squad-sotp.png",
@@ -426,7 +503,7 @@
   {
     "name": "Defeat",
     "type": "Deadly Peril",
-    "points": 52,
+    "points": 63,
     "cardno": 31,	
     "expansion": "Sands Of The Past",
     "image": "perils/defeat-sotp.png",
@@ -435,7 +512,7 @@
   {
     "name": "Start Peril",
     "type": "Start Peril",
-    "points": 53,
+    "points": 64,
     "cardno": 32,	
     "expansion": "Sands Of The Past",
     "image": "perils/start-peril-sotp.png",
@@ -444,7 +521,7 @@
   {
     "name": "Minor Peril",
     "type": "Minor Peril",
-    "points": 54,
+    "points": 65,
     "cardno": 33,	
     "expansion": "Sands Of The Past",
     "image": "perils/minor-peril-sotp.png",
@@ -453,7 +530,7 @@
   {
     "name": "Major Peril",
     "type": "Major Peril",
-    "points": 55,
+    "points": 66,
     "cardno": 34,	
     "expansion": "Sands Of The Past",
     "image": "perils/major-peril-sotp.png",
@@ -462,7 +539,7 @@
   {
     "name": "Deadly Peril",
     "type": "Deadly Peril",
-    "points": 56,
+    "points": 67,
     "cardno": 35,	
     "expansion": "Sands Of The Past",
     "image": "perils/deadly-peril-sotp.png",
@@ -471,7 +548,7 @@
   {
     "name": "Quest Peril",
     "type": "Quest Peril",
-    "points": 57,
+    "points": 68,
     "cardno": 36,	
     "expansion": "Sands Of The Past",
     "image": "perils/quest-peril-sotp.png",
@@ -480,7 +557,7 @@
   {
     "name": "prl-01",
     "type": "Start Peril",
-    "points": 58,
+    "points": 69,
     "cardno": 1,	
     "expansion": "Sands Of The Past",
     "image": "perils/and-so-it-begins-sotp.png",
@@ -489,7 +566,7 @@
   {
     "name": "prl-02",
     "type": "Quest Peril",
-    "points": 59,
+    "points": 70,
     "cardno": 2,	
     "expansion": "Sands Of The Past",
     "image": "perils/dark-schemes-sotp.png",
@@ -498,7 +575,7 @@
   {
     "name": "prl-03",
     "type": "Minor Peril",
-    "points": 60,
+    "points": 71,
     "cardno": 3,	
     "expansion": "Sands Of The Past",
     "image": "perils/distrust-sotp.png",
@@ -507,7 +584,7 @@
   {
     "name": "prl-04",
     "type": "Minor Peril",
-    "points": 61,
+    "points": 72,
     "cardno": 4,	
     "expansion": "Sands Of The Past",
     "image": "perils/explosive-assault-sotp.png",
@@ -516,7 +593,7 @@
   {
     "name": "prl-05",
     "type": "Minor Peril",
-    "points": 62,
+    "points": 73,
     "cardno": 5,	
     "expansion": "Sands Of The Past",
     "image": "perils/dangerous-brawl-sotp.png",
@@ -525,7 +602,7 @@
   {
     "name": "prl-06",
     "type": "Minor Peril",
-    "points": 63,
+    "points": 74,
     "cardno": 6,	
     "expansion": "Sands Of The Past",
     "image": "perils/breath-of-the-manticore-sotp.png",
@@ -534,7 +611,7 @@
   {
     "name": "prl-07",
     "type": "Minor Peril",
-    "points": 64,
+    "points": 75,
     "cardno": 7,	
     "expansion": "Sands Of The Past",
     "image": "perils/deadheart-powder-sotp.png",
@@ -543,7 +620,7 @@
   {
     "name": "prl-08",
     "type": "Minor Peril",
-    "points": 65,
+    "points": 76,
     "cardno": 8,	
     "expansion": "Sands Of The Past",
     "image": "perils/10000-mouths-to-feed-sotp.png",
@@ -552,7 +629,7 @@
   {
     "name": "prl-09",
     "type": "Minor Peril",
-    "points": 66,
+    "points": 77,
     "cardno": 9,	
     "expansion": "Sands Of The Past",
     "image": "perils/rising-dead-sotp.png",
@@ -561,7 +638,7 @@
   {
     "name": "prl-10",
     "type": "Minor Peril",
-    "points": 67,
+    "points": 78,
     "cardno": 10,	
     "expansion": "Sands Of The Past",
     "image": "perils/whispers-in-the-wind-sotp.png",
@@ -570,7 +647,7 @@
   {
     "name": "prl-11",
     "type": "Minor Peril",
-    "points": 68,
+    "points": 79,
     "cardno": 11,	
     "expansion": "Sands Of The Past",
     "image": "perils/enter-the-darkness-sotp.png",
@@ -579,7 +656,7 @@
   {
     "name": "prl-12",
     "type": "Minor Peril",
-    "points": 69,
+    "points": 80,
     "cardno": 12,	
     "expansion": "Sands Of The Past",
     "image": "perils/bleeding-out-sotp.png",
@@ -588,7 +665,7 @@
   {
     "name": "prl-13",
     "type": "Minor Peril",
-    "points": 70,
+    "points": 81,
     "cardno": 13,	
     "expansion": "Sands Of The Past",
     "image": "perils/the-chosen-one-sotp.png",
@@ -597,7 +674,7 @@
   {
     "name": "prl-14",
     "type": "Minor Peril",
-    "points": 71,
+    "points": 82,
     "cardno": 14,	
     "expansion": "Sands Of The Past",
     "image": "perils/pit-trap-sotp.png",
@@ -606,7 +683,7 @@
   {
     "name": "prl-15",
     "type": "Minor Peril",
-    "points": 72,
+    "points": 83,
     "cardno": 15,	
     "expansion": "Sands Of The Past",
     "image": "perils/accuracy-sotp.png",
@@ -615,7 +692,7 @@
   {
     "name": "prl-16",
     "type": "Minor Peril",
-    "points": 73,
+    "points": 84,
     "cardno": 16,	
     "expansion": "Sands Of The Past",
     "image": "perils/blood-link-sotp.png",
@@ -624,7 +701,7 @@
   {
     "name": "prl-17",
     "type": "Minor Peril",
-    "points": 74,
+    "points": 85,
     "cardno": 17,	
     "expansion": "Sands Of The Past",
     "image": "perils/blood-lust-sotp.png",
@@ -633,7 +710,7 @@
   {
     "name": "prl-18",
     "type": "Minor Peril",
-    "points": 75,
+    "points": 86,
     "cardno": 18,	
     "expansion": "Sands Of The Past",
     "image": "perils/cull-the-weak-sotp.png",
@@ -642,7 +719,7 @@
   {
     "name": "prl-19",
     "type": "Major Peril",
-    "points": 76,
+    "points": 87,
     "cardno": 19,	
     "expansion": "Sands Of The Past",
     "image": "perils/blood-rage-sotp.png",
@@ -651,7 +728,7 @@
   {
     "name": "prl-20",
     "type": "Major Peril",
-    "points": 77,
+    "points": 88,
     "cardno": 20,	
     "expansion": "Sands Of The Past",
     "image": "perils/divide-and-conquer-sotp.png",
@@ -660,7 +737,7 @@
   {
     "name": "prl-21",
     "type": "Major Peril",
-    "points": 78,
+    "points": 89,
     "cardno": 21,	
     "expansion": "Sands Of The Past",
     "image": "perils/natures-wrath-sotp.png",
@@ -669,7 +746,7 @@
   {
     "name": "prl-22",
     "type": "Major Peril",
-    "points": 79,
+    "points": 90,
     "cardno": 22,	
     "expansion": "Sands Of The Past",
     "image": "perils/shadow-binder-sotp.png",
@@ -678,7 +755,7 @@
   {
     "name": "prl-23",
     "type": "Major Peril",
-    "points": 80,
+    "points": 91,
     "cardno": 23,	
     "expansion": "Sands Of The Past",
     "image": "perils/frozen-in-fear-sotp.png",
@@ -687,7 +764,7 @@
   {
     "name": "prl-24",
     "type": "Major Peril",
-    "points": 81,
+    "points": 92,
     "cardno": 24,	
     "expansion": "Sands Of The Past",
     "image": "perils/shattered-defense-sotp.png",
@@ -696,7 +773,7 @@
   {
     "name": "prl-25",
     "type": "Major Peril",
-    "points": 82,
+    "points": 93,
     "cardno": 25,	
     "expansion": "Sands Of The Past",
     "image": "perils/blood-for-blood-sotp.png",
@@ -705,7 +782,7 @@
   {
     "name": "prl-26",
     "type": "Major Peril",
-    "points": 83,
+    "points": 94,
     "cardno": 26,	
     "expansion": "Sands Of The Past",
     "image": "perils/claimed-by-the-fire-sotp.png",
@@ -714,7 +791,7 @@
   {
     "name": "prl-27",
     "type": "Major Peril",
-    "points": 84,
+    "points": 95,
     "cardno": 27,	
     "expansion": "Sands Of The Past",
     "image": "perils/tendrils-of-darkness-sotp.png",
@@ -723,7 +800,7 @@
   {
     "name": "prl-28",
     "type": "Major Peril",
-    "points": 85,
+    "points": 96,
     "cardno": 28,	
     "expansion": "Sands Of The Past",
     "image": "perils/shadowborn-summoning-sotp.png",
@@ -732,7 +809,7 @@
   {
     "name": "prl-29",
     "type": "Major Peril",
-    "points": 86,
+    "points": 97,
     "cardno": 29,	
     "expansion": "Sands Of The Past",
     "image": "perils/ynfernal-hound-sotp.png",
@@ -741,7 +818,7 @@
   {
     "name": "prl-30",
     "type": "Major Peril",
-    "points": 87,
+    "points": 98,
     "cardno": 30,	
     "expansion": "Sands Of The Past",
     "image": "perils/assassin-squad-sotp.png",
@@ -750,7 +827,7 @@
   {
     "name": "prl-31",
     "type": "Deadly Peril",
-    "points": 88,
+    "points": 99,
     "cardno": 31,	
     "expansion": "Sands Of The Past",
     "image": "perils/defeat-sotp.png",
@@ -759,7 +836,7 @@
   {
     "name": "prl-sta",
     "type": "Start Peril",
-    "points": 89,
+    "points": 100,
     "cardno": 32,	
     "expansion": "Sands Of The Past",
     "image": "perils/start-peril-sotp.png",
@@ -768,7 +845,7 @@
   {
     "name": "prl-min",
     "type": "Minor Peril",
-    "points": 90,
+    "points": 101,
     "cardno": 33,	
     "expansion": "Sands Of The Past",
     "image": "perils/minor-peril-sotp.png",
@@ -777,7 +854,7 @@
   {
     "name": "prl-maj",
     "type": "Major Peril",
-    "points": 91,
+    "points": 102,
     "cardno": 34,	
     "expansion": "Sands Of The Past",
     "image": "perils/major-peril-sotp.png",
@@ -786,7 +863,7 @@
   {
     "name": "prl-dea",
     "type": "Deadly Peril",
-    "points": 92,
+    "points": 103,
     "cardno": 35,	
     "expansion": "Sands Of The Past",
     "image": "perils/deadly-peril-sotp.png",
@@ -795,7 +872,7 @@
   {
     "name": "prl-que",
     "type": "Quest Peril",
-    "points": 93,
+    "points": 104,
     "cardno": 36,	
     "expansion": "Sands Of The Past",
     "image": "perils/quest-peril-sotp.png",

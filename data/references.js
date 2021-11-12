@@ -68,5 +68,40 @@
     "expansion": "Nature's Ire",
     "image": "references/ni-rc-top-front.png",
     "xws": "nireferencestopfront"
+  },
+  {
+    "name": "DE-References-Bottom-Back",
+    "points": 10,
+    "expansion": "Dark Elements",
+    "image": "references/de-rc-bottom-back.png",
+    "xws": "dereferencesbottomback"
+  },
+  {
+    "name": "DE-References-Bottom-Front",
+    "points": 11,
+    "expansion": "Dark Elements",
+    "image": "references/de-rc-bottom-front.png",
+    "xws": "dereferencesbottomfront"
+  },
+  {
+    "name": "DE-References-Loot-Track",
+    "points": 12,
+    "expansion": "Dark Elements",
+    "image": "references/de-rc-loot-track.png",
+    "xws": "dereferencesloottrack"
+  },
+  {
+    "name": "DE-References-Top-Back",
+    "points": 13,
+    "expansion": "Dark Elements",
+    "image": "references/de-rc-top-back.png",
+    "xws": "dereferencestopback"
+  },
+  {
+    "name": "DE-References-Top-Front",
+    "points": 14,
+    "expansion": "Dark Elements",
+    "image": "references/de-rc-top-front.png",
+    "xws": "dereferencestopfront"
   }
 ]

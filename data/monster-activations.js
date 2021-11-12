@@ -154,8 +154,85 @@
     "xws": "nimonsteractivationsback"
   },
   {
-    "name": "Barghest Activation",
+    "name": "DE Monster Activations 1 Of 10",
     "points": 22,
+    "expansion": "Dark Elements",
+    "image": "monster-activations/de-mac-1-of-10.png",
+    "xws": "demonsteractivation1of10"
+  },
+  {
+    "name": "DE Monster Activations 2 Of 10",
+    "points": 23,
+    "expansion": "Dark Elements",
+    "image": "monster-activations/de-mac-2-of-10.png",
+    "xws": "demonsteractivation2of10"
+  },
+  {
+    "name": "DE Monster Activations 3 Of 10",
+    "points": 24,
+    "expansion": "Dark Elements",
+    "image": "monster-activations/de-mac-3-of-10.png",
+    "xws": "demonsteractivation3of10"
+  },
+  {
+    "name": "DE Monster Activations 4 Of 10",
+    "points": 25,
+    "expansion": "Dark Elements",
+    "image": "monster-activations/de-mac-4-of-10.png",
+    "xws": "demonsteractivation4of10"
+  },
+  {
+    "name": "DE Monster Activations 5 Of 10",
+    "points": 26,
+    "expansion": "Dark Elements",
+    "image": "monster-activations/de-mac-5-of-10.png",
+    "xws": "demonsteractivation5of10"
+  },
+  {
+    "name": "DE Monster Activations 6 Of 10",
+    "points": 27,
+    "expansion": "Dark Elements",
+    "image": "monster-activations/de-mac-6-of-10.png",
+    "xws": "demonsteractivation6of10"
+  },
+  {
+    "name": "DE Monster Activations 7 Of 10",
+    "points": 28,
+    "expansion": "Dark Elements",
+    "image": "monster-activations/de-mac-7-of-10.png",
+    "xws": "demonsteractivation7of10"
+  },
+  {
+    "name": "DE Monster Activations 8 Of 10",
+    "points": 29,
+    "expansion": "Dark Elements",
+    "image": "monster-activations/de-mac-8-of-10.png",
+    "xws": "demonsteractivation8of10"
+  },
+  {
+    "name": "DE Monster Activations 9 Of 10",
+    "points": 30,
+    "expansion": "Dark Elements",
+    "image": "monster-activations/de-mac-9-of-10.png",
+    "xws": "demonsteractivation9of10"
+  },
+  {
+    "name": "DE Monster Activations 10 Of 10",
+    "points": 31,
+    "expansion": "Dark Elements",
+    "image": "monster-activations/de-mac-10-of-10.png",
+    "xws": "demonsteractivation10of10"
+  },
+  {
+    "name": "DE-Monster-Activations-Back",
+    "points": 32,
+    "expansion": "Dark Elements",
+    "image": "monster-activations/de-mac-back.png",
+    "xws": "demonsteractivationsback"
+  },
+  {
+    "name": "Barghest Activation",
+    "points": 33,
     "cardno": "1A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/barghest-activation-sotp-front.png",
@@ -163,7 +240,7 @@
   },
   {
     "name": "Cave Spider Activation",
-    "points": 23,
+    "points": 34,
     "cardno": "2A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/cave-spider-activation-sotp-front.png",
@@ -171,7 +248,7 @@
   },
   {
     "name": "Elemental Activation",
-    "points": 24,
+    "points": 35,
     "cardno": "3A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/elemental-activation-sotp-front.png",
@@ -179,7 +256,7 @@
   },
   {
     "name": "Ettin Activation",
-    "points": 25,
+    "points": 36,
     "cardno": "4A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/ettin-activation-sotp-front.png",
@@ -187,7 +264,7 @@
   },
   {
     "name": "Flesh Moulder Activation",
-    "points": 26,
+    "points": 37,
     "cardno": "5A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/flesh-moulder-activation-sotp-front.png",
@@ -195,7 +272,7 @@
   },
   {
     "name": "Goblin Archer Activation",
-    "points": 27,
+    "points": 38,
     "cardno": "6A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/goblin-archer-activation-sotp-front.png",
@@ -203,7 +280,7 @@
   },
   {
     "name": "Merriod Activation",
-    "points": 28,
+    "points": 39,
     "cardno": "7A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/merriod-activation-sotp-front.png",
@@ -211,7 +288,7 @@
   },
   {
     "name": "Shadow Dragon Activation",
-    "points": 29,
+    "points": 40,
     "cardno": "8A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/shadow-dragon-activation-sotp-front.png",
@@ -219,7 +296,7 @@
   },
   {
     "name": "Zombie Activation",
-    "points": 30,
+    "points": 41,
     "cardno": "9A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/zombie-activation-sotp-front.png",
@@ -227,7 +304,7 @@
   },
   {
     "name": "Fire Imps Activation",
-    "points": 31,
+    "points": 42,
     "cardno": "10A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/fire-imps-activation-sotp-front.png",
@@ -235,7 +312,7 @@
   },
   {
     "name": "Hybrid Sentinel Activation",
-    "points": 32,
+    "points": 43,
     "cardno": "11A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/hybrid-sentinel-activation-sotp-front.png",
@@ -243,7 +320,7 @@
   },
   {
     "name": "Arachyura Activation",
-    "points": 33,
+    "points": 44,
     "cardno": "12A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/arachyura-activation-sotp-front.png",
@@ -251,7 +328,7 @@
   },
   {
     "name": "Carrion Drake Activation",
-    "points": 34,
+    "points": 45,
     "cardno": "13A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/carrion-drake-activation-sotp-front.png",
@@ -259,7 +336,7 @@
   },
   {
     "name": "Goblin Witcher Activation",
-    "points": 35,
+    "points": 46,
     "cardno": "14A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/goblin-witcher-activation-sotp-front.png",
@@ -267,7 +344,7 @@
   },
   {
     "name": "Volucrix Reaver Activation",
-    "points": 36,
+    "points": 47,
     "cardno": "15A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/volucrix-reaver-activation-sotp-front.png",
@@ -275,7 +352,7 @@
   },
   {
     "name": "Harpy Activation",
-    "points": 37,
+    "points": 48,
     "cardno": "16A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/harpy-activation-sotp-front.png",
@@ -283,7 +360,7 @@
   },
   {
     "name": "Plague Worm Activation",
-    "points": 38,
+    "points": 49,
     "cardno": "17A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/plague-worm-activation-sotp-front.png",
@@ -291,7 +368,7 @@
   },
   {
     "name": "Changeling Activation",
-    "points": 39,
+    "points": 50,
     "cardno": "18A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/changeling-activation-sotp-front.png",
@@ -299,7 +376,7 @@
   },
   {
     "name": "Ironbound Activation",
-    "points": 40,
+    "points": 51,
     "cardno": "19A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/ironbound-activation-sotp-front.png",
@@ -307,7 +384,7 @@
   },
   {
     "name": "Rat Swarm Activation",
-    "points": 41,
+    "points": 52,
     "cardno": "20A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/rat-swarm-activation-sotp-front.png",
@@ -315,7 +392,7 @@
   },
   {
     "name": "Ynfernal Hulk Activation",
-    "points": 42,
+    "points": 53,
     "cardno": "21A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/ynfernal-hulk-activation-sotp-front.png",
@@ -323,7 +400,7 @@
   },
   {
     "name": "Bandit Activation",
-    "points": 43,
+    "points": 54,
     "cardno": "22A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/bandit-activation-sotp-front.png",
@@ -331,7 +408,7 @@
   },
   {
     "name": "Wraith Activation",
-    "points": 44,
+    "points": 55,
     "cardno": "23A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/wraith-activation-sotp-front.png",
@@ -339,7 +416,7 @@
   },
   {
     "name": "Bone Horror Activation",
-    "points": 45,
+    "points": 56,
     "cardno": "24A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/bone-horror-activation-sotp-front.png",
@@ -347,7 +424,7 @@
   },
   {
     "name": "Broodwalker Activation",
-    "points": 46,
+    "points": 57,
     "cardno": "25A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/broodwalker-activation-sotp-front.png",
@@ -355,7 +432,7 @@
   },
   {
     "name": "Reanimate Activation",
-    "points": 47,
+    "points": 58,
     "cardno": "26A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/reanimate-activation-sotp-front.png",
@@ -363,7 +440,7 @@
   },
   {
     "name": "Marrow Priest Activation",
-    "points": 48,
+    "points": 59,
     "cardno": "27A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/marrow-priest-activation-sotp-front.png",
@@ -371,7 +448,7 @@
   },
   {
     "name": "Shambling Colossus Activation",
-    "points": 49,
+    "points": 60,
     "cardno": "28A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/shambling-colossus-activation-sotp-front.png",
@@ -379,7 +456,7 @@
   },
   {
     "name": "The Dispossessed Activation",
-    "points": 50,
+    "points": 61,
     "cardno": "29A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/the-dispossessed-activation-sotp-front.png",
@@ -387,7 +464,7 @@
   },
   {
     "name": "Bane Spider Activation",
-    "points": 51,
+    "points": 62,
     "cardno": "30A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/bane-spider-activation-sotp-front.png",
@@ -395,7 +472,7 @@
   },
   {
     "name": "Beastman Activation",
-    "points": 52,
+    "points": 63,
     "cardno": "31A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/beastman-activation-sotp-front.png",
@@ -403,7 +480,7 @@
   },
   {
     "name": "Razorwing Activation",
-    "points": 53,
+    "points": 64,
     "cardno": "32A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/razorwing-activation-sotp-front.png",
@@ -411,7 +488,7 @@
   },
   {
     "name": "Chaos Beast Activation",
-    "points": 54,
+    "points": 65,
     "cardno": "33A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/chaos-beast-activation-sotp-front.png",
@@ -419,7 +496,7 @@
   },
   {
     "name": "Giant Activation",
-    "points": 55,
+    "points": 66,
     "cardno": "34A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/giant-activation-sotp-front.png",
@@ -427,7 +504,7 @@
   },
   {
     "name": "Lava Beetle Activation",
-    "points": 56,
+    "points": 67,
     "cardno": "35A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/lava-beetle-activation-sotp-front.png",
@@ -435,7 +512,7 @@
   },
   {
     "name": "Golem Activation",
-    "points": 57,
+    "points": 68,
     "cardno": "36A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/golem-activation-sotp-front.png",
@@ -443,7 +520,7 @@
   },
   {
     "name": "Medusa Activation",
-    "points": 58,
+    "points": 69,
     "cardno": "37A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/medusa-activation-sotp-front.png",
@@ -451,7 +528,7 @@
   },
   {
     "name": "Sorcerer Activation",
-    "points": 59,
+    "points": 70,
     "cardno": "38A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/sorcerer-activation-sotp-front.png",
@@ -459,7 +536,7 @@
   },
   {
     "name": "Crypt Dragon Activation",
-    "points": 60,
+    "points": 71,
     "cardno": "39A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/crypt-dragon-activation-sotp-front.png",
@@ -467,7 +544,7 @@
   },
   {
     "name": "Dark Priest Activation",
-    "points": 61,
+    "points": 72,
     "cardno": "40A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/dark-priest-activation-sotp-front.png",
@@ -475,7 +552,7 @@
   },
   {
     "name": "Wendigo Activation",
-    "points": 62,
+    "points": 73,
     "cardno": "41A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/wendigo-activation-sotp-front.png",
@@ -483,7 +560,7 @@
   },
   {
     "name": "Manticore Activation",
-    "points": 63,
+    "points": 74,
     "cardno": "42A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/manticore-activation-sotp-front.png",
@@ -491,7 +568,7 @@
   },
   {
     "name": "Ogre Activation",
-    "points": 64,
+    "points": 75,
     "cardno": "43A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/ogre-activation-sotp-front.png",
@@ -499,7 +576,7 @@
   },
   {
     "name": "Troll Activation",
-    "points": 65,
+    "points": 76,
     "cardno": "44A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/troll-activation-sotp-front.png",
@@ -507,7 +584,7 @@
   },
   {
     "name": "Deep Elf Activation",
-    "points": 66,
+    "points": 77,
     "cardno": "45A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/deep-elf-activation-sotp-front.png",
@@ -515,7 +592,7 @@
   },
   {
     "name": "Hellhound Activation",
-    "points": 67,
+    "points": 78,
     "cardno": "46A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/hellhound-activation-sotp-front.png",
@@ -523,7 +600,7 @@
   },
   {
     "name": "Kobold Activation",
-    "points": 68,
+    "points": 79,
     "cardno": "47A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/kobold-activation-sotp-front.png",
@@ -531,7 +608,7 @@
   },
   {
     "name": "Dark Minotaur Activation",
-    "points": 69,
+    "points": 80,
     "cardno": "48A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/dark-minotaur-activation-sotp-front.png",
@@ -539,7 +616,7 @@
   },
   {
     "name": "Ice Wyrm Activation",
-    "points": 70,
+    "points": 81,
     "cardno": "49A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/ice-wyrm-activation-sotp-front.png",
@@ -547,7 +624,7 @@
   },
   {
     "name": "Shade Activation",
-    "points": 71,
+    "points": 82,
     "cardno": "50A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/shade-activation-sotp-front.png",
@@ -555,7 +632,7 @@
   },
   {
     "name": "Crow Hag Activation",
-    "points": 72,
+    "points": 83,
     "cardno": "51A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/crow-hag-activation-sotp-front.png",
@@ -563,7 +640,7 @@
   },
   {
     "name": "Demon Lord Activation",
-    "points": 73,
+    "points": 84,
     "cardno": "52A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/demon-lord-activation-sotp-front.png",
@@ -571,7 +648,7 @@
   },
   {
     "name": "Skeleton Archer Activation",
-    "points": 74,
+    "points": 85,
     "cardno": "53A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/skeleton-archer-activation-sotp-front.png",
@@ -579,7 +656,7 @@
   },
   {
     "name": "Blood Ape Activation",
-    "points": 75,
+    "points": 86,
     "cardno": "54A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/blood-ape-activation-sotp-front.png",
@@ -587,7 +664,7 @@
   },
   {
     "name": "Ferrox Activation",
-    "points": 76,
+    "points": 87,
     "cardno": "55A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/ferrox-activation-sotp-front.png",
@@ -595,7 +672,7 @@
   },
   {
     "name": "Naga Activation",
-    "points": 77,
+    "points": 88,
     "cardno": "56A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/naga-activation-sotp-front.png",
@@ -603,7 +680,7 @@
   },
   {
     "name": "Burrowing Horror Activation",
-    "points": 78,
+    "points": 89,
     "cardno": "57A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/burrowing-horror-activation-sotp-front.png",
@@ -611,7 +688,7 @@
   },
   {
     "name": "Sarcophagus Guard Activation",
-    "points": 79,
+    "points": 90,
     "cardno": "58A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/sarcophagus-guard-activation-sotp-front.png",
@@ -619,7 +696,7 @@
   },
   {
     "name": "Sir Alric Farrow Activation",
-    "points": 80,
+    "points": 91,
     "cardno": "59A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/sir-alric-farrow-activation-sotp-front.png",
@@ -627,7 +704,7 @@
   },
   {
     "name": "Lord Merick Farrow Activation",
-    "points": 81,
+    "points": 92,
     "cardno": "60A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/lord-merick-farrow-activation-sotp-front.png",
@@ -635,7 +712,7 @@
   },
   {
     "name": "Lady Eliza Farrow Activation",
-    "points": 82,
+    "points": 93,
     "cardno": "61A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/lady-eliza-farrow-activation-sotp-front.png",
@@ -643,7 +720,7 @@
   },
   {
     "name": "Belthir Activation",
-    "points": 83,
+    "points": 94,
     "cardno": "62A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/belthir-activation-sotp-front.png",
@@ -651,7 +728,7 @@
   },
   {
     "name": "Baron Zachareth Activation",
-    "points": 84,
+    "points": 95,
     "cardno": "63A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/baron-zachareth-activation-sotp-front.png",
@@ -659,7 +736,7 @@
   },
   {
     "name": "Splig Activation",
-    "points": 85,
+    "points": 96,
     "cardno": "64A",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/splig-activation-sotp-front.png",
@@ -667,7 +744,7 @@
   },
   {
     "name": "Barghest Activation",
-    "points": 86,
+    "points": 97,
     "cardno": "1B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/barghest-activation-sotp-back.png",
@@ -675,7 +752,7 @@
   },
   {
     "name": "Cave Spider Activation",
-    "points": 87,
+    "points": 98,
     "cardno": "2B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/cave-spider-activation-sotp-back.png",
@@ -683,7 +760,7 @@
   },
   {
     "name": "Elemental Activation",
-    "points": 88,
+    "points": 99,
     "cardno": "3B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/elemental-activation-sotp-back.png",
@@ -691,7 +768,7 @@
   },
   {
     "name": "Ettin Activation",
-    "points": 89,
+    "points": 100,
     "cardno": "4B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/ettin-activation-sotp-back.png",
@@ -699,7 +776,7 @@
   },
   {
     "name": "Flesh Moulder Activation",
-    "points": 90,
+    "points": 101,
     "cardno": "5B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/flesh-moulder-activation-sotp-back.png",
@@ -707,7 +784,7 @@
   },
   {
     "name": "Goblin Archer Activation",
-    "points": 91,
+    "points": 102,
     "cardno": "6B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/goblin-archer-activation-sotp-back.png",
@@ -715,7 +792,7 @@
   },
   {
     "name": "Merriod Activation",
-    "points": 92,
+    "points": 103,
     "cardno": "7B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/merriod-activation-sotp-back.png",
@@ -723,7 +800,7 @@
   },
   {
     "name": "Shadow Dragon Activation",
-    "points": 93,
+    "points": 104,
     "cardno": "8B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/shadow-dragon-activation-sotp-back.png",
@@ -731,7 +808,7 @@
   },
   {
     "name": "Zombie Activation",
-    "points": 94,
+    "points": 105,
     "cardno": "9B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/zombie-activation-sotp-back.png",
@@ -739,7 +816,7 @@
   },
   {
     "name": "Fire Imps Activation",
-    "points": 95,
+    "points": 106,
     "cardno": "10B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/fire-imps-activation-sotp-back.png",
@@ -747,7 +824,7 @@
   },
   {
     "name": "Hybrid Sentinel Activation",
-    "points": 96,
+    "points": 107,
     "cardno": "11B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/hybrid-sentinel-activation-sotp-back.png",
@@ -755,7 +832,7 @@
   },
   {
     "name": "Arachyura Activation",
-    "points": 97,
+    "points": 108,
     "cardno": "12B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/arachyura-activation-sotp-back.png",
@@ -763,7 +840,7 @@
   },
   {
     "name": "Carrion Drake Activation",
-    "points": 98,
+    "points": 109,
     "cardno": "13B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/carrion-drake-activation-sotp-back.png",
@@ -771,7 +848,7 @@
   },
   {
     "name": "Goblin Witcher Activation",
-    "points": 99,
+    "points": 110,
     "cardno": "14B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/goblin-witcher-activation-sotp-back.png",
@@ -779,7 +856,7 @@
   },
   {
     "name": "Volucrix Reaver Activation",
-    "points": 100,
+    "points": 111,
     "cardno": "15B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/volucrix-reaver-activation-sotp-back.png",
@@ -787,7 +864,7 @@
   },
   {
     "name": "Harpy Activation",
-    "points": 101,
+    "points": 112,
     "cardno": "16B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/harpy-activation-sotp-back.png",
@@ -795,7 +872,7 @@
   },
   {
     "name": "Plague Worm Activation",
-    "points": 102,
+    "points": 113,
     "cardno": "17B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/plague-worm-activation-sotp-back.png",
@@ -803,7 +880,7 @@
   },
   {
     "name": "Changeling Activation",
-    "points": 103,
+    "points": 114,
     "cardno": "18B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/changeling-activation-sotp-back.png",
@@ -811,7 +888,7 @@
   },
   {
     "name": "Ironbound Activation",
-    "points": 104,
+    "points": 115,
     "cardno": "19B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/ironbound-activation-sotp-back.png",
@@ -819,7 +896,7 @@
   },
   {
     "name": "Rat Swarm Activation",
-    "points": 105,
+    "points": 116,
     "cardno": "20B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/rat-swarm-activation-sotp-back.png",
@@ -827,7 +904,7 @@
   },
   {
     "name": "Ynfernal Hulk Activation",
-    "points": 106,
+    "points": 117,
     "cardno": "21B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/ynfernal-hulk-activation-sotp-back.png",
@@ -835,7 +912,7 @@
   },
   {
     "name": "Bandit Activation",
-    "points": 107,
+    "points": 118,
     "cardno": "22B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/bandit-activation-sotp-back.png",
@@ -843,7 +920,7 @@
   },
   {
     "name": "Wraith Activation",
-    "points": 108,
+    "points": 119,
     "cardno": "23B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/wraith-activation-sotp-back.png",
@@ -851,7 +928,7 @@
   },
   {
     "name": "Bone Horror Activation",
-    "points": 109,
+    "points": 120,
     "cardno": "24B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/bone-horror-activation-sotp-back.png",
@@ -859,7 +936,7 @@
   },
   {
     "name": "Broodwalker Activation",
-    "points": 110,
+    "points": 121,
     "cardno": "25B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/broodwalker-activation-sotp-back.png",
@@ -867,7 +944,7 @@
   },
   {
     "name": "Reanimate Activation",
-    "points": 111,
+    "points": 122,
     "cardno": "26B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/reanimate-activation-sotp-back.png",
@@ -875,7 +952,7 @@
   },
   {
     "name": "Marrow Priest Activation",
-    "points": 112,
+    "points": 123,
     "cardno": "27B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/marrow-priest-activation-sotp-back.png",
@@ -883,7 +960,7 @@
   },
   {
     "name": "Shambling Colossus Activation",
-    "points": 113,
+    "points": 124,
     "cardno": "28B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/shambling-colossus-activation-sotp-back.png",
@@ -891,7 +968,7 @@
   },
   {
     "name": "The Dispossessed Activation",
-    "points": 114,
+    "points": 125,
     "cardno": "29B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/the-dispossessed-activation-sotp-back.png",
@@ -899,7 +976,7 @@
   },
   {
     "name": "Bane Spider Activation",
-    "points": 115,
+    "points": 126,
     "cardno": "30B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/bane-spider-activation-sotp-back.png",
@@ -907,7 +984,7 @@
   },
   {
     "name": "Beastman Activation",
-    "points": 116,
+    "points": 127,
     "cardno": "31B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/beastman-activation-sotp-back.png",
@@ -915,7 +992,7 @@
   },
   {
     "name": "Razorwing Activation",
-    "points": 117,
+    "points": 128,
     "cardno": "32B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/razorwing-activation-sotp-back.png",
@@ -923,7 +1000,7 @@
   },
   {
     "name": "Chaos Beast Activation",
-    "points": 118,
+    "points": 129,
     "cardno": "33B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/chaos-beast-activation-sotp-back.png",
@@ -931,7 +1008,7 @@
   },
   {
     "name": "Giant Activation",
-    "points": 119,
+    "points": 130,
     "cardno": "34B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/giant-activation-sotp-back.png",
@@ -939,7 +1016,7 @@
   },
   {
     "name": "Lava Beetle Activation",
-    "points": 120,
+    "points": 131,
     "cardno": "35B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/lava-beetle-activation-sotp-back.png",
@@ -947,7 +1024,7 @@
   },
   {
     "name": "Golem Activation",
-    "points": 121,
+    "points": 132,
     "cardno": "36B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/golem-activation-sotp-back.png",
@@ -955,7 +1032,7 @@
   },
   {
     "name": "Medusa Activation",
-    "points": 122,
+    "points": 133,
     "cardno": "37B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/medusa-activation-sotp-back.png",
@@ -963,7 +1040,7 @@
   },
   {
     "name": "Sorcerer Activation",
-    "points": 123,
+    "points": 134,
     "cardno": "38B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/sorcerer-activation-sotp-back.png",
@@ -971,7 +1048,7 @@
   },
   {
     "name": "Crypt Dragon Activation",
-    "points": 124,
+    "points": 135,
     "cardno": "39B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/crypt-dragon-activation-sotp-back.png",
@@ -979,7 +1056,7 @@
   },
   {
     "name": "Dark Priest Activation",
-    "points": 125,
+    "points": 136,
     "cardno": "40B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/dark-priest-activation-sotp-back.png",
@@ -987,7 +1064,7 @@
   },
   {
     "name": "Wendigo Activation",
-    "points": 126,
+    "points": 137,
     "cardno": "41B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/wendigo-activation-sotp-back.png",
@@ -995,7 +1072,7 @@
   },
   {
     "name": "Manticore Activation",
-    "points": 127,
+    "points": 138,
     "cardno": "42B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/manticore-activation-sotp-back.png",
@@ -1003,7 +1080,7 @@
   },
   {
     "name": "Ogre Activation",
-    "points": 128,
+    "points": 139,
     "cardno": "43B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/ogre-activation-sotp-back.png",
@@ -1011,7 +1088,7 @@
   },
   {
     "name": "Troll Activation",
-    "points": 129,
+    "points": 140,
     "cardno": "44B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/troll-activation-sotp-back.png",
@@ -1019,7 +1096,7 @@
   },
   {
     "name": "Deep Elf Activation",
-    "points": 130,
+    "points": 141,
     "cardno": "45B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/deep-elf-activation-sotp-back.png",
@@ -1027,7 +1104,7 @@
   },
   {
     "name": "Hellhound Activation",
-    "points": 131,
+    "points": 142,
     "cardno": "46B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/hellhound-activation-sotp-back.png",
@@ -1035,7 +1112,7 @@
   },
   {
     "name": "Kobold Activation",
-    "points": 132,
+    "points": 143,
     "cardno": "47B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/kobold-activation-sotp-back.png",
@@ -1043,7 +1120,7 @@
   },
   {
     "name": "Dark Minotaur Activation",
-    "points": 133,
+    "points": 144,
     "cardno": "48B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/dark-minotaur-activation-sotp-back.png",
@@ -1051,7 +1128,7 @@
   },
   {
     "name": "Ice Wyrm Activation",
-    "points": 134,
+    "points": 145,
     "cardno": "49B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/ice-wyrm-activation-sotp-back.png",
@@ -1059,7 +1136,7 @@
   },
   {
     "name": "Shade Activation",
-    "points": 135,
+    "points": 146,
     "cardno": "50B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/shade-activation-sotp-back.png",
@@ -1067,7 +1144,7 @@
   },
   {
     "name": "Crow Hag Activation",
-    "points": 136,
+    "points": 147,
     "cardno": "51B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/crow-hag-activation-sotp-back.png",
@@ -1075,7 +1152,7 @@
   },
   {
     "name": "Demon Lord Activation",
-    "points": 137,
+    "points": 148,
     "cardno": "52B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/demon-lord-activation-sotp-back.png",
@@ -1083,7 +1160,7 @@
   },
   {
     "name": "Skeleton Archer Activation",
-    "points": 138,
+    "points": 149,
     "cardno": "53B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/skeleton-archer-activation-sotp-back.png",
@@ -1091,7 +1168,7 @@
   },
   {
     "name": "Blood Ape Activation",
-    "points": 139,
+    "points": 150,
     "cardno": "54B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/blood-ape-activation-sotp-back.png",
@@ -1099,7 +1176,7 @@
   },
   {
     "name": "Ferrox Activation",
-    "points": 140,
+    "points": 151,
     "cardno": "55B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/ferrox-activation-sotp-back.png",
@@ -1107,7 +1184,7 @@
   },
   {
     "name": "Naga Activation",
-    "points": 141,
+    "points": 152,
     "cardno": "56B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/naga-activation-sotp-back.png",
@@ -1115,7 +1192,7 @@
   },
   {
     "name": "Burrowing Horror Activation",
-    "points": 142,
+    "points": 153,
     "cardno": "57B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/burrowing-horror-activation-sotp-back.png",
@@ -1123,7 +1200,7 @@
   },
   {
     "name": "Sarcophagus Guard Activation",
-    "points": 143,
+    "points": 154,
     "cardno": "58B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/sarcophagus-guard-activation-sotp-back.png",
@@ -1131,7 +1208,7 @@
   },
   {
     "name": "Sir Alric Farrow Activation",
-    "points": 144,
+    "points": 155,
     "cardno": "59B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/sir-alric-farrow-activation-sotp-back.png",
@@ -1139,7 +1216,7 @@
   },
   {
     "name": "Lord Merick Farrow Activation",
-    "points": 145,
+    "points": 156,
     "cardno": "60B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/lord-merick-farrow-activation-sotp-back.png",
@@ -1147,7 +1224,7 @@
   },
   {
     "name": "Lady Eliza Farrow Activation",
-    "points": 146,
+    "points": 157,
     "cardno": "61B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/lady-eliza-farrow-activation-sotp-back.png",
@@ -1155,7 +1232,7 @@
   },
   {
     "name": "Belthir Activation",
-    "points": 147,
+    "points": 158,
     "cardno": "62B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/belthir-activation-sotp-back.png",
@@ -1163,7 +1240,7 @@
   },
   {
     "name": "Baron Zachareth Activation",
-    "points": 148,
+    "points": 159,
     "cardno": "63B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/baron-zachareth-activation-sotp-back.png",
@@ -1171,7 +1248,7 @@
   },
   {
     "name": "Splig Activation",
-    "points": 149,
+    "points": 160,
     "cardno": "64B",
     "expansion": "Sands Of The Past",
     "image": "monster-activations/splig-activation-sotp-back.png",

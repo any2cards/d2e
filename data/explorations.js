@@ -206,5 +206,109 @@
     "expansion": "Nature's Ire",
     "image": "explorations/ni-ec-back.png",
     "xws": "explorationsback"
+  },
+  {
+    "name": "Last Breath",
+    "type": "*",
+    "points": 26,
+    "expansion": "Dark Elements",
+    "image": "explorations/de-ec-0-last-breath.png",
+    "xws": "lastbreath"
+  },
+  {
+    "name": "Sqaure One",
+    "type": "1",
+    "points": 27,
+    "expansion": "Dark Elements",
+    "image": "explorations/de-ec-1-square-one.png",
+    "xws": "squareone"
+  },
+  {
+    "name": "Nightmare Gate",
+    "type": "2",
+    "points": 28,
+    "expansion": "Dark Elements",
+    "image": "explorations/de-ec-2-nightmare-gate.png",
+    "xws": "nightmaregate"
+  },
+  {
+    "name": "Limbo's End",
+    "type": "3",
+    "points": 29,
+    "expansion": "Dark Elements",
+    "image": "explorations/de-ec-3-limbos-end.png",
+    "xws": "limbosend"
+  },
+  {
+    "name": "Breached Ice",
+    "type": "N",
+    "points": 30,
+    "expansion": "Dark Elements",
+    "image": "explorations/de-ec-4-breached-ice.png",
+    "xws": "breachedice"
+  },
+  {
+    "name": "Breath Of Stone",
+    "type": "N",
+    "points": 31,
+    "expansion": "Dark Elements",
+    "image": "explorations/de-ec-5-breath-of-stone.png",
+    "xws": "breathofstone"
+  },
+  {
+    "name": "Glimmerlack Hall",
+    "type": "N",
+    "points": 32,
+    "expansion": "Dark Elements",
+    "image": "explorations/de-ec-6-glimmerlack-hall.png",
+    "xws": "glimmerlackhall"
+  },
+  {
+    "name": "Incinerator",
+    "type": "N",
+    "points": 33,
+    "expansion": "Dark Elements",
+    "image": "explorations/de-ec-7-incinerator.png",
+    "xws": "incinerator"
+  },
+  {
+    "name": "Passage Of The Future",
+    "type": "N",
+    "points": 34,
+    "expansion": "Dark Elements",
+    "image": "explorations/de-ec-8-passage-of-the-future.png",
+    "xws": "passageofthefuture"
+  },
+  {
+    "name": "Passage Of The Past",
+    "type": "N",
+    "points": 35,
+    "expansion": "Dark Elements",
+    "image": "explorations/de-ec-9-passage-of-the-past.png",
+    "xws": "passageofthepast"
+  },
+  {
+    "name": "Passage Of The Present",
+    "type": "N",
+    "points": 36,
+    "expansion": "Dark Elements",
+    "image": "explorations/de-ec-10-passage-of-the-present.png",
+    "xws": "passageofthepresent"
+  },
+  {
+    "name": "Stones Of The Founder",
+    "type": "N",
+    "points": 37,
+    "expansion": "Dark Elements",
+    "image": "explorations/de-ec-11-stones-of-the-founder.png",
+    "xws": "stonesofthefounder"
+  },
+  {
+    "name": "Explorations-Back",
+    "type": "B",
+    "points": 38,
+    "expansion": "Dark Elements",
+    "image": "explorations/de-ec-back.png",
+    "xws": "explorationsback"
   }
 ]
