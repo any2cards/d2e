@@ -101,6 +101,110 @@
     "points": 12,
     "expansion": "Forgotten Souls",
     "image": "explorations/fs-ec-back.png",
-    "xws": "theonset"
+    "xws": "explorationsback"
+  },
+  {
+    "name": "Beyond The Fringes",
+    "type": "*",
+    "points": 13,
+    "expansion": "Nature's Ire",
+    "image": "explorations/ni-ec-0-beyond-the-fringes.png",
+    "xws": "beyondthefringes"
+  },
+  {
+    "name": "Consuming Falls",
+    "type": "1",
+    "points": 14,
+    "expansion": "Nature's Ire",
+    "image": "explorations/ni-ec-1-comsuming-falls.png",
+    "xws": "consumingfalls"
+  },
+  {
+    "name": "Choke Point",
+    "type": "2",
+    "points": 15,
+    "expansion": "Nature's Ire",
+    "image": "explorations/ni-ec-2-choke-point.png",
+    "xws": "chokepoint"
+  },
+  {
+    "name": "Cabin Of The Lost",
+    "type": "3",
+    "points": 16,
+    "expansion": "Nature's Ire",
+    "image": "explorations/ni-ec-3-cabin-of-the-lost.png",
+    "xws": "cabinofthelost"
+  },
+  {
+    "name": "Abandoned Campsite",
+    "type": "N",
+    "points": 17,
+    "expansion": "Nature's Ire",
+    "image": "explorations/ni-ec-4-abandoned-campsite.png",
+    "xws": "abandonedcampsite"
+  },
+  {
+    "name": "Blocked Gully",
+    "type": "N",
+    "points": 18,
+    "expansion": "Nature's Ire",
+    "image": "explorations/ni-ec-5-blocked-gully.png",
+    "xws": "blockedgully"
+  },
+  {
+    "name": "Firing Zone",
+    "type": "N",
+    "points": 19,
+    "expansion": "Nature's Ire",
+    "image": "explorations/ni-ec-6-firing-zone.png",
+    "xws": "firingzone"
+  },
+  {
+    "name": "Hoarder's Land",
+    "type": "N",
+    "points": 20,
+    "expansion": "Nature's Ire",
+    "image": "explorations/ni-ec-7-hoarders-land.png",
+    "xws": "hoardersland"
+  },
+  {
+    "name": "Misty Gorge",
+    "type": "N",
+    "points": 21,
+    "expansion": "Nature's Ire",
+    "image": "explorations/ni-ec-8-misty-gorge.png",
+    "xws": "mistygorge"
+  },
+  {
+    "name": "River Flail",
+    "type": "N",
+    "points": 22,
+    "expansion": "Nature's Ire",
+    "image": "explorations/ni-ec-9-river-flail.png",
+    "xws": "riverflail"
+  },
+  {
+    "name": "Rocky Channel",
+    "type": "N",
+    "points": 23,
+    "expansion": "Nature's Ire",
+    "image": "explorations/ni-ec-10-rocky-channel.png",
+    "xws": "rockychannel"
+  },
+  {
+    "name": "Webbed Gulch",
+    "type": "N",
+    "points": 24,
+    "expansion": "Nature's Ire",
+    "image": "explorations/ni-ec-11-webbed-gulch.png",
+    "xws": "webbedgulch"
+  },
+  {
+    "name": "Explorations-Back",
+    "type": "B",
+    "points": 25,
+    "expansion": "Nature's Ire",
+    "image": "explorations/ni-ec-back.png",
+    "xws": "explorationsback"
   }
 ]

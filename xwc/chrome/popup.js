@@ -19,6 +19,7 @@ var expansion_conversion = {
   "se": "Shards Of Everdark",
   "ll": "Lost Legends",
   "fs": "Forgotten Souls",
+  "ni": "Nature's Ire",
   "sotp": "Sands Of The Past",
   "uc": "User Community",
   "motd": "Maze Of The Drakon",

@@ -78,8 +78,34 @@
     "xws": "skye"
   },
   {
-    "name": "Drakon",
+    "name": "Desmond",
     "points": 6,
+    "speed": "4",
+    "health": "10",
+    "defense": "Gray",
+    "attack": "-",
+    "type": "-",
+    "traits": "Action: Choose 1 hero within 2 spaces of you. That hero recovers 1 Heart. During Act II, add 1 additional gray defense die to Desmond's defense pool.",
+    "expansion": "Nature's Ire",
+    "image": "familiars/ni-desmond.png",
+    "xws": "desmond"
+  },
+  {
+    "name": "Desmond",
+    "points": 7,
+    "speed": "-",
+    "health": "-",
+    "defense": "-",
+    "attack": "-",
+    "type": "-",
+    "traits": "-",
+    "expansion": "Nature's Ire",
+    "image": "familiars/ni-desmond-back.png",
+    "xws": "desmond"
+  },
+  {
+    "name": "Drakon",
+    "points": 8,
     "speed": "-",
     "health": "-",
     "defense": "-",
@@ -92,7 +118,7 @@
   },
   {
     "name": "Spring of Life",
-    "points": 7,
+    "points": 9,
     "speed": "0",
     "health": "12",
     "defense": "-",
@@ -105,7 +131,7 @@
   },
   {
     "name": "Roots of Protection",
-    "points": 8,
+    "points": 10,
     "speed": "0",
     "health": "8",
     "defense": "-",

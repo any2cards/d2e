@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "D2e Card Viewer",
   "description": "Adds card images when it finds card names from the Descent 2nd Edition game.",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "web_accessible_resources": [
     "icon-32.png"
   ],
