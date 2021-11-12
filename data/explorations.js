@@ -116,7 +116,7 @@
     "type": "1",
     "points": 14,
     "expansion": "Nature's Ire",
-    "image": "explorations/ni-ec-1-comsuming-falls.png",
+    "image": "explorations/ni-ec-1-consuming-falls.png",
     "xws": "consumingfalls"
   },
   {
