@@ -41,8 +41,7 @@ This repository contains data and images for the following components:
 - travel-event-decks
 - turn-summary
 
-**The items listed above with a post-pended single asterisk are from User Community content**
-**The items listed above with a post-pended double asterisk are from FFG & User Community content**
+**The items listed above with a post-pended single asterisk are from User Community content. The items listed above with a post-pended double asterisk are from FFG & User Community content**
 
 There are four top-level directories: `data` , `images` , `images-orig` ,and `xwc`.
 
