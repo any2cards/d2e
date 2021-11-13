@@ -17,16 +17,18 @@ This repository contains data and images for the following components:
 - class-skills
 - conditions
 - corrupt-citizens
+- explorations
 - familiars
 - heroes
 - hybrid-class-skills
 - lieutenants
 - map-pieces
-- monster-activations*
+- monster-activations**
 - monsters
 - overlord-decks
-- perils*
+- perils**
 - plot-decks
+- references
 - relics
 - round-summary*
 - rumors
@@ -39,7 +41,8 @@ This repository contains data and images for the following components:
 - travel-event-decks
 - turn-summary
 
-**The items listed above with a post-pended asterisk are from Community Driven Content**
+**The items listed above with a post-pended single asterisk are from User Community content**
+**The items listed above with a post-pended double asterisk are from FFG & User Community content**
 
 There are four top-level directories: `data` , `images` , `images-orig` ,and `xwc`.
 
