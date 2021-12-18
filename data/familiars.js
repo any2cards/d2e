@@ -15,6 +15,13 @@
   {
     "name": "Brightblaze",
     "points": 1,
+    "expansion": "Bonds Of The Wild",
+    "image": "familiars/familiars-brightblaze-bw-back.png",
+    "xws": "brightblaze"
+  },
+  {
+    "name": "Brightblaze",
+    "points": 2,
     "speed": "4",
     "health": "-",
     "defense": "-",
@@ -26,8 +33,15 @@
     "xws": "brightblaze"
   },
   {
+    "name": "Brightblaze",
+    "points": 3,
+    "expansion": "Conversion Kit",
+    "image": "familiars/familiars-brightblaze-ck-back.png",
+    "xws": "brightblaze"
+  },
+  {
     "name": "Pico",
-    "points": 2,
+    "points": 4,
     "speed": "-",
     "health": "-",
     "defense": "-",
@@ -40,7 +54,14 @@
   },
   {
     "name": "Pico",
-    "points": 3,
+    "points": 5,
+    "expansion": "Bonds Of The Wild",
+    "image": "familiars/familiars-pico-bw-back.png",
+    "xws": "pico"
+  },
+  {
+    "name": "Pico",
+    "points": 6,
     "speed": "-",
     "health": "-",
     "defense": "-",
@@ -52,8 +73,15 @@
     "xws": "pico"
   },
   {
+    "name": "Pico",
+    "points": 7,
+    "expansion": "Conversion Kit",
+    "image": "familiars/familiars-pico-ck-back.png",
+    "xws": "pico"
+  },
+  {
     "name": "Skye",
-    "points": 4,
+    "points": 8,
     "speed": "5",
     "health": "-",
     "defense": "-",
@@ -66,7 +94,14 @@
   },
   {
     "name": "Skye",
-    "points": 5,
+    "points": 9,
+    "expansion": "Bonds Of The Wild",
+    "image": "familiars/familiars-skye-bw-back.png",
+    "xws": "skye"
+  },
+  {
+    "name": "Skye",
+    "points": 10,
     "speed": "5",
     "health": "-",
     "defense": "-",
@@ -78,8 +113,15 @@
     "xws": "skye"
   },
   {
+    "name": "Skye",
+    "points": 11,
+    "expansion": "Conversion Kit",
+    "image": "familiars/familiars-skye-ck-back.png",
+    "xws": "skye"
+  },
+  {
     "name": "Desmond",
-    "points": 6,
+    "points": 12,
     "speed": "4",
     "health": "10",
     "defense": "Gray",
@@ -92,20 +134,14 @@
   },
   {
     "name": "Desmond",
-    "points": 7,
-    "speed": "-",
-    "health": "-",
-    "defense": "-",
-    "attack": "-",
-    "type": "-",
-    "traits": "-",
+    "points": 13,
     "expansion": "Nature's Ire",
     "image": "familiars/ni-desmond-back.png",
     "xws": "desmond"
   },
   {
     "name": "Drakon",
-    "points": 8,
+    "points": 14,
     "speed": "-",
     "health": "-",
     "defense": "-",
@@ -117,8 +153,15 @@
     "xws": "drakon"
   },
   {
+    "name": "Drakon",
+    "points": 15,
+    "expansion": "Maze Of The Drakon",
+    "image": "familiars/familiars-drakon-motd-back.png",
+    "xws": "drakon"
+  },
+  {
     "name": "Spring of Life",
-    "points": 9,
+    "points": 16,
     "speed": "0",
     "health": "12",
     "defense": "-",
@@ -130,8 +173,15 @@
     "xws": "springoflife"
   },
   {
+    "name": "Spring of Life",
+    "points": 17,
+    "expansion": "Maze Of The Drakon",
+    "image": "familiars/familiars-spring-of-life-motd-back.png",
+    "xws": "springoflife"
+  },
+  {
     "name": "Roots of Protection",
-    "points": 10,
+    "points": 18,
     "speed": "0",
     "health": "8",
     "defense": "-",
@@ -140,6 +190,13 @@
     "traits": "Roots of Protection may be targeted and affected by any attack and are Unmovable. When any figure in a space containing Roots of Protection is attacked by a Melee attack, they are declared as the target of the attack instead.",
     "expansion": "Maze Of The Drakon",
     "image": "familiars/roots-of-protection-motd.png",
+    "xws": "rootsofprotection"
+  },
+  {
+    "name": "Roots of Protection",
+    "points": 19,
+    "expansion": "Maze Of The Drakon",
+    "image": "familiars/familiars-roots-of-protection-motd-back.png",
     "xws": "rootsofprotection"
   }
 ]
