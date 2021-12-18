@@ -12,11 +12,20 @@
     "rules": "This familiar is treated as a figure but cannot recover any amount of Hearts. It may perform 1 attack action during its activation. Each attack made by this familiar gains: Surge: +1 Heart.",
     "expansion": "Base Game",
     "image": "class-familiars/reanimate-bg-mage-necromancer.png",
-    "xws": "wolf"
+    "xws": "reanimate"
+  },
+  {
+    "name": "Reanimate",
+    "points": 1,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "expansion": "Base Game",
+    "image": "class-familiars/class-skills-necromancer-back.png",
+    "xws": "reanimate"
   },
   {
     "name": "Summoned Stone",
-    "points": 1,
+    "points": 2,
     "archetype": "Mage",
     "class": "Geomancer",
     "speed": "2",
@@ -30,8 +39,17 @@
     "xws": "summmonedstone"
   },
   {
+    "name": "Summoned Stone",
+    "points": 3,
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "expansion": "Lair Of The Wyrm",
+    "image": "class-familiars/class-skills-geomancer-back.png",
+    "xws": "summmonedstone"
+  },
+  {
     "name": "Wolf",
-    "points": 2,
+    "points": 4,
     "archetype": "Warrior",
     "class": "Beastmaster",
     "speed": "4",
@@ -45,8 +63,17 @@
     "xws": "wolf"
   },
   {
+    "name": "Wolf",
+    "points": 5,
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "expansion": "Labyrinth Of Ruin",
+    "image": "class-familiars/class-skills-beastmaster-back.png",
+    "xws": "wolf"
+  },
+  {
     "name": "Shadow Soul",
-    "points": 3,
+    "points": 6,
     "archetype": "Scout",
     "class": "Shadow Walker",
     "speed": "1",
@@ -60,15 +87,35 @@
     "xws": "shadowsoul"
   },
   {
+    "name": "Shadow Soul",
+    "points": 7,
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "class-familiars/class-skills-shadow-walker-back.png",
+    "xws": "shadowsoul"
+  },
+  {
     "name": "Bandaged Servant",
-    "points": 4,
+    "points": 8,
+    "archetype": "Healer",
+    "class": "Hierophant",
     "expansion": "Sands Of The Past",
     "image": "class-familiars/bandaged-servant-sotp-healer-hierophant.png",
     "xws": "bandagedservant"
   },
   {
+    "name": "Bandaged Servant",
+    "points": 9,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "expansion": "Sands Of The Past",
+    "image": "class-familiars/class-skills-hierophant-back.png",
+    "xws": "bandagedservant"
+  },
+  {
     "name": "Bandaged Servant Token",
-    "points": 5,
+    "points": 10,
     "expansion": "Sands Of The Past",
     "image": "class-familiars/bandaged-servant-token-sotp.png",
     "xws": "bandagedservanttoken"
