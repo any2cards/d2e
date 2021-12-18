@@ -416,6 +416,17 @@
   {
     "name": "The Unearthed Tomb",
     "points": 25,
+    "act": "I",
+    "travel": [
+      "Water",
+      "Plain",
+      "Mountain",
+      "Plain"
+    ],
+    "rule": "If you have played the \"Halls of Toil\" or the \"Valley of the Dead\" Rumor card, discard this card and draw 1 Rumor card.",
+    "timing": "Play this card at the start of the Campaign Phase during Act I. You cannot play this card if the Interlude is an available quest. While in play, this card is treated as an available quest. When you play this quest the overlord may discard 2 search tokens after setup.",
+    "description": "Apparently, an old magnificent tomb has been unearthed in a land beyond the sea, and some fools already have been drawn there by greed.",
+    "ability": "If this card is in play when you transition to Act II, the overlord receives 2 XP. Then, place the \"The Sunken Temple\" Advanced Quest into play.",
     "expansion": "Sands Of The Past",
     "image": "rumors/the-unearthed-tomb-sotp-act1.png",
     "xws": "theunearthedtomb"
@@ -423,6 +434,17 @@
   {
     "name": "Halls of Toil",
     "points": 26,
+    "act": "I",
+    "travel": [
+      "Water",
+      "Plain",
+      "Mountain",
+      "Mountain"
+    ],
+    "rule": "If you have played the \"The Unearthed Tomb\" or the \"Valley of the Dead\" Rumor card, discard this card and draw 1 Rumor card.",
+    "timing": "Play this card at the start of the Campaign Phase during Act I. You cannot play this card if the Interlude is an available quest. While in play, this card is treated as an available quest. When you play this quest the overlord may discard 2 search tokens not in a Sealed Room, after setup.",
+    "description": "Overlord agents are headed to a buried palace in Al-Kalim.",
+    "ability": "If this card is in play when you transition to Act II, the overlord receives 2 XP. Then, place the \"The Sunken Temple\" Advanced Quest into play.",
     "expansion": "Sands Of The Past",
     "image": "rumors/halls-of-toil-sotp-act1.png",
     "xws": "hallsoftoil"
@@ -430,8 +452,26 @@
   {
     "name": "Valley of the Dead",
     "points": 27,
+    "act": "I",
+    "travel": [
+      "Water",
+      "Plain",
+      "Mountain",
+      "Forest"
+    ],
+    "rule": "If you have played the \"The Unearthed Tomb\" or the \"Halls of Toil\" Rumor card, discard this card and draw 1 Rumor card.",
+    "timing": "Play this card at the start of the Campaign Phase during Act I. You cannot play this card if the Interlude is an available quest. While in play, this card is treated as an available quest. When you play this quest the overlord may discard 2 search tokens after Setup.",
+    "description": "One of your mentors needs your help: an elder scholar from Al-Kalim informed her of a vile ritual that will be performed within a week.",
+    "ability": "If this card is in play when you transition to Act II, the overlord receives 2 XP. Then, place the \"The Sunken Temple\" Advanced Quest into play.",
     "expansion": "Sands Of The Past",
     "image": "rumors/valley-of-the-dead-sotp-act1.png",
     "xws": "valleyofthedead"
+  },
+  {
+    "name": "Rumors-Back",
+    "points": 28,
+    "expansion": "Shards Of Everdark",
+    "image": "rumors/rumors-back.png",
+    "xws": "rumorsback"
   }
 ]
