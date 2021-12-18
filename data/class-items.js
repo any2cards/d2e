@@ -14,8 +14,17 @@
     "xws": "chippedgreataxe"
   },
   {
-    "name": "Iron Longsword",
+    "name": "Chipped Greataxe",
     "points": 1,
+    "archetype": "Warrior",
+    "class": "Berserker",
+    "expansion": "Base Game",
+    "image": "class-items/class-skills-berserker-back.png",
+    "xws": "chippedgreataxe"
+  },
+  {
+    "name": "Iron Longsword",
+    "points": 2,
     "archetype": "Warrior",
     "class": "Knight",
     "traits": "Blade",
@@ -28,8 +37,17 @@
     "xws": "ironlongsword"
   },
   {
+    "name": "Iron Longsword",
+    "points": 3,
+    "archetype": "Warrior",
+    "class": "Knight",
+    "expansion": "Base Game",
+    "image": "class-items/class-skills-knight-back.png",
+    "xws": "ironlongsword"
+  },
+  {
     "name": "Wooden Shield",
-    "points": 2,
+    "points": 4,
     "archetype": "Warrior",
     "class": "Knight",
     "traits": "Shield",
@@ -42,8 +60,17 @@
     "xws": "woodenshield"
   },
   {
+    "name": "Wooden Shield",
+    "points": 5,
+    "archetype": "Warrior",
+    "class": "Knight",
+    "expansion": "Base Game",
+    "image": "class-items/class-skills-knight-back.png",
+    "xws": "woodenshield"
+  },
+  {
     "name": "Iron Mace",
-    "points": 3,
+    "points": 6,
     "archetype": "Healer",
     "class": "Disciple",
     "traits": "Hammer",
@@ -56,8 +83,17 @@
     "xws": "ironmace"
   },
   {
+    "name": "Iron Mace",
+    "points": 7,
+    "archetype": "Healer",
+    "class": "Disciple",
+    "expansion": "Base Game",
+    "image": "class-items/class-skills-disciple-back.png",
+    "xws": "ironmace"
+  },
+  {
     "name": "Wooden Shield",
-    "points": 4,
+    "points": 8,
     "archetype": "Healer",
     "class": "Disciple",
     "traits": "Shield",
@@ -70,8 +106,17 @@
     "xws": "woodenshield"
   },
   {
+    "name": "Wooden Shield",
+    "points": 9,
+    "archetype": "Healer",
+    "class": "Disciple",
+    "expansion": "Base Game",
+    "image": "class-items/class-skills-disciple-back.png",
+    "xws": "woodenshield"
+  },
+  {
     "name": "Oak Staff",
-    "points": 5,
+    "points": 10,
     "archetype": "Healer",
     "class": "Spiritspeaker",
     "traits": "Staff",
@@ -84,8 +129,17 @@
     "xws": "oakstaff"
   },
   {
+    "name": "Oak Staff",
+    "points": 11,
+    "archetype": "Healer",
+    "class": "Spiritspeaker",
+    "expansion": "Base Game",
+    "image": "class-items/class-skills-spiritspeaker-back.png",
+    "xws": "oakstaff"
+  },
+  {
     "name": "Reaper's Scythe",
-    "points": 6,
+    "points": 12,
     "archetype": "Mage",
     "class": "Necromancer",
     "traits": "Magic, Staff",
@@ -98,8 +152,17 @@
     "xws": "reapersscythe"
   },
   {
+    "name": "Reaper's Scythe",
+    "points": 13,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "expansion": "Base Game",
+    "image": "class-items/class-skills-necromancer-back.png",
+    "xws": "reapersscythe"
+  },
+  {
     "name": "Arcane Bolt",
-    "points": 7,
+    "points": 14,
     "archetype": "Mage",
     "class": "Runemaster",
     "traits": "Magic, Rune",
@@ -112,8 +175,17 @@
     "xws": "arcanebolt"
   },
   {
+    "name": "Arcane Bolt",
+    "points": 15,
+    "archetype": "Mage",
+    "class": "Runemaster",
+    "expansion": "Base Game",
+    "image": "class-items/class-skills-runemaster-back.png",
+    "xws": "arcanebolt"
+  },
+  {
     "name": "Throwing Knives",
-    "points": 8,
+    "points": 16,
     "archetype": "Scout",
     "class": "Thief",
     "traits": "Blade",
@@ -126,8 +198,17 @@
     "xws": "throwingknives"
   },
   {
+    "name": "Throwing Knives",
+    "points": 17,
+    "archetype": "Scout",
+    "class": "Thief",
+    "expansion": "Base Game",
+    "image": "class-items/class-skills-thief-back.png",
+    "xws": "throwingknives"
+  },
+  {
     "name": "Lucky Charm",
-    "points": 9,
+    "points": 18,
     "archetype": "Scout",
     "class": "Thief",
     "traits": "Trinket",
@@ -140,8 +221,17 @@
     "xws": "luckycharm"
   },
   {
+    "name": "Lucky Charm",
+    "points": 19,
+    "archetype": "Scout",
+    "class": "Thief",
+    "expansion": "Base Game",
+    "image": "class-items/class-skills-thief-back.png",
+    "xws": "luckycharm"
+  },
+  {
     "name": "Yew Shortbow",
-    "points": 10,
+    "points": 20,
     "archetype": "Scout",
     "class": "Wildlander",
     "traits": "Bow",
@@ -154,8 +244,17 @@
     "xws": "yewshortbow"
   },
   {
+    "name": "Yew Shortbow",
+    "points": 21,
+    "archetype": "Scout",
+    "class": "Wildlander",
+    "expansion": "Base Game",
+    "image": "class-items/class-skills-wildlander-back.png",
+    "xws": "yewshortbow"
+  },
+  {
     "name": "Worn Greatsword",
-    "points": 11,
+    "points": 22,
     "archetype": "Warrior",
     "class": "Champion",
     "traits": "Blade",
@@ -168,8 +267,17 @@
     "xws": "worngreatsword"
   },
   {
+    "name": "Worn Greatsword",
+    "points": 23,
+    "archetype": "Warrior",
+    "class": "Champion",
+    "expansion": "Lair Of The Wyrm",
+    "image": "class-items/class-skills-champion-back.png",
+    "xws": "worngreatsword"
+  },
+  {
     "name": "Horn Of Courage",
-    "points": 12,
+    "points": 24,
     "archetype": "Warrior",
     "class": "Champion",
     "traits": "Trinket",
@@ -182,8 +290,17 @@
     "xws": "hornofcourage"
   },
   {
+    "name": "Horn Of Courage",
+    "points": 25,
+    "archetype": "Warrior",
+    "class": "Champion",
+    "expansion": "Lair Of The Wyrm",
+    "image": "class-items/class-skills-champion-back.png",
+    "xws": "hornofcourage"
+  },
+  {
     "name": "Stasis Rune",
-    "points": 13,
+    "points": 26,
     "archetype": "Mage",
     "class": "Geomancer",
     "traits": "Magic, Rune",
@@ -196,8 +313,17 @@
     "xws": "stasisrune"
   },
   {
+    "name": "Stasis Rune",
+    "points": 27,
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "expansion": "Lair Of The Wyrm",
+    "image": "class-items/class-skills-geomancer-back.png",
+    "xws": "stasisrune"
+  },
+  {
     "name": "Hunting Spear",
-    "points": 14,
+    "points": 28,
     "archetype": "Warrior",
     "class": "Beastmaster",
     "traits": "Exotic",
@@ -210,8 +336,17 @@
     "xws": "huntingspear"
   },
   {
+    "name": "Hunting Spear",
+    "points": 29,
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "expansion": "Labyrinth Of Ruin",
+    "image": "class-items/class-skills-beastmaster-back.png",
+    "xws": "huntingspear"
+  },
+  {
     "name": "Skinning Knife",
-    "points": 15,
+    "points": 30,
     "archetype": "Warrior",
     "class": "Beastmaster",
     "traits": "Blade",
@@ -224,8 +359,17 @@
     "xws": "skinningknife"
   },
   {
+    "name": "Skinning Knife",
+    "points": 31,
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "expansion": "Labyrinth Of Ruin",
+    "image": "class-items/class-skills-beastmaster-back.png",
+    "xws": "skinningknife"
+  },
+  {
     "name": "Smoking Vials",
-    "points": 16,
+    "points": 32,
     "archetype": "Healer",
     "class": "Apothecary",
     "traits": "Exotic",
@@ -238,8 +382,17 @@
     "xws": "smokingvials"
   },
   {
+    "name": "Smoking Vials",
+    "points": 33,
+    "archetype": "Healer",
+    "class": "Apothecary",
+    "expansion": "Labyrinth Of Ruin",
+    "image": "class-items/class-skills-apothecary-back.png",
+    "xws": "smokingvials"
+  },
+  {
     "name": "Staff Of The Grave",
-    "points": 17,
+    "points": 34,
     "archetype": "Mage",
     "class": "Hexer",
     "traits": "Magic, Staff",
@@ -252,8 +405,17 @@
     "xws": "staffofthegrave"
   },
   {
+    "name": "Staff Of The Grave",
+    "points": 35,
+    "archetype": "Mage",
+    "class": "Hexer",
+    "expansion": "Labyrinth Of Ruin",
+    "image": "class-items/class-skills-hexer-back.png",
+    "xws": "staffofthegrave"
+  },
+  {
     "name": "Leather Whip",
-    "points": 18,
+    "points": 36,
     "archetype": "Scout",
     "class": "Treasure Hunter",
     "traits": "Exotic",
@@ -266,8 +428,17 @@
     "xws": "leatherwhip"
   },
   {
+    "name": "Leather Whip",
+    "points": 37,
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "expansion": "Labyrinth Of Ruin",
+    "image": "class-items/class-skills-treasure-hunter-back.png",
+    "xws": "leatherwhip"
+  },
+  {
     "name": "The Dead Man's Compass",
-    "points": 19,
+    "points": 38,
     "archetype": "Scout",
     "class": "Treasure Hunter",
     "traits": "Trinket",
@@ -280,8 +451,17 @@
     "xws": "thedeadmanscompass"
   },
   {
+    "name": "The Dead Man's Compass",
+    "points": 39,
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "expansion": "Labyrinth Of Ruin",
+    "image": "class-items/class-skills-treasure-hunter-back.png",
+    "xws": "thedeadmanscompass"
+  },
+  {
     "name": "Iron Flail",
-    "points": 20,
+    "points": 40,
     "archetype": "Healer",
     "class": "Prophet",
     "traits": "Hammer, Exotic",
@@ -294,8 +474,17 @@
     "xws": "ironflail"
   },
   {
+    "name": "Iron Flail",
+    "points": 41,
+    "archetype": "Healer",
+    "class": "Prophet",
+    "expansion": "The Trollfens",
+    "image": "class-items/class-skills-prophet-back.png",
+    "xws": "ironflail"
+  },
+  {
     "name": "Sage's Tome",
-    "points": 21,
+    "points": 42,
     "archetype": "Healer",
     "class": "Prophet",
     "traits": "Book",
@@ -308,8 +497,17 @@
     "xws": "sagestome"
   },
   {
+    "name": "Sage's Tome",
+    "points": 43,
+    "archetype": "Healer",
+    "class": "Prophet",
+    "expansion": "The Trollfens",
+    "image": "class-items/class-skills-prophet-back.png",
+    "xws": "sagestome"
+  },
+  {
     "name": "Black Widow's Web",
-    "points": 22,
+    "points": 44,
     "archetype": "Scout",
     "class": "Stalker",
     "traits": "Exotic",
@@ -322,8 +520,17 @@
     "xws": "blackwidowsweb"
   },
   {
+    "name": "Black Widow's Web",
+    "points": 45,
+    "archetype": "Scout",
+    "class": "Stalker",
+    "expansion": "The Trollfens",
+    "image": "class-items/class-skills-stalker-back.png",
+    "xws": "blackwidowsweb"
+  },
+  {
     "name": "Hunting Knife",
-    "points": 23,
+    "points": 46,
     "archetype": "Scout",
     "class": "Stalker",
     "traits": "Blade",
@@ -336,8 +543,17 @@
     "xws": "huntingknife"
   },
   {
+    "name": "Hunting Knife",
+    "points": 47,
+    "archetype": "Scout",
+    "class": "Stalker",
+    "expansion": "The Trollfens",
+    "image": "class-items/class-skills-stalker-back.png",
+    "xws": "huntingknife"
+  },
+  {
     "name": "Jagged Handaxe",
-    "points": 24,
+    "points": 48,
     "archetype": "Warrior",
     "class": "Skirmisher",
     "traits": "Axe",
@@ -350,8 +566,17 @@
     "xws": "jaggedhandaxe"
   },
   {
+    "name": "Jagged Handaxe",
+    "points": 49,
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "class-items/class-skills-skirmisher-back.png",
+    "xws": "jaggedhandaxe"
+  },
+  {
     "name": "Rusted Handaxe",
-    "points": 25,
+    "points": 50,
     "archetype": "Warrior",
     "class": "Skirmisher",
     "traits": "Axe",
@@ -364,8 +589,17 @@
     "xws": "rustedhandaxe"
   },
   {
+    "name": "Rusted Handaxe",
+    "points": 51,
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "class-items/class-skills-skirmisher-back.png",
+    "xws": "rustedhandaxe"
+  },
+  {
     "name": "Traveler's Blade",
-    "points": 26,
+    "points": 52,
     "archetype": "Healer",
     "class": "Bard",
     "traits": "Blade",
@@ -378,8 +612,17 @@
     "xws": "travelersblade"
   },
   {
+    "name": "Traveler's Blade",
+    "points": 53,
+    "archetype": "Healer",
+    "class": "Bard",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "class-items/class-skills-bard-back.png",
+    "xws": "travelersblade"
+  },
+  {
     "name": "Lute",
-    "points": 27,
+    "points": 54,
     "archetype": "Healer",
     "class": "Bard",
     "traits": "Trinket",
@@ -392,8 +635,17 @@
     "xws": "lute"
   },
   {
+    "name": "Lute",
+    "points": 55,
+    "archetype": "Healer",
+    "class": "Bard",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "class-items/class-skills-bard-back.png",
+    "xws": "lute"
+  },
+  {
     "name": "Prismatic Staff",
-    "points": 28,
+    "points": 56,
     "archetype": "Mage",
     "class": "Conjurer",
     "traits": "Magic, Staff",
@@ -406,8 +658,17 @@
     "xws": "prismaticstaff"
   },
   {
+    "name": "Prismatic Staff",
+    "points": 57,
+    "archetype": "Mage",
+    "class": "Conjurer",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "class-items/class-skills-conjurer-back.png",
+    "xws": "prismaticstaff"
+  },
+  {
     "name": "Feathered Hatchet",
-    "points": 29,
+    "points": 58,
     "archetype": "Scout",
     "class": "Shadow Walker",
     "traits": "Axe, Exotic",
@@ -420,8 +681,17 @@
     "xws": "featherhatchet"
   },
   {
+    "name": "Feathered Hatchet",
+    "points": 59,
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "class-items/class-skills-shadow-walker-back.png",
+    "xws": "featherhatchet"
+  },
+  {
     "name": "Tribal Cloak",
-    "points": 30,
+    "points": 60,
     "archetype": "Scout",
     "class": "Shadow Walker",
     "traits": "Cloak",
@@ -434,8 +704,17 @@
     "xws": "tribalcloak"
   },
   {
+    "name": "Tribal Cloak",
+    "points": 61,
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "expansion": "Shadow Of Nerekhall",
+    "image": "class-items/class-skills-shadow-walker-back.png",
+    "xws": "tribalcloak"
+  },
+  {
     "name": "War Hammer",
-    "points": 31,
+    "points": 62,
     "archetype": "Warrior",
     "class": "Marshall",
     "traits": "Hammer",
@@ -448,8 +727,17 @@
     "xws": "warhammer"
   },
   {
+    "name": "War Hammer",
+    "points": 63,
+    "archetype": "Warrior",
+    "class": "Marshall",
+    "expansion": "Manor Of Ravens",
+    "image": "class-items/class-skills-marshal-back.png",
+    "xws": "warhammer"
+  },
+  {
     "name": "Signet Ring",
-    "points": 32,
+    "points": 64,
     "archetype": "Warrior",
     "class": "Marshall",
     "traits": "Ring",
@@ -462,8 +750,17 @@
     "xws": "signetring"
   },
   {
+    "name": "Signet Ring",
+    "points": 65,
+    "archetype": "Warrior",
+    "class": "Marshall",
+    "expansion": "Manor Of Ravens",
+    "image": "class-items/class-skills-marshal-back.png",
+    "xws": "signetring"
+  },
+  {
     "name": "Double Crossbow",
-    "points": 33,
+    "points": 66,
     "archetype": "Scout",
     "class": "Bounty Hunter",
     "traits": "Bow, Exotic",
@@ -476,8 +773,17 @@
     "xws": "doublecrossbow"
   },
   {
+    "name": "Double Crossbow",
+    "points": 67,
+    "archetype": "Scout",
+    "class": "Bounty Hunter",
+    "expansion": "Manor Of Ravens",
+    "image": "class-items/class-skills-bounty-hunter-back.png",
+    "xws": "doublecrossbow"
+  },
+  {
     "name": "Harvester Scythe",
-    "points": 34,
+    "points": 68,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "traits": "Magic, Blade, Staff",
@@ -490,8 +796,17 @@
     "xws": "harvesterscythe"
   },
   {
+    "name": "Harvester Scythe",
+    "points": 69,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "expansion": "Lost Legends",
+    "image": "class-items/class-skills-soul-reaper-back.png",
+    "xws": "harvesterscythe"
+  },
+  {
     "name": "Mirror of Souls",
-    "points": 35,
+    "points": 70,
     "archetype": "Healer",
     "class": "Soul Reaper",
     "traits": "Trinket",
@@ -504,8 +819,17 @@
     "xws": "mirrorofsouls"
   },
   {
+    "name": "Mirror of Souls",
+    "points": 71,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "expansion": "Lost Legends",
+    "image": "class-items/class-skills-soul-reaper-back.png",
+    "xws": "mirrorofsouls"
+  },
+  {
     "name": "Runeshard Cache",
-    "points": 36,
+    "points": 72,
     "archetype": "Mage",
     "class": "Elementalist",
     "traits": "Trinket",
@@ -518,8 +842,17 @@
     "xws": "runeshardcache"
   },
   {
+    "name": "Runeshard Cache",
+    "points": 73,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "expansion": "Lost Legends",
+    "image": "class-items/class-skills-elementalist-back.png",
+    "xws": "runeshardcache"
+  },
+  {
     "name": "Spire of Conflux",
-    "points": 37,
+    "points": 74,
     "archetype": "Mage",
     "class": "Elementalist",
     "traits": "Magic, Staff",
@@ -532,31 +865,109 @@
     "xws": "spireofconflux"
   },
   {
+    "name": "Spire of Conflux",
+    "points": 75,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "expansion": "Lost Legends",
+    "image": "class-items/class-skills-elementalist-back.png",
+    "xws": "spireofconflux"
+  },
+  {
     "name": "Ceremonial Staff",
-    "points": 38,
+    "points": 76,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "traits": "Exotic, Staff",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red",
+    "rules": "Surge: Curse. Surge: Recover 1 Fatigue.",
     "expansion": "Sands Of The Past",
     "image": "class-items/ceremonial-staff-sotp-healer-hierophant.png",
     "xws": "ceremonialstaff"
   },
   {
+    "name": "Ceremonial Staff",
+    "points": 77,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "expansion": "Sands Of The Past",
+    "image": "class-items/class-skills-hierophant-back.png",
+    "xws": "ceremonialstaff"
+  },
+  {
     "name": "Sacred Scriptures",
-    "points": 39,
+    "points": 78,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "traits": "Book",
+    "attack": "-",
+    "equip": "Trinket",
+    "dice": "-",
+    "rules": "While you are adjacent to your Bandaged Servant, add 1 Shield to your defense results.",
     "expansion": "Sands Of The Past",
     "image": "class-items/sacred-scriptures-sotp-healer-hierophant.png",
     "xws": "sacredscriptures"
   },
   {
+    "name": "Sacred Scriptures",
+    "points": 79,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "expansion": "Sands Of The Past",
+    "image": "class-items/class-skills-hierophant-back.png",
+    "xws": "sacredscriptures"
+  },
+  {
     "name": "Shadow Darts",
-    "points": 40,
+    "points": 80,
+    "archetype": "Mage",
+    "class": "Psychic",
+    "traits": "Exotic, Magic",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Green",
+    "rules": "Pierce 1. Surge: Blind. Surge: +1 Range, +1 Heart.",
     "expansion": "Sands Of The Past",
     "image": "class-items/shadow-darts-sotp-mage-psychic.png",
     "xws": "shadowdarts"
   },
   {
+    "name": "Shadow Darts",
+    "points": 81,
+    "archetype": "Mage",
+    "class": "Psychic",
+    "expansion": "Sands Of The Past",
+    "image": "class-items/class-skills-psychic-back.png",
+    "xws": "shadowdarts"
+  },
+  {
     "name": "Mind's Eye Turban",
-    "points": 41,
+    "points": 82,
+    "archetype": "Mage",
+    "class": "Psychic",
+    "traits": "Helmet",
+    "attack": "-",
+    "equip": "Trinket",
+    "dice": "-",
+    "rules": "At the end of your turn, if you have fatigue tokens equal to your Stamina, recover 1 Fatigue. Limit 1 Helmet equipped at a time.",
     "expansion": "Sands Of The Past",
     "image": "class-items/minds-eye-turban-sotp-mage-psychic.png",
+    "xws": "mindseyeturban"
+  },
+  {
+    "name": "Mind's Eye Turban",
+    "points": 83,
+    "archetype": "Mage",
+    "class": "Psychic",
+    "traits": "Helmet",
+    "attack": "-",
+    "equip": "Trinket",
+    "dice": "-",
+    "rules": "At the end of your turn, if you have fatigue tokens equal to your Stamina, recover 1 Fatigue. Limit 1 Helmet equipped at a time.",
+    "expansion": "Sands Of The Past",
+    "image": "class-items/class-skills-psychic-back.png",
     "xws": "mindseyeturban"
   }
 ]
