@@ -624,7 +624,7 @@
     "xws": "dyingcommand"
   },
   {
-    "name": "Nercromancer-Back",
+    "name": "Necromancer-Back",
     "points": 53,
     "archetype": "Mage",
     "class": "Necromancer",
