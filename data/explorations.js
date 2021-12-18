@@ -96,7 +96,7 @@
     "xws": "tunnelsend"
   },
   {
-    "name": "Explorations-Back",
+    "name": "FS-Explorations-Back",
     "type": "B",
     "points": 12,
     "expansion": "Forgotten Souls",
@@ -200,7 +200,7 @@
     "xws": "webbedgulch"
   },
   {
-    "name": "Explorations-Back",
+    "name": "NI-Explorations-Back",
     "type": "B",
     "points": 25,
     "expansion": "Nature's Ire",
@@ -304,7 +304,7 @@
     "xws": "stonesofthefounders"
   },
   {
-    "name": "Explorations-Back",
+    "name": "DE-Explorations-Back",
     "type": "B",
     "points": 38,
     "expansion": "Dark Elements",
