@@ -88,5 +88,12 @@
     "expansion": "Shadow Of Nerekhall",
     "image": "corrupt-citizens/the-scoundrel-sn.png",
     "xws": "thescoundrel"
-  }
+  },
+  {
+    "name": "Corrupt-Citizens-Back",
+    "points": 9,
+    "expansion": "Shadow Of Nerekhall",
+    "image": "corrupt-citizens/corrupt-citizens-back.png",
+    "xws": "corruptcitizensback"
+  },
 ]
