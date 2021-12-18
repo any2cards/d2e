@@ -48,8 +48,17 @@
     "xws": "vowoffreedom"
   },
   {
-    "name": "Runeguard",
+    "name": "Monk-Back",
     "points": 4,
+    "archetype": "Scout",
+    "class": "Monk",
+    "expansion": "The Chains That Rust",
+    "image": "hybrid-class-skills/hybrid-class-skills-monk-back.png",
+    "xws": "monkback"
+  },
+  {
+    "name": "Runeguard",
+    "points": 5,
     "archetype": "Warrior",
     "class": "Steelcaster",
     "xp cost": 0,
@@ -61,7 +70,7 @@
   },
   {
     "name": "Rune Grafting",
-    "points": 5,
+    "points": 6,
     "archetype": "Warrior",
     "class": "Steelcaster",
     "xp cost": 1,
@@ -73,7 +82,7 @@
   },
   {
     "name": "Shield Mage",
-    "points": 6,
+    "points": 7,
     "archetype": "Warrior",
     "class": "Steelcaster",
     "xp cost": 2,
@@ -85,7 +94,7 @@
   },
   {
     "name": "Iron Blooded",
-    "points": 7,
+    "points": 8,
     "archetype": "Warrior",
     "class": "Steelcaster",
     "xp cost": 3,
@@ -96,8 +105,17 @@
     "xws": "ironblooded"
   },
   {
+    "name": "Steelcaster-Back",
+    "points": 9,
+    "archetype": "Warrior",
+    "class": "Steelcaster",
+    "expansion": "The Chains That Rust",
+    "image": "hybrid-class-skills/hybrid-class-skills-steelcaster-back.png",
+    "xws": "steelcasterback"
+  },
+  {
     "name": "Vigilance",
-    "points": 8,
+    "points": 10,
     "archetype": "Healer",
     "class": "Watchman",
     "xp cost": 0,
@@ -109,7 +127,7 @@
   },
   {
     "name": "Quick Recovery",
-    "points": 9,
+    "points": 11,
     "archetype": "Healer",
     "class": "Watchman",
     "xp cost": 1,
@@ -121,7 +139,7 @@
   },
   {
     "name": "Quick Recovery",
-    "points": 10,
+    "points": 12,
     "archetype": "Healer",
     "class": "Watchman",
     "xp cost": 1,
@@ -133,7 +151,7 @@
   },
   {
     "name": "Trailblazer",
-    "points": 11,
+    "points": 13,
     "archetype": "Healer",
     "class": "Watchman",
     "xp cost": 2,
@@ -145,7 +163,7 @@
   },
   {
     "name": "Unity",
-    "points": 12,
+    "points": 14,
     "archetype": "Healer",
     "class": "Watchman",
     "xp cost": 3,
@@ -156,8 +174,17 @@
     "xws": "unity"
   },
   {
+    "name": "Watchman-Back",
+    "points": 15,
+    "archetype": "Healer",
+    "class": "Watchman",
+    "expansion": "The Chains That Rust",
+    "image": "hybrid-class-skills/hybrid-class-skills-watchman-back.png",
+    "xws": "watchmanback"
+  },
+  {
     "name": "Arcane Veteran",
-    "points": 13,
+    "points": 16,
     "archetype": "Mage",
     "class": "Battlemage",
     "xp cost": 0,
@@ -169,7 +196,7 @@
   },
   {
     "name": "Planar Weapon",
-    "points": 14,
+    "points": 17,
     "archetype": "Mage",
     "class": "Battlemage",
     "xp cost": 1,
@@ -181,7 +208,7 @@
   },
   {
     "name": "Runic Weave",
-    "points": 15,
+    "points": 18,
     "archetype": "Mage",
     "class": "Battlemage",
     "xp cost": 2,
@@ -193,7 +220,7 @@
   },
   {
     "name": "Death Siphon",
-    "points": 16,
+    "points": 19,
     "archetype": "Mage",
     "class": "Battlemage",
     "xp cost": 3,
@@ -204,8 +231,17 @@
     "xws": "deathsiphon"
   },
   {
+    "name": "Battlemage-Back",
+    "points": 20,
+    "archetype": "Mage",
+    "class": "Battlemage",
+    "expansion": "The Chains That Rust",
+    "image": "hybrid-class-skills/hybrid-class-skills-battlemage-back.png",
+    "xws": "battlemageback"
+  },
+  {
     "name": "Chosen of Kellos",
-    "points": 17,
+    "points": 21,
     "archetype": "Healer",
     "class": "Crusader",
     "xp cost": 0,
@@ -217,7 +253,7 @@
   },
   {
     "name": "Zealous Aura",
-    "points": 18,
+    "points": 22,
     "archetype": "Healer",
     "class": "Crusader",
     "xp cost": 1,
@@ -229,7 +265,7 @@
   },
   {
     "name": "Righteous",
-    "points": 19,
+    "points": 23,
     "archetype": "Healer",
     "class": "Crusader",
     "xp cost": 2,
@@ -241,7 +277,7 @@
   },
   {
     "name": "Divine Light",
-    "points": 20,
+    "points": 24,
     "archetype": "Healer",
     "class": "Crusader",
     "xp cost": 3,
@@ -252,8 +288,17 @@
     "xws": "divinelight"
   },
   {
+    "name": "Crusader-Back",
+    "points": 25,
+    "archetype": "Healer",
+    "class": "Crusader",
+    "expansion": "Lost Legends",
+    "image": "hybrid-class-skills/hybrid-class-skills-crusader-back.png",
+    "xws": "crusaderback"
+  },
+  {
     "name": "Exiled Visionary",
-    "points": 21,
+    "points": 26,
     "archetype": "Healer",
     "class": "Heretic",
     "xp cost": 0,
@@ -265,7 +310,7 @@
   },
   {
     "name": "Arcane Healing",
-    "points": 22,
+    "points": 27,
     "archetype": "Healer",
     "class": "Heretic",
     "xp cost": 1,
@@ -277,7 +322,7 @@
   },
   {
     "name": "Dark Recovery",
-    "points": 23,
+    "points": 28,
     "archetype": "Healer",
     "class": "Heretic",
     "xp cost": 2,
@@ -289,7 +334,7 @@
   },
   {
     "name": "Forbidden Arts",
-    "points": 24,
+    "points": 29,
     "archetype": "Healer",
     "class": "Heretic",
     "xp cost": 3,
@@ -300,8 +345,17 @@
     "xws": "forbiddenarts"
   },
   {
+    "name": "Heretic-Back",
+    "points": 30,
+    "archetype": "Healer",
+    "class": "Heretic",
+    "expansion": "Lost Legends",
+    "image": "hybrid-class-skills/hybrid-class-skills-heretic-back.png",
+    "xws": "hereticback"
+  },
+  {
     "name": "Interdisciplinary",
-    "points": 25,
+    "points": 31,
     "archetype": "Mage",
     "class": "Lorekeeper",
     "xp cost": 0,
@@ -313,7 +367,7 @@
   },
   {
     "name": "Ancient Remedy",
-    "points": 26,
+    "points": 32,
     "archetype": "Mage",
     "class": "Lorekeeper",
     "xp cost": 1,
@@ -325,7 +379,7 @@
   },
   {
     "name": "Ancient Remedy",
-    "points": 27,
+    "points": 33,
     "archetype": "Mage",
     "class": "Lorekeeper",
     "xp cost": 1,
@@ -337,7 +391,7 @@
   },
   {
     "name": "Careful Balance",
-    "points": 28,
+    "points": 34,
     "archetype": "Mage",
     "class": "Lorekeeper",
     "xp cost": 2,
@@ -349,7 +403,7 @@
   },
   {
     "name": "All-Knowing",
-    "points": 29,
+    "points": 35,
     "archetype": "Mage",
     "class": "Lorekeeper",
     "xp cost": 3,
@@ -361,7 +415,7 @@
   },
   {
     "name": "All-Knowing",
-    "points": 30,
+    "points": 36,
     "archetype": "Mage",
     "class": "Lorekeeper",
     "xp cost": 3,
@@ -372,8 +426,17 @@
     "xws": "allknowing"
   },
   {
+    "name": "Lorekeeper-Back",
+    "points": 37,
+    "archetype": "Mage",
+    "class": "Lorekeeper",
+    "expansion": "Lost Legends",
+    "image": "hybrid-class-skills/hybrid-class-skills-lorekeeper-back.png",
+    "xws": "lorekeeperback"
+  },
+  {
     "name": "Clairvoyance",
-    "points": 31,
+    "points": 38,
     "archetype": "Mage",
     "class": "Truthseer",
     "xp cost": 0,
@@ -385,7 +448,7 @@
   },
   {
     "name": "True Sight",
-    "points": 32,
+    "points": 39,
     "archetype": "Mage",
     "class": "Truthseer",
     "xp cost": 1,
@@ -397,7 +460,7 @@
   },
   {
     "name": "Translocation",
-    "points": 33,
+    "points": 40,
     "archetype": "Mage",
     "class": "Truthseer",
     "xp cost": 2,
@@ -409,7 +472,7 @@
   },
   {
     "name": "Premonition",
-    "points": 34,
+    "points": 41,
     "archetype": "Mage",
     "class": "Truthseer",
     "xp cost": 3,
@@ -420,8 +483,17 @@
     "xws": "premonition"
   },
   {
+    "name": "Truthseer-Back",
+    "points": 42,
+    "archetype": "Mage",
+    "class": "Truthseer",
+    "expansion": "Lost Legends",
+    "image": "hybrid-class-skills/hybrid-class-skills-truthseer-back.png",
+    "xws": "truthseerback"
+  },
+  {
     "name": "Battle-Hardened",
-    "points": 35,
+    "points": 43,
     "archetype": "Scout",
     "class": "Ravager",
     "xp cost": 0,
@@ -433,7 +505,7 @@
   },
   {
     "name": "Momentum",
-    "points": 36,
+    "points": 44,
     "archetype": "Scout",
     "class": "Ravager",
     "xp cost": 1,
@@ -445,7 +517,7 @@
   },
   {
     "name": "Momentum",
-    "points": 37,
+    "points": 45,
     "archetype": "Scout",
     "class": "Ravager",
     "xp cost": 1,
@@ -457,7 +529,7 @@
   },
   {
     "name": "Charging Assault",
-    "points": 38,
+    "points": 46,
     "archetype": "Scout",
     "class": "Ravager",
     "xp cost": 2,
@@ -469,7 +541,7 @@
   },
   {
     "name": "Charging Assault",
-    "points": 39,
+    "points": 47,
     "archetype": "Scout",
     "class": "Ravager",
     "xp cost": 2,
@@ -481,7 +553,7 @@
   },
   {
     "name": "Vicious Throw",
-    "points": 40,
+    "points": 48,
     "archetype": "Scout",
     "class": "Ravager",
     "xp cost": 3,
@@ -492,8 +564,17 @@
     "xws": "viciousthrow"
   },
   {
+    "name": "Ravager-Back",
+    "points": 49,
+    "archetype": "Scout",
+    "class": "Ravager",
+    "expansion": "Lost Legends",
+    "image": "hybrid-class-skills/hybrid-class-skills-ravager-back.png",
+    "xws": "ravagerback"
+  },
+  {
     "name": "Razzle-Dazzle",
-    "points": 41,
+    "points": 50,
     "archetype": "Scout",
     "class": "Trickster",
     "xp cost": 0,
@@ -505,7 +586,7 @@
   },
   {
     "name": "Private Collection",
-    "points": 42,
+    "points": 51,
     "archetype": "Scout",
     "class": "Trickster",
     "xp cost": 1,
@@ -517,7 +598,7 @@
   },
   {
     "name": "Now You See Me",
-    "points": 43,
+    "points": 52,
     "archetype": "Scout",
     "class": "Trickster",
     "xp cost": 2,
@@ -529,7 +610,7 @@
   },
   {
     "name": "Arcane Fusion",
-    "points": 44,
+    "points": 53,
     "archetype": "Scout",
     "class": "Trickster",
     "xp cost": 3,
@@ -540,8 +621,17 @@
     "xws": "arcanefusion"
   },
   {
+    "name": "Trickster-Back",
+    "points": 54,
+    "archetype": "Scout",
+    "class": "Trickster",
+    "expansion": "Lost Legends",
+    "image": "hybrid-class-skills/hybrid-class-skills-trickster-back.png",
+    "xws": "tricksterback"
+  },
+  {
     "name": "Justicar",
-    "points": 45,
+    "points": 55,
     "archetype": "Warrior",
     "class": "Avenger",
     "xp cost": 0,
@@ -553,7 +643,7 @@
   },
   {
     "name": "Holy Champion",
-    "points": 46,
+    "points": 56,
     "archetype": "Warrior",
     "class": "Avenger",
     "xp cost": 1,
@@ -565,7 +655,7 @@
   },
   {
     "name": "Vengeful Smite",
-    "points": 47,
+    "points": 57,
     "archetype": "Warrior",
     "class": "Avenger",
     "xp cost": 2,
@@ -577,7 +667,7 @@
   },
   {
     "name": "Death From Above",
-    "points": 48,
+    "points": 58,
     "archetype": "Warrior",
     "class": "Avenger",
     "xp cost": 3,
@@ -588,8 +678,17 @@
     "xws": "deathfromabove"
   },
   {
+    "name": "Avenger-Back",
+    "points": 59,
+    "archetype": "Warrior",
+    "class": "Avenger",
+    "expansion": "Lost Legends",
+    "image": "hybrid-class-skills/hybrid-class-skills-avenger-back.png",
+    "xws": "avengerback"
+  },
+  {
     "name": "Into The Fray",
-    "points": 49,
+    "points": 60,
     "archetype": "Warrior",
     "class": "Raider",
     "xp cost": 0,
@@ -601,7 +700,7 @@
   },
   {
     "name": "Surprise Assault",
-    "points": 50,
+    "points": 61,
     "archetype": "Warrior",
     "class": "Raider",
     "xp cost": 1,
@@ -613,7 +712,7 @@
   },
   {
     "name": "Divide The Spoils",
-    "points": 51,
+    "points": 62,
     "archetype": "Warrior",
     "class": "Raider",
     "xp cost": 2,
@@ -625,7 +724,7 @@
   },
   {
     "name": "Close The Gap",
-    "points": 52,
+    "points": 63,
     "archetype": "Warrior",
     "class": "Raider",
     "xp cost": 3,
@@ -634,5 +733,14 @@
     "expansion": "Lost Legends",
     "image": "hybrid-class-skills/warrior-raider-ll-close-the-gap.png",
     "xws": "closethegap"
+  },
+  {
+    "name": "Raider-Back",
+    "points": 64,
+    "archetype": "Warrior",
+    "class": "Raider",
+    "expansion": "Lost Legends",
+    "image": "hybrid-class-skills/hybrid-class-skills-raider-back.png",
+    "xws": "raiderback"
   }
 ]
