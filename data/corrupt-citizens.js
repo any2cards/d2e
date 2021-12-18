@@ -95,5 +95,5 @@
     "expansion": "Shadow Of Nerekhall",
     "image": "corrupt-citizens/corrupt-citizens-back.png",
     "xws": "corruptcitizensback"
-  },
+  }
 ]
