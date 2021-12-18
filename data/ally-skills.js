@@ -27,8 +27,16 @@
     "xws": "sharpeyes"
   },
   {
-    "name": "Aura Of Might",
+    "name": "Raythen-Back",
     "points": 3,
+    "ally": "Raythen",
+    "expansion": "Labyrinth Of Ruin",
+    "image": "ally-skills/raythen/ally-skills-raythen-back.png",
+    "xws": "raythenback"
+  },
+  {
+    "name": "Aura Of Might",
+    "points": 4,
     "ally": "Serena",
     "rules": "This ally adds 1 additional gray die to her defense pool. After using Soothing Spirit, each monster within 3 spaces of this ally is dealt 3 Hearts. Each monster rolls defense dice separately. This is not considered an attack.",
     "expansion": "Labyrinth Of Ruin",
@@ -37,7 +45,7 @@
   },
   {
     "name": "Healing Aura",
-    "points": 4,
+    "points": 5,
     "ally": "Serena",
     "rules": "This ally gains +4 Health. Soothing Spirit now affects all heroes within 3 spaces of this ally.",
     "expansion": "Labyrinth Of Ruin",
@@ -46,11 +54,19 @@
   },
   {
     "name": "Holy Hammer",
-    "points": 5,
+    "points": 6,
     "ally": "Serena",
     "rules": "Action: This ally performs a Ranged attack rolling the dice shown below. This attack affects a second monster within 3 spaces of the target. This ally must have line of sight to the second monster. Range: Blue Red Green.",
     "expansion": "Labyrinth Of Ruin",
     "image": "ally-skills/serena/holy-hammer-lr.png",
     "xws": "holyhammer"
+  },
+  {
+    "name": "Serena-Back",
+    "points": 7,
+    "ally": "Serena",
+    "expansion": "Labyrinth Of Ruin",
+    "image": "ally-skills/serena/ally-skills-serena-back.png",
+    "xws": "serenaback"
   }
 ]
