@@ -598,5 +598,12 @@
     "card": "10/10",
     "image": "city-event-decks/shadow-of-nerekhall/foul-creatures-sn.png",
     "xws": "foulcreatures"
+  },
+  {
+    "name": "City-Event-Decks-Back",
+    "points": 40,
+    "expansion": "Shadow Of Nerekhall",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-decks-back.png",
+    "xws": "cityeventdecksback"
   }
 ]
