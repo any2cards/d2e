@@ -152,5 +152,12 @@
     "expansion": "The Trollfens",
     "image": "secret-rooms/troll-pit-tf.png",
     "xws": "trollpit"
+  },
+  {
+    "name": "Secret-Rooms-Back",
+    "points": 13,
+    "expansion": "The Trollfens",
+    "image": "secret-rooms/secret-rooms-back.png",
+    "xws": "secretroomsback"
   }
 ]
