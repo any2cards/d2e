@@ -1723,5 +1723,12 @@
     "card": "2/2",
     "image": "travel-event-decks/the-chains-that-rust/twelve-roads-cr.png",
     "xws": "crtwelveroads"
-  }
+  },
+  {
+    "name": "Travel-Event-Decks-Back",
+    "points": 115,
+    "expansion": "The Chains That Rust",
+    "image": "travel-event-decks/the-chains-that-rust/travel-event-decks-back.png",
+    "xws": "traveleventdecksback"
+  },
 ]
