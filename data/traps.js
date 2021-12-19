@@ -446,5 +446,12 @@
     "expansion": "Sands Of The Past",
     "image": "traps/aeons-voice-sotp.png",
     "xws": "aeonsvoice"
+  },
+  {
+    "name": "Traps-Back",
+    "points": 56,
+    "expansion": "Sands Of The Past",
+    "image": "traps/traps-sotp-back.png",
+    "xws": "trapsback"
   }
 ]
