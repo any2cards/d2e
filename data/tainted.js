@@ -118,5 +118,12 @@
     "expansion": "The Chains That Rust",
     "image": "tainted/vile-shadow-cr.png",
     "xws": "vileshadow"
+  },
+  {
+    "name": "Tainted-Back",
+    "points": 12,
+    "expansion": "The Chains That Rust",
+    "image": "tainted/tainted-back.png",
+    "xws": "taintedback"
   }
 ]
