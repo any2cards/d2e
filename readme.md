@@ -43,7 +43,7 @@ This repository contains data and images for the following components:
 
 **The items listed above with a post-pended single asterisk are from User Community content. The items listed above with a post-pended double asterisk are from FFG & User Community content.**
 
-There are four top-level directories: `data` , `images` , `images-orig` ,and `xwc`.
+There are three top-level directories: `data` , `images` , and `xwc`.
 
 ### data
 
@@ -52,10 +52,6 @@ The `data` folder contains all D2e Card Viewer data in JSON format.
 ### images
 
 The `images` folder contains D2e Card Viewer images for each of the above data components.
-
-### images.orig
-
-The `images.orig` folder contains the original D2e Card Viewer images for each of the above data components.  It is used for comparison purposes to the images in the `images` folder.
 
 ### xwc
 
