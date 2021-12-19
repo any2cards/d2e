@@ -98,8 +98,15 @@
     "xws": "whatsyoursismine"
   },
   {
-    "name": "Atrocities",
+    "name": "LW-Rumors-Back",
     "points": 6,
+    "expansion": "Lair Of The Wyrm",
+    "image": "rumors/rumors-back.png",
+    "xws": "lwrumorsback"
+  },
+  {
+    "name": "Atrocities",
+    "points": 7,
     "act": "I",
     "travel": [
       "-"
@@ -114,7 +121,7 @@
   },
   {
     "name": "Famine And Strife",
-    "points": 7,
+    "points": 8,
     "act": "I",
     "travel": [
       "-"
@@ -129,7 +136,7 @@
   },
   {
     "name": "Food For Worms",
-    "points": 8,
+    "points": 9,
     "act": "I",
     "travel": [
       "Forest",
@@ -146,7 +153,7 @@
   },
   {
     "name": "Ghost Town",
-    "points": 9,
+    "points": 10,
     "act": "I",
     "travel": [
       "Forest",
@@ -163,7 +170,7 @@
   },
   {
     "name": "Scarce Goods",
-    "points": 10,
+    "points": 11,
     "act": "I",
     "travel": [
       "-"
@@ -178,7 +185,7 @@
   },
   {
     "name": "Three Heads, One Mind",
-    "points": 11,
+    "points": 12,
     "act": "I",
     "travel": [
       "Water",
@@ -194,8 +201,15 @@
     "xws": "threeheadsonemind"
   },
   {
+    "name": "TF-Rumors-Back",
+    "points": 13,
+    "expansion": "The Trollfens",
+    "image": "rumors/rumors-back.png",
+    "xws": "tfrumorsback"
+  },
+  {
     "name": "Cursed Treasures",
-    "points": 12,
+    "points": 14,
     "act": "-",
     "travel": [
       "-"
@@ -210,7 +224,7 @@
   },
   {
     "name": "Finders And Keepers",
-    "points": 13,
+    "points": 15,
     "act": "I",
     "travel": [
       "Road",
@@ -227,7 +241,7 @@
   },
   {
     "name": "My House, My Rules",
-    "points": 14,
+    "points": 16,
     "act": "I",
     "travel": [
       "Forest",
@@ -244,7 +258,7 @@
   },
   {
     "name": "Spread Your Wings",
-    "points": 15,
+    "points": 17,
     "act": "I",
     "travel": [
       "Mountain",
@@ -260,8 +274,15 @@
     "xws": "spreadyourwings"
   },
   {
+    "name": "MR-Rumors-Back",
+    "points": 18,
+    "expansion": "Manor Of Ravens",
+    "image": "rumors/rumors-back.png",
+    "xws": "mrrumorsback"
+  },
+  {
     "name": "Oath Of The Outcast",
-    "points": 16,
+    "points": 19,
     "act": "I",
     "travel": [
       "Forest",
@@ -277,8 +298,15 @@
     "xws": "oathoftheoutcast"
   },
   {
+    "name": "OO-Rumors-Back",
+    "points": 20,
+    "expansion": "Oath Of The Outcast",
+    "image": "rumors/rumors-back.png",
+    "xws": "oorumorsback"
+  },
+  {
     "name": "Burning Harvest",
-    "points": 17,
+    "points": 21,
     "act": "I",
     "travel": [
       "Mountain",
@@ -294,8 +322,15 @@
     "xws": "burningharvest"
   },
   {
+    "name": "CD-Rumors-Back",
+    "points": 22,
+    "expansion": "Crown Of Destiny",
+    "image": "rumors/rumors-back.png",
+    "xws": "cdrumorsback"
+  },
+  {
     "name": "Crusade Of The Forgotten",
-    "points": 18,
+    "points": 23,
     "act": "I",
     "travel": [
       "Road",
@@ -311,8 +346,15 @@
     "xws": "crusadeoftheforgotten"
   },
   {
+    "name": "CF-Rumors-Back",
+    "points": 24,
+    "expansion": "Crusade Of The Forgotten",
+    "image": "rumors/rumors-back.png",
+    "xws": "cfrumorsback"
+  },
+  {
     "name": "Guardians Of Deephall",
-    "points": 19,
+    "points": 25,
     "act": "I",
     "travel": [
       "Road",
@@ -329,8 +371,15 @@
     "xws": "guardiansofdeephall"
   },
   {
+    "name": "GD-Rumors-Back",
+    "points": 26,
+    "expansion": "Guardians Of Deephall",
+    "image": "rumors/rumors-back.png",
+    "xws": "gdrumorsback"
+  },
+  {
     "name": "Trucebreaker",
-    "points": 20,
+    "points": 27,
     "act": "I",
     "travel": [
       "Plain",
@@ -346,8 +395,15 @@
     "xws": "trucebreaker"
   },
   {
+    "name": "VD-Rumors-Back",
+    "points": 28,
+    "expansion": "Visions Of Dawn",
+    "image": "rumors/rumors-back.png",
+    "xws": "vdrumorsback"
+  },
+  {
     "name": "One Man's Trash",
-    "points": 21,
+    "points": 29,
     "act": "I",
     "travel": [
       "Road",
@@ -363,8 +419,15 @@
     "xws": "onemanstrash"
   },
   {
+    "name": "BW-Rumors-Back",
+    "points": 30,
+    "expansion": "Bonds Of The Wild",
+    "image": "rumors/rumors-back.png",
+    "xws": "bwrumorsback"
+  },
+  {
     "name": "Sindaea's Secret",
-    "points": 22,
+    "points": 31,
     "act": "I",
     "travel": [
       "Road",
@@ -380,8 +443,15 @@
     "xws": "sindaessecret"
   },
   {
+    "name": "TC-Rumors-Back",
+    "points": 32,
+    "expansion": "Treaty Of Champions",
+    "image": "rumors/rumors-back.png",
+    "xws": "tcrumorsback"
+  },
+  {
     "name": "Stewards Of The Secret",
-    "points": 23,
+    "points": 33,
     "act": "I",
     "travel": [
       "Forest",
@@ -397,8 +467,15 @@
     "xws": "stewardsofthesecret"
   },
   {
+    "name": "SS-Rumors-Back",
+    "points": 34,
+    "expansion": "Stewards Of The Secret",
+    "image": "rumors/rumors-back.png",
+    "xws": "ssrumorsback"
+  },
+  {
     "name": "Shards Of Everdark",
-    "points": 24,
+    "points": 35,
     "act": "I",
     "travel": [
       "Road",
@@ -414,8 +491,15 @@
     "xws": "shardsofeverdark"
   },
   {
+    "name": "SE-Rumors-Back",
+    "points": 36,
+    "expansion": "Shards Of Everdark",
+    "image": "rumors/rumors-back.png",
+    "xws": "serumorsback"
+  },
+  {
     "name": "The Unearthed Tomb",
-    "points": 25,
+    "points": 37,
     "act": "I",
     "travel": [
       "Water",
@@ -433,7 +517,7 @@
   },
   {
     "name": "Halls of Toil",
-    "points": 26,
+    "points": 38,
     "act": "I",
     "travel": [
       "Water",
@@ -451,7 +535,7 @@
   },
   {
     "name": "Valley of the Dead",
-    "points": 27,
+    "points": 39,
     "act": "I",
     "travel": [
       "Water",
@@ -468,10 +552,10 @@
     "xws": "valleyofthedead"
   },
   {
-    "name": "Rumors-Back",
-    "points": 28,
-    "expansion": "Shards Of Everdark",
+    "name": "SOTP-Rumors-Back",
+    "points": 40,
+    "expansion": "Sands Of The Past",
     "image": "rumors/rumors-back.png",
-    "xws": "rumorsback"
+    "xws": "sotprumorsback"
   }
 ]
