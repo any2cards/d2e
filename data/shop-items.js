@@ -975,8 +975,135 @@
     "xws": "witchhazelbow"
   },
   {
-    "name": "Belt Of Strength",
+    "name": "Bag of Tricks",
     "points": 65,
+    "count": 1,
+    "act": "I",
+    "cost": 125,
+    "traits": "Trinket",
+    "attack": "-",
+    "equip": "Other",
+    "dice": "-",
+    "rules": "Action: Test Awareness. If you pass, 1 monster within 3 spaces of you is either Blinded or Poisoned and you may move up to your Speed.",
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/bag-of-tricks-sotp.png",
+    "xws": "bagoftricks"
+  },
+  {
+    "name": "Crystal of Mirages",
+    "points": 66,
+    "count": 1,
+    "act": "I",
+    "cost": 100,
+    "traits": "Trinket",
+    "attack": "-",
+    "equip": "Other",
+    "dice": "-",
+    "rules": "Exhaust this card during your turn to flip 1 of your facedown Potion or Item Search cards faceup. Limit once per encounter.",
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/crystal-of-mirages-sotp.png",
+    "xws": "crystalofmirages"
+  },
+  {
+    "name": "Golden Orb Mace",
+    "points": 67,
+    "count": 1,
+    "act": "I",
+    "cost": 75,
+    "traits": "Hammer, Magic",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "If this attack misses or deals no Hearts the target is Blinded. Surge: +1 Heart. Surge: 1 hero adjacent to you recovers 1 Heart.",
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/golden-orb-mace-sotp.png",
+    "xws": "goldenorbmace"
+  },
+  {
+    "name": "Piercing Arrows",
+    "points": 68,
+    "count": 1,
+    "act": "I",
+    "cost": 75,
+    "traits": "Trinket",
+    "attack": "-",
+    "equip": "Other",
+    "dice": "-",
+    "rules": "Exhaust this card when you perform an attack with a Bow, before dice are rolled. This attack gains Pierce 2.",
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/piercing-arrows-sotp.png",
+    "xws": "piercingarrows"
+  },
+  {
+    "name": "Scar Pit Greaves",
+    "points": 69,
+    "count": 1,
+    "act": "I",
+    "cost": 100,
+    "traits": "Boots",
+    "attack": "-",
+    "equip": "Other",
+    "dice": "-",
+    "rules": "Add 1 Shield to your defense pool results. You may ignore any game effect that would force you to move. Limit 1 Boots equipped at a time.",
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/scar-pit-greaves-sotp.png",
+    "xws": "scarpitgreaves"
+  },
+  {
+    "name": "Sun-Blessed Rune",
+    "points": 70,
+    "count": 1,
+    "act": "I",
+    "cost": 100,
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "+1 Range. Surge: Blind. Surge: +2 Range, +1 Heart.",
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/sun-blessed-rune-sotp.png",
+    "xws": "runblessedrune"
+  },
+  {
+    "name": "Sunspear",
+    "points": 71,
+    "count": 1,
+    "act": "I",
+    "cost": 100,
+    "traits": "Exotic",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "This attack effects 1 additional figure adjacent to your target. Surge: +1 Heart.",
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/sunspear-sotp.png",
+    "xws": "sunspear"
+  },
+  {
+    "name": "Vizier's Garment",
+    "points": 72,
+    "count": 1,
+    "act": "I",
+    "cost": 125,
+    "traits": "Cloak",
+    "attack": "-",
+    "equip": "Armor",
+    "dice": "Brown",
+    "rules": "You are not restricted to 2 Other items equipped at a time.",
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act1/viziers-garment-sotp.png",
+    "xws": "viziersgarment"
+  },
+  {
+    "name": "Shop-Items-Act-I-Back",
+    "points": 73,
+    "expansion": "Mists Of Bilehall",
+    "image": "shop-items/act1/shop-items-act1-back.png",
+    "xws": "shopitemsactiback"
+  },
+  {
+    "name": "Belt Of Strength",
+    "points": 74,
     "count": 1,
     "act": "II",
     "cost": 125,
@@ -991,7 +1118,7 @@
   },
   {
     "name": "Black Iron Helm",
-    "points": 66,
+    "points": 75,
     "count": 1,
     "act": "II",
     "cost": 150,
@@ -1006,7 +1133,7 @@
   },
   {
     "name": "Blasting Rune",
-    "points": 67,
+    "points": 76,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1021,7 +1148,7 @@
   },
   {
     "name": "Blessed Armor",
-    "points": 68,
+    "points": 77,
     "count": 1,
     "act": "II",
     "cost": 250,
@@ -1036,7 +1163,7 @@
   },
   {
     "name": "Bloodthirsty Bracers",
-    "points": 69,
+    "points": 78,
     "count": 1,
     "act": "II",
     "cost": 125,
@@ -1051,7 +1178,7 @@
   },
   {
     "name": "Bone Wand",
-    "points": 70,
+    "points": 79,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1066,7 +1193,7 @@
   },
   {
     "name": "Boomerang",
-    "points": 71,
+    "points": 80,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1081,7 +1208,7 @@
   },
   {
     "name": "Bow Of The Eclipse",
-    "points": 72,
+    "points": 81,
     "count": 1,
     "act": "II",
     "cost": 250,
@@ -1096,7 +1223,7 @@
   },
   {
     "name": "Bow Of The Sky",
-    "points": 73,
+    "points": 82,
     "count": 1,
     "act": "II",
     "cost": 225,
@@ -1111,7 +1238,7 @@
   },
   {
     "name": "Cloak Of Deception",
-    "points": 74,
+    "points": 83,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1126,7 +1253,7 @@
   },
   {
     "name": "Demonhide Leather",
-    "points": 75,
+    "points": 84,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1141,7 +1268,7 @@
   },
   {
     "name": "Dragontooth Hammer",
-    "points": 76,
+    "points": 85,
     "count": 1,
     "act": "II",
     "cost": 250,
@@ -1156,7 +1283,7 @@
   },
   {
     "name": "Dwarven Firebomb",
-    "points": 77,
+    "points": 86,
     "count": 1,
     "act": "II",
     "cost": 175,
@@ -1171,7 +1298,7 @@
   },
   {
     "name": "Elven Cloak",
-    "points": 78,
+    "points": 87,
     "count": 1,
     "act": "II",
     "cost": 225,
@@ -1186,7 +1313,7 @@
   },
   {
     "name": "Fists Of Iron",
-    "points": 79,
+    "points": 88,
     "count": 1,
     "act": "II",
     "cost": 125,
@@ -1201,7 +1328,7 @@
   },
   {
     "name": "Glaive",
-    "points": 80,
+    "points": 89,
     "count": 1,
     "act": "II",
     "cost": 175,
@@ -1216,7 +1343,7 @@
   },
   {
     "name": "Golden Mask",
-    "points": 81,
+    "points": 90,
     "count": 1,
     "act": "II",
     "cost": 75,
@@ -1231,7 +1358,7 @@
   },
   {
     "name": "Grinding Axe",
-    "points": 82,
+    "points": 91,
     "count": 1,
     "act": "II",
     "cost": 175,
@@ -1246,7 +1373,7 @@
   },
   {
     "name": "Hammer Of Doom",
-    "points": 83,
+    "points": 92,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1261,7 +1388,7 @@
   },
   {
     "name": "Heart Seeker",
-    "points": 84,
+    "points": 93,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1276,7 +1403,7 @@
   },
   {
     "name": "Heavy Steel Shield",
-    "points": 85,
+    "points": 94,
     "count": 1,
     "act": "II",
     "cost": 100,
@@ -1291,7 +1418,7 @@
   },
   {
     "name": "Horned Shield",
-    "points": 86,
+    "points": 95,
     "count": 1,
     "act": "II",
     "cost": 150,
@@ -1306,7 +1433,7 @@
   },
   {
     "name": "Ice Storm",
-    "points": 87,
+    "points": 96,
     "count": 1,
     "act": "II",
     "cost": 150,
@@ -1321,7 +1448,7 @@
   },
   {
     "name": "Inscribed Robes",
-    "points": 88,
+    "points": 97,
     "count": 1,
     "act": "II",
     "cost": 225,
@@ -1336,7 +1463,7 @@
   },
   {
     "name": "Iron Claws",
-    "points": 89,
+    "points": 98,
     "count": 1,
     "act": "II",
     "cost": 175,
@@ -1351,7 +1478,7 @@
   },
   {
     "name": "Ironbound Glaive",
-    "points": 90,
+    "points": 99,
     "count": 1,
     "act": "II",
     "cost": 175,
@@ -1366,7 +1493,7 @@
   },
   {
     "name": "Iron-Bound Ring",
-    "points": 91,
+    "points": 100,
     "count": 1,
     "act": "II",
     "cost": 150,
@@ -1381,7 +1508,7 @@
   },
   {
     "name": "Ironbound Shield",
-    "points": 92,
+    "points": 101,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1396,7 +1523,7 @@
   },
   {
     "name": "Latari Longbow",
-    "points": 93,
+    "points": 102,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1411,7 +1538,7 @@
   },
   {
     "name": "Lightning Javelin",
-    "points": 94,
+    "points": 103,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1426,7 +1553,7 @@
   },
   {
     "name": "Lightning Strike",
-    "points": 95,
+    "points": 104,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1441,7 +1568,7 @@
   },
   {
     "name": "Mace Of Kellos",
-    "points": 96,
+    "points": 105,
     "count": 1,
     "act": "II",
     "cost": 175,
@@ -1456,7 +1583,7 @@
   },
   {
     "name": "Mask Of Horrors",
-    "points": 97,
+    "points": 106,
     "count": 1,
     "act": "II",
     "cost": 75,
@@ -1471,7 +1598,7 @@
   },
   {
     "name": "Merciful Boots",
-    "points": 98,
+    "points": 107,
     "count": 1,
     "act": "II",
     "cost": 100,
@@ -1486,7 +1613,7 @@
   },
   {
     "name": "Nerekhall Plate",
-    "points": 99,
+    "points": 108,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1501,7 +1628,7 @@
   },
   {
     "name": "Obsidian Greataxe",
-    "points": 100,
+    "points": 109,
     "count": 1,
     "act": "II",
     "cost": 225,
@@ -1516,7 +1643,7 @@
   },
   {
     "name": "Obsidian Scalemail",
-    "points": 101,
+    "points": 110,
     "count": 1,
     "act": "II",
     "cost": 275,
@@ -1531,7 +1658,7 @@
   },
   {
     "name": "Platemail",
-    "points": 102,
+    "points": 111,
     "count": 1,
     "act": "II",
     "cost": 250,
@@ -1546,7 +1673,7 @@
   },
   {
     "name": "Rage Blade",
-    "points": 103,
+    "points": 112,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1561,7 +1688,7 @@
   },
   {
     "name": "Rat-Tooth Dagger",
-    "points": 104,
+    "points": 113,
     "count": 1,
     "act": "II",
     "cost": 175,
@@ -1576,7 +1703,7 @@
   },
   {
     "name": "Repeating Crossbow",
-    "points": 105,
+    "points": 114,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1591,7 +1718,7 @@
   },
   {
     "name": "Rune Of Blades",
-    "points": 106,
+    "points": 115,
     "count": 1,
     "act": "II",
     "cost": 150,
@@ -1606,7 +1733,7 @@
   },
   {
     "name": "Rune Of Fate",
-    "points": 107,
+    "points": 116,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1621,7 +1748,7 @@
   },
   {
     "name": "Rune Of Misery",
-    "points": 108,
+    "points": 117,
     "count": 1,
     "act": "II",
     "cost": 250,
@@ -1636,7 +1763,7 @@
   },
   {
     "name": "Rune-Touched Leather",
-    "points": 109,
+    "points": 118,
     "count": 1,
     "act": "II",
     "cost": 150,
@@ -1651,7 +1778,7 @@
   },
   {
     "name": "Sash Of The Slayer",
-    "points": 110,
+    "points": 119,
     "count": 1,
     "act": "II",
     "cost": 75,
@@ -1666,7 +1793,7 @@
   },
   {
     "name": "Scalemail",
-    "points": 111,
+    "points": 120,
     "count": 1,
     "act": "II",
     "cost": 225,
@@ -1681,7 +1808,7 @@
   },
   {
     "name": "Shadow Tome",
-    "points": 112,
+    "points": 121,
     "count": 1,
     "act": "II",
     "cost": 75,
@@ -1696,7 +1823,7 @@
   },
   {
     "name": "Shroud Of Dusk",
-    "points": 113,
+    "points": 122,
     "count": 1,
     "act": "II",
     "cost": 150,
@@ -1711,7 +1838,7 @@
   },
   {
     "name": "Staff Of Kellos",
-    "points": 114,
+    "points": 123,
     "count": 1,
     "act": "II",
     "cost": 175,
@@ -1726,7 +1853,7 @@
   },
   {
     "name": "Staff Of The Wild",
-    "points": 115,
+    "points": 124,
     "count": 1,
     "act": "II",
     "cost": 175,
@@ -1741,7 +1868,7 @@
   },
   {
     "name": "Star Of Kellos",
-    "points": 116,
+    "points": 125,
     "count": 1,
     "act": "II",
     "cost": 175,
@@ -1756,7 +1883,7 @@
   },
   {
     "name": "Steel Greatsword",
-    "points": 117,
+    "points": 126,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1771,7 +1898,7 @@
   },
   {
     "name": "Stone Armor",
-    "points": 118,
+    "points": 127,
     "count": 1,
     "act": "II",
     "cost": 225,
@@ -1786,7 +1913,7 @@
   },
   {
     "name": "Tival Crystal",
-    "points": 119,
+    "points": 128,
     "count": 1,
     "act": "II",
     "cost": 175,
@@ -1801,7 +1928,7 @@
   },
   {
     "name": "Vestments Of Kellos",
-    "points": 120,
+    "points": 129,
     "count": 1,
     "act": "II",
     "cost": 200,
@@ -1816,7 +1943,7 @@
   },
   {
     "name": "Winged Blade",
-    "points": 121,
+    "points": 130,
     "count": 1,
     "act": "II",
     "cost": 175,
@@ -1830,122 +1957,145 @@
     "xws": "wingedblade"
   },
   {
-    "name": "Bag of Tricks",
-    "points": 122,
-    "expansion": "Sands Of The Past",
-    "image": "shop-items/act1/bag-of-tricks-sotp.png",
-    "xws": "bagoftricks"
-  },
-  {
-    "name": "Crystal of Mirages",
-    "points": 123,
-    "expansion": "Sands Of The Past",
-    "image": "shop-items/act1/crystal-of-mirages-sotp.png",
-    "xws": "crystalofmirages"
-  },
-  {
-    "name": "Golden Orb Mace",
-    "points": 124,
-    "expansion": "Sands Of The Past",
-    "image": "shop-items/act1/golden-orb-mace-sotp.png",
-    "xws": "goldenorbmace"
-  },
-  {
-    "name": "Piercing Arrows",
-    "points": 125,
-    "expansion": "Sands Of The Past",
-    "image": "shop-items/act1/piercing-arrows-sotp.png",
-    "xws": "piercingarrows"
-  },
-  {
-    "name": "Scar Pit Greaves",
-    "points": 126,
-    "expansion": "Sands Of The Past",
-    "image": "shop-items/act1/scar-pit-greaves-sotp.png",
-    "xws": "scarpitgreaves"
-  },
-  {
-    "name": "Sun-Blessed Rune",
-    "points": 127,
-    "expansion": "Sands Of The Past",
-    "image": "shop-items/act1/sun-blessed-rune-sotp.png",
-    "xws": "runblessedrune"
-  },
-  {
-    "name": "Sunspear",
-    "points": 128,
-    "expansion": "Sands Of The Past",
-    "image": "shop-items/act1/sunspear-sotp.png",
-    "xws": "sunspear"
-  },
-  {
-    "name": "Vizier's Garment",
-    "points": 129,
-    "expansion": "Sands Of The Past",
-    "image": "shop-items/act1/viziers-garment-sotp.png",
-    "xws": "viziersgarment"
-  },
-  {
     "name": "Chain-Sickle",
-    "points": 130,
+    "points": 131,
+    "count": 1,
+    "act": "II",
+    "cost": 200,
+    "traits": "Blade, Exotic",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow Yellow",
+    "rules": "Action: Move a minion monster within 3 spaces of you up to 2 spaces towards you. Reach. Surge: +3 Hearts. Surge: Pierce 2.",
     "expansion": "Sands Of The Past",
     "image": "shop-items/act2/chain-sickle-sotp.png",
     "xws": "viziersgarment"
   },
   {
     "name": "Eye of the Night",
-    "points": 131,
+    "points": 132,
+    "count": 1,
+    "act": "II",
+    "cost": 75,
+    "traits": "Ring",
+    "attack": "-",
+    "equip": "Other",
+    "dice": "-",
+    "rules": "Once per attack, after rolling dice, you may remove 1 power die from your roll to change the blue attack die to a different result of your choice.",
     "expansion": "Sands Of The Past",
     "image": "shop-items/act2/eye-of-the-night-sotp.png",
     "xws": "eyeofthenight"
   },
   {
     "name": "Ibis Bow",
-    "points": 132,
+    "points": 133,
+    "count": 1,
+    "act": "II",
+    "cost": 200,
+    "traits": "Bow",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow Yellow",
+    "rules": "After making an attack roll, you may convert up to 3 range to an equal amount of movement points. Surge: +1 Range, +1 Heart. Surge: +2 Hearts.",
     "expansion": "Sands Of The Past",
     "image": "shop-items/act2/ibis-bow-sotp.png",
     "xws": "ibisbow"
   },
   {
     "name": "Lost Caliph's Crook",
-    "points": 133,
+    "points": 134,
+    "count": 1,
+    "act": "II",
+    "cost": 200,
+    "traits": "Magic, Staff",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red Yellow",
+    "rules": "Surge: +1 Heart, Curse. Surge: Each figure within 2 spaces of the target suffers 1 Fatigue.",
     "expansion": "Sands Of The Past",
     "image": "shop-items/act2/lost-caliphs-crook-sotp.png",
     "xws": "lostcaliphscrook"
   },
   {
     "name": "Scarab Amulet",
-    "points": 134,
+    "points": 135,
+    "count": 1,
+    "act": "II",
+    "cost": 100,
+    "traits": "Trinket",
+    "attack": "-",
+    "equip": "Other",
+    "dice": "-",
+    "rules": "You are immune to Poison and Disease.",
     "expansion": "Sands Of The Past",
     "image": "shop-items/act2/scarab-amulet-sotp.png",
     "xws": "scarabamulet"
   },
   {
     "name": "Shimmering Shield",
-    "points": 135,
+    "points": 136,
+    "count": 1,
+    "act": "II",
+    "cost": 200,
+    "traits": "Shield",
+    "attack": "-",
+    "equip": "One Hand",
+    "dice": "Gray",
+    "rules": "Each time you are attacked and suffer no Hearts, the attacking figure is Blinded.",
     "expansion": "Sands Of The Past",
     "image": "shop-items/act2/shimmering-shield-sotp.png",
     "xws": "shimmeringshield"
   },
   {
-    "name": "Star of A'tar",
-    "points": 136,
-    "expansion": "Sands Of The Past",
-    "image": "shop-items/act2/star-of-atar-sotp.png",
-    "xws": "starofatar"
-  },
-  {
     "name": "Starmetal Khopesh",
     "points": 137,
+    "count": 1,
+    "act": "II",
+    "cost": 150,
+    "traits": "Blade, Exotic",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red Yellow",
+    "rules": "When attacking, you may ignore results from brown defense dice. Surge: +2 Hearts. If you have no Light Armore nor Heavy Armor equipped: Surge: +3 Hearts.",
     "expansion": "Sands Of The Past",
     "image": "shop-items/act2/starmetal-khopesh-sotp.png",
     "xws": "starmetalkhopesh"
   },
   {
-    "name": "Sunlight Ward",
+    "name": "Star of A'tar",
     "points": 138,
+    "count": 1,
+    "act": "II",
+    "cost": 100,
+    "traits": "Trinket",
+    "attack": "-",
+    "equip": "Other",
+    "dice": "-",
+    "rules": "If you have not moved this turn, place your hero token on this card at the end of your turn (to a maximum of 1). After rolling defense dice, you may discard your hero token to add 2 Shields to the results.",
+    "expansion": "Sands Of The Past",
+    "image": "shop-items/act2/star-of-atar-sotp.png",
+    "xws": "starofatar"
+  },
+  {
+    "name": "Sunlight Ward",
+    "points": 139,
+    "count": 1,
+    "act": "II",
+    "cost": 150,
+    "traits": "Trinket",
+    "attack": "-",
+    "equip": "Other",
+    "dice": "-",
+    "rules": "Exhaust this card when you are targeted by a Melee attack, after dice are rolled. If the range result on the attack die is exactly 2, the attack is considered a miss.",
     "expansion": "Sands Of The Past",
     "image": "shop-items/act2/sunlight-ward-sotp.png",
     "xws": "sunlightward"
+  },
+  {
+    "name": "Shop-Items-Act-II-Back",
+    "points": 140,
+    "expansion": "Manor Of Ravens",
+    "image": "shop-items/act2/shop-items-act2-back.png",
+    "xws": "shopitemsactiiback"
   }
 ]
