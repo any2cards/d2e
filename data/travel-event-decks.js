@@ -585,8 +585,15 @@
     "xws": "tentacles"
   },
   {
-    "name": "LW Travel Event 1 Of 3",
+    "name": "BG-Travel-Event-Decks-Back",
     "points": 39,
+    "expansion": "Base Game",
+    "image": "travel-event-decks/base-game/travel-event-decks-back.png",
+    "xws": "bgtraveleventdecksback"
+  },
+  {
+    "name": "LW Travel Event 1 Of 3",
+    "points": 40,
     "travel": [
       "Road: You think you took a wrong turn... Each hero tests Knowledge and suffers 1 Fatigue if he fails. If all heroes pass, do not draw an event for the next path you travel this phase.",
       "Water: You begin to tire after a long journey. A ferryman sympathizes and offers you a ride. You must spend 25 gold or each hero suffers 1 Fatigue.",
@@ -601,7 +608,7 @@
   },
   {
     "name": "Wrong Turn",
-    "points": 40,
+    "points": 41,
     "travel": [
       "Road: You think you took a wrong turn... Each hero tests Knowledge and suffers 1 Fatigue if he fails. If all heroes pass, do not draw an event for the next path you travel this phase.",
       "Water: You begin to tire after a long journey. A ferryman sympathizes and offers you a ride. You must spend 25 gold or each hero suffers 1 Fatigue.",
@@ -616,7 +623,7 @@
   },
   {
     "name": "Ferryman",
-    "points": 41,
+    "points": 42,
     "travel": [
       "Road: You think you took a wrong turn... Each hero tests Knowledge and suffers 1 Fatigue if he fails. If all heroes pass, do not draw an event for the next path you travel this phase.",
       "Water: You begin to tire after a long journey. A ferryman sympathizes and offers you a ride. You must spend 25 gold or each hero suffers 1 Fatigue.",
@@ -631,7 +638,7 @@
   },
   {
     "name": "Winged Minions",
-    "points": 42,
+    "points": 43,
     "travel": [
       "Road: You think you took a wrong turn... Each hero tests Knowledge and suffers 1 Fatigue if he fails. If all heroes pass, do not draw an event for the next path you travel this phase.",
       "Water: You begin to tire after a long journey. A ferryman sympathizes and offers you a ride. You must spend 25 gold or each hero suffers 1 Fatigue.",
@@ -646,7 +653,7 @@
   },
   {
     "name": "LW Travel Event 2 Of 3",
-    "points": 43,
+    "points": 44,
     "travel": [
       "Road: As you make your way toward your destination, you are approached by a mysterious herald. \"Tread carefully, heroes,\" the cloaked stranger says. \"There are minions of evil everywhere! A terrible plot is afoot, just nearby, and it must be stopped! Come!\" The heroes may force the overlord to immediately play a Rumor card featuring a quest of the current act. If the heroes choose not to do this, or if the overlord does not have any Rumor cards in his hand featuring a valid quest, treat this Travel Event as \"No Event\". After resolving this event, return this card to the game box.",
       "Plain: As you make your way toward your destination, you are approached by a mysterious herald. \"Tread carefully, heroes,\" the cloaked stranger says. \"There are minions of evil everywhere! A terrible plot is afoot, just nearby, and it must be stopped! Come!\" The heroes may force the overlord to immediately play a Rumor card featuring a quest of the current act. If the heroes choose not to do this, or if the overlord does not have any Rumor cards in his hand featuring a valid quest, treat this Travel Event as \"No Event\". After resolving this event, return this card to the game box.",
@@ -661,7 +668,7 @@
   },
   {
     "name": "Herald",
-    "points": 44,
+    "points": 45,
     "travel": [
       "Road: As you make your way toward your destination, you are approached by a mysterious herald. \"Tread carefully, heroes,\" the cloaked stranger says. \"There are minions of evil everywhere! A terrible plot is afoot, just nearby, and it must be stopped! Come!\" The heroes may force the overlord to immediately play a Rumor card featuring a quest of the current act. If the heroes choose not to do this, or if the overlord does not have any Rumor cards in his hand featuring a valid quest, treat this Travel Event as \"No Event\". After resolving this event, return this card to the game box.",
       "Plain: As you make your way toward your destination, you are approached by a mysterious herald. \"Tread carefully, heroes,\" the cloaked stranger says. \"There are minions of evil everywhere! A terrible plot is afoot, just nearby, and it must be stopped! Come!\" The heroes may force the overlord to immediately play a Rumor card featuring a quest of the current act. If the heroes choose not to do this, or if the overlord does not have any Rumor cards in his hand featuring a valid quest, treat this Travel Event as \"No Event\". After resolving this event, return this card to the game box.",
@@ -676,7 +683,7 @@
   },
   {
     "name": "LW Travel Event 3 Of 3",
-    "points": 45,
+    "points": 46,
     "travel": [
       "Plain: You encounter the enemy's scouts. The hero with the highest Awareness may suffer 1 Fatigue to look at 1 random card from the overlord's hand, or suffer 2 Hearts to force the overlord to discard 1 random card.",
       "Forest: You encounter an old crone who whispers a curse before disappearing back into the mists. Each hero must test Willpower. Each hero who fails succumbs to her spell and is Burning.",
@@ -691,7 +698,7 @@
   },
   {
     "name": "Enemy's Scouts",
-    "points": 46,
+    "points": 47,
     "travel": [
       "Plain: You encounter the enemy's scouts. The hero with the highest Awareness may suffer 1 Fatigue to look at 1 random card from the overlord's hand, or suffer 2 Hearts to force the overlord to discard 1 random card.",
       "Forest: You encounter an old crone who whispers a curse before disappearing back into the mists. Each hero must test Willpower. Each hero who fails succumbs to her spell and is Burning.",
@@ -706,7 +713,7 @@
   },
   {
     "name": "Old Crone",
-    "points": 47,
+    "points": 48,
     "travel": [
       "Plain: You encounter the enemy's scouts. The hero with the highest Awareness may suffer 1 Fatigue to look at 1 random card from the overlord's hand, or suffer 2 Hearts to force the overlord to discard 1 random card.",
       "Forest: You encounter an old crone who whispers a curse before disappearing back into the mists. Each hero must test Willpower. Each hero who fails succumbs to her spell and is Burning.",
@@ -721,7 +728,7 @@
   },
   {
     "name": "Jester",
-    "points": 48,
+    "points": 49,
     "travel": [
       "Plain: You encounter the enemy's scouts. The hero with the highest Awareness may suffer 1 Fatigue to look at 1 random card from the overlord's hand, or suffer 2 Hearts to force the overlord to discard 1 random card.",
       "Forest: You encounter an old crone who whispers a curse before disappearing back into the mists. Each hero must test Willpower. Each hero who fails succumbs to her spell and is Burning.",
@@ -735,8 +742,15 @@
     "xws": "jester"
   },
   {
+    "name": "LW-Travel-Event-Decks-Back",
+    "points": 50,
+    "expansion": "Lair Of The Wyrm",
+    "image": "travel-event-decks/lair-of-the-wyrm/travel-event-decks-back.png",
+    "xws": "lwtraveleventdecksback"
+  },
+  {
     "name": "LR Travel Event 1 Of 8",
-    "points": 49,
+    "points": 51,
     "travel": [
       "Water: You feel invigorated. The heroes choose a warrior and place this card in his play area. He may discard this card at the start of his turn. He does not suffer Fatigue to use his skills this turn.",
       "Plain: A wandering mystic blesses you. The heroes choose a healer and place this card in his play area. He may discard this card when reviving a hero. The revived hero recovers all Hearts.",
@@ -751,7 +765,7 @@
   },
   {
     "name": "Invigorated",
-    "points": 50,
+    "points": 52,
     "travel": [
       "Water: You feel invigorated. The heroes choose a warrior and place this card in his play area. He may discard this card at the start of his turn. He does not suffer Fatigue to use his skills this turn.",
       "Plain: A wandering mystic blesses you. The heroes choose a healer and place this card in his play area. He may discard this card when reviving a hero. The revived hero recovers all Hearts.",
@@ -766,7 +780,7 @@
   },
   {
     "name": "Wandering Mystic",
-    "points": 51,
+    "points": 53,
     "travel": [
       "Water: You feel invigorated. The heroes choose a warrior and place this card in his play area. He may discard this card at the start of his turn. He does not suffer Fatigue to use his skills this turn.",
       "Plain: A wandering mystic blesses you. The heroes choose a healer and place this card in his play area. He may discard this card when reviving a hero. The revived hero recovers all Hearts.",
@@ -781,7 +795,7 @@
   },
   {
     "name": "Heavy Fog",
-    "points": 52,
+    "points": 54,
     "travel": [
       "Water: You feel invigorated. The heroes choose a warrior and place this card in his play area. He may discard this card at the start of his turn. He does not suffer Fatigue to use his skills this turn.",
       "Plain: A wandering mystic blesses you. The heroes choose a healer and place this card in his play area. He may discard this card when reviving a hero. The revived hero recovers all Hearts.",
@@ -796,7 +810,7 @@
   },
   {
     "name": "LR Travel Event 2 Of 8",
-    "points": 53,
+    "points": 55,
     "travel": [
       "Road: You come across a discarded scroll. The heroes choose a mage and place this card in his play area. He may discard this card after rolling defense dice to add a number of Shields to his results equal to his Knowledge.",
       "Plain: A traveling healer offers you a mysterious method of healing. The heroes choose 1 hero to suffer 2 Hearts. Another hero of their choice recovers all Hearts and discards all of his Condition cards.",
@@ -811,7 +825,7 @@
   },
   {
     "name": "Discarded Scroll",
-    "points": 54,
+    "points": 56,
     "travel": [
       "Road: You come across a discarded scroll. The heroes choose a mage and place this card in his play area. He may discard this card after rolling defense dice to add a number of Shields to his results equal to his Knowledge.",
       "Plain: A traveling healer offers you a mysterious method of healing. The heroes choose 1 hero to suffer 2 Hearts. Another hero of their choice recovers all Hearts and discards all of his Condition cards.",
@@ -826,7 +840,7 @@
   },
   {
     "name": "Traveling Healer",
-    "points": 55,
+    "points": 57,
     "travel": [
       "Road: You come across a discarded scroll. The heroes choose a mage and place this card in his play area. He may discard this card after rolling defense dice to add a number of Shields to his results equal to his Knowledge.",
       "Plain: A traveling healer offers you a mysterious method of healing. The heroes choose 1 hero to suffer 2 Hearts. Another hero of their choice recovers all Hearts and discards all of his Condition cards.",
@@ -841,7 +855,7 @@
   },
   {
     "name": "Dark Forest",
-    "points": 56,
+    "points": 58,
     "travel": [
       "Road: You come across a discarded scroll. The heroes choose a mage and place this card in his play area. He may discard this card after rolling defense dice to add a number of Shields to his results equal to his Knowledge.",
       "Plain: A traveling healer offers you a mysterious method of healing. The heroes choose 1 hero to suffer 2 Hearts. Another hero of their choice recovers all Hearts and discards all of his Condition cards.",
@@ -856,7 +870,7 @@
   },
   {
     "name": "LR Travel Event 3 Of 8",
-    "points": 57,
+    "points": 59,
     "travel": [
       "Plain: You sense an ambush. The overlord may choose up to 3 different heroes to suffer 1 Heart each. At the start of the quest, he must choose 1 monster to suffer an equal mount of Hearts.",
       "Forest: A lost merchant asks for directions. Each hero tests Knowledge. For each hero that passes, the heroes gain 25 gold. If all heroes pass, they may instead choose 1 hero to draw and keep 1 Shop Item card.",
@@ -871,7 +885,7 @@
   },
   {
     "name": "Sense An Ambush",
-    "points": 58,
+    "points": 60,
     "travel": [
       "Plain: You sense an ambush. The overlord may choose up to 3 different heroes to suffer 1 Heart each. At the start of the quest, he must choose 1 monster to suffer an equal mount of Hearts.",
       "Forest: A lost merchant asks for directions. Each hero tests Knowledge. For each hero that passes, the heroes gain 25 gold. If all heroes pass, they may instead choose 1 hero to draw and keep 1 Shop Item card.",
@@ -886,7 +900,7 @@
   },
   {
     "name": "Lost Merchant",
-    "points": 59,
+    "points": 61,
     "travel": [
       "Plain: You sense an ambush. The overlord may choose up to 3 different heroes to suffer 1 Heart each. At the start of the quest, he must choose 1 monster to suffer an equal mount of Hearts.",
       "Forest: A lost merchant asks for directions. Each hero tests Knowledge. For each hero that passes, the heroes gain 25 gold. If all heroes pass, they may instead choose 1 hero to draw and keep 1 Shop Item card.",
@@ -901,7 +915,7 @@
   },
   {
     "name": "Mountain Path",
-    "points": 60,
+    "points": 62,
     "travel": [
       "Plain: You sense an ambush. The overlord may choose up to 3 different heroes to suffer 1 Heart each. At the start of the quest, he must choose 1 monster to suffer an equal mount of Hearts.",
       "Forest: A lost merchant asks for directions. Each hero tests Knowledge. For each hero that passes, the heroes gain 25 gold. If all heroes pass, they may instead choose 1 hero to draw and keep 1 Shop Item card.",
@@ -916,7 +930,7 @@
   },
   {
     "name": "LR Travel Event 4 Of 8",
-    "points": 61,
+    "points": 63,
     "travel": [
       "Mountain: You find the mountain path to be painfully exhausting. The overlord chooses 1 hero to test Might. If he fails, place a hero token on his Hero sheet. He has -1 Speed until he performs a rest action.",
       "Forest: A strange man offers you a gold key. The heroes choose a scout and place this card in his play area. He may discard this card during the Shopping phase to draw 3 additional Shop Item cards.",
@@ -931,7 +945,7 @@
   },
   {
     "name": "Painfully Exhausting",
-    "points": 62,
+    "points": 64,
     "travel": [
       "Mountain: You find the mountain path to be painfully exhausting. The overlord chooses 1 hero to test Might. If he fails, place a hero token on his Hero sheet. He has -1 Speed until he performs a rest action.",
       "Forest: A strange man offers you a gold key. The heroes choose a scout and place this card in his play area. He may discard this card during the Shopping phase to draw 3 additional Shop Item cards.",
@@ -946,7 +960,7 @@
   },
   {
     "name": "Gold Key",
-    "points": 63,
+    "points": 65,
     "travel": [
       "Mountain: You find the mountain path to be painfully exhausting. The overlord chooses 1 hero to test Might. If he fails, place a hero token on his Hero sheet. He has -1 Speed until he performs a rest action.",
       "Forest: A strange man offers you a gold key. The heroes choose a scout and place this card in his play area. He may discard this card during the Shopping phase to draw 3 additional Shop Item cards.",
@@ -961,7 +975,7 @@
   },
   {
     "name": "Lost Messenger",
-    "points": 64,
+    "points": 66,
     "travel": [
       "Mountain: You find the mountain path to be painfully exhausting. The overlord chooses 1 hero to test Might. If he fails, place a hero token on his Hero sheet. He has -1 Speed until he performs a rest action.",
       "Forest: A strange man offers you a gold key. The heroes choose a scout and place this card in his play area. He may discard this card during the Shopping phase to draw 3 additional Shop Item cards.",
@@ -976,7 +990,7 @@
   },
   {
     "name": "LR Travel Event 5 Of 8",
-    "points": 65,
+    "points": 67,
     "travel": [
       "Forest: A wild beast ambushes your party and you drop your weapons. You may resort to your bare hands. The overlord chooses one hero to test Might. If he fails, that hero suffers Hearts equal to his Might.",
       "Mountain: You find a chest sealed with a rune. Each hero tests Knowledge. If at least 2 heroes pass, the heroes may search the Search deck for 1 Health Potion, take it, and then shuffle the Search deck.",
@@ -991,7 +1005,7 @@
   },
   {
     "name": "Wild Beast",
-    "points": 66,
+    "points": 68,
     "travel": [
       "Forest: A wild beast ambushes your party and you drop your weapons. You may resort to your bare hands. The overlord chooses one hero to test Might. If he fails, that hero suffers Hearts equal to his Might.",
       "Mountain: You find a chest sealed with a rune. Each hero tests Knowledge. If at least 2 heroes pass, the heroes may search the Search deck for 1 Health Potion, take it, and then shuffle the Search deck.",
@@ -1006,7 +1020,7 @@
   },
   {
     "name": "Chest Sealed With A Rune",
-    "points": 67,
+    "points": 69,
     "travel": [
       "Forest: A wild beast ambushes your party and you drop your weapons. You may resort to your bare hands. The overlord chooses one hero to test Might. If he fails, that hero suffers Hearts equal to his Might.",
       "Mountain: You find a chest sealed with a rune. Each hero tests Knowledge. If at least 2 heroes pass, the heroes may search the Search deck for 1 Health Potion, take it, and then shuffle the Search deck.",
@@ -1021,7 +1035,7 @@
   },
   {
     "name": "Whispering Incoherently",
-    "points": 68,
+    "points": 70,
     "travel": [
       "Forest: A wild beast ambushes your party and you drop your weapons. You may resort to your bare hands. The overlord chooses one hero to test Might. If he fails, that hero suffers Hearts equal to his Might.",
       "Mountain: You find a chest sealed with a rune. Each hero tests Knowledge. If at least 2 heroes pass, the heroes may search the Search deck for 1 Health Potion, take it, and then shuffle the Search deck.",
@@ -1036,7 +1050,7 @@
   },
   {
     "name": "LR Travel Event 6 Of 8",
-    "points": 69,
+    "points": 71,
     "travel": [
       "Plain: A cloaked traveller offers a warning. Reveal the top card of the Overlord deck. The heroes may each suffer 1 Heart to place the card on the bottom of the deck. Otherwise, place the card on top of the deck.",
       "Mountain: As you bike your way up the mountain trail, the rocky ground gives way beneath your feet. Each hero tests Might. Each hero fails is Stunned. If all heroes fail, each hero suffers 1 Heart.",
@@ -1051,7 +1065,7 @@
   },
   {
     "name": "Cloaked Traveller",
-    "points": 70,
+    "points": 72,
     "travel": [
       "Plain: A cloaked traveller offers a warning. Reveal the top card of the Overlord deck. The heroes may each suffer 1 Heart to place the card on the bottom of the deck. Otherwise, place the card on top of the deck.",
       "Mountain: As you bike your way up the mountain trail, the rocky ground gives way beneath your feet. Each hero tests Might. Each hero fails is Stunned. If all heroes fail, each hero suffers 1 Heart.",
@@ -1066,7 +1080,7 @@
   },
   {
     "name": "Mountain Trail",
-    "points": 71,
+    "points": 73,
     "travel": [
       "Plain: A cloaked traveller offers a warning. Reveal the top card of the Overlord deck. The heroes may each suffer 1 Heart to place the card on the bottom of the deck. Otherwise, place the card on top of the deck.",
       "Mountain: As you bike your way up the mountain trail, the rocky ground gives way beneath your feet. Each hero tests Might. Each hero fails is Stunned. If all heroes fail, each hero suffers 1 Heart.",
@@ -1081,7 +1095,7 @@
   },
   {
     "name": "Dark Fog",
-    "points": 72,
+    "points": 74,
     "travel": [
       "Plain: A cloaked traveller offers a warning. Reveal the top card of the Overlord deck. The heroes may each suffer 1 Heart to place the card on the bottom of the deck. Otherwise, place the card on top of the deck.",
       "Mountain: As you bike your way up the mountain trail, the rocky ground gives way beneath your feet. Each hero tests Might. Each hero fails is Stunned. If all heroes fail, each hero suffers 1 Heart.",
@@ -1096,7 +1110,7 @@
   },
   {
     "name": "LR Travel Event 7 Of 8",
-    "points": 73,
+    "points": 75,
     "travel": [
       "Road: A tall tree offers a scouting vantage. Hero players choose 1 hero to suffer 1 Fatigue and test Awareness. If he passes, he may look at the top 3 cards of the Overlord deck and return them in any order he chooses.",
       "Mountain: Catching a spy does not prove easy. The overlord may choose to reveal his hand of Overlord cards. If he does, each hero suffers 2 Fatigue.",
@@ -1111,7 +1125,7 @@
   },
   {
     "name": "Tall Tree",
-    "points": 74,
+    "points": 76,
     "travel": [
       "Road: A tall tree offers a scouting vantage. Hero players choose 1 hero to suffer 1 Fatigue and test Awareness. If he passes, he may look at the top 3 cards of the Overlord deck and return them in any order he chooses.",
       "Mountain: Catching a spy does not prove easy. The overlord may choose to reveal his hand of Overlord cards. If he does, each hero suffers 2 Fatigue.",
@@ -1126,7 +1140,7 @@
   },
   {
     "name": "Catching A Spy",
-    "points": 75,
+    "points": 77,
     "travel": [
       "Road: A tall tree offers a scouting vantage. Hero players choose 1 hero to suffer 1 Fatigue and test Awareness. If he passes, he may look at the top 3 cards of the Overlord deck and return them in any order he chooses.",
       "Mountain: Catching a spy does not prove easy. The overlord may choose to reveal his hand of Overlord cards. If he does, each hero suffers 2 Fatigue.",
@@ -1141,7 +1155,7 @@
   },
   {
     "name": "Water Appears Dark",
-    "points": 76,
+    "points": 78,
     "travel": [
       "Road: A tall tree offers a scouting vantage. Hero players choose 1 hero to suffer 1 Fatigue and test Awareness. If he passes, he may look at the top 3 cards of the Overlord deck and return them in any order he chooses.",
       "Mountain: Catching a spy does not prove easy. The overlord may choose to reveal his hand of Overlord cards. If he does, each hero suffers 2 Fatigue.",
@@ -1156,7 +1170,7 @@
   },
   {
     "name": "LR Travel Event 8 Of 8",
-    "points": 77,
+    "points": 79,
     "travel": [
       "Plain: As you cross through a barren field with no sign of life, your party is assailed by unseen dark energy. Each hero tests Willpower. Each hero who fails is Cursed.",
       "Mountain: Evil minions gain strength. Place this card in the overlord's play area. The overlord may discard this card when activating a monster. That monster gains 2 movement points.",
@@ -1171,7 +1185,7 @@
   },
   {
     "name": "Barren Field",
-    "points": 78,
+    "points": 80,
     "travel": [
       "Plain: As you cross through a barren field with no sign of life, your party is assailed by unseen dark energy. Each hero tests Willpower. Each hero who fails is Cursed.",
       "Mountain: Evil minions gain strength. Place this card in the overlord's play area. The overlord may discard this card when activating a monster. That monster gains 2 movement points.",
@@ -1186,7 +1200,7 @@
   },
   {
     "name": "Evil Minions",
-    "points": 79,
+    "points": 81,
     "travel": [
       "Plain: As you cross through a barren field with no sign of life, your party is assailed by unseen dark energy. Each hero tests Willpower. Each hero who fails is Cursed.",
       "Mountain: Evil minions gain strength. Place this card in the overlord's play area. The overlord may discard this card when activating a monster. That monster gains 2 movement points.",
@@ -1201,7 +1215,7 @@
   },
   {
     "name": "Haggling",
-    "points": 80,
+    "points": 82,
     "travel": [
       "Plain: As you cross through a barren field with no sign of life, your party is assailed by unseen dark energy. Each hero tests Willpower. Each hero who fails is Cursed.",
       "Mountain: Evil minions gain strength. Place this card in the overlord's play area. The overlord may discard this card when activating a monster. That monster gains 2 movement points.",
@@ -1215,8 +1229,15 @@
     "xws": "haggling"
   },
   {
+    "name": "LR-Travel-Event-Decks-Back",
+    "points": 83,
+    "expansion": "Labyrinth Of Ruin",
+    "image": "travel-event-decks/labyrinth-of-ruin/travel-event-decks-back.png",
+    "xws": "lrtraveleventdecksback"
+  },
+  {
     "name": "TF Travel Event 1 Of 3",
-    "points": 81,
+    "points": 84,
     "travel": [
       "Road: A shady traveler offers you directions, for a price. If the heroes choose to spend 25 gold, do not draw a Travel Event card for the next travel icon stopped at this phase.",
       "Forest: A goblin scout is running to warn his comrades! One hero with a Ranged weapon rolls that weapon's dice. If the total range rolled is less than 4, each hero suffers 2 Hearts.",
@@ -1231,7 +1252,7 @@
   },
   {
     "name": "Shady Traveler",
-    "points": 82,
+    "points": 85,
     "travel": [
       "Road: A shady traveler offers you directions, for a price. If the heroes choose to spend 25 gold, do not draw a Travel Event card for the next travel icon stopped at this phase.",
       "Forest: A goblin scout is running to warn his comrades! One hero with a Ranged weapon rolls that weapon's dice. If the total range rolled is less than 4, each hero suffers 2 Hearts.",
@@ -1246,7 +1267,7 @@
   },
   {
     "name": "Goblin Scout",
-    "points": 83,
+    "points": 86,
     "travel": [
       "Road: A shady traveler offers you directions, for a price. If the heroes choose to spend 25 gold, do not draw a Travel Event card for the next travel icon stopped at this phase.",
       "Forest: A goblin scout is running to warn his comrades! One hero with a Ranged weapon rolls that weapon's dice. If the total range rolled is less than 4, each hero suffers 2 Hearts.",
@@ -1261,7 +1282,7 @@
   },
   {
     "name": "Vicious Thunderstorm",
-    "points": 84,
+    "points": 87,
     "travel": [
       "Road: A shady traveler offers you directions, for a price. If the heroes choose to spend 25 gold, do not draw a Travel Event card for the next travel icon stopped at this phase.",
       "Forest: A goblin scout is running to warn his comrades! One hero with a Ranged weapon rolls that weapon's dice. If the total range rolled is less than 4, each hero suffers 2 Hearts.",
@@ -1276,7 +1297,7 @@
   },
   {
     "name": "TF Travel Event 2 Of 3",
-    "points": 85,
+    "points": 88,
     "travel": [
       "Forest: A hideous plague worm attacks! The overlord chooses one hero. That hero suffers 1 Heart and is Weakened.",
       "Water: Something foul has corrupted these waters. Each hero tests Might. Each hero that fails gains an infection token or is Poisoned, overlord's choice.",
@@ -1291,7 +1312,7 @@
   },
   {
     "name": "Hideous Plague Worm",
-    "points": 86,
+    "points": 89,
     "travel": [
       "Forest: A hideous plague worm attacks! The overlord chooses one hero. That hero suffers 1 Heart and is Weakened.",
       "Water: Something foul has corrupted these waters. Each hero tests Might. Each hero that fails gains an infection token or is Poisoned, overlord's choice.",
@@ -1306,7 +1327,7 @@
   },
   {
     "name": "Something Foul",
-    "points": 87,
+    "points": 90,
     "travel": [
       "Forest: A hideous plague worm attacks! The overlord chooses one hero. That hero suffers 1 Heart and is Weakened.",
       "Water: Something foul has corrupted these waters. Each hero tests Might. Each hero that fails gains an infection token or is Poisoned, overlord's choice.",
@@ -1321,7 +1342,7 @@
   },
   {
     "name": "Captured Spy",
-    "points": 88,
+    "points": 91,
     "travel": [
       "Forest: A hideous plague worm attacks! The overlord chooses one hero. That hero suffers 1 Heart and is Weakened.",
       "Water: Something foul has corrupted these waters. Each hero tests Might. Each hero that fails gains an infection token or is Poisoned, overlord's choice.",
@@ -1336,7 +1357,7 @@
   },
   {
     "name": "TF Travel Event 3 Of 3",
-    "points": 89,
+    "points": 92,
     "travel": [
       "Road: A long knight in shinning silver armor blocks your path, bellowing a challenge to your strongest warrior. Draw cards from the current Act's Shop Item deck until a Melee weapon is revealed. One hero may choose to perform an attack with a Melee weapon against a gray defense die. This hero is also targeted by an attack from the drawn Shop Item, using his normal defense pool. If the hero deals more Hearts than he suffers, he may take the drawn Shop Item. If he suffers more Hearts than he deals, discard the drawn shop item. In either case, return this card to the game box. If the heroes choose not to do this, treat this Travel Event card as \"No Event\".",
       "Plain: A long knight in shinning silver armor blocks your path, bellowing a challenge to your strongest warrior. Draw cards from the current Act's Shop Item deck until a Melee weapon is revealed. One hero may choose to perform an attack with a Melee weapon against a gray defense die. This hero is also targeted by an attack from the drawn Shop Item, using his normal defense pool. If the hero deals more Hearts than he suffers, he may take the drawn Shop Item. If he suffers more Hearts than he deals, discard the drawn shop item. In either case, return this card to the game box. If the heroes choose not to do this, treat this Travel Event card as \"No Event\".",
@@ -1351,7 +1372,7 @@
   },
   {
     "name": "Lone Knight",
-    "points": 90,
+    "points": 93,
     "travel": [
       "Road: A lone knight in shinning silver armor blocks your path, bellowing a challenge to your strongest warrior. Draw cards from the current Act's Shop Item deck until a Melee weapon is revealed. One hero may choose to perform an attack with a Melee weapon against a gray defense die. This hero is also targeted by an attack from the drawn Shop Item, using his normal defense pool. If the hero deals more Hearts than he suffers, he may take the drawn Shop Item. If he suffers more Hearts than he deals, discard the drawn shop item. In either case, return this card to the game box. If the heroes choose not to do this, treat this Travel Event card as \"No Event\".",
       "Plain: A lone knight in shinning silver armor blocks your path, bellowing a challenge to your strongest warrior. Draw cards from the current Act's Shop Item deck until a Melee weapon is revealed. One hero may choose to perform an attack with a Melee weapon against a gray defense die. This hero is also targeted by an attack from the drawn Shop Item, using his normal defense pool. If the hero deals more Hearts than he suffers, he may take the drawn Shop Item. If he suffers more Hearts than he deals, discard the drawn shop item. In either case, return this card to the game box. If the heroes choose not to do this, treat this Travel Event card as \"No Event\".",
@@ -1365,8 +1386,15 @@
     "xws": "loneknight"
   },
   {
+    "name": "TF-Travel-Event-Decks-Back",
+    "points": 94,
+    "expansion": "The Trollfens",
+    "image": "travel-event-decks/the-trollfens/travel-event-decks-back.png",
+    "xws": "tftraveleventdecksback"
+  },
+  {
     "name": "MB Travel Event 1 Of 5",
-    "points": 91,
+    "points": 95,
     "travel": [
       "Water: Among the darkened waters you see a deep but inviting lagoon. Each hero may choose to suffer 2 Hearts and recover 2 Fatigue or suffer 2 Fatigue and recover 2 Hearts.",
       "Plain: A wild witch offers a boon. The heroes choose 1 hero to be Terrified. At the end of that hero's first turn, each monster adjacent to that hero is Terrified.",
@@ -1381,7 +1409,7 @@
   },
   {
     "name": "Inviting Lagoon",
-    "points": 92,
+    "points": 96,
     "travel": [
       "Water: Among the darkened waters you see a deep but inviting lagoon. Each hero may choose to suffer 2 Hearts and recover 2 Fatigue or suffer 2 Fatigue and recover 2 Hearts.",
       "Plain: A wild witch offers a boon. The heroes choose 1 hero to be Terrified. At the end of that hero's first turn, each monster adjacent to that hero is Terrified.",
@@ -1396,7 +1424,7 @@
   },
   {
     "name": "Wild Witch",
-    "points": 93,
+    "points": 97,
     "travel": [
       "Water: Among the darkened waters you see a deep but inviting lagoon. Each hero may choose to suffer 2 Hearts and recover 2 Fatigue or suffer 2 Fatigue and recover 2 Hearts.",
       "Plain: A wild witch offers a boon. The heroes choose 1 hero to be Terrified. At the end of that hero's first turn, each monster adjacent to that hero is Terrified.",
@@ -1411,7 +1439,7 @@
   },
   {
     "name": "Strange Locket",
-    "points": 94,
+    "points": 98,
     "travel": [
       "Water: Among the darkened waters you see a deep but inviting lagoon. Each hero may choose to suffer 2 Hearts and recover 2 Fatigue or suffer 2 Fatigue and recover 2 Hearts.",
       "Plain: A wild witch offers a boon. The heroes choose 1 hero to be Terrified. At the end of that hero's first turn, each monster adjacent to that hero is Terrified.",
@@ -1426,7 +1454,7 @@
   },
   {
     "name": "MB Travel Event 2 Of 5",
-    "points": 95,
+    "points": 99,
     "travel": [
       "Road: A large tree in your path is inscribed with inspiring words. Each hero applies +1 to each of his attributes until the end of this Travel Step.",
       "Mountain: Unnatural figures haunt the edge of your campsites. The heroes choose a hero to test Awareness. If he passes, he is Terrified. If he fails, each other hero is Terrified.",
@@ -1441,7 +1469,7 @@
   },
   {
     "name": "Large Tree",
-    "points": 96,
+    "points": 100,
     "travel": [
       "Road: A large tree in your path is inscribed with inspiring words. Each hero applies +1 to each of his attributes until the end of this Travel Step.",
       "Mountain: Unnatural figures haunt the edge of your campsites. The heroes choose a hero to test Awareness. If he passes, he is Terrified. If he fails, each other hero is Terrified.",
@@ -1456,7 +1484,7 @@
   },
   {
     "name": "Unnatural Figures",
-    "points": 97,
+    "points": 101,
     "travel": [
       "Road: A large tree in your path is inscribed with inspiring words. Each hero applies +1 to each of his attributes until the end of this Travel Step.",
       "Mountain: Unnatural figures haunt the edge of your campsites. The heroes choose a hero to test Awareness. If he passes, he is Terrified. If he fails, each other hero is Terrified.",
@@ -1471,7 +1499,7 @@
   },
   {
     "name": "Recent Rain",
-    "points": 98,
+    "points": 102,
     "travel": [
       "Road: A large tree in your path is inscribed with inspiring words. Each hero applies +1 to each of his attributes until the end of this Travel Step.",
       "Mountain: Unnatural figures haunt the edge of your campsites. The heroes choose a hero to test Awareness. If he passes, he is Terrified. If he fails, each other hero is Terrified.",
@@ -1486,7 +1514,7 @@
   },
   {
     "name": "MB Travel Event 3 Of 5",
-    "points": 99,
+    "points": 103,
     "travel": [
       "Water: The water teems with festering leeches. Each hero tests Awareness. Each hero who fails is Diseased.",
       "Mountain: The reek of burning flesh draws you to an abandoned funeral pyre. The heroes may choose 1 hero to test Awareness. If he passes, that hero draws 1 Search card and is Terrified.",
@@ -1501,7 +1529,7 @@
   },
   {
     "name": "Festering Leeches",
-    "points": 100,
+    "points": 104,
     "travel": [
       "Water: The water teems with festering leeches. Each hero tests Awareness. Each hero who fails is Diseased.",
       "Mountain: The reek of burning flesh draws you to an abandoned funeral pyre. The heroes may choose 1 hero to test Awareness. If he passes, that hero draws 1 Search card and is Terrified.",
@@ -1516,7 +1544,7 @@
   },
   {
     "name": "Burning Flesh",
-    "points": 101,
+    "points": 105,
     "travel": [
       "Water: The water teems with festering leeches. Each hero tests Awareness. Each hero who fails is Diseased.",
       "Mountain: The reek of burning flesh draws you to an abandoned funeral pyre. The heroes may choose 1 hero to test Awareness. If he passes, that hero draws 1 Search card and is Terrified.",
@@ -1531,7 +1559,7 @@
   },
   {
     "name": "Turn Back",
-    "points": 102,
+    "points": 106,
     "travel": [
       "Water: The water teems with festering leeches. Each hero tests Awareness. Each hero who fails is Diseased.",
       "Mountain: The reek of burning flesh draws you to an abandoned funeral pyre. The heroes may choose 1 hero to test Awareness. If he passes, that hero draws 1 Search card and is Terrified.",
@@ -1546,7 +1574,7 @@
   },
   {
     "name": "MB Travel Event 4 Of 5",
-    "points": 103,
+    "points": 107,
     "travel": [
       "Road: You stumble across an ancient graveyard. The statue of a hooded figure towers over the crumbling tombstones. In the statue's hands, a black crystal emanates a foreboding glow. The heroes may choose to harvest the power of the crystal. If they do, each hero tests Knowledge. Each hero who fails is Terrified or Diseased (overlord's choice). If all heroes pass, place this card in the play area of the hero with the highest Knowledge. During his turn, that hero may return this card to the game box. If he does, each hero may discard 1 condition. If the heroes choose not to do this, treat this Travel Event card as \"No Event\".",
       "Plain: You stumble across an ancient graveyard. The statue of a hooded figure towers over the crumbling tombstones. In the statue's hands, a black crystal emanates a foreboding glow. The heroes may choose to harvest the power of the crystal. If they do, each hero tests Knowledge. Each hero who fails is Terrified or Diseased (overlord's choice). If all heroes pass, place this card in the play area of the hero with the highest Knowledge. During his turn, that hero may return this card to the game box. If he does, each hero may discard 1 condition. If the heroes choose not to do this, treat this Travel Event card as \"No Event\".",
@@ -1561,7 +1589,7 @@
   },
   {
     "name": "Ancient Graveyard",
-    "points": 104,
+    "points": 108,
     "travel": [
       "Road: You stumble across an ancient graveyard. The statue of a hooded figure towers over the crumbling tombstones. In the statue's hands, a black crystal emanates a foreboding glow. The heroes may choose to harvest the power of the crystal. If they do, each hero tests Knowledge. Each hero who fails is Terrified or Diseased (overlord's choice). If all heroes pass, place this card in the play area of the hero with the highest Knowledge. During his turn, that hero may return this card to the game box. If he does, each hero may discard 1 condition. If the heroes choose not to do this, treat this Travel Event card as \"No Event\".",
       "Plain: You stumble across an ancient graveyard. The statue of a hooded figure towers over the crumbling tombstones. In the statue's hands, a black crystal emanates a foreboding glow. The heroes may choose to harvest the power of the crystal. If they do, each hero tests Knowledge. Each hero who fails is Terrified or Diseased (overlord's choice). If all heroes pass, place this card in the play area of the hero with the highest Knowledge. During his turn, that hero may return this card to the game box. If he does, each hero may discard 1 condition. If the heroes choose not to do this, treat this Travel Event card as \"No Event\".",
@@ -1576,7 +1604,7 @@
   },
   {
     "name": "MB Travel Event 5 Of 5",
-    "points": 105,
+    "points": 109,
     "travel": [
       "Road: You find the remains of a wagon. A chest with a bizarre lock sits unopened among the wreckage. A voice whispers in your mind, \"By ogre and wraith, unleash that which waits\". The heroes may choose 2 heroes to test both Might and Willpower to open the chest. If both heroes pass both tests, 1 hero draws and receives 1 Shop Item card from the current Act's Shop Item deck. Each hero who fails his Might test is Stunned. Each hero who fails his Willpower test is Terrified. If the heroes choose not to do this, treat this Travel Event card as \"No Event\". After resolving this event, return this card to the game box.",
       "Plain: You find the remains of a wagon. A chest with a bizarre lock sits unopened among the wreckage. A voice whispers in your mind, \"By ogre and wraith, unleash that which waits\". The heroes may choose 2 heroes to test both Might and Willpower to open the chest. If both heroes pass both tests, 1 hero draws and receives 1 Shop Item card from the current Act's Shop Item deck. Each hero who fails his Might test is Stunned. Each hero who fails his Willpower test is Terrified. If the heroes choose not to do this, treat this Travel Event card as \"No Event\". After resolving this event, return this card to the game box.",
@@ -1591,7 +1619,7 @@
   },
   {
     "name": "Remains Of A Wagon",
-    "points": 106,
+    "points": 110,
     "travel": [
       "Road: You find the remains of a wagon. A chest with a bizarre lock sits unopened among the wreckage. A voice whispers in your mind, \"By ogre and wraith, unleash that which waits\". The heroes may choose 2 heroes to test both Might and Willpower to open the chest. If both heroes pass both tests, 1 hero draws and receives 1 Shop Item card from the current Act's Shop Item deck. Each hero who fails his Might test is Stunned. Each hero who fails his Willpower test is Terrified. If the heroes choose not to do this, treat this Travel Event card as \"No Event\". After resolving this event, return this card to the game box.",
       "Plain: You find the remains of a wagon. A chest with a bizarre lock sits unopened among the wreckage. A voice whispers in your mind, \"By ogre and wraith, unleash that which waits\". The heroes may choose 2 heroes to test both Might and Willpower to open the chest. If both heroes pass both tests, 1 hero draws and receives 1 Shop Item card from the current Act's Shop Item deck. Each hero who fails his Might test is Stunned. Each hero who fails his Willpower test is Terrified. If the heroes choose not to do this, treat this Travel Event card as \"No Event\". After resolving this event, return this card to the game box.",
@@ -1605,8 +1633,15 @@
     "xws": "ramainsofawagon"
   },
   {
+    "name": "MB-Travel-Event-Decks-Back",
+    "points": 111,
+    "expansion": "Mists Of Bilehall",
+    "image": "travel-event-decks/mists-of-bilehall/travel-event-decks-back.png",
+    "xws": "mbtraveleventdecksback"
+  },
+  {
     "name": "CR Travel Event 1 Of 2",
-    "points": 107,
+    "points": 112,
     "travel": [
       "Road: You scurry off the road as a battalion of enemy soldiers marches into view. You press yourselves against the berm, desperate to not be seen. Each hero tests Awareness. For each hero who fails, each hero suffers 1 Fatigue.",
       "Plain: Silent vultures congregate in the sky above you, their number ever growing. Each hero tests Willpower. Each hero who fails is Terrified. Each hero who passes chooses 1 monster on the map to be Terrified.",
@@ -1621,7 +1656,7 @@
   },
   {
     "name": "Enemy Soldiers",
-    "points": 108,
+    "points": 113,
     "travel": [
       "Road: You scurry off the road as a battalion of enemy soldiers marches into view. You press yourselves against the berm, desperate to not be seen. Each hero tests Awareness. For each hero who fails, each hero suffers 1 Fatigue.",
       "Plain: Silent vultures congregate in the sky above you, their number ever growing. Each hero tests Willpower. Each hero who fails is Terrified. Each hero who passes chooses 1 monster on the map to be Terrified.",
@@ -1636,7 +1671,7 @@
   },
   {
     "name": "Silent Vultures",
-    "points": 109,
+    "points": 114,
     "travel": [
       "Road: You scurry off the road as a battalion of enemy soldiers marches into view. You press yourselves against the berm, desperate to not be seen. Each hero tests Awareness. For each hero who fails, each hero suffers 1 Fatigue.",
       "Plain: Silent vultures congregate in the sky above you, their number ever growing. Each hero tests Willpower. Each hero who fails is Terrified. Each hero who passes chooses 1 monster on the map to be Terrified.",
@@ -1651,7 +1686,7 @@
   },
   {
     "name": "Young Couple",
-    "points": 110,
+    "points": 115,
     "travel": [
       "Road: You scurry off the road as a battalion of enemy soldiers marches into view. You press yourselves against the berm, desperate to not be seen. Each hero tests Awareness. For each hero who fails, each hero suffers 1 Fatigue.",
       "Plain: Silent vultures congregate in the sky above you, their number ever growing. Each hero tests Willpower. Each hero who fails is Terrified. Each hero who passes chooses 1 monster on the map to be Terrified.",
@@ -1666,7 +1701,7 @@
   },
   {
     "name": "CR Travel Event 2 Of 2",
-    "points": 111,
+    "points": 116,
     "travel": [
       "Water: Globules of blood bubble up from unseen depths, filling the air with putrid red mist. Each hero tests Knowledge. Each hero who fails is Diseased and tests Willpower. Each hero who fails again is Terrified.",
       "Mountain: You happen upon an enormous coffin inlaid into the face of a cliff. The heroes choose a number of heroes to test Might. Each hero who fails suffers 3 Hearts. If 1 or more heroes pass, the heroes gain 25 gold.",
@@ -1681,7 +1716,7 @@
   },
   {
     "name": "Globules Of Blood",
-    "points": 112,
+    "points": 117,
     "travel": [
       "Water: Globules of blood bubble up from unseen depths, filling the air with putrid red mist. Each hero tests Knowledge. Each hero who fails is Diseased and tests Willpower. Each hero who fails again is Terrified.",
       "Mountain: You happen upon an enormous coffin inlaid into the face of a cliff. The heroes choose a number of heroes to test Might. Each hero who fails suffers 3 Hearts. If 1 or more heroes pass, the heroes gain 25 gold.",
@@ -1696,7 +1731,7 @@
   },
   {
     "name": "Enormous Coffin",
-    "points": 113,
+    "points": 118,
     "travel": [
       "Water: Globules of blood bubble up from unseen depths, filling the air with putrid red mist. Each hero tests Knowledge. Each hero who fails is Diseased and tests Willpower. Each hero who fails again is Terrified.",
       "Mountain: You happen upon an enormous coffin inlaid into the face of a cliff. The heroes choose a number of heroes to test Might. Each hero who fails suffers 3 Hearts. If 1 or more heroes pass, the heroes gain 25 gold.",
@@ -1711,7 +1746,7 @@
   },
   {
     "name": "Twelve Roads",
-    "points": 114,
+    "points": 119,
     "travel": [
       "Water: Globules of blood bubble up from unseen depths, filling the air with putrid red mist. Each hero tests Knowledge. Each hero who fails is Diseased and tests Willpower. Each hero who fails again is Terrified.",
       "Mountain: You happen upon an enormous coffin inlaid into the face of a cliff. The heroes choose a number of heroes to test Might. Each hero who fails suffers 3 Hearts. If 1 or more heroes pass, the heroes gain 25 gold.",
@@ -1725,10 +1760,10 @@
     "xws": "crtwelveroads"
   },
   {
-    "name": "Travel-Event-Decks-Back",
-    "points": 115,
+    "name": "CR-Travel-Event-Decks-Back",
+    "points": 120,
     "expansion": "The Chains That Rust",
     "image": "travel-event-decks/the-chains-that-rust/travel-event-decks-back.png",
-    "xws": "traveleventdecksback"
+    "xws": "crtraveleventdecksback"
   }
 ]
