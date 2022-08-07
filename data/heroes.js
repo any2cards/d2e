@@ -534,7 +534,7 @@
     "ability": "Each time a monster adjacent to you is defeated, a hero within 3 spaces of you may recover 1 Heart.",
     "feat": "Use when a hero within 3 spaces of you fails an attribute test. That hero passes the test instead and recovers Hearts equal to Shields rolled in this test.",
     "expansion": "Maze Of The Drakon",
-    "image": "heroes/mages/lymina-the-resolute-motd.png",
+    "image": "heroes/healers/lymina-the-resolute-motd.png",
     "xws": "lyminatheresolute"
   },
   {
@@ -542,7 +542,7 @@
     "points": 41,
     "quote": "My latern casts a light no barrier can stop. My shoulder pads are a shelter no light can pierce.",
     "expansion": "Maze Of The Drakon",
-    "image": "heroes/mages/lymina-the-resolute-motd-back.png",
+    "image": "heroes/healers/lymina-the-resolute-motd-back.png",
     "xws": "lyminatheresoluteback"
   },
   {
