@@ -520,8 +520,34 @@
     "xws": "jonasthekindback"
   },
   {
-    "name": "Okaluk And Rakash",
+    "name": "Lymina The Resolute",
     "points": 40,
+    "archetype": "Healer",
+    "speed": 4,
+    "health": 8,
+    "stamina": 4,
+    "defense": "Black",
+    "willpower": 3,
+    "might": 3,
+    "knowledge": 3,
+    "awareness": 3,
+    "ability": "Each time a monster adjacent to you is defeated, a hero within 3 spaces of you may recover 1 Heart.",
+    "feat": "Use when a hero within 3 spaces of you fails an attribute test. That hero passes the test instead and recovers Hearts equal to Shields rolled in this test.",
+    "expansion": "Maze Of The Drakon",
+    "image": "heroes/mages/lymina-the-resolute-motd.png",
+    "xws": "lyminatheresolute"
+  },
+  {
+    "name": "Lymina The Resolute Back",
+    "points": 41,
+    "quote": "My latern casts a light no barrier can stop. My shoulder pads are a shelter no light can pierce.",
+    "expansion": "Maze Of The Drakon",
+    "image": "heroes/mages/lymina-the-resolute-motd-back.png",
+    "xws": "lyminatheresoluteback"
+  },
+  {
+    "name": "Okaluk And Rakash",
+    "points": 42,
     "archetype": "Healer",
     "speed": 2,
     "health": 8,
@@ -539,7 +565,7 @@
   },
   {
     "name": "Okaluk And Rakash Back",
-    "points": 41,
+    "points": 43,
     "quote": "I will follow where you lead, old friend. But let us go swiftly!",
     "expansion": "Stewards Of The Secret",
     "image": "heroes/healers/okaluk-and-rakash-ss-back.png",
@@ -547,7 +573,7 @@
   },
   {
     "name": "Okaluk And Rakash",
-    "points": 42,
+    "points": 44,
     "archetype": "Healer",
     "speed": 2,
     "health": 8,
@@ -565,7 +591,7 @@
   },
   {
     "name": "Okaluk And Rakash Back",
-    "points": 43,
+    "points": 45,
     "quote": "You know my answer already, old friend. I could never abandon you.",
     "expansion": "Conversion Kit",
     "image": "heroes/healers/okaluk-and-rakash-ck-back.png",
@@ -573,7 +599,7 @@
   },
   {
     "name": "Rendiel",
-    "points": 44,
+    "points": 46,
     "archetype": "Healer",
     "speed": 5,
     "health": 10,
@@ -591,7 +617,7 @@
   },
   {
     "name": "Rendiel Back",
-    "points": 45,
+    "points": 47,
     "quote": "An ancient melody, refine through countless generations...freely given.",
     "expansion": "Shadow Of Nerekhall",
     "image": "heroes/healers/rendiel-sn-back.png",
@@ -599,7 +625,7 @@
   },
   {
     "name": "Sahla",
-    "points": 46,
+    "points": 48,
     "archetype": "Healer",
     "speed": 4,
     "health": 10,
@@ -617,7 +643,7 @@
   },
   {
     "name": "Sahla Back",
-    "points": 47,
+    "points": 49,
     "quote": "Why be only one man when I have the power to be many?",
     "expansion": "Guardians Of Deephall",
     "image": "heroes/healers/sahla-gd-back.png",
@@ -625,7 +651,7 @@
   },
   {
     "name": "Sahla",
-    "points": 48,
+    "points": 50,
     "archetype": "Healer",
     "speed": 4,
     "health": 10,
@@ -643,7 +669,7 @@
   },
   {
     "name": "Sahla Back",
-    "points": 49,
+    "points": 51,
     "quote": "Special powers are all well and good, but there are other paths to fame.",
     "expansion": "Conversion Kit",
     "image": "heroes/healers/sahla-ck-back.png",
@@ -651,7 +677,7 @@
   },
   {
     "name": "Serena",
-    "points": 50,
+    "points": 52,
     "archetype": "Healer",
     "speed": 3,
     "health": 8,
@@ -669,7 +695,7 @@
   },
   {
     "name": "Serena Back",
-    "points": 51,
+    "points": 53,
     "quote": "I have waited in silence for far too long. Now the world will know my song.",
     "expansion": "Labyrinth Of Ruin",
     "image": "heroes/healers/serena-lr-back.png",
@@ -677,7 +703,7 @@
   },
   {
     "name": "Ulma Grimstone",
-    "points": 52,
+    "points": 54,
     "archetype": "Healer",
     "speed": 4,
     "health": 8,
@@ -695,7 +721,7 @@
   },
   {
     "name": "Ulma Grimstone Back",
-    "points": 53,
+    "points": 55,
     "quote": "The only thing more exciting than mixing up a new concoction is actually testing it.",
     "expansion": "Labyrinth Of Ruin",
     "image": "heroes/healers/ulma-grimstone-lr-back.png",
@@ -703,7 +729,7 @@
   },
   {
     "name": "Astarra",
-    "points": 54,
+    "points": 56,
     "archetype": "Mage",
     "speed": 4,
     "health": 10,
@@ -721,7 +747,7 @@
   },
   {
     "name": "Astarra Back",
-    "points": 55,
+    "points": 57,
     "quote": "You'd be surprised what you can learn when you've no one to tell you how to think.",
     "expansion": "Crusade Of The Forgotten",
     "image": "heroes/mages/astarra-cf-back.png",
@@ -729,7 +755,7 @@
   },
   {
     "name": "Astarra",
-    "points": 56,
+    "points": 58,
     "archetype": "Mage",
     "speed": 4,
     "health": 10,
@@ -747,7 +773,7 @@
   },
   {
     "name": "Astarra Back",
-    "points": 57,
+    "points": 59,
     "quote": "The Rune Keepers said I was too unruly to be taught, so all I needed to know I've learned on my own.",
     "expansion": "Conversion Kit",
     "image": "heroes/mages/astarra-ck-back.png",
@@ -755,7 +781,7 @@
   },
   {
     "name": "Aurora",
-    "points": 58,
+    "points": 60,
     "archetype": "Mage",
     "speed": 4,
     "health": 8,
@@ -773,7 +799,7 @@
   },
   {
     "name": "Aurora Back",
-    "points": 59,
+    "points": 61,
     "quote": "In the end, everything will burn!",
     "expansion": "Maze Of The Drakon",
     "image": "heroes/mages/aurora-motd-back.png",
@@ -781,7 +807,7 @@
   },
   {
     "name": "Challara",
-    "points": 60,
+    "points": 62,
     "archetype": "Mage",
     "speed": 3,
     "health": 10,
@@ -799,7 +825,7 @@
   },
   {
     "name": "Challara Back",
-    "points": 61,
+    "points": 63,
     "quote": "The flames of my fury you have survived, but can you endure the flame of my dragon?",
     "expansion": "Bonds Of The Wild",
     "image": "heroes/mages/challara-bw-back.png",
@@ -807,7 +833,7 @@
   },
   {
     "name": "Challara",
-    "points": 62,
+    "points": 64,
     "archetype": "Mage",
     "speed": 3,
     "health": 10,
@@ -825,7 +851,7 @@
   },
   {
     "name": "Challara Back",
-    "points": 63,
+    "points": 65,
     "quote": "All I accomplish, every enemy I vanquish, is to the glory of my ancestors.",
     "expansion": "Conversion Kit",
     "image": "heroes/mages/challara-ck-back.png",
@@ -833,7 +859,7 @@
   },
   {
     "name": "Dezra The Vile",
-    "points": 64,
+    "points": 66,
     "archetype": "Mage",
     "speed": 5,
     "health": 8,
@@ -851,7 +877,7 @@
   },
   {
     "name": "Dezra The Vile Back",
-    "points": 65,
+    "points": 67,
     "quote": "Very few people understand my abilities. I prefer it that way.",
     "expansion": "Labyrinth Of Ruin",
     "image": "heroes/mages/dezra-the-vile-lr-back.png",
@@ -859,7 +885,7 @@
   },
   {
     "name": "High Mage Quellen",
-    "points": 66,
+    "points": 68,
     "archetype": "Mage",
     "speed": 4,
     "health": 10,
@@ -877,7 +903,7 @@
   },
   {
     "name": "High Mage Quellen Back",
-    "points": 67,
+    "points": 69,
     "quote": "I feed off the wisdom of others, even when it's less filling than my own.",
     "expansion": "Lair Of The Wyrm",
     "image": "heroes/mages/high-mage-quellen-lw-back.png",
@@ -885,7 +911,7 @@
   },
   {
     "name": "Jaes The Exile",
-    "points": 68,
+    "points": 70,
     "archetype": "Mage",
     "speed": 4,
     "health": 12,
@@ -903,7 +929,7 @@
   },
   {
     "name": "Jaes The Exile Back",
-    "points": 69,
+    "points": 71,
     "quote": "Courage and sacrifice mean nothing! We must overcome or die in shame.",
     "expansion": "Crown Of Destiny",
     "image": "heroes/mages/jaes-the-exile-cd-back.png",
@@ -911,7 +937,7 @@
   },
   {
     "name": "Jaes The Exile",
-    "points": 70,
+    "points": 72,
     "archetype": "Mage",
     "speed": 4,
     "health": 12,
@@ -929,7 +955,7 @@
   },
   {
     "name": "Jaes The Exile Back",
-    "points": 71,
+    "points": 73,
     "quote": "The Dragon Wars almost destroyed my people. I will die before I let that happen again.",
     "expansion": "Conversion Kit",
     "image": "heroes/mages/jaes-the-exile-ck-back.png",
@@ -937,7 +963,7 @@
   },
   {
     "name": "Landrec The Wise",
-    "points": 72,
+    "points": 74,
     "archetype": "Mage",
     "speed": 3,
     "health": 10,
@@ -955,7 +981,7 @@
   },
   {
     "name": "Landrec The Wise Back",
-    "points": 73,
+    "points": 75,
     "quote": "Wisdown comes with age, but knowledge must always be searched for.",
     "expansion": "Conversion Kit",
     "image": "heroes/mages/landrec-the-wise-ck-back.png",
@@ -963,7 +989,7 @@
   },
   {
     "name": "Landrec The Wise UC",
-    "points": 74,
+    "points": 76,
     "archetype": "Mage",
     "speed": 3,
     "health": 10,
@@ -981,7 +1007,7 @@
   },
   {
     "name": "Landrec The Wise UC Back",
-    "points": 75,
+    "points": 77,
     "quote": "Wisdown comes with age, but knowledge must always be searched for.",
     "expansion": "User Community",
     "image": "heroes/mages/landrec-the-wise-uc-back.png",
@@ -989,7 +1015,7 @@
   },
   {
     "name": "Leoric Of The Book",
-    "points": 76,
+    "points": 78,
     "archetype": "Mage",
     "speed": 4,
     "health": 8,
@@ -1007,7 +1033,7 @@
   },
   {
     "name": "Leoric Of The Book Back",
-    "points": 77,
+    "points": 79,
     "quote": "If my years of study have taught me anything, it is that I am worthy of the knowledge I possess.",
     "expansion": "Base Game",
     "image": "heroes/mages/leoric-of-the-book-bg-back.png",
@@ -1015,7 +1041,7 @@
   },
   {
     "name": "Lyssa",
-    "points": 78,
+    "points": 80,
     "archetype": "Mage",
     "speed": 5,
     "health": 8,
@@ -1033,7 +1059,7 @@
   },
   {
     "name": "Lyssa Back",
-    "points": 79,
+    "points": 81,
     "quote": "There is more knowledge in the squirming of my prey than in all your dusty tomes.",
     "expansion": "Bonds Of The Wild",
     "image": "heroes/mages/lyssa-bw-back.png",
@@ -1041,7 +1067,7 @@
   },
   {
     "name": "Lyssa",
-    "points": 80,
+    "points": 82,
     "archetype": "Mage",
     "speed": 5,
     "health": 8,
@@ -1059,7 +1085,7 @@
   },
   {
     "name": "Lyssa Back",
-    "points": 81,
+    "points": 83,
     "quote": "My people are one with nature.",
     "expansion": "Conversion Kit",
     "image": "heroes/mages/lyssa-ck-back.png",
@@ -1067,7 +1093,7 @@
   },
   {
     "name": "Mad Carthos",
-    "points": 82,
+    "points": 84,
     "archetype": "Mage",
     "speed": 4,
     "health": 8,
@@ -1085,7 +1111,7 @@
   },
   {
     "name": "Mad Carthos Back",
-    "points": 83,
+    "points": 85,
     "quote": "If it's madness to seek power at any cost, then yes, you may call me mad.",
     "expansion": "Conversion Kit",
     "image": "heroes/mages/mad-carthos-ck-back.png",
@@ -1093,7 +1119,7 @@
   },
   {
     "name": "Mad Carthos UC",
-    "points": 84,
+    "points": 86,
     "archetype": "Mage",
     "speed": 4,
     "health": 8,
@@ -1111,7 +1137,7 @@
   },
   {
     "name": "Mad Carthos UC Back",
-    "points": 85,
+    "points": 87,
     "quote": "If it's madness to seek power at any cost, then yes, you may call me mad.",
     "expansion": "User Community",
     "image": "heroes/mages/mad-carthos-uc-back.png",
@@ -1119,7 +1145,7 @@
   },
   {
     "name": "Master Thorn",
-    "points": 86,
+    "points": 88,
     "archetype": "Mage",
     "speed": 5,
     "health": 8,
@@ -1137,7 +1163,7 @@
   },
   {
     "name": "Master Thorn Back",
-    "points": 87,
+    "points": 89,
     "quote": "I walk the unseen paths, those that were never meant for the feet of men.",
     "expansion": "Visions Of Dawn",
     "image": "heroes/mages/master-thorn-vd-back.png",
@@ -1145,7 +1171,7 @@
   },
   {
     "name": "Master Thorn",
-    "points": 88,
+    "points": 90,
     "archetype": "Mage",
     "speed": 5,
     "health": 8,
@@ -1163,7 +1189,7 @@
   },
   {
     "name": "Master Thorn Back",
-    "points": 89,
+    "points": 91,
     "quote": "You can't see the paths I walk, because they were not meant to be tread.",
     "expansion": "Conversion Kit",
     "image": "heroes/mages/master-thorn-ck-back.png",
@@ -1171,7 +1197,7 @@
   },
   {
     "name": "Ravaella Lightfoot",
-    "points": 90,
+    "points": 92,
     "archetype": "Mage",
     "speed": 5,
     "health": 8,
@@ -1189,7 +1215,7 @@
   },
   {
     "name": "Ravaella Lightfoot Back",
-    "points": 91,
+    "points": 93,
     "quote": "Am I here? Am I over there? Or am I right behind you!",
     "expansion": "Shadow Of Nerekhall",
     "image": "heroes/mages/ravaella-lightfoot-sn-back.png",
@@ -1197,7 +1223,7 @@
   },
   {
     "name": "Runemaker Tara",
-    "points": 92,
+    "points": 94,
     "archetype": "Mage",
     "speed": 4,
     "health": 10,
@@ -1215,7 +1241,7 @@
   },
   {
     "name": "Runemaker Tara Back",
-    "points": 93,
+    "points": 95,
     "quote": "When you speak with living lightning you must use your loudest voice.",
     "expansion": "Sands Of The Past",
     "image": "heroes/mages/runemaker-tara-sotp-back.png",
@@ -1223,7 +1249,7 @@
   },
   {
     "name": "Seer Kel",
-    "points": 94,
+    "points": 96,
     "archetype": "Mage",
     "speed": 4,
     "health": 10,
@@ -1241,7 +1267,7 @@
   },
   {
     "name": "Seer Kel Back",
-    "points": 95,
+    "points": 97,
     "quote": "Some say they've seen the whole of Terrinoth. They are blind.",
     "expansion": "Stewards Of The Secret",
     "image": "heroes/mages/seer-kel-ss-back.png",
@@ -1249,7 +1275,7 @@
   },
   {
     "name": "Shiver",
-    "points": 96,
+    "points": 98,
     "archetype": "Mage",
     "speed": 4,
     "health": 10,
@@ -1267,7 +1293,7 @@
   },
   {
     "name": "Shiver Back",
-    "points": 97,
+    "points": 99,
     "quote": "I care not the cost or pain, nor if my judgement was just; I will work out my redemption.",
     "expansion": "Oath Of The Outcast",
     "image": "heroes/mages/shiver-oo-back.png",
@@ -1275,7 +1301,7 @@
   },
   {
     "name": "Shiver",
-    "points": 98,
+    "points": 100,
     "archetype": "Mage",
     "speed": 4,
     "health": 8,
@@ -1293,7 +1319,7 @@
   },
   {
     "name": "Shiver Back",
-    "points": 99,
+    "points": 101,
     "quote": "My sins were grevious, but I have repented for millenia. How long was I meant to suffer for my crimes?",
     "expansion": "Conversion Kit",
     "image": "heroes/mages/shiver-ck-back.png",
@@ -1301,7 +1327,7 @@
   },
   {
     "name": "Truthseer Kel",
-    "points": 100,
+    "points": 102,
     "archetype": "Mage",
     "speed": 4,
     "health": 10,
@@ -1319,7 +1345,7 @@
   },
   {
     "name": "Truthseer Kel Back",
-    "points": 101,
+    "points": 103,
     "quote": "I see what others cannot, and into places others dare not.",
     "expansion": "Conversion Kit",
     "image": "heroes/mages/truthseer-kel-ck-back.png",
@@ -1327,7 +1353,7 @@
   },
   {
     "name": "Widow Tarha",
-    "points": 102,
+    "points": 104,
     "archetype": "Mage",
     "speed": 4,
     "health": 10,
@@ -1345,7 +1371,7 @@
   },
   {
     "name": "Widow Tarha Back",
-    "points": 103,
+    "points": 105,
     "quote": "I have nothing left to lose. Yet, there is so much more power for me to gain.",
     "expansion": "Base Game",
     "image": "heroes/mages/widow-tarha-bg-back.png",
@@ -1353,7 +1379,7 @@
   },
   {
     "name": "Zyla",
-    "points": 104,
+    "points": 106,
     "archetype": "Mage",
     "speed": 5,
     "health": 8,
@@ -1371,7 +1397,7 @@
   },
   {
     "name": "Zyla Back",
-    "points": 105,
+    "points": 107,
     "quote": "Pursue me all you want; we'll meet when and where I decide - then you die.",
     "expansion": "Treaty Of Champions",
     "image": "heroes/mages/zyla-tc-back.png",
@@ -1379,7 +1405,7 @@
   },
   {
     "name": "Zyla",
-    "points": 106,
+    "points": 108,
     "archetype": "Mage",
     "speed": 4,
     "health": 8,
@@ -1397,7 +1423,7 @@
   },
   {
     "name": "Zyla Back",
-    "points": 107,
+    "points": 109,
     "quote": "Can't hit what you can't catch!",
     "expansion": "Conversion Kit",
     "image": "heroes/mages/zyla-ck-back.png",
@@ -1405,7 +1431,7 @@
   },
   {
     "name": "Arvel Worldwalker",
-    "points": 108,
+    "points": 110,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1423,7 +1449,7 @@
   },
   {
     "name": "Arvel Worldwalker Back",
-    "points": 109,
+    "points": 111,
     "quote": "My quest remains unsatisfied - the search for a problem to which I am not the answer!",
     "expansion": "Shards Of Everdark",
     "image": "heroes/scouts/arvel-worldwalker-se-back.png",
@@ -1431,7 +1457,7 @@
   },
   {
     "name": "Arvel Worldwalker",
-    "points": 110,
+    "points": 112,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1449,7 +1475,7 @@
   },
   {
     "name": "Arvel Worldwalker Back",
-    "points": 111,
+    "points": 113,
     "quote": "This Land is harsh and terrible, I grant you. But I have seen as harsh before and lived.",
     "expansion": "Conversion Kit",
     "image": "heroes/scouts/arvel-worldwalker-ck-back.png",
@@ -1457,7 +1483,7 @@
   },
   {
     "name": "Bogran The Shadow",
-    "points": 112,
+    "points": 114,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1475,7 +1501,7 @@
   },
   {
     "name": "Bogran The Shadow Back",
-    "points": 113,
+    "points": 115,
     "quote": "I am a deadly wind, invisible and inescapable. You cannot see me, but you can see where I have been.",
     "expansion": "Conversion Kit",
     "image": "heroes/scouts/bogran-the-shadow-ck-back.png",
@@ -1483,7 +1509,7 @@
   },
   {
     "name": "Bogran The Shadow UC",
-    "points": 114,
+    "points": 116,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1501,7 +1527,7 @@
   },
   {
     "name": "Bogran The Shadow UC Back",
-    "points": 115,
+    "points": 117,
     "quote": "I am a deadly wind, invisible and inescapable. You cannot see me, but you can see where I have been.",
     "expansion": "User Community",
     "image": "heroes/scouts/bogran-the-shadow-uc-back.png",
@@ -1509,7 +1535,7 @@
   },
   {
     "name": "Grey Ker",
-    "points": 116,
+    "points": 118,
     "archetype": "Scout",
     "speed": 4,
     "health": 12,
@@ -1527,7 +1553,7 @@
   },
   {
     "name": "Grey Ker Back",
-    "points": 117,
+    "points": 119,
     "quote": "If justice is the shadow of a setting sun, I am the midnight that follows.",
     "expansion": "Treaty Of Champions",
     "image": "heroes/scouts/grey-ker-tc-back.png",
@@ -1535,7 +1561,7 @@
   },
   {
     "name": "Grey Ker",
-    "points": 118,
+    "points": 120,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1553,7 +1579,7 @@
   },
   {
     "name": "Grey Ker Back",
-    "points": 119,
+    "points": 121,
     "quote": "I'm not the thin line between black and white... I'm the thin line between life and your death.",
     "expansion": "Conversion Kit",
     "image": "heroes/scouts/grey-ker-ck-back.png",
@@ -1561,7 +1587,7 @@
   },
   {
     "name": "Jain Fairwood",
-    "points": 120,
+    "points": 122,
     "archetype": "Scout",
     "speed": 5,
     "health": 8,
@@ -1579,7 +1605,7 @@
   },
   {
     "name": "Jain Fairwood Back",
-    "points": 121,
+    "points": 123,
     "quote": "Out here in the wilds, I protect those who have misjudged me.",
     "expansion": "Base Game",
     "image": "heroes/scouts/jain-fairwood-bg-back.png",
@@ -1587,7 +1613,7 @@
   },
   {
     "name": "Kirga",
-    "points": 122,
+    "points": 124,
     "archetype": "Scout",
     "speed": 4,
     "health": 12,
@@ -1605,7 +1631,7 @@
   },
   {
     "name": "Kirga Back",
-    "points": 123,
+    "points": 125,
     "quote": "Knowing how to find things helps keep one hidden. And I know how to find anything...",
     "expansion": "Conversion Kit",
     "image": "heroes/scouts/kirga-ck-back.png",
@@ -1613,7 +1639,7 @@
   },
   {
     "name": "Kirga UC",
-    "points": 124,
+    "points": 126,
     "archetype": "Scout",
     "speed": 4,
     "health": 12,
@@ -1631,7 +1657,7 @@
   },
   {
     "name": "Kirga UC Back",
-    "points": 125,
+    "points": 127,
     "quote": "Knowing how to find things helps keep one hidden. And I know how to find anything...",
     "expansion": "User Community",
     "image": "heroes/scouts/kirga-uc-back.png",
@@ -1639,7 +1665,7 @@
   },
   {
     "name": "Laurel Of Bloodwood",
-    "points": 126,
+    "points": 128,
     "archetype": "Scout",
     "speed": 4,
     "health": 8,
@@ -1657,7 +1683,7 @@
   },
   {
     "name": "Laurel Of Bloodwood Back",
-    "points": 127,
+    "points": 129,
     "quote": "Herald and reaper, my arrow calls your name; answer with silence and blood.",
     "expansion": "Oath Of The Outcast",
     "image": "heroes/scouts/laurel-of-bloodwood-oo-back.png",
@@ -1665,7 +1691,7 @@
   },
   {
     "name": "Laurel Of Bloodwood",
-    "points": 128,
+    "points": 130,
     "archetype": "Scout",
     "speed": 4,
     "health": 8,
@@ -1683,7 +1709,7 @@
   },
   {
     "name": "Laurel Of Bloodwood Back",
-    "points": 129,
+    "points": 131,
     "quote": "No matter what you hear, it was our bows that gave my home its name, not the autumn winds.",
     "expansion": "Conversion Kit",
     "image": "heroes/scouts/laurel-of-bloodwood-ck-back.png",
@@ -1691,7 +1717,7 @@
   },
   {
     "name": "Lindel",
-    "points": 130,
+    "points": 132,
     "archetype": "Scout",
     "speed": 5,
     "health": 10,
@@ -1709,7 +1735,7 @@
   },
   {
     "name": "Lindel Back",
-    "points": 131,
+    "points": 133,
     "quote": "I have been here before and watch darkness triumph. It will not happen again.",
     "expansion": "Crown Of Destiny",
     "image": "heroes/scouts/lindel-cd-back.png",
@@ -1717,7 +1743,7 @@
   },
   {
     "name": "Lindel",
-    "points": 132,
+    "points": 134,
     "archetype": "Scout",
     "speed": 5,
     "health": 10,
@@ -1735,7 +1761,7 @@
   },
   {
     "name": "Lindel Back",
-    "points": 133,
+    "points": 135,
     "quote": "There is so much sorrow in the world, I do what I may to end the cruelty that plagues this Land.",
     "expansion": "Conversion Kit",
     "image": "heroes/scouts/lindel-ck-back.png",
@@ -1743,7 +1769,7 @@
   },
   {
     "name": "Logan Lashley",
-    "points": 134,
+    "points": 136,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1761,7 +1787,7 @@
   },
   {
     "name": "Logan Lashley Back",
-    "points": 135,
+    "points": 137,
     "quote": "There is no question that you need me. The question is, can you afford me?",
     "expansion": "Labyrinth Of Ruin",
     "image": "heroes/scouts/logan-lashley-lr-back.png",
@@ -1769,7 +1795,7 @@
   },
   {
     "name": "Ravvis The Ranger",
-    "points": 136,
+    "points": 138,
     "archetype": "Scout",
     "speed": 6,
     "health": 8,
@@ -1787,7 +1813,7 @@
   },
   {
     "name": "Ravvis The Ranger Back",
-    "points": 137,
+    "points": 139,
     "quote": "Did you hear that?",
     "expansion": "Maze Of The Drakon",
     "image": "heroes/scouts/ravvis-the-ranger-motd-back.png",
@@ -1795,7 +1821,7 @@
   },
   {
     "name": "Raythen",
-    "points": 138,
+    "points": 140,
     "archetype": "Scout",
     "speed": 4,
     "health": 14,
@@ -1813,7 +1839,7 @@
   },
   {
     "name": "Raythen Back",
-    "points": 139,
+    "points": 141,
     "quote": "Just be careful, I'd wager this place still has a few tricks up its sleeve.",
     "expansion": "Labyrinth Of Ruin",
     "image": "heroes/scouts/raythen-lr-back.png",
@@ -1821,7 +1847,7 @@
   },
   {
     "name": "Red Scorpion",
-    "points": 140,
+    "points": 142,
     "archetype": "Scout",
     "speed": 5,
     "health": 8,
@@ -1839,7 +1865,7 @@
   },
   {
     "name": "Red Scorpion Back",
-    "points": 141,
+    "points": 143,
     "quote": "Balance is the essence of success. To succeed, one must be balanced in all things.",
     "expansion": "Conversion Kit",
     "image": "heroes/scouts/red-scorpion-ck-back.png",
@@ -1847,7 +1873,7 @@
   },
   {
     "name": "Red Scorpion UC",
-    "points": 142,
+    "points": 144,
     "archetype": "Scout",
     "speed": 5,
     "health": 8,
@@ -1865,7 +1891,7 @@
   },
   {
     "name": "Red Scorpion UC Back",
-    "points": 143,
+    "points": 145,
     "quote": "Balance is the essence of success. To succeed, one must be balanced in all things.",
     "expansion": "User Community",
     "image": "heroes/scouts/red-scorpion-uc-back.png",
@@ -1873,7 +1899,7 @@
   },
   {
     "name": "Roganna The Shade",
-    "points": 144,
+    "points": 146,
     "archetype": "Scout",
     "speed": 5,
     "health": 10,
@@ -1891,7 +1917,7 @@
   },
   {
     "name": "Roganna The Shade Back",
-    "points": 145,
+    "points": 147,
     "quote": "Keep perfectly still. It may look small, but that creature is aggressive, and its bite is fatal.",
     "expansion": "The Trollfens",
     "image": "heroes/scouts/roganna-the-shade-tf-back.png",
@@ -1899,7 +1925,7 @@
   },
   {
     "name": "Ronan Of The Wild",
-    "points": 146,
+    "points": 148,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1917,7 +1943,7 @@
   },
   {
     "name": "Ronan Of The Wild Back",
-    "points": 147,
+    "points": 149,
     "quote": "The forest is stirring...but we are prepared for anything.",
     "expansion": "Bonds Of The Wild",
     "image": "heroes/scouts/ronan-of-the-wild-bw-back.png",
@@ -1925,7 +1951,7 @@
   },
   {
     "name": "Ronan Of The Wild",
-    "points": 148,
+    "points": 150,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -1943,7 +1969,7 @@
   },
   {
     "name": "Ronan Of The Wild Back",
-    "points": 149,
+    "points": 151,
     "quote": "There's something unnatural stirring in the forests.",
     "expansion": "Conversion Kit",
     "image": "heroes/scouts/ronan-of-the-wild-ck-back.png",
@@ -1951,7 +1977,7 @@
   },
   {
     "name": "Silhouette",
-    "points": 150,
+    "points": 152,
     "archetype": "Scout",
     "speed": 5,
     "health": 10,
@@ -1969,7 +1995,7 @@
   },
   {
     "name": "Silhouette Back",
-    "points": 151,
+    "points": 153,
     "quote": "Don't worry... I'll just be right around the corner.",
     "expansion": "Guardians Of Deephall",
     "image": "heroes/scouts/silhouette-gd-back.png",
@@ -1977,7 +2003,7 @@
   },
   {
     "name": "Silhouette",
-    "points": 152,
+    "points": 154,
     "archetype": "Scout",
     "speed": 5,
     "health": 10,
@@ -1995,7 +2021,7 @@
   },
   {
     "name": "Silhouette Back",
-    "points": 153,
+    "points": 155,
     "quote": "Shhh... This will only hurt for a moment.",
     "expansion": "Conversion Kit",
     "image": "heroes/scouts/silhouette-ck-back.png",
@@ -2003,7 +2029,7 @@
   },
   {
     "name": "Tatianna",
-    "points": 154,
+    "points": 156,
     "archetype": "Scout",
     "speed": 5,
     "health": 12,
@@ -2021,7 +2047,7 @@
   },
   {
     "name": "Tatianna Back",
-    "points": 155,
+    "points": 157,
     "quote": "My sisters have given me everything. I seek only to return that favor.",
     "expansion": "Stewards Of The Secret",
     "image": "heroes/scouts/tatianna-ss-back.png",
@@ -2029,7 +2055,7 @@
   },
   {
     "name": "Tatianna",
-    "points": 156,
+    "points": 158,
     "archetype": "Scout",
     "speed": 5,
     "health": 12,
@@ -2047,7 +2073,7 @@
   },
   {
     "name": "Tatianna Back",
-    "points": 157,
+    "points": 159,
     "quote": "I will journey where my tribe will not go and hunt that which no one else dares to hunt.",
     "expansion": "Conversion Kit",
     "image": "heroes/scouts/tatianna-ck-back.png",
@@ -2055,7 +2081,7 @@
   },
   {
     "name": "Tetherys",
-    "points": 158,
+    "points": 160,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -2073,7 +2099,7 @@
   },
   {
     "name": "Tetherys Back",
-    "points": 159,
+    "points": 161,
     "quote": "I am a daughter of darkness and a companion of chaos; fate has forgotten my name.",
     "expansion": "Crusade Of The Forgotten",
     "image": "heroes/scouts/tetherys-cf-back.png",
@@ -2081,7 +2107,7 @@
   },
   {
     "name": "Tetherys",
-    "points": 160,
+    "points": 162,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -2099,7 +2125,7 @@
   },
   {
     "name": "Tetherys Back",
-    "points": 161,
+    "points": 163,
     "quote": "Sometimes even I don't know just where I will strike next.",
     "expansion": "Conversion Kit",
     "image": "heroes/scouts/tetherys-ck-back.png",
@@ -2107,7 +2133,7 @@
   },
   {
     "name": "Thaiden Mistpeak",
-    "points": 162,
+    "points": 164,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -2125,7 +2151,7 @@
   },
   {
     "name": "Thaiden Mistpeak Back",
-    "points": 163,
+    "points": 165,
     "quote": "We all have debts to pay.",
     "expansion": "Manor Of Ravens",
     "image": "heroes/scouts/thaiden-mistpeak-mr-back.png",
@@ -2133,7 +2159,7 @@
   },
   {
     "name": "Thaiden Mistpeak",
-    "points": 164,
+    "points": 166,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -2151,7 +2177,7 @@
   },
   {
     "name": "Thaiden Mistpeak Back",
-    "points": 165,
+    "points": 167,
     "quote": "We all have debts to pay.",
     "expansion": "Manor Of Ravens",
     "image": "heroes/scouts/thaiden-mistpeak-mr-errata-back.png",
@@ -2159,7 +2185,7 @@
   },
   {
     "name": "Tinashi The Wanderer",
-    "points": 166,
+    "points": 168,
     "archetype": "Scout",
     "speed": 4,
     "health": 12,
@@ -2177,7 +2203,7 @@
   },
   {
     "name": "Tinashi The Wanderer Back",
-    "points": 167,
+    "points": 169,
     "quote": "Shadows keep me. Shadows protect me. There is nothing to fear in the shadows...except me.",
     "expansion": "Shadow Of Nerekhall",
     "image": "heroes/scouts/tinashi-the-wanderer-sn-back.png",
@@ -2185,7 +2211,7 @@
   },
   {
     "name": "Tobin Farslayer",
-    "points": 168,
+    "points": 170,
     "archetype": "Scout",
     "speed": 4,
     "health": 12,
@@ -2203,7 +2229,7 @@
   },
   {
     "name": "Tobin Farslayer Back",
-    "points": 169,
+    "points": 171,
     "quote": "It matters not how far away you are. My bow can reach you.",
     "expansion": "Conversion Kit",
     "image": "heroes/scouts/tobin-farslayer-ck-back.png",
@@ -2211,7 +2237,7 @@
   },
   {
     "name": "Tobin Farslayer UC",
-    "points": 170,
+    "points": 172,
     "archetype": "Scout",
     "speed": 4,
     "health": 12,
@@ -2229,7 +2255,7 @@
   },
   {
     "name": "Tobin Farslayer UC Back",
-    "points": 171,
+    "points": 173,
     "quote": "It matters not how far away you are. My bow can reach you.",
     "expansion": "User Community",
     "image": "heroes/scouts/tobin-farslayer-uc-back.png",
@@ -2237,7 +2263,7 @@
   },
   {
     "name": "Tomble Burrowell",
-    "points": 172,
+    "points": 174,
     "archetype": "Scout",
     "speed": 4,
     "health": 8,
@@ -2255,7 +2281,7 @@
   },
   {
     "name": "Tomble Burrowell Back",
-    "points": 173,
+    "points": 175,
     "quote": "Don't think of this as you being robbed. Instead, think of it as you donating to a worthy cause.",
     "expansion": "Base Game",
     "image": "heroes/scouts/tomble-burrowell-bg-back.png",
@@ -2263,7 +2289,7 @@
   },
   {
     "name": "Vyrah The Falconer",
-    "points": 174,
+    "points": 176,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -2281,7 +2307,7 @@
   },
   {
     "name": "Vyrah The Falconer Back",
-    "points": 175,
+    "points": 177,
     "quote": "If you train a falcon well, you begin to trust her more than your own eyes.",
     "expansion": "Bonds Of The Wild",
     "image": "heroes/scouts/vyrah-the-falconer-bw-back.png",
@@ -2289,7 +2315,7 @@
   },
   {
     "name": "Vyrah The Falconer",
-    "points": 176,
+    "points": 178,
     "archetype": "Scout",
     "speed": 4,
     "health": 10,
@@ -2307,7 +2333,7 @@
   },
   {
     "name": "Vyrah The Falconer Back",
-    "points": 177,
+    "points": 179,
     "quote": "My loyal falcon sees far.",
     "expansion": "Conversion Kit",
     "image": "heroes/scouts/vyrah-the-falconer-ck-back.png",
@@ -2315,7 +2341,7 @@
   },
   {
 	"name": "Alys Raine",
-    "points": 178,
+    "points": 180,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -2333,7 +2359,7 @@
   },
   {
     "name": "Alys Raine Back",
-    "points": 179,
+    "points": 181,
     "quote": "The thief and the lord are equal; the law calls them both to justice.",
     "expansion": "Manor Of Ravens",
     "image": "heroes/warriors/alys-raine-mr-back.png",
@@ -2341,7 +2367,7 @@
   },
   {
     "name": "Corbin",
-    "points": 180,
+    "points": 182,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -2359,7 +2385,7 @@
   },
   {
     "name": "Corbin Back",
-    "points": 181,
+    "points": 183,
     "quote": "I don't hold grudges. I keep short accounts. Now fight me!",
     "expansion": "Crown Of Destiny",
     "image": "heroes/warriors/corbin-cd-back.png",
@@ -2367,7 +2393,7 @@
   },
   {
     "name": "Corbin",
-    "points": 182,
+    "points": 184,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -2385,7 +2411,7 @@
   },
   {
     "name": "Corbin Back",
-    "points": 183,
+    "points": 185,
     "quote": "The only way I'll stop fightin' is if I take you down with me.",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/corbin-ck-back.png",
@@ -2393,7 +2419,7 @@
   },
   {
     "name": "Eliam",
-    "points": 184,
+    "points": 186,
     "archetype": "Warrior",
     "speed": 5,
     "health": 12,
@@ -2411,7 +2437,7 @@
   },
   {
     "name": "Eliam Back",
-    "points": 185,
+    "points": 187,
     "quote": "Battle is a dance of blades and wits.",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/eliam-ck-back.png",
@@ -2419,7 +2445,7 @@
   },
   {
     "name": "Eliam UC",
-    "points": 186,
+    "points": 188,
     "archetype": "Warrior",
     "speed": 5,
     "health": 12,
@@ -2437,7 +2463,7 @@
   },
   {
     "name": "Eliam UC Back",
-    "points": 187,
+    "points": 189,
     "quote": "Battle is a dance of blades and wits.",
     "expansion": "User Community",
     "image": "heroes/warriors/eliam-uc-back.png",
@@ -2445,7 +2471,7 @@
   },
   {
     "name": "Grisban The Thirsty",
-    "points": 188,
+    "points": 190,
     "archetype": "Warrior",
     "speed": 3,
     "health": 14,
@@ -2463,7 +2489,7 @@
   },
   {
     "name": "Grisban The Thirsty Back",
-    "points": 189,
+    "points": 191,
     "quote": "All this killing is thirsty work. Drink with me!",
     "expansion": "Base Game",
     "image": "heroes/warriors/grisban-the-thirsty-bg-back.png",
@@ -2471,7 +2497,7 @@
   },
   {
     "name": "Grisban The Thirsty",
-    "points": 190,
+    "points": 192,
     "archetype": "Warrior",
     "speed": 3,
     "health": 14,
@@ -2489,7 +2515,7 @@
   },
   {
     "name": "Grisban The Thirsty Back",
-    "points": 191,
+    "points": 193,
     "quote": "All this killing is thirsty work. Drink with me!",
     "expansion": "Base Game",
     "image": "heroes/warriors/grisban-the-thirsty-bg-errata-back.png",
@@ -2497,7 +2523,7 @@
   },
   {
     "name": "Hugo The Glorious",
-    "points": 192,
+    "points": 194,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -2515,7 +2541,7 @@
   },
   {
     "name": "Hugo The Glorious Back",
-    "points": 193,
+    "points": 195,
     "quote": "The songs of my name and my triumphs should be heard in every corner of the world.",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/hugo-the-glorious-ck-back.png",
@@ -2523,7 +2549,7 @@
   },
   {
     "name": "Hugo The Glorious UC",
-    "points": 194,
+    "points": 196,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -2541,7 +2567,7 @@
   },
   {
     "name": "Hugo The Glorious UC Back",
-    "points": 195,
+    "points": 197,
     "quote": "The songs of my name and my triumphs should be heard in every corner of the world.",
     "expansion": "User Community",
     "image": "heroes/warriors/hugo-the-glorious-uc-back.png",
@@ -2549,7 +2575,7 @@
   },
   {
     "name": "Karnon",
-    "points": 196,
+    "points": 198,
     "archetype": "Warrior",
     "speed": 4,
     "health": 14,
@@ -2567,7 +2593,7 @@
   },
   {
     "name": "Karnon Back",
-    "points": 197,
+    "points": 199,
     "quote": "At end of ages, Karnon remain: ever strong, ever alone.",
     "expansion": "Shards Of Everdark",
     "image": "heroes/warriors/karnon-se-back.png",
@@ -2575,7 +2601,7 @@
   },
   {
     "name": "Karnon",
-    "points": 198,
+    "points": 200,
     "archetype": "Warrior",
     "speed": 4,
     "health": 14,
@@ -2593,7 +2619,7 @@
   },
   {
     "name": "Karnon Back",
-    "points": 199,
+    "points": 201,
     "quote": "Karnon needs no help from little man. Karnon is Karnon.",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/karnon-ck-back.png",
@@ -2601,7 +2627,7 @@
   },
   {
     "name": "Krutzbeck",
-    "points": 200,
+    "points": 202,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -2619,7 +2645,7 @@
   },
   {
     "name": "Krutzbeck Back",
-    "points": 201,
+    "points": 203,
     "quote": "Hit 'em hard. If they're still standing, hit 'em again-harder.",
     "expansion": "Treaty Of Champions",
     "image": "heroes/warriors/krutzbeck-tc-back.png",
@@ -2627,7 +2653,7 @@
   },
   {
     "name": "Krutzbeck",
-    "points": 202,
+    "points": 204,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -2645,7 +2671,7 @@
   },
   {
     "name": "Krutzbeck Back",
-    "points": 203,
+    "points": 205,
     "quote": "Smash it. Crush it. If that doesn't work, smash it and crush it again.",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/krutzbeck-ck-back.png",
@@ -2653,7 +2679,7 @@
   },
   {
     "name": "Laughin Buldar",
-    "points": 204,
+    "points": 206,
     "archetype": "Warrior",
     "speed": 3,
     "health": 14,
@@ -2671,7 +2697,7 @@
   },
   {
     "name": "Laughin Buldar Back",
-    "points": 205,
+    "points": 207,
     "quote": "Courage, my brothers! Surrender yourselves to the joy of battle and we shall meet our destiny together!",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/laughin-buldar-ck-back.png",
@@ -2679,7 +2705,7 @@
   },
   {
     "name": "Laughin Buldar UC",
-    "points": 206,
+    "points": 208,
     "archetype": "Warrior",
     "speed": 3,
     "health": 14,
@@ -2697,7 +2723,7 @@
   },
   {
     "name": "Laughin Buldar UC Back",
-    "points": 207,
+    "points": 209,
     "quote": "Courage, my brothers! Surrender yourselves to the joy of battle and we shall meet our destiny together!",
     "expansion": "User Community",
     "image": "heroes/warriors/laughin-buldar-uc-back.png",
@@ -2705,7 +2731,7 @@
   },
   {
     "name": "Lord Hawthorne",
-    "points": 208,
+    "points": 210,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -2723,7 +2749,7 @@
   },
   {
     "name": "Lord Hawthorne Back",
-    "points": 209,
+    "points": 211,
     "quote": "None fall faster than they that flee.",
     "expansion": "Guardians Of Deephall",
     "image": "heroes/warriors/lord-hawthorne-gd-back.png",
@@ -2731,7 +2757,7 @@
   },
   {
     "name": "Lord Hawthorne",
-    "points": 210,
+    "points": 212,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -2749,7 +2775,7 @@
   },
   {
     "name": "Lord Hawthorne Back",
-    "points": 211,
+    "points": 213,
     "quote": "If you decide to flee from me, you better hope you flee far enough.",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/lord-hawthorne-ck-back.png",
@@ -2757,7 +2783,7 @@
   },
   {
     "name": "Mordrog",
-    "points": 212,
+    "points": 214,
     "archetype": "Warrior",
     "speed": 4,
     "health": 14,
@@ -2775,7 +2801,7 @@
   },
   {
     "name": "Mordrog Back",
-    "points": 213,
+    "points": 215,
     "quote": "Prejudice is only a mask for jealousy.",
     "expansion": "Guardians Of Deephall",
     "image": "heroes/warriors/mordrog-gd-back.png",
@@ -2783,7 +2809,7 @@
   },
   {
     "name": "Mordrog",
-    "points": 214,
+    "points": 216,
     "archetype": "Warrior",
     "speed": 3,
     "health": 14,
@@ -2801,7 +2827,7 @@
   },
   {
     "name": "Mordrog Back",
-    "points": 215,
+    "points": 217,
     "quote": "You call me beast. You call me animal. But I call you coward.",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/mordrog-ck-back.png",
@@ -2809,7 +2835,7 @@
   },
   {
     "name": "Nanok Of The Blade",
-    "points": 216,
+    "points": 218,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -2827,7 +2853,7 @@
   },
   {
     "name": "Nanok Of The Blade Back",
-    "points": 217,
+    "points": 219,
     "quote": "Some fools cower behind metal, thinking the purpose of battle is survival.",
     "expansion": "Stewards Of The Secret",
     "image": "heroes/warriors/nanok-of-the-blade-ss-back.png",
@@ -2835,7 +2861,7 @@
   },
   {
     "name": "Nanok Of The Blade",
-    "points": 218,
+    "points": 220,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -2853,7 +2879,7 @@
   },
   {
     "name": "Nanok Of The Blade Back",
-    "points": 219,
+    "points": 221,
     "quote": "To wear armor is to fear that a foe might strike me. It is cowardice. I am no coward.",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/nanok-of-the-blade-ck-back.png",
@@ -2861,7 +2887,7 @@
   },
   {
     "name": "Nara The Fang",
-    "points": 220,
+    "points": 222,
     "archetype": "Warrior",
     "speed": 5,
     "health": 10,
@@ -2879,7 +2905,7 @@
   },
   {
     "name": "Nara The Fang Back",
-    "points": 221,
+    "points": 223,
     "quote": "Take your lessons from the wind; swift and constant, striking as a howling gale.",
     "expansion": "Visions Of Dawn",
     "image": "heroes/warriors/nara-the-fang-vd-back.png",
@@ -2887,7 +2913,7 @@
   },
   {
     "name": "Nara The Fang",
-    "points": 222,
+    "points": 224,
     "archetype": "Warrior",
     "speed": 5,
     "health": 10,
@@ -2905,7 +2931,7 @@
   },
   {
     "name": "Nara The Fang Back",
-    "points": 223,
+    "points": 225,
     "quote": "I leap, I attack, I stab, I kill!",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/nara-the-fang-ck-back.png",
@@ -2913,7 +2939,7 @@
   },
   {
     "name": "Ocvist The Dragonslayer",
-    "points": 224,
+    "points": 226,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -2931,7 +2957,7 @@
   },
   {
     "name": "Ocvist The Dragonslayer Back",
-    "points": 225,
+    "points": 227,
     "quote": "One of you will be allowed to escape. The rest will be my next meal...",
     "expansion": "Maze Of The Drakon",
     "image": "heroes/warriors/ocvist-the-dragonslayer-motd-back.png",
@@ -2939,7 +2965,7 @@
   },
   {
     "name": "One Fist",
-    "points": 226,
+    "points": 228,
     "archetype": "Warrior",
     "speed": 4,
     "health": 10,
@@ -2957,7 +2983,7 @@
   },
   {
     "name": "One Fist Back",
-    "points": 227,
+    "points": 229,
     "quote": "I didn't get the hook after losing my hand. I forfeited my hand to make room for the hook!",
     "expansion": "Shards Of Everdark",
     "image": "heroes/warriors/one-fist-se-back.png",
@@ -2965,7 +2991,7 @@
   },
   {
     "name": "One Fist",
-    "points": 228,
+    "points": 230,
     "archetype": "Warrior",
     "speed": 4,
     "health": 10,
@@ -2983,7 +3009,7 @@
   },
   {
     "name": "One Fist Back",
-    "points": 229,
+    "points": 231,
     "quote": "I've fought many battles and seen the worst the world has to offer. Do your worst. I have no fear.",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/one-fist-ck-back.png",
@@ -2991,7 +3017,7 @@
   },
   {
     "name": "Orkell The Swift",
-    "points": 230,
+    "points": 232,
     "archetype": "Warrior",
     "speed": 5,
     "health": 10,
@@ -3009,7 +3035,7 @@
   },
   {
     "name": "Orkell The Swift Back",
-    "points": 231,
+    "points": 233,
     "quote": "Just try to keep up, all right?",
     "expansion": "Shadow Of Nerekhall",
     "image": "heroes/warriors/orkell-the-swift-sn-back.png",
@@ -3017,7 +3043,7 @@
   },
   {
     "name": "Pathfinder Durik",
-    "points": 232,
+    "points": 234,
     "archetype": "Warrior",
     "speed": 5,
     "health": 10,
@@ -3035,7 +3061,7 @@
   },
   {
     "name": "Pathfinder Durik Back",
-    "points": 233,
+    "points": 235,
     "quote": "The ways I know are dangerous, and I tread them carefully. I advise you do the same...",
     "expansion": "Labyrinth Of Ruin",
     "image": "heroes/warriors/pathfinder-durik-lr-back.png",
@@ -3043,7 +3069,7 @@
   },
   {
     "name": "Reynhart The Worthy",
-    "points": 234,
+    "points": 236,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -3061,7 +3087,7 @@
   },
   {
     "name": "Reynhart The Worthy Back",
-    "points": 235,
+    "points": 237,
     "quote": "I've been known to lose, but never to give up!",
     "expansion": "Lair Of The Wyrm",
     "image": "heroes/warriors/reynhart-the-worthy-lw-back.png",
@@ -3069,7 +3095,7 @@
   },
   {
     "name": "Sir Valadir",
-    "points": 236,
+    "points": 238,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -3087,7 +3113,7 @@
   },
   {
     "name": "Sir Valadir Back",
-    "points": 237,
+    "points": 239,
     "quote": "Stay close. I've got the bigger sword.",
     "expansion": "Visions Of Dawn",
     "image": "heroes/warriors/sir-valadir-vd-back.png",
@@ -3095,7 +3121,7 @@
   },
   {
     "name": "Sir Valadir",
-    "points": 238,
+    "points": 240,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -3113,7 +3139,7 @@
   },
   {
     "name": "Sir Valadir Back",
-    "points": 239,
+    "points": 241,
     "quote": "Ours is a noble crusade! We will fight gloriously and die with honor!",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/sir-valadir-ck-back.png",
@@ -3121,7 +3147,7 @@
   },
   {
     "name": "Steelhorns",
-    "points": 240,
+    "points": 242,
     "archetype": "Warrior",
     "speed": 4,
     "health": 14,
@@ -3139,7 +3165,7 @@
   },
   {
     "name": "Steelhorns Back",
-    "points": 241,
+    "points": 243,
     "quote": "Friends are an awful lot like foes. Neither knows when to get out of the way.",
     "expansion": "Shards Of Everdark",
     "image": "heroes/warriors/steelhorns-se-back.png",
@@ -3147,7 +3173,7 @@
   },
   {
     "name": "Steelhorns",
-    "points": 242,
+    "points": 244,
     "archetype": "Warrior",
     "speed": 4,
     "health": 14,
@@ -3165,7 +3191,7 @@
   },
   {
     "name": "Steelhorns Back",
-    "points": 243,
+    "points": 245,
     "quote": "Humans have called us monsters throughout the ages, but we know who the real beasts are.",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/steelhorns-ck-back.png",
@@ -3173,7 +3199,7 @@
   },
   {
     "name": "Syndrael",
-    "points": 244,
+    "points": 246,
     "archetype": "Warrior",
     "speed": 4,
     "health": 12,
@@ -3191,7 +3217,7 @@
   },
   {
     "name": "Syndrael Back",
-    "points": 245,
+    "points": 247,
     "quote": "You swear undying loyalty, yet you are mortal. What can you know of commitment?",
     "expansion": "Base Game",
     "image": "heroes/warriors/syndrael-bg-back.png",
@@ -3199,7 +3225,7 @@
   },
   {
     "name": "Tahlia",
-    "points": 246,
+    "points": 248,
     "archetype": "Warrior",
     "speed": 3,
     "health": 14,
@@ -3217,7 +3243,7 @@
   },
   {
     "name": "Tahlia Back",
-    "points": 247,
+    "points": 249,
     "quote": "We will only prevail when evil fears the darkness more than it hates the light!",
     "expansion": "Crusade Of The Forgotten",
     "image": "heroes/warriors/tahlia-cf-back.png",
@@ -3225,7 +3251,7 @@
   },
   {
     "name": "Tahlia",
-    "points": 248,
+    "points": 250,
     "archetype": "Warrior",
     "speed": 3,
     "health": 14,
@@ -3243,7 +3269,7 @@
   },
   {
     "name": "Tahlia Back",
-    "points": 249,
+    "points": 251,
     "quote": "Fools are fools, no matter where they are. They never see me coming.",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/tahlia-ck-back.png",
@@ -3251,7 +3277,7 @@
   },
   {
     "name": "Trenloe The Strong",
-    "points": 250,
+    "points": 252,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -3269,7 +3295,7 @@
   },
   {
     "name": "Trenloe The Strong Back",
-    "points": 251,
+    "points": 253,
     "quote": "I will stand when none others do. Though my body may fail, my courage will never break!",
     "expansion": "Oath Of The Outcast",
     "image": "heroes/warriors/trenloe-the-strong-oo-back.png",
@@ -3277,7 +3303,7 @@
   },
   {
     "name": "Trenloe The Strong",
-    "points": 252,
+    "points": 254,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -3295,7 +3321,7 @@
   },
   {
     "name": "Trenloe The Strong Back",
-    "points": 253,
+    "points": 255,
     "quote": "Nothing will stand in the way of my ultimate quest!",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/trenloe-the-strong-ck-back.png",
@@ -3303,7 +3329,7 @@
   },
   {
     "name": "Varikas The Dead",
-    "points": 254,
+    "points": 256,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -3321,7 +3347,7 @@
   },
   {
     "name": "Varikas The Dead Back",
-    "points": 255,
+    "points": 257,
     "quote": "I have already died for freedom once before. If I must die again, I will not die alone.",
     "expansion": "Conversion Kit",
     "image": "heroes/warriors/varikas-the-dead-ck-back.png",
@@ -3329,7 +3355,7 @@
   },
   {
     "name": "Varikas The Dead UC",
-    "points": 256,
+    "points": 258,
     "archetype": "Warrior",
     "speed": 3,
     "health": 12,
@@ -3347,7 +3373,7 @@
   },
   {
     "name": "Varikas The Dead UC Back",
-    "points": 257,
+    "points": 259,
     "quote": "I have already died for freedom once before. If I must die again, I will not die alone.",
     "expansion": "User Community",
     "image": "heroes/warriors/varikas-the-dead-uc-back.png",
