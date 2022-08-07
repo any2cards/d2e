@@ -766,7 +766,7 @@
     "knowledge": 4,
     "awareness": 2,
     "ability": "If you performed a rest action during this turn, place your hero token here at the end of your turn. Each time you perform an attack, after dice are rolled, you may add 1 Surge to the results for each hero token you discard.",
-    "feat": "Action: Mark up to 4 spaces within 3 spaces of you. Until the start of your next turn, these spaces are treated as Lava spaces. Each figure in a marked space suffers 1 Heart. Quest-related figures ignore the end turn effect of marked spaces.",
+    "feat": "Action: Mark up to 4 spaces within 3 spaces of you. Each figure in a marked space suffers 1 Heart. Until the start of your next turn, these spaces are treated as Lava spaces. Quest-related figures suffer 6 Hearts as the end turn effect of marked spaces instead of being defeated.",
     "expansion": "Maze Of The Drakon",
     "image": "heroes/mages/aurora-motd.png",
     "xws": "aurora"
