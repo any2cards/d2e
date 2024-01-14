@@ -1,35 +1,34 @@
 {
-  "manifest_version": 3,
-  "name": "D2e Card Viewer",
-  "description": "Display Descent Second Edition Game Assets.",
-  "version": "5.0.2",
+	"manifest_version": 3,
+	"name": "D2e Asset Viewer",
+	"description": "Display Descent Second Edition Game Assets",
+	"version": "5.1.1",
 	"web_accessible_resources": [
 		{
 			"resources": [ "icon-32.png" ],
 			"matches": [ "<all_urls>" ]
 		}
 	],
-  "content_scripts": [{
-    "matches": [
-      "*://*.fantasyflightgames.com/*",
-      "*://*.boardgamegeek.com/*",
-      "*://*.reddit.com/r/JourneysInTheDark/*",
-      "*://*.roll20.net/*",
+	"content_scripts": [{
+		"matches": [
+			"*://*.fantasyflightgames.com/*",
+			"*://*.boardgamegeek.com/*",
+			"*://*.reddit.com/r/JourneysInTheDark/*",
+			"*://*.roll20.net/*",
 			"*://*.descent2e.fandom.com/*",
 			"*://*.descent-community.org/*",
 			"*://any2cards.github.io/d2e/*"
-    ],
-    "js": [
-      "content.js"
-    ],
-    "css": [
-      "content.css"
-    ],
-    "run_at": "document_idle"
-  }],
+		],
+		"js": [
+			"content.js"
+		],
+		"css": [
+			"content.css"
+		],
+		"run_at": "document_idle"
+	}],
 	"permissions": [
-		"storage",
-		"activeTab"
+		"storage"
 	],
 	"host_permissions": [
 		"https://raw.githubusercontent.com/*"
@@ -37,16 +36,16 @@
 	"background": {
 		"service_worker": "background.js"
 	},
-  "icons": {
-    "32": "icon-32.png"
-  },
+	"icons": {
+		"32": "icon-32.png"
+	},
 	"action": {
-    "default_title": "D2e Card Viewer Options",
-    "default_popup": "popup.html",
-    "default_icon": {
-      "32": "icon-32.png",
-      "48": "icon-48.png",
-      "128": "icon-128.png"
-    }
-  }
+		"default_title": "D2e Asset Viewer Options",
+		"default_popup": "popup.html",
+		"default_icon": {
+			"32": "icon-32.png",
+			"48": "icon-48.png",
+			"128": "icon-128.png"
+		}
+	}
 }
