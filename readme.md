@@ -4,8 +4,16 @@ An easy-to-use collection of data and images from [Descent 2nd Edition](https://
 
 ## What's included
 
-This repository contains data and images for the following components:
+This repository contains data and images for the following games and components:
 
+**Games:**
+- Descent 2nd Edition (D2e)
+- User Community
+	- Sands of the Past
+	- User Community
+	- Maze of the Drakon
+
+**Assets:**
 - advanced-quests
 - agendas*
 - agents
@@ -34,6 +42,7 @@ This repository contains data and images for the following components:
 - rumors
 - search-deck
 - secret-rooms
+- servants
 - shop-items
 - statuses*
 - tainted
@@ -47,23 +56,15 @@ There are three top-level directories: `data` , `images` , and `xwc`.
 
 ### data
 
-The `data` folder contains all D2e Card Viewer data in JSON format.
+The `data` folder contains all D2e Asset Viewer data in JSON format.
 
 ### images
 
-The `images` folder contains D2e Card Viewer images for each of the above data components.
+The `images` folder contains D2e Asset Viewer images for each of the above components.
 
 ### xwc
 
-The `xwc` folder contains all of the files that power the D2e Card Viewer Chrome Extension/Firefox Add-On.
-
-## Usage
-
-You can use this data to build your own apps, etc.
-
-The easiest way to do this is via [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules#Starting-with-Submodules):
-
-* Git submodule: `git submodule add https://github.com/any2cards/d2e.git`
+The `xwc` folder contains all of the files that power the D2e Asset Viewer Chrome Extension.
 
 ## Bugs / Issues
 
@@ -83,9 +84,7 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [D2e Card Viewer](https://chrome.google.com/webstore/search/d2e%20card%20viewer)
-
-Want your project listed here? [Let us know!](https://github.com/any2cards/d2e/issues/new?title=Add%20Project)
+- [D2e Asset Viewer](https://chromewebstore.google.com/detail/d2e-asset-viewer/eogijhlgecmaiggclkhhoffcechggfml) (Chrome Extension)
 
 ## Versioning
 
