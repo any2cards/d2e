@@ -26,7 +26,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "1/10",
-    "image": "city-event-decks/shadow-of-nerekhall/escort-of-guardsmen-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-1-of-10-sn.png",
     "xws": "escortofguardsmen"
   },
   {
@@ -41,7 +41,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "1/10",
-    "image": "city-event-decks/shadow-of-nerekhall/vicious-beasts-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-1-of-10-sn.png",
     "xws": "viciousbeasts"
   },
   {
@@ -56,7 +56,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "1/10",
-    "image": "city-event-decks/shadow-of-nerekhall/brawl-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-1-of-10-sn.png",
     "xws": "brawl"
   },
   {
@@ -86,7 +86,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "2/10",
-    "image": "city-event-decks/shadow-of-nerekhall/enraged-ynfernael-hulk-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-2-of-10-sn.png",
     "xws": "enragedynfernaelhulk"
   },
   {
@@ -101,7 +101,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "2/10",
-    "image": "city-event-decks/shadow-of-nerekhall/canteen-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-2-of-10-sn.png",
     "xws": "canteen"
   },
   {
@@ -116,7 +116,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "2/10",
-    "image": "city-event-decks/shadow-of-nerekhall/spy-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-2-of-10-sn.png",
     "xws": "spy"
   },
   {
@@ -146,7 +146,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "3/10",
-    "image": "city-event-decks/shadow-of-nerekhall/collapse-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-3-of-10-sn.png",
     "xws": "collapse"
   },
   {
@@ -161,7 +161,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "3/10",
-    "image": "city-event-decks/shadow-of-nerekhall/tendrils-of-shadow-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-3-of-10-sn.png",
     "xws": "tendrilsofshadow"
   },
   {
@@ -176,7 +176,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "3/10",
-    "image": "city-event-decks/shadow-of-nerekhall/dark-alley-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-3-of-10-sn.png",
     "xws": "darkalley"
   },
   {
@@ -206,7 +206,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "4/10",
-    "image": "city-event-decks/shadow-of-nerekhall/broken-pipe-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-4-of-10-sn.png",
     "xws": "brokenpipe"
   },
   {
@@ -221,7 +221,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "4/10",
-    "image": "city-event-decks/shadow-of-nerekhall/street-vendor-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-4-of-10-sn.png",
     "xws": "streetvendor"
   },
   {
@@ -236,7 +236,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "4/10",
-    "image": "city-event-decks/shadow-of-nerekhall/demonic-trap-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-4-of-10-sn.png",
     "xws": "demonictrap"
   },
   {
@@ -266,7 +266,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "5/10",
-    "image": "city-event-decks/shadow-of-nerekhall/streets-are-bustling-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-5-of-10-sn.png",
     "xws": "streetsarebustling"
   },
   {
@@ -281,7 +281,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "5/10",
-    "image": "city-event-decks/shadow-of-nerekhall/locked-box-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-5-of-10-sn.png",
     "xws": "lockedbox"
   },
   {
@@ -296,7 +296,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "5/10",
-    "image": "city-event-decks/shadow-of-nerekhall/city-officials-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-5-of-10-sn.png",
     "xws": "cityofficials"
   },
   {
@@ -326,7 +326,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "6/10",
-    "image": "city-event-decks/shadow-of-nerekhall/seedy-district-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-6-of-10-sn.png",
     "xws": "seedydistrict"
   },
   {
@@ -341,7 +341,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "6/10",
-    "image": "city-event-decks/shadow-of-nerekhall/stone-monolith-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-6-of-10-sn.png",
     "xws": "stonemonolith"
   },
   {
@@ -356,7 +356,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "6/10",
-    "image": "city-event-decks/shadow-of-nerekhall/sections-of-the-ceiling-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-6-of-10-sn.png",
     "xws": "sectionsoftheceiling"
   },
   {
@@ -386,7 +386,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "7/10",
-    "image": "city-event-decks/shadow-of-nerekhall/crazed-old-man-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-7-of-10-sn.png",
     "xws": "crazedoldman"
   },
   {
@@ -401,7 +401,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "7/10",
-    "image": "city-event-decks/shadow-of-nerekhall/swarms-of-rats-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-7-of-10-sn.png",
     "xws": "swarmsofrats"
   },
   {
@@ -416,7 +416,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "7/10",
-    "image": "city-event-decks/shadow-of-nerekhall/dark-runecraft-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-7-of-10-sn.png",
     "xws": "darkrunecraft"
   },
   {
@@ -446,7 +446,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "8/10",
-    "image": "city-event-decks/shadow-of-nerekhall/street-urchin-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-8-of-10-sn.png",
     "xws": "streeturchin"
   },
   {
@@ -461,7 +461,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "8/10",
-    "image": "city-event-decks/shadow-of-nerekhall/large-carriage-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-8-of-10-sn.png",
     "xws": "largecarriage"
   },
   {
@@ -476,7 +476,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "8/10",
-    "image": "city-event-decks/shadow-of-nerekhall/shiny-trinket-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-8-of-10-sn.png",
     "xws": "shinytrinket"
   },
   {
@@ -506,7 +506,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "9/10",
-    "image": "city-event-decks/shadow-of-nerekhall/burning-vapor-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-9-of-10-sn.png",
     "xws": "burningvapor"
   },
   {
@@ -521,7 +521,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "9/10",
-    "image": "city-event-decks/shadow-of-nerekhall/gang-of-thugs-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-9-of-10-sn.png",
     "xws": "gangofthugs"
   },
   {
@@ -536,7 +536,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "9/10",
-    "image": "city-event-decks/shadow-of-nerekhall/feral-dogs-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-9-of-10-sn.png",
     "xws": "feraldogs"
   },
   {
@@ -566,7 +566,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "10/10",
-    "image": "city-event-decks/shadow-of-nerekhall/supply-drop-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-10-of-10-sn.png",
     "xws": "supplydrop"
   },
   {
@@ -581,7 +581,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "10/10",
-    "image": "city-event-decks/shadow-of-nerekhall/rats-everywhere-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-10-of-10-sn.png",
     "xws": "ratseverywhere"
   },
   {
@@ -596,7 +596,7 @@
     ],
     "expansion": "Shadow Of Nerekhall",
     "card": "10/10",
-    "image": "city-event-decks/shadow-of-nerekhall/foul-creatures-sn.png",
+    "image": "city-event-decks/shadow-of-nerekhall/city-event-10-of-10-sn.png",
     "xws": "foulcreatures"
   },
   {
