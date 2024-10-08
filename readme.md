@@ -8,6 +8,28 @@ This repository contains data and images for the following games and components:
 
 **Games:**
 - Descent 2nd Edition (D2e)
+	- Base Game
+	- Conversion Kit
+	- Lair Of The Wyrm
+	- Labyrinth Of Ruin
+	- The Trollfens
+	- Shadow Of Nerekhall
+	- Manor Of Ravens
+	- Mists of Bilehall
+	- The Chains That Rust
+	- Oath Of The Outcast
+	- Crown Of Destiny
+	- Crusade Of The Forgotten
+	- Guardians Of Deephall
+	- Visions Of Dawn
+	- Bonds Of The Wild
+	- Treaty Of Champions
+	- Stewards Of The Secret
+	- Shards Of Everdark
+	- Lost Legends
+	- Forgotten Souls
+	- Nature's Ire
+	- Dark Elements
 - User Community
 	- Sands of the Past
 	- User Community
