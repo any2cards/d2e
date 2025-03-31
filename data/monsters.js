@@ -2700,7 +2700,7 @@
     "attack": "Melee",
     "characteristics": [
       "Minion: Speed: 4, Health: 3, Defense: Gray, Attack: Blue Yellow, Abilities: Action: Skirmish, Surge: Pierce 2",
-      "Master: Speed: 4, Health: 5, Defense: Gray, Attack: Blue Yellow, Abilities: Ravage, Action: Skirmish, Surge: Pierce 2, Surge: +1 Heart"
+      "Master: Speed: 4, Health: 5, Defense: Gray, Attack: Blue Yellow, Abilities: Ravage, Action: Skirmish, Surge: Pierce 3, Surge: +1 Heart"
     ],
     "expansion": "Labyrinth Of Ruin",
     "image": "monsters/volucrix-reaver-lr-act1-front.png",
