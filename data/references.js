@@ -1,107 +1,128 @@
 [
   {
-    "name": "FS-References-Bottom-Back",
+    "name": "de-icon",
     "points": 0,
-    "expansion": "Forgotten Souls",
-    "image": "references/fs-rc-bottom-back.png",
-    "xws": "fsreferencesbottomback"
+    "expansion": "dark elements",
+    "image": "references/d2e/dark-elements/de-icon-black.png",
+    "xws": "deicon"
   },
   {
-    "name": "FS-References-Bottom-Front",
+    "name": "de-references-bottom-front",
     "points": 1,
-    "expansion": "Forgotten Souls",
-    "image": "references/fs-rc-bottom-front.png",
-    "xws": "fsreferencesbottomfront"
-  },
-  {
-    "name": "FS-References-Loot-Track",
-    "points": 2,
-    "expansion": "Forgotten Souls",
-    "image": "references/fs-rc-loot-track.png",
-    "xws": "fsreferencesloottrack"
-  },
-  {
-    "name": "FS-References-Top-Back",
-    "points": 3,
-    "expansion": "Forgotten Souls",
-    "image": "references/fs-rc-top-back.png",
-    "xws": "fsreferencestopback"
-  },
-  {
-    "name": "FS-References-Top-Front",
-    "points": 4,
-    "expansion": "Forgotten Souls",
-    "image": "references/fs-rc-top-front.png",
-    "xws": "fsreferencestopfront"
-  },
-  {
-    "name": "NI-References-Bottom-Back",
-    "points": 5,
-    "expansion": "Nature's Ire",
-    "image": "references/ni-rc-bottom-back.png",
-    "xws": "nireferencesbottomback"
-  },
-  {
-    "name": "NI-References-Bottom-Front",
-    "points": 6,
-    "expansion": "Nature's Ire",
-    "image": "references/ni-rc-bottom-front.png",
-    "xws": "nireferencesbottomfront"
-  },
-  {
-    "name": "NI-References-Loot-Track",
-    "points": 7,
-    "expansion": "Nature's Ire",
-    "image": "references/ni-rc-loot-track.png",
-    "xws": "nireferencesloottrack"
-  },
-  {
-    "name": "NI-References-Top-Back",
-    "points": 8,
-    "expansion": "Nature's Ire",
-    "image": "references/ni-rc-top-back.png",
-    "xws": "nireferencestopback"
-  },
-  {
-    "name": "NI-References-Top-Front",
-    "points": 9,
-    "expansion": "Nature's Ire",
-    "image": "references/ni-rc-top-front.png",
-    "xws": "nireferencestopfront"
-  },
-  {
-    "name": "DE-References-Bottom-Back",
-    "points": 10,
-    "expansion": "Dark Elements",
-    "image": "references/de-rc-bottom-back.png",
-    "xws": "dereferencesbottomback"
-  },
-  {
-    "name": "DE-References-Bottom-Front",
-    "points": 11,
-    "expansion": "Dark Elements",
-    "image": "references/de-rc-bottom-front.png",
+    "expansion": "dark elements",
+    "image": "references/d2e/dark-elements/de-rc-bottom-front.png",
     "xws": "dereferencesbottomfront"
   },
   {
-    "name": "DE-References-Loot-Track",
-    "points": 12,
-    "expansion": "Dark Elements",
-    "image": "references/de-rc-loot-track.png",
-    "xws": "dereferencesloottrack"
+    "name": "de-references-bottom-back",
+    "points": 2,
+    "expansion": "dark elements",
+    "image": "references/d2e/dark-elements/de-rc-bottom-back.png",
+    "xws": "dereferencesbottomback"
   },
   {
-    "name": "DE-References-Top-Back",
-    "points": 13,
-    "expansion": "Dark Elements",
-    "image": "references/de-rc-top-back.png",
+    "name": "de-loot-track",
+    "points": 3,
+    "expansion": "dark elements",
+    "image": "references/d2e/dark-elements/de-rc-loot-track.png",
+    "xws": "deloottrack"
+  },
+  {
+    "name": "de-references-top-front",
+    "points": 4,
+    "expansion": "dark elements",
+    "image": "references/d2e/dark-elements/de-rc-top-front.png",
+    "xws": "dereferencestopfront"
+  },
+  {
+    "name": "de-references-top-back",
+    "points": 5,
+    "expansion": "dark elements",
+    "image": "references/d2e/dark-elements/de-rc-top-back.png",
     "xws": "dereferencestopback"
   },
   {
-    "name": "DE-References-Top-Front",
+    "name": "fs-icon",
+    "points": 6,
+    "expansion": "forgotten souls",
+    "image": "references/d2e/forgotten-souls/fs-icon-black.png",
+    "xws": "fsicon"
+  },
+  {
+    "name": "fs-references-bottom-front",
+    "points": 7,
+    "expansion": "forgotten souls",
+    "image": "references/d2e/forgotten-souls/fs-rc-bottom-front.png",
+    "xws": "fsreferencesbottomfront"
+  },
+  {
+    "name": "fs-references-bottom-back",
+    "points": 8,
+    "expansion": "forgotten souls",
+    "image": "references/d2e/forgotten-souls/fs-rc-bottom-back.png",
+    "xws": "fsreferencesbottomback"
+  },
+  {
+    "name": "fs-loot-track",
+    "points": 9,
+    "expansion": "forgotten souls",
+    "image": "references/d2e/forgotten-souls/fs-rc-loot-track.png",
+    "xws": "fsloottrack"
+  },
+  {
+    "name": "fs-references-top-front",
+    "points": 10,
+    "expansion": "dark elements",
+    "image": "references/d2e/dark-elements/de-rc-top-front.png",
+    "xws": "fsreferencestopfront"
+  },
+  {
+    "name": "fs-references-top-back",
+    "points": 11,
+    "expansion": "forgotten souls",
+    "image": "references/d2e/forgotten-souls/fs-rc-top-back.png",
+    "xws": "fsreferencestopback"
+  },
+  {
+    "name": "ni-icon",
+    "points": 12,
+    "expansion": "nature's ire",
+    "image": "references/d2e/natures-ire/ni-icon-black.png",
+    "xws": "niicon"
+  },
+  {
+    "name": "ni-references-bottom-front",
+    "points": 13,
+    "expansion": "nature's ire",
+    "image": "references/d2e/natures-ire/ni-rc-bottom-front.png",
+    "xws": "nireferencesbottomfront"
+  },
+  {
+    "name": "ni-references-bottom-back",
     "points": 14,
-    "expansion": "Dark Elements",
-    "image": "references/de-rc-top-front.png",
-    "xws": "dereferencestopfront"
+    "expansion": "nature's ire",
+    "image": "references/d2e/natures-ire/ni-rc-bottom-back.png",
+    "xws": "nireferencesbottomback"
+  },
+  {
+    "name": "ni-loot-track",
+    "points": 15,
+    "expansion": "nature's ire",
+    "image": "references/d2e/natures-ire/ni-rc-loot-track.png",
+    "xws": "niloottrack"
+  },
+  {
+    "name": "ni-references-top-front",
+    "points": 16,
+    "expansion": "forgotten souls",
+    "image": "references/d2e/forgotten-souls/fs-rc-top-front.png",
+    "xws": "nireferencestopfront"
+  },
+  {
+    "name": "ni-references-top-back",
+    "points": 17,
+    "expansion": "nature's ire",
+    "image": "references/d2e/natures-ire/ni-rc-top-back.png",
+    "xws": "nireferencestopback"
   }
 ]
