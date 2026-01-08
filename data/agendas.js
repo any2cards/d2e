@@ -1,578 +1,578 @@
 [
   {
-    "name": "The Unearthed Tomb - E1",
+    "name": "acolyte of saradyn - e1",
     "points": 0,
-    "cardno": "1A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/the-unearthed-tomb-e1-sotp-front.png",
-    "xws": "theunearthedtombe1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-acolyte-of-saradyn-front.png",
+    "xws": "acolyteofsaradyne1",
+    "assetno": "5a"
   },
   {
-    "name": "Halls of Toil - E1",
+    "name": "acolyte of saradyn - e1",
     "points": 1,
-    "cardno": "2A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/halls-of-toil-e1-sotp-front.png",
-    "xws": "hallsoftoile1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-acolyte-of-saradyn-back.png",
+    "xws": "acolyteofsaradyne1",
+    "assetno": "5b"
   },
   {
-    "name": "Valley of the Dead - E1",
+    "name": "archive of arrizon - e1",
     "points": 2,
-    "cardno": "3A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/valley-of-the-dead-e1-sotp-front.png",
-    "xws": "valleyofthedeade1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-archive-of-arrizon-front.png",
+    "xws": "archiveofarrizone1",
+    "assetno": "12a"
   },
   {
-    "name": "The Sunken Temple - E1",
+    "name": "archive of arrizon - e1",
     "points": 3,
-    "cardno": "4A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/the-sunken-temple-e1-sotp-front.png",
-    "xws": "thesunkentemplee1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-archive-of-arrizon-back.png",
+    "xws": "archiveofarrizone1",
+    "assetno": "12b"
   },
   {
-    "name": "Acolyte of Saradyn - E1",
+    "name": "army of dal'zunm - e1",
     "points": 4,
-    "cardno": "5A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/acolyte-of-saradyn-e1-sotp-front.png",
-    "xws": "acolyteofsaradyne1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-army-of-dalzunm-front.png",
+    "xws": "armyofdalzunme1",
+    "assetno": "20a"
   },
   {
-    "name": "Rellegar's Rest - E1",
+    "name": "army of dal'zunm - e1",
     "points": 5,
-    "cardno": "6A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/rellegars-rest-e1-sotp-front.png",
-    "xws": "rellegarsreste1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-army-of-dalzunm-back.png",
+    "xws": "armyofdalzunme1",
+    "assetno": "20b"
   },
   {
-    "name": "Rellegar's Rest - E2",
+    "name": "blood and betrayal - e1",
     "points": 6,
-    "cardno": "7A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/rellegars-rest-e2-sotp-front.png",
-    "xws": "rellegarsreste2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-blood-and-betrayal-front.png",
+    "xws": "bloodandbetrayale1",
+    "assetno": "33a"
   },
   {
-    "name": "Siege of Skytower - E1",
+    "name": "blood and betrayal - e1",
     "points": 7,
-    "cardno": "8A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/siege-of-skytower-e1-sotp-front.png",
-    "xws": "siegeofskytowere1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-blood-and-betrayal-back.png",
+    "xws": "bloodandbetrayale1",
+    "assetno": "33b"
   },
   {
-    "name": "Blood Will Tell - E1",
+    "name": "blood will tell - e1",
     "points": 8,
-    "cardno": "9A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/blood-will-tell-e1-sotp-front.png",
-    "xws": "bloodwilltelle1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-blood-will-tell-front.png",
+    "xws": "bloodwilltelle1",
+    "assetno": "9a"
   },
   {
-    "name": "The Baron Returns - E1",
+    "name": "blood will tell - e1",
     "points": 9,
-    "cardno": "10A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/the-baron-returns-e1-sotp-front.png",
-    "xws": "thebaronreturnse1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-blood-will-tell-back.png",
+    "xws": "bloodwilltelle1",
+    "assetno": "9b"
   },
   {
-    "name": "The Baron Returns - E2",
+    "name": "caladen's crossing - e1",
     "points": 10,
-    "cardno": "11A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/the-baron-returns-e2-sotp-front.png",
-    "xws": "thebaronreturnse2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-caladens-crossing-front.png",
+    "xws": "caladenscrossinge1",
+    "assetno": "16a"
   },
   {
-    "name": "Archive of Arrizon - E1",
+    "name": "caladen's crossing - e1",
     "points": 11,
-    "cardno": "12A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/archive-of-arrizon-e1-sotp-front.png",
-    "xws": "archiveofarrizone1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-caladens-crossing-back.png",
+    "xws": "caladenscrossinge1",
+    "assetno": "16b"
   },
   {
-    "name": "Archive of Arrizon - E2",
+    "name": "dead or drowning - e1",
     "points": 12,
-    "cardno": "13A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/archive-of-arrizon-e2-sotp-front.png",
-    "xws": "archiveofarrizone2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-dead-or-drowning-front.png",
+    "xws": "deadordrowninge1",
+    "assetno": "25a"
   },
   {
-    "name": "Rise of Urthko - E1",
+    "name": "dead or drowning - e1",
     "points": 13,
-    "cardno": "14A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/rise-of-urthko-e1-sotp-front.png",
-    "xws": "riseofurthkoe1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-dead-or-drowning-back.png",
+    "xws": "deadordrowninge1",
+    "assetno": "25b"
   },
   {
-    "name": "Rise of Urthko - E2",
+    "name": "edge of dawn - e1",
     "points": 14,
-    "cardno": "15A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/rise-of-urthko-e2-sotp-front.png",
-    "xws": "riseofurthkoe2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-edge-of-dawn-front.png",
+    "xws": "edgeofdawne1",
+    "assetno": "27a"
   },
   {
-    "name": "Caladen's Crossing - E1",
+    "name": "edge of dawn - e1",
     "points": 15,
-    "cardno": "16A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/caladens-crossing-e1-sotp-front.png",
-    "xws": "caladenscrossinge1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-edge-of-dawn-back.png",
+    "xws": "edgeofdawne1",
+    "assetno": "27b"
   },
   {
-    "name": "Caladen's Crossing - E2",
+    "name": "from the wreckage - e1",
     "points": 16,
-    "cardno": "17A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/caladens-crossing-e2-sotp-front.png",
-    "xws": "caladenscrossinge2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-from-the-wreckage-front.png",
+    "xws": "fromthewreckagee1",
+    "assetno": "18a"
   },
   {
-    "name": "From the Wreckage - E1",
+    "name": "from the wreckage - e1",
     "points": 17,
-    "cardno": "18A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/from-the-wreckage-e1-sotp-front.png",
-    "xws": "fromthewreckagee1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-from-the-wreckage-back.png",
+    "xws": "fromthewreckagee1",
+    "assetno": "18b"
   },
   {
-    "name": "Saradyn in Flames - E1",
+    "name": "halls of toil - e1",
     "points": 18,
-    "cardno": "19A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/saradyn-in-flames-e1-sotp-front.png",
-    "xws": "saradyninflamese1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-halls-of-toil-front.png",
+    "xws": "hallsoftoile1",
+    "assetno": "2a"
   },
   {
-    "name": "Army of Dal'Zunm - E1",
+    "name": "halls of toil - e1",
     "points": 19,
-    "cardno": "20A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/army-of-dalzunm-e1-sotp-front.png",
-    "xws": "armyofdalzunme1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-halls-of-toil-back.png",
+    "xws": "hallsoftoile1",
+    "assetno": "2b"
   },
   {
-    "name": "Prison of Khinn - E1",
+    "name": "lord of flame - e1",
     "points": 20,
-    "cardno": "21A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/prison-of-khinn-e1-sotp-front.png",
-    "xws": "prisonofkhinne1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-lord-of-flame-front.png",
+    "xws": "lordofflamee1",
+    "assetno": "23a"
   },
   {
-    "name": "Prison of Khinn - E2",
+    "name": "lord of flame - e1",
     "points": 21,
-    "cardno": "22A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/prison-of-khinn-e2-sotp-front.png",
-    "xws": "prisonofkhinne2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-lord-of-flame-back.png",
+    "xws": "lordofflamee1",
+    "assetno": "23b"
   },
   {
-    "name": "Lord of Flame - E1",
+    "name": "piercing darkness - e1",
     "points": 22,
-    "cardno": "23A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/lord-of-flame-e1-sotp-front.png",
-    "xws": "lordofflamee1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-piercing-darkness-front.png",
+    "xws": "piercingdarknesse1",
+    "assetno": "31a"
   },
   {
-    "name": "Lord of Flame - E2",
+    "name": "piercing darkness - e1",
     "points": 23,
-    "cardno": "24A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/lord-of-flame-e2-sotp-front.png",
-    "xws": "lordofflamee2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-piercing-darkness-back.png",
+    "xws": "piercingdarknesse1",
+    "assetno": "31b"
   },
   {
-    "name": "Dead or Drowning - E1",
+    "name": "prison of khinn - e1",
     "points": 24,
-    "cardno": "25A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/dead-or-drowning-e1-sotp-front.png",
-    "xws": "deadordrowninge1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-prison-of-khinn-front.png",
+    "xws": "prisonofkhinne1",
+    "assetno": "21a"
   },
   {
-    "name": "Rite of the Red Dawn - E1",
+    "name": "prison of khinn - e1",
     "points": 25,
-    "cardno": "26A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/right-of-the-red-dawn-e1-sotp-front.png",
-    "xws": "riteofthereddawne1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-prison-of-khinn-back.png",
+    "xws": "prisonofkhinne1",
+    "assetno": "21b"
   },
   {
-    "name": "Edge of Dawn - E1",
+    "name": "rellegar's rest - e1",
     "points": 26,
-    "cardno": "27A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/edge-of-dawn-e1-sotp-front.png",
-    "xws": "edgeofdawne1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-rellegars-rest-front.png",
+    "xws": "rellegarsreste1",
+    "assetno": "6a"
   },
   {
-    "name": "Edge of Dawn - E2",
+    "name": "rellegar's rest - e1",
     "points": 27,
-    "cardno": "28A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/edge-of-dawn-e2-sotp-front.png",
-    "xws": "edgeofdawne2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-rellegars-rest-back.png",
+    "xws": "rellegarsreste1",
+    "assetno": "6b"
   },
   {
-    "name": "Shadowfall Mountain - E1",
+    "name": "rise of urthko - e1",
     "points": 28,
-    "cardno": "29A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/shadowfall-mountain-e1-sotp-front.png",
-    "xws": "shadowfallmountaine1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-rise-of-urthko-front.png",
+    "xws": "riseofurthkoe1",
+    "assetno": "14a"
   },
   {
-    "name": "Shadowfall Mountain - E2",
+    "name": "rise of urthko - e1",
     "points": 29,
-    "cardno": "30A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/shadowfall-mountain-e2-sotp-front.png",
-    "xws": "shadowfallmountaine2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-rise-of-urthko-back.png",
+    "xws": "riseofurthkoe1",
+    "assetno": "14b"
   },
   {
-    "name": "Piercing Darkness - E1",
+    "name": "rite of the red dawn - e1",
     "points": 30,
-    "cardno": "31A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/piercing-darkness-e1-sotp-front.png",
-    "xws": "piercingdarknesse1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-rite-of-the-red-dawn-front.png",
+    "xws": "riteofthereddawne1",
+    "assetno": "26a"
   },
   {
-    "name": "Piercing Darkness - E2",
+    "name": "rite of the red dawn - e1",
     "points": 31,
-    "cardno": "32A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/piercing-darkness-e2-sotp-front.png",
-    "xws": "piercingdarknesse2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-rite-of-the-red-dawn-back.png",
+    "xws": "riteofthereddawne1",
+    "assetno": "26b"
   },
   {
-    "name": "Blood and Betrayal - E1",
+    "name": "saradyn in flames - e1",
     "points": 32,
-    "cardno": "33A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/blood-and-betrayal-e1-sotp-front.png",
-    "xws": "bloodandbetrayale1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-saradyn-in-flames-front.png",
+    "xws": "saradyninflamese1",
+    "assetno": "19a"
   },
   {
-    "name": "Blood and Betrayal - E2A",
+    "name": "saradyn in flames - e1",
     "points": 33,
-    "cardno": "34A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/blood-and-betrayal-e2a-sotp-front.png",
-    "xws": "bloodandbetrayale2a"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-saradyn-in-flames-back.png",
+    "xws": "saradyninflamese1",
+    "assetno": "19b"
   },
   {
-    "name": "Blood and Betrayal - E2B",
+    "name": "shadowfall mountain - e1",
     "points": 34,
-    "cardno": "35A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/blood-and-betrayal-e2b-sotp-front.png",
-    "xws": "bloodandbetrayale2b"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-shadowfall-mountain-front.png",
+    "xws": "shadowfallmountaine1",
+    "assetno": "29a"
   },
   {
-    "name": "Blood and Betrayal - E3",
+    "name": "shadowfall mountain - e1",
     "points": 35,
-    "cardno": "36A",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/blood-and-betrayal-e3-sotp-front.png",
-    "xws": "bloodandbetrayale3"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-shadowfall-mountain-back.png",
+    "xws": "shadowfallmountaine1",
+    "assetno": "29b"
   },
   {
-    "name": "The Unearthed Tomb - E1",
+    "name": "siege of skytower - e1",
     "points": 36,
-    "cardno": "1B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/the-unearthed-tomb-e1-sotp-back.png",
-    "xws": "theunearthedtombe1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-siege-of-skytower-front.png",
+    "xws": "siegeofskytowere1",
+    "assetno": "8a"
   },
   {
-    "name": "Halls of Toil - E1",
+    "name": "siege of skytower - e1",
     "points": 37,
-    "cardno": "2B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/halls-of-toil-e1-sotp-back.png",
-    "xws": "hallsoftoile1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-siege-of-skytower-back.png",
+    "xws": "siegeofskytowere1",
+    "assetno": "8b"
   },
   {
-    "name": "Valley of the Dead - E1",
+    "name": "the baron returns - e1",
     "points": 38,
-    "cardno": "3B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/valley-of-the-dead-e1-sotp-back.png",
-    "xws": "valleyofthedeade1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-the-baron-returns-front.png",
+    "xws": "thebaronreturnse1",
+    "assetno": "10a"
   },
   {
-    "name": "The Sunken Temple - E1",
+    "name": "the baron returns - e1",
     "points": 39,
-    "cardno": "4B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/the-sunken-temple-e1-sotp-back.png",
-    "xws": "thesunkentemplee1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-the-baron-returns-back.png",
+    "xws": "thebaronreturnse1",
+    "assetno": "10b"
   },
   {
-    "name": "Acolyte of Saradyn - E1",
+    "name": "the sunken temple - e1",
     "points": 40,
-    "cardno": "5B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/acolyte-of-saradyn-e1-sotp-back.png",
-    "xws": "acolyteofsaradyne1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-the-sunken-temple-front.png",
+    "xws": "thesunkentemplee1",
+    "assetno": "4a"
   },
   {
-    "name": "Rellegar's Rest - E1",
+    "name": "the sunken temple - e1",
     "points": 41,
-    "cardno": "6B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/rellegars-rest-e1-sotp-back.png",
-    "xws": "rellegarsreste1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-the-sunken-temple-back.png",
+    "xws": "thesunkentemplee1",
+    "assetno": "4b"
   },
   {
-    "name": "Rellegar's Rest - E2",
+    "name": "the unearthed tomb - e1",
     "points": 42,
-    "cardno": "7B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/rellegars-rest-e2-sotp-back.png",
-    "xws": "rellegarsreste2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-the-unearthed-tomb-front.png",
+    "xws": "theunearthedtombe1",
+    "assetno": "1a"
   },
   {
-    "name": "Siege of Skytower - E1",
+    "name": "the unearthed tomb - e1",
     "points": 43,
-    "cardno": "8B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/siege-of-skytower-e1-sotp-back.png",
-    "xws": "siegeofskytowere1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-the-unearthed-tomb-back.png",
+    "xws": "theunearthedtombe1",
+    "assetno": "1b"
   },
   {
-    "name": "Blood Will Tell - E1",
+    "name": "valley of the dead - e1",
     "points": 44,
-    "cardno": "9B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/blood-will-tell-e1-sotp-back.png",
-    "xws": "bloodwilltelle1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-valley-of-the-dead-front.png",
+    "xws": "valleyofthedeade1",
+    "assetno": "3a"
   },
   {
-    "name": "The Baron Returns - E1",
+    "name": "valley of the dead - e1",
     "points": 45,
-    "cardno": "10B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/the-baron-returns-e1-sotp-back.png",
-    "xws": "thebaronreturnse1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e1/sotp-valley-of-the-dead-back.png",
+    "xws": "valleyofthedeade1",
+    "assetno": "3b"
   },
   {
-    "name": "The Baron Returns - E2",
+    "name": "archive of arrizon - e2",
     "points": 46,
-    "cardno": "11B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/the-baron-returns-e2-sotp-back.png",
-    "xws": "thebaronreturnse2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-archive-of-arrizon-front.png",
+    "xws": "archiveofarrizone2",
+    "assetno": "13a"
   },
   {
-    "name": "Archive of Arrizon - E1",
+    "name": "archive of arrizon - e2",
     "points": 47,
-    "cardno": "12B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/archive-of-arrizon-e1-sotp-back.png",
-    "xws": "archiveofarrizone1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-archive-of-arrizon-back.png",
+    "xws": "archiveofarrizone2",
+    "assetno": "13b"
   },
   {
-    "name": "Archive of Arrizon - E2",
+    "name": "caladen's crossing - e2",
     "points": 48,
-    "cardno": "13B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/archive-of-arrizon-e2-sotp-back.png",
-    "xws": "archiveofarrizone2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-caladens-crossing-front.png",
+    "xws": "caladenscrossinge2",
+    "assetno": "17a"
   },
   {
-    "name": "Rise of Urthko - E1",
+    "name": "caladen's crossing - e2",
     "points": 49,
-    "cardno": "14B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/rise-of-urthko-e1-sotp-back.png",
-    "xws": "riseofurthkoe1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-caladens-crossing-back.png",
+    "xws": "caladenscrossinge2",
+    "assetno": "17b"
   },
   {
-    "name": "Rise of Urthko - E2",
+    "name": "edge of dawn - e2",
     "points": 50,
-    "cardno": "15B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/rise-of-urthko-e2-sotp-back.png",
-    "xws": "riseofurthkoe2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-edge-of-dawn-front.png",
+    "xws": "edgeofdawne2",
+    "assetno": "28a"
   },
   {
-    "name": "Caladen's Crossing - E1",
+    "name": "edge of dawn - e2",
     "points": 51,
-    "cardno": "16B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/caladens-crossing-e1-sotp-back.png",
-    "xws": "caladenscrossinge1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-edge-of-dawn-back.png",
+    "xws": "edgeofdawne2",
+    "assetno": "28b"
   },
   {
-    "name": "Caladen's Crossing - E2",
+    "name": "lord of flame - e2",
     "points": 52,
-    "cardno": "17B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/caladens-crossing-e2-sotp-back.png",
-    "xws": "caladenscrossinge2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-lord-of-flame-front.png",
+    "xws": "lordofflamee2",
+    "assetno": "24a"
   },
   {
-    "name": "From the Wreckage - E1",
+    "name": "lord of flame - e2",
     "points": 53,
-    "cardno": "18B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/from-the-wreckage-e1-sotp-back.png",
-    "xws": "fromthewreckagee1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-lord-of-flame-back.png",
+    "xws": "lordofflamee2",
+    "assetno": "24b"
   },
   {
-    "name": "Saradyn in Flames - E1",
+    "name": "piercing darkness - e2",
     "points": 54,
-    "cardno": "19B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/saradyn-in-flames-e1-sotp-back.png",
-    "xws": "saradyninflamese1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-piercing-darkness-front.png",
+    "xws": "piercingdarknesse2",
+    "assetno": "32a"
   },
   {
-    "name": "Army of Dal'Zunm - E1",
+    "name": "piercing darkness - e2",
     "points": 55,
-    "cardno": "20B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/army-of-dalzunm-e1-sotp-back.png",
-    "xws": "armyofdalzunme1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-piercing-darkness-back.png",
+    "xws": "piercingdarknesse2",
+    "assetno": "32b"
   },
   {
-    "name": "Prison of Khinn - E1",
+    "name": "prison of khinn - e2",
     "points": 56,
-    "cardno": "21B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/prison-of-khinn-e1-sotp-back.png",
-    "xws": "prisonofkhinne1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-prison-of-khinn-front.png",
+    "xws": "prisonofkhinne2",
+    "assetno": "22a"
   },
   {
-    "name": "Prison of Khinn - E2",
+    "name": "prison of khinn - e2",
     "points": 57,
-    "cardno": "22B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/prison-of-khinn-e2-sotp-back.png",
-    "xws": "prisonofkhinne2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-prison-of-khinn-back.png",
+    "xws": "prisonofkhinne2",
+    "assetno": "22b"
   },
   {
-    "name": "Lord of Flame - E1",
+    "name": "rellegar's rest - e2",
     "points": 58,
-    "cardno": "23B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/lord-of-flame-e1-sotp-back.png",
-    "xws": "lordofflamee1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-rellegars-rest-front.png",
+    "xws": "rellegarsreste2",
+    "assetno": "7a"
   },
   {
-    "name": "Lord of Flame - E2",
+    "name": "rellegar's rest - e2",
     "points": 59,
-    "cardno": "24B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/lord-of-flame-e2-sotp-back.png",
-    "xws": "lordofflamee2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-rellegars-rest-back.png",
+    "xws": "rellegarsreste2",
+    "assetno": "7b"
   },
   {
-    "name": "Dead or Drowning - E1",
-    "points": 60,    
-    "cardno": "25B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/dead-or-drowning-e1-sotp-back.png",
-    "xws": "deadordrowninge1"
+    "name": "rise of urthko - e2",
+    "points": 60,
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-rise-of-urthko-front.png",
+    "xws": "riseofurthkoe2",
+    "assetno": "15a"
   },
   {
-    "name": "Rite of the Red Dawn - E1",
+    "name": "rise of urthko - e2",
     "points": 61,
-    "cardno": "26B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/right-of-the-red-dawn-e1-sotp-back.png",
-    "xws": "riteofthereddawne1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-rise-of-urthko-back.png",
+    "xws": "riseofurthkoe2",
+    "assetno": "15b"
   },
   {
-    "name": "Edge of Dawn - E1",
+    "name": "shadowfall mountain - e2",
     "points": 62,
-    "cardno": "27B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/edge-of-dawn-e1-sotp-back.png",
-    "xws": "edgeofdawne1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-shadowfall-mountain-front.png",
+    "xws": "shadowfallmountaine2",
+    "assetno": "30a"
   },
   {
-    "name": "Edge of Dawn - E2",
+    "name": "shadowfall mountain - e2",
     "points": 63,
-    "cardno": "28B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/edge-of-dawn-e2-sotp-back.png",
-    "xws": "edgeofdawne2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-shadowfall-mountain-back.png",
+    "xws": "shadowfallmountaine2",
+    "assetno": "30b"
   },
   {
-    "name": "Shadowfall Mountain - E1",
+    "name": "the baron returns - e2",
     "points": 64,
-    "cardno": "29B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/shadowfall-mountain-e1-sotp-back.png",
-    "xws": "shadowfallmountaine1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-the-baron-returns-front.png",
+    "xws": "thebaronreturnse2",
+    "assetno": "11a"
   },
   {
-    "name": "Shadowfall Mountain - E2",
+    "name": "the baron returns - e2",
     "points": 65,
-    "cardno": "30B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/shadowfall-mountain-e2-sotp-back.png",
-    "xws": "shadowfallmountaine2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2/sotp-the-baron-returns-back.png",
+    "xws": "thebaronreturnse2",
+    "assetno": "11b"
   },
   {
-    "name": "Piercing Darkness - E1",
+    "name": "blood and betrayal - e2a",
     "points": 66,
-    "cardno": "31B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/piercing-darkness-e1-sotp-back.png",
-    "xws": "piercingdarknesse1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2a/sotp-blood-and-betrayal-front.png",
+    "xws": "bloodandbetrayale2a",
+    "assetno": "34a"
   },
   {
-    "name": "Piercing Darkness - E2",
+    "name": "blood and betrayal - e2a",
     "points": 67,
-    "cardno": "32B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/piercing-darkness-e2-sotp-back.png",
-    "xws": "piercingdarknesse2"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2a/sotp-blood-and-betrayal-back.png",
+    "xws": "bloodandbetrayale2a",
+    "assetno": "34b"
   },
   {
-    "name": "Blood and Betrayal - E1",
+    "name": "blood and betrayal - e2b",
     "points": 68,
-    "cardno": "33B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/blood-and-betrayal-e1-sotp-back.png",
-    "xws": "bloodandbetrayale1"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2b/sotp-blood-and-betrayal-front.png",
+    "xws": "bloodandbetrayale2b",
+    "assetno": "35a"
   },
   {
-    "name": "Blood and Betrayal - E2A",
+    "name": "blood and betrayal - e2b",
     "points": 69,
-    "cardno": "34B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/blood-and-betrayal-e2a-sotp-back.png",
-    "xws": "bloodandbetrayale2a"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e2b/sotp-blood-and-betrayal-back.png",
+    "xws": "bloodandbetrayale2b",
+    "assetno": "35b"
   },
   {
-    "name": "Blood and Betrayal - E2B",
+    "name": "blood and betrayal - e3",
     "points": 70,
-    "cardno": "35B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/blood-and-betrayal-e2b-sotp-back.png",
-    "xws": "bloodandbetrayale2b"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e3/sotp-blood-and-betrayal-front.png",
+    "xws": "bloodandbetrayale3",
+    "assetno": "36a"
   },
   {
-    "name": "Blood and Betrayal - E3",
+    "name": "blood and betrayal - e3",
     "points": 71,
-    "cardno": "36B",
-    "expansion": "Sands Of The Past",
-    "image": "agendas/blood-and-betrayal-e3-sotp-back.png",
-    "xws": "bloodandbetrayale3"
+    "expansion": "sands of the past",
+    "image": "agendas/sotp/sands-of-the-past/e3/sotp-blood-and-betrayal-back.png",
+    "xws": "bloodandbetrayale3",
+    "assetno": "36b"
   }
 ]
