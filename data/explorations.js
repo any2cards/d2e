@@ -1,314 +1,275 @@
 [
   {
-    "name": "The Onset",
-    "type": "*",
+    "name": "last breath",
     "points": 0,
-    "expansion": "Forgotten Souls",
-    "image": "explorations/fs-ec-0-the-onset.png",
-    "xws": "theonset"
-  },
-  {
-    "name": "Room Of Souls",
-    "type": "1",
-    "points": 1,
-    "expansion": "Forgotten Souls",
-    "image": "explorations/fs-ec-1-room-of-souls.png",
-    "xws": "roomofsouls"
-  },
-  {
-    "name": "The Lava Tomb",
-    "type": "2",
-    "points": 2,
-    "expansion": "Forgotten Souls",
-    "image": "explorations/fs-ec-2-the-lava-tomb.png",
-    "xws": "thelavatomb"
-  },
-  {
-    "name": "Throne Of The Fallen",
-    "type": "3",
-    "points": 3,
-    "expansion": "Forgotten Souls",
-    "image": "explorations/fs-ec-3-throne-of-the-fallen.png",
-    "xws": "throneofthefallen"
-  },
-  {
-    "name": "Deadly Kennel",
-    "type": "N",
-    "points": 4,
-    "expansion": "Forgotten Souls",
-    "image": "explorations/fs-ec-4-deadly-kennel.png",
-    "xws": "deadlykennel"
-  },
-  {
-    "name": "Fog-Filled Passage",
-    "type": "N",
-    "points": 5,
-    "expansion": "Forgotten Souls",
-    "image": "explorations/fs-ec-5-fog-filled-passage.png",
-    "xws": "fogfilledpassage"
-  },
-  {
-    "name": "Hall Of Riddles",
-    "type": "N",
-    "points": 6,
-    "expansion": "Forgotten Souls",
-    "image": "explorations/fs-ec-6-hall-of-riddles.png",
-    "xws": "hallofriddles"
-  },
-  {
-    "name": "Lengthy Sewers",
-    "type": "N",
-    "points": 7,
-    "expansion": "Forgotten Souls",
-    "image": "explorations/fs-ec-7-lengthy-sewers.png",
-    "xws": "lengthysewers"
-  },
-  {
-    "name": "Shiny Corridor",
-    "type": "N",
-    "points": 8,
-    "expansion": "Forgotten Souls",
-    "image": "explorations/fs-ec-8-shiny-corridor.png",
-    "xws": "shinycorridor"
-  },
-  {
-    "name": "Trash Heap",
-    "type": "N",
-    "points": 9,
-    "expansion": "Forgotten Souls",
-    "image": "explorations/fs-ec-9-trash-heap.png",
-    "xws": "trashheap"
-  },
-  {
-    "name": "Treasure Vault",
-    "type": "N",
-    "points": 10,
-    "expansion": "Forgotten Souls",
-    "image": "explorations/fs-ec-10-treasure-vault.png",
-    "xws": "treasurevault"
-  },
-  {
-    "name": "Tunnel's End",
-    "type": "N",
-    "points": 11,
-    "expansion": "Forgotten Souls",
-    "image": "explorations/fs-ec-11-tunnels-end.png",
-    "xws": "tunnelsend"
-  },
-  {
-    "name": "FS-Explorations-Back",
-    "type": "B",
-    "points": 12,
-    "expansion": "Forgotten Souls",
-    "image": "explorations/fs-ec-back.png",
-    "xws": "explorationsback"
-  },
-  {
-    "name": "Beyond The Fringes",
-    "type": "*",
-    "points": 13,
-    "expansion": "Nature's Ire",
-    "image": "explorations/ni-ec-0-beyond-the-fringes.png",
-    "xws": "beyondthefringes"
-  },
-  {
-    "name": "Consuming Falls",
-    "type": "1",
-    "points": 14,
-    "expansion": "Nature's Ire",
-    "image": "explorations/ni-ec-1-consuming-falls.png",
-    "xws": "consumingfalls"
-  },
-  {
-    "name": "Choke Point",
-    "type": "2",
-    "points": 15,
-    "expansion": "Nature's Ire",
-    "image": "explorations/ni-ec-2-choke-point.png",
-    "xws": "chokepoint"
-  },
-  {
-    "name": "Cabin Of The Lost",
-    "type": "3",
-    "points": 16,
-    "expansion": "Nature's Ire",
-    "image": "explorations/ni-ec-3-cabin-of-the-lost.png",
-    "xws": "cabinofthelost"
-  },
-  {
-    "name": "Abandoned Campsite",
-    "type": "N",
-    "points": 17,
-    "expansion": "Nature's Ire",
-    "image": "explorations/ni-ec-4-abandoned-campsite.png",
-    "xws": "abandonedcampsite"
-  },
-  {
-    "name": "Blocked Gully",
-    "type": "N",
-    "points": 18,
-    "expansion": "Nature's Ire",
-    "image": "explorations/ni-ec-5-blocked-gully.png",
-    "xws": "blockedgully"
-  },
-  {
-    "name": "Firing Zone",
-    "type": "N",
-    "points": 19,
-    "expansion": "Nature's Ire",
-    "image": "explorations/ni-ec-6-firing-zone.png",
-    "xws": "firingzone"
-  },
-  {
-    "name": "Hoarder's Land",
-    "type": "N",
-    "points": 20,
-    "expansion": "Nature's Ire",
-    "image": "explorations/ni-ec-7-hoarders-land.png",
-    "xws": "hoardersland"
-  },
-  {
-    "name": "Misty Gorge",
-    "type": "N",
-    "points": 21,
-    "expansion": "Nature's Ire",
-    "image": "explorations/ni-ec-8-misty-gorge.png",
-    "xws": "mistygorge"
-  },
-  {
-    "name": "River Flail",
-    "type": "N",
-    "points": 22,
-    "expansion": "Nature's Ire",
-    "image": "explorations/ni-ec-9-river-flail.png",
-    "xws": "riverflail"
-  },
-  {
-    "name": "Rocky Channel",
-    "type": "N",
-    "points": 23,
-    "expansion": "Nature's Ire",
-    "image": "explorations/ni-ec-10-rocky-channel.png",
-    "xws": "rockychannel"
-  },
-  {
-    "name": "Webbed Gulch",
-    "type": "N",
-    "points": 24,
-    "expansion": "Nature's Ire",
-    "image": "explorations/ni-ec-11-webbed-gulch.png",
-    "xws": "webbedgulch"
-  },
-  {
-    "name": "NI-Explorations-Back",
-    "type": "B",
-    "points": 25,
-    "expansion": "Nature's Ire",
-    "image": "explorations/ni-ec-back.png",
-    "xws": "explorationsback"
-  },
-  {
-    "name": "Last Breath",
-    "type": "*",
-    "points": 26,
-    "expansion": "Dark Elements",
-    "image": "explorations/de-ec-0-last-breath.png",
+    "expansion": "dark elements",
+    "image": "explorations/d2e/dark-elements/de-ec-0-last-breath.png",
     "xws": "lastbreath"
   },
   {
-    "name": "Square One",
-    "type": "1",
-    "points": 27,
-    "expansion": "Dark Elements",
-    "image": "explorations/de-ec-1-square-one.png",
+    "name": "square one",
+    "points": 1,
+    "expansion": "dark elements",
+    "image": "explorations/d2e/dark-elements/de-ec-1-square-one.png",
     "xws": "squareone"
   },
   {
-    "name": "Nightmare Gate",
-    "type": "2",
-    "points": 28,
-    "expansion": "Dark Elements",
-    "image": "explorations/de-ec-2-nightmare-gate.png",
+    "name": "nightmare gate",
+    "points": 2,
+    "expansion": "dark elements",
+    "image": "explorations/d2e/dark-elements/de-ec-2-nightmare-gate.png",
     "xws": "nightmaregate"
   },
   {
-    "name": "Limbo's End",
-    "type": "3",
-    "points": 29,
-    "expansion": "Dark Elements",
-    "image": "explorations/de-ec-3-limbos-end.png",
+    "name": "limbo's end",
+    "points": 3,
+    "expansion": "dark elements",
+    "image": "explorations/d2e/dark-elements/de-ec-3-limbos-end.png",
     "xws": "limbosend"
   },
   {
-    "name": "Breached Ice",
-    "type": "N",
-    "points": 30,
-    "expansion": "Dark Elements",
-    "image": "explorations/de-ec-4-breached-ice.png",
+    "name": "breached ice",
+    "points": 4,
+    "expansion": "dark elements",
+    "image": "explorations/d2e/dark-elements/de-ec-4-breached-ice.png",
     "xws": "breachedice"
   },
   {
-    "name": "Breath Of Stone",
-    "type": "N",
-    "points": 31,
-    "expansion": "Dark Elements",
-    "image": "explorations/de-ec-5-breath-of-stone.png",
+    "name": "breath of stone",
+    "points": 5,
+    "expansion": "dark elements",
+    "image": "explorations/d2e/dark-elements/de-ec-5-breath-of-stone.png",
     "xws": "breathofstone"
   },
   {
-    "name": "Glimmerlack Hall",
-    "type": "N",
-    "points": 32,
-    "expansion": "Dark Elements",
-    "image": "explorations/de-ec-6-glimmerlack-hall.png",
+    "name": "glimmerlack hall",
+    "points": 6,
+    "expansion": "dark elements",
+    "image": "explorations/d2e/dark-elements/de-ec-6-glimmerlack-hall.png",
     "xws": "glimmerlackhall"
   },
   {
-    "name": "Incinerator",
-    "type": "N",
-    "points": 33,
-    "expansion": "Dark Elements",
-    "image": "explorations/de-ec-7-incinerator.png",
+    "name": "incinerator",
+    "points": 7,
+    "expansion": "dark elements",
+    "image": "explorations/d2e/dark-elements/de-ec-7-incinerator.png",
     "xws": "incinerator"
   },
   {
-    "name": "Passage Of The Future",
-    "type": "N",
-    "points": 34,
-    "expansion": "Dark Elements",
-    "image": "explorations/de-ec-8-passage-of-the-future.png",
+    "name": "passage of the future",
+    "points": 8,
+    "expansion": "dark elements",
+    "image": "explorations/d2e/dark-elements/de-ec-8-passage-of-the-future.png",
     "xws": "passageofthefuture"
   },
   {
-    "name": "Passage Of The Past",
-    "type": "N",
-    "points": 35,
-    "expansion": "Dark Elements",
-    "image": "explorations/de-ec-9-passage-of-the-past.png",
+    "name": "passage of the past",
+    "points": 9,
+    "expansion": "dark elements",
+    "image": "explorations/d2e/dark-elements/de-ec-9-passage-of-the-past.png",
     "xws": "passageofthepast"
   },
   {
-    "name": "Passage Of The Present",
-    "type": "N",
-    "points": 36,
-    "expansion": "Dark Elements",
-    "image": "explorations/de-ec-10-passage-of-the-present.png",
+    "name": "passage of the present",
+    "points": 10,
+    "expansion": "dark elements",
+    "image": "explorations/d2e/dark-elements/de-ec-10-passage-of-the-present.png",
     "xws": "passageofthepresent"
   },
   {
-    "name": "Stones Of The Founders",
-    "type": "N",
-    "points": 37,
-    "expansion": "Dark Elements",
-    "image": "explorations/de-ec-11-stones-of-the-founders.png",
+    "name": "stones of the founders",
+    "points": 11,
+    "expansion": "dark elements",
+    "image": "explorations/d2e/dark-elements/de-ec-11-stones-of-the-founders.png",
     "xws": "stonesofthefounders"
   },
   {
-    "name": "DE-Explorations-Back",
-    "type": "B",
+    "name": "dark-elements-explorations-back",
+    "points": 12,
+    "expansion": "dark elements",
+    "image": "explorations/d2e/dark-elements/de-ec-back.png",
+    "xws": "darkelementsexplorationsback"
+  },
+  {
+    "name": "the onset",
+    "points": 13,
+    "expansion": "forgotten souls",
+    "image": "explorations/d2e/forgotten-souls/fs-ec-0-the-onset.png",
+    "xws": "theonset"
+  },
+  {
+    "name": "room of souls",
+    "points": 14,
+    "expansion": "forgotten souls",
+    "image": "explorations/d2e/forgotten-souls/fs-ec-1-room-of-souls.png",
+    "xws": "roomofsouls"
+  },
+  {
+    "name": "the lava tomb",
+    "points": 15,
+    "expansion": "forgotten souls",
+    "image": "explorations/d2e/forgotten-souls/fs-ec-2-the-lava-tomb.png",
+    "xws": "thelavatomb"
+  },
+  {
+    "name": "throne of the fallen",
+    "points": 16,
+    "expansion": "forgotten souls",
+    "image": "explorations/d2e/forgotten-souls/fs-ec-3-throne-of-the-fallen.png",
+    "xws": "throneofthefallen"
+  },
+  {
+    "name": "deadly kennel",
+    "points": 17,
+    "expansion": "forgotten souls",
+    "image": "explorations/d2e/forgotten-souls/fs-ec-4-deadly-kennel.png",
+    "xws": "deadlykennel"
+  },
+  {
+    "name": "fog-filled passage",
+    "points": 18,
+    "expansion": "forgotten souls",
+    "image": "explorations/d2e/forgotten-souls/fs-ec-5-fog-filled-passage.png",
+    "xws": "fogfilledpassage"
+  },
+  {
+    "name": "hall of riddles",
+    "points": 19,
+    "expansion": "forgotten souls",
+    "image": "explorations/d2e/forgotten-souls/fs-ec-6-hall-of-riddles.png",
+    "xws": "hallofriddles"
+  },
+  {
+    "name": "lengthy sewers",
+    "points": 20,
+    "expansion": "forgotten souls",
+    "image": "explorations/d2e/forgotten-souls/fs-ec-7-lengthy-sewers.png",
+    "xws": "lengthysewers"
+  },
+  {
+    "name": "shiny corridor",
+    "points": 21,
+    "expansion": "forgotten souls",
+    "image": "explorations/d2e/forgotten-souls/fs-ec-8-shiny-corridor.png",
+    "xws": "shinycorridor"
+  },
+  {
+    "name": "trash heap",
+    "points": 22,
+    "expansion": "forgotten souls",
+    "image": "explorations/d2e/forgotten-souls/fs-ec-9-trash-heap.png",
+    "xws": "trashheap"
+  },
+  {
+    "name": "treasure vault",
+    "points": 23,
+    "expansion": "forgotten souls",
+    "image": "explorations/d2e/forgotten-souls/fs-ec-10-treasure-vault.png",
+    "xws": "treasurevault"
+  },
+  {
+    "name": "tunnel's end",
+    "points": 24,
+    "expansion": "forgotten souls",
+    "image": "explorations/d2e/forgotten-souls/fs-ec-11-tunnels-end.png",
+    "xws": "tunnelsend"
+  },
+  {
+    "name": "forgotten-souls-explorations-back",
+    "points": 25,
+    "expansion": "forgotten souls",
+    "image": "explorations/d2e/forgotten-souls/fs-ec-back.png",
+    "xws": "forgottensoulsexplorationsback"
+  },
+  {
+    "name": "beyond the fringes",
+    "points": 26,
+    "expansion": "nature's ire",
+    "image": "explorations/d2e/natures-ire/ni-ec-0-beyond-the-fringes.png",
+    "xws": "beyondthefringes"
+  },
+  {
+    "name": "consuming falls",
+    "points": 27,
+    "expansion": "nature's ire",
+    "image": "explorations/d2e/natures-ire/ni-ec-1-consuming-falls.png",
+    "xws": "consumingfalls"
+  },
+  {
+    "name": "choke point",
+    "points": 28,
+    "expansion": "nature's ire",
+    "image": "explorations/d2e/natures-ire/ni-ec-2-choke-point.png",
+    "xws": "chokepoint"
+  },
+  {
+    "name": "cabin of the lost",
+    "points": 29,
+    "expansion": "nature's ire",
+    "image": "explorations/d2e/natures-ire/ni-ec-3-cabin-of-the-lost.png",
+    "xws": "cabinofthelost"
+  },
+  {
+    "name": "abandoned campsite",
+    "points": 30,
+    "expansion": "nature's ire",
+    "image": "explorations/d2e/natures-ire/ni-ec-4-abandoned-campsite.png",
+    "xws": "abandonedcampsite"
+  },
+  {
+    "name": "blocked gully",
+    "points": 31,
+    "expansion": "nature's ire",
+    "image": "explorations/d2e/natures-ire/ni-ec-5-blocked-gully.png",
+    "xws": "blockedgully"
+  },
+  {
+    "name": "firing zone",
+    "points": 32,
+    "expansion": "nature's ire",
+    "image": "explorations/d2e/natures-ire/ni-ec-6-firing-zone.png",
+    "xws": "firingzone"
+  },
+  {
+    "name": "hoarder's land",
+    "points": 33,
+    "expansion": "nature's ire",
+    "image": "explorations/d2e/natures-ire/ni-ec-7-hoarders-land.png",
+    "xws": "hoardersland"
+  },
+  {
+    "name": "misty gorge",
+    "points": 34,
+    "expansion": "nature's ire",
+    "image": "explorations/d2e/natures-ire/ni-ec-8-misty-gorge.png",
+    "xws": "mistygorge"
+  },
+  {
+    "name": "river flail",
+    "points": 35,
+    "expansion": "nature's ire",
+    "image": "explorations/d2e/natures-ire/ni-ec-9-river-flail.png",
+    "xws": "riverflail"
+  },
+  {
+    "name": "rocky channel",
+    "points": 36,
+    "expansion": "nature's ire",
+    "image": "explorations/d2e/natures-ire/ni-ec-10-rocky-channel.png",
+    "xws": "rockychannel"
+  },
+  {
+    "name": "webbed gulch",
+    "points": 37,
+    "expansion": "nature's ire",
+    "image": "explorations/d2e/natures-ire/ni-ec-11-webbed-gulch.png",
+    "xws": "webbedgulch"
+  },
+  {
+    "name": "natures-ire-explorations-back",
     "points": 38,
-    "expansion": "Dark Elements",
-    "image": "explorations/de-ec-back.png",
-    "xws": "explorationsback"
+    "expansion": "nature's ire",
+    "image": "explorations/d2e/natures-ire/ni-ec-back.png",
+    "xws": "naturesireexplorationsback"
   }
 ]
