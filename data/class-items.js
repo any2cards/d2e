@@ -1,973 +1,590 @@
 [
   {
-    "name": "Chipped Greataxe",
+    "name": "iron mace",
     "points": 0,
-    "archetype": "Warrior",
-    "class": "Berserker",
-    "traits": "Axe",
-    "attack": "Melee",
-    "equip": "Two Hands",
-    "dice": "Blue Red",
-    "rules": "Surge: +1 Heart. Surge: +1 Heart.",
-    "expansion": "Base Game",
-    "image": "class-items/chipped-greataxe-bg-warrior-berserker.png",
-    "xws": "chippedgreataxe"
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/healers/disciple/bg-iron-mace.png",
+    "xws": "ironmace"
   },
   {
-    "name": "Chipped Greataxe",
+    "name": "iron mace",
     "points": 1,
-    "archetype": "Warrior",
-    "class": "Berserker",
-    "expansion": "Base Game",
-    "image": "class-items/class-skills-berserker-back.png",
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/healers/disciple/bg-iron-mace-back.png",
+    "xws": "ironmace"
+  },
+  {
+    "name": "wooden shield",
+    "points": 2,
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/healers/disciple/bg-wooden-shield.png",
+    "xws": "woodenshield"
+  },
+  {
+    "name": "wooden shield",
+    "points": 3,
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/healers/disciple/bg-wooden-shield-back.png",
+    "xws": "woodenshield"
+  },
+  {
+    "name": "oak staff",
+    "points": 4,
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/healers/spiritspeaker/bg-oak-staff.png",
+    "xws": "oakstaff"
+  },
+  {
+    "name": "oak staff",
+    "points": 5,
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/healers/spiritspeaker/bg-oak-staff-back.png",
+    "xws": "oakstaff"
+  },
+  {
+    "name": "reaper's scythe",
+    "points": 6,
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/mages/necromancer/bg-reapers-scythe.png",
+    "xws": "reapersscythe"
+  },
+  {
+    "name": "reaper's scythe",
+    "points": 7,
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/mages/necromancer/bg-reapers-scythe-back.png",
+    "xws": "reapersscythe"
+  },
+  {
+    "name": "arcane bolt",
+    "points": 8,
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/mages/runemaster/bg-arcane-bolt.png",
+    "xws": "arcanebolt"
+  },
+  {
+    "name": "arcane bolt",
+    "points": 9,
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/mages/runemaster/bg-arcane-bolt-back.png",
+    "xws": "arcanebolt"
+  },
+  {
+    "name": "lucky charm",
+    "points": 10,
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/scouts/thief/bg-lucky-charm.png",
+    "xws": "luckycharm"
+  },
+  {
+    "name": "lucky charm",
+    "points": 11,
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/scouts/thief/bg-lucky-charm-back.png",
+    "xws": "luckycharm"
+  },
+  {
+    "name": "throwing knives",
+    "points": 12,
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/scouts/thief/bg-throwing-knives.png",
+    "xws": "throwingknives"
+  },
+  {
+    "name": "throwing knives",
+    "points": 13,
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/scouts/thief/bg-throwing-knives-back.png",
+    "xws": "throwingknives"
+  },
+  {
+    "name": "yew shortbow",
+    "points": 14,
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/scouts/wildlander/bg-yew-shortbow.png",
+    "xws": "yewshortbow"
+  },
+  {
+    "name": "yew shortbow",
+    "points": 15,
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/scouts/wildlander/bg-yew-shortbow-back.png",
+    "xws": "yewshortbow"
+  },
+  {
+    "name": "chipped greataxe",
+    "points": 16,
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/warriors/berserker/bg-chipped-greataxe.png",
     "xws": "chippedgreataxe"
   },
   {
-    "name": "Iron Longsword",
-    "points": 2,
-    "archetype": "Warrior",
-    "class": "Knight",
-    "traits": "Blade",
-    "attack": "Melee",
-    "equip": "One Hand",
-    "dice": "Blue Red",
-    "rules": "Surge: You may force the target to reroll 1 defense die.",
-    "expansion": "Base Game",
-    "image": "class-items/iron-longsword-bg-warrior-knight.png",
-    "xws": "ironlongsword"
-  },
-  {
-    "name": "Iron Longsword",
-    "points": 3,
-    "archetype": "Warrior",
-    "class": "Knight",
-    "expansion": "Base Game",
-    "image": "class-items/class-skills-knight-back.png",
-    "xws": "ironlongsword"
-  },
-  {
-    "name": "Wooden Shield",
-    "points": 4,
-    "archetype": "Warrior",
-    "class": "Knight",
-    "traits": "Shield",
-    "attack": "-",
-    "equip": "One Hand",
-    "dice": "-",
-    "rules": "Exhaust this card after rolling defense dice to add 1 Shield to the results.",
-    "expansion": "Base Game",
-    "image": "class-items/wooden-shield-bg-warrior-knight.png",
-    "xws": "woodenshield"
-  },
-  {
-    "name": "Wooden Shield",
-    "points": 5,
-    "archetype": "Warrior",
-    "class": "Knight",
-    "expansion": "Base Game",
-    "image": "class-items/class-skills-knight-back.png",
-    "xws": "woodenshield"
-  },
-  {
-    "name": "Iron Mace",
-    "points": 6,
-    "archetype": "Healer",
-    "class": "Disciple",
-    "traits": "Hammer",
-    "attack": "Melee",
-    "equip": "One Hand",
-    "dice": "Blue Yellow",
-    "rules": "Surge: Stun",
-    "expansion": "Base Game",
-    "image": "class-items/iron-mace-bg-healer-disciple.png",
-    "xws": "ironmace"
-  },
-  {
-    "name": "Iron Mace",
-    "points": 7,
-    "archetype": "Healer",
-    "class": "Disciple",
-    "expansion": "Base Game",
-    "image": "class-items/class-skills-disciple-back.png",
-    "xws": "ironmace"
-  },
-  {
-    "name": "Wooden Shield",
-    "points": 8,
-    "archetype": "Healer",
-    "class": "Disciple",
-    "traits": "Shield",
-    "attack": "-",
-    "equip": "One Hand",
-    "dice": "-",
-    "rules": "Exhaust this card after rolling defense dice to add 1 Shield to the results.",
-    "expansion": "Base Game",
-    "image": "class-items/wooden-shield-bg-healer-disciple.png",
-    "xws": "woodenshield"
-  },
-  {
-    "name": "Wooden Shield",
-    "points": 9,
-    "archetype": "Healer",
-    "class": "Disciple",
-    "expansion": "Base Game",
-    "image": "class-items/class-skills-disciple-back.png",
-    "xws": "woodenshield"
-  },
-  {
-    "name": "Oak Staff",
-    "points": 10,
-    "archetype": "Healer",
-    "class": "Spiritspeaker",
-    "traits": "Staff",
-    "attack": "Melee",
-    "equip": "Two Hands",
-    "dice": "Blue Yellow",
-    "rules": "Reach. Surge: +1 Heart",
-    "expansion": "Base Game",
-    "image": "class-items/oak-staff-bg-healer-spiritspeaker.png",
-    "xws": "oakstaff"
-  },
-  {
-    "name": "Oak Staff",
-    "points": 11,
-    "archetype": "Healer",
-    "class": "Spiritspeaker",
-    "expansion": "Base Game",
-    "image": "class-items/class-skills-spiritspeaker-back.png",
-    "xws": "oakstaff"
-  },
-  {
-    "name": "Reaper's Scythe",
-    "points": 12,
-    "archetype": "Mage",
-    "class": "Necromancer",
-    "traits": "Magic, Staff",
-    "attack": "Range",
-    "equip": "Two Hands",
-    "dice": "Blue Yellow",
-    "rules": "Each time you defeat a monster with this weapon, recover 1 Heart. Surge: +1 Range.",
-    "expansion": "Base Game",
-    "image": "class-items/reapers-scythe-bg-mage-necromancer.png",
-    "xws": "reapersscythe"
-  },
-  {
-    "name": "Reaper's Scythe",
-    "points": 13,
-    "archetype": "Mage",
-    "class": "Necromancer",
-    "expansion": "Base Game",
-    "image": "class-items/class-skills-necromancer-back.png",
-    "xws": "reapersscythe"
-  },
-  {
-    "name": "Arcane Bolt",
-    "points": 14,
-    "archetype": "Mage",
-    "class": "Runemaster",
-    "traits": "Magic, Rune",
-    "attack": "Range",
-    "equip": "Two Hands",
-    "dice": "Blue Yellow",
-    "rules": "Surge: +1 Range. Surge: Pierce 2.",
-    "expansion": "Base Game",
-    "image": "class-items/arcane-bolt-bg-mage-runemaster.png",
-    "xws": "arcanebolt"
-  },
-  {
-    "name": "Arcane Bolt",
-    "points": 15,
-    "archetype": "Mage",
-    "class": "Runemaster",
-    "expansion": "Base Game",
-    "image": "class-items/class-skills-runemaster-back.png",
-    "xws": "arcanebolt"
-  },
-  {
-    "name": "Throwing Knives",
-    "points": 16,
-    "archetype": "Scout",
-    "class": "Thief",
-    "traits": "Blade",
-    "attack": "Range",
-    "equip": "One Hand",
-    "dice": "Blue Yellow",
-    "rules": "When attacking an adjacent monster, gain +1 Heart. Surge: +1 Range.",
-    "expansion": "Base Game",
-    "image": "class-items/throwing-knives-bg-scout-thief.png",
-    "xws": "throwingknives"
-  },
-  {
-    "name": "Throwing Knives",
+    "name": "chipped greataxe",
     "points": 17,
-    "archetype": "Scout",
-    "class": "Thief",
-    "expansion": "Base Game",
-    "image": "class-items/class-skills-thief-back.png",
-    "xws": "throwingknives"
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/warriors/berserker/bg-chipped-greataxe-back.png",
+    "xws": "chippedgreataxe"
   },
   {
-    "name": "Lucky Charm",
+    "name": "iron longsword",
     "points": 18,
-    "archetype": "Scout",
-    "class": "Thief",
-    "traits": "Trinket",
-    "attack": "-",
-    "equip": "Other",
-    "dice": "-",
-    "rules": "Exhaust this card to reroll an attribute test. You must keep the new results.",
-    "expansion": "Base Game",
-    "image": "class-items/lucky-charm-bg-scout-thief.png",
-    "xws": "luckycharm"
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/warriors/knight/bg-iron-longsword.png",
+    "xws": "ironlongsword"
   },
   {
-    "name": "Lucky Charm",
+    "name": "iron longsword",
     "points": 19,
-    "archetype": "Scout",
-    "class": "Thief",
-    "expansion": "Base Game",
-    "image": "class-items/class-skills-thief-back.png",
-    "xws": "luckycharm"
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/warriors/knight/bg-iron-longsword-back.png",
+    "xws": "ironlongsword"
   },
   {
-    "name": "Yew Shortbow",
+    "name": "wooden shield",
     "points": 20,
-    "archetype": "Scout",
-    "class": "Wildlander",
-    "traits": "Bow",
-    "attack": "Range",
-    "equip": "Two Hands",
-    "dice": "Blue Yellow",
-    "rules": "Surge: +2 Range. Surge: +1 Heart.",
-    "expansion": "Base Game",
-    "image": "class-items/yew-shortbow-bg-scout-wildlander.png",
-    "xws": "yewshortbow"
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/warriors/knight/bg-wooden-shield.png",
+    "xws": "woodenshield"
   },
   {
-    "name": "Yew Shortbow",
+    "name": "wooden shield",
     "points": 21,
-    "archetype": "Scout",
-    "class": "Wildlander",
-    "expansion": "Base Game",
-    "image": "class-items/class-skills-wildlander-back.png",
-    "xws": "yewshortbow"
+    "expansion": "base game",
+    "image": "class-items/d2e/base-game/warriors/knight/bg-wooden-shield-back.png",
+    "xws": "woodenshield"
   },
   {
-    "name": "Worn Greatsword",
+    "name": "smoking vials",
     "points": 22,
-    "archetype": "Warrior",
-    "class": "Champion",
-    "traits": "Blade",
-    "attack": "Melee",
-    "equip": "Two Hands",
-    "dice": "Blue Red",
-    "rules": "Before rolling your attack dice, you may suffer 1 Fatigue to add 1 Surge to your attack results. Surge: +1 Heart.",
-    "expansion": "Lair Of The Wyrm",
-    "image": "class-items/worn-greatsword-lw-warrior-champion.png",
-    "xws": "worngreatsword"
+    "expansion": "labyrinth of ruin",
+    "image": "class-items/d2e/labyrinth-of-ruin/healers/apothecary/lr-smoking-vials.png",
+    "xws": "smokingvials"
   },
   {
-    "name": "Worn Greatsword",
+    "name": "smoking vials",
     "points": 23,
-    "archetype": "Warrior",
-    "class": "Champion",
-    "expansion": "Lair Of The Wyrm",
-    "image": "class-items/class-skills-champion-back.png",
+    "expansion": "labyrinth of ruin",
+    "image": "class-items/d2e/labyrinth-of-ruin/healers/apothecary/lr-smoking-vials-back.png",
+    "xws": "smokingvials"
+  },
+  {
+    "name": "staff of the grave",
+    "points": 24,
+    "expansion": "labyrinth of ruin",
+    "image": "class-items/d2e/labyrinth-of-ruin/mages/hexer/lr-staff-of-the-grave.png",
+    "xws": "staffofthegrave"
+  },
+  {
+    "name": "staff of the grave",
+    "points": 25,
+    "expansion": "labyrinth of ruin",
+    "image": "class-items/d2e/labyrinth-of-ruin/mages/hexer/lr-staff-of-the-grave-back.png",
+    "xws": "staffofthegrave"
+  },
+  {
+    "name": "leather whip",
+    "points": 26,
+    "expansion": "labyrinth of ruin",
+    "image": "class-items/d2e/labyrinth-of-ruin/scouts/treasure-hunter/lr-leather-whip.png",
+    "xws": "leatherwhip"
+  },
+  {
+    "name": "leather whip",
+    "points": 27,
+    "expansion": "labyrinth of ruin",
+    "image": "class-items/d2e/labyrinth-of-ruin/scouts/treasure-hunter/lr-leather-whip-back.png",
+    "xws": "leatherwhip"
+  },
+  {
+    "name": "the dead man's compass",
+    "points": 28,
+    "expansion": "labyrinth of ruin",
+    "image": "class-items/d2e/labyrinth-of-ruin/scouts/treasure-hunter/lr-the-dead-mans-compass.png",
+    "xws": "thedeadmanscompass"
+  },
+  {
+    "name": "the dead man's compass",
+    "points": 29,
+    "expansion": "labyrinth of ruin",
+    "image": "class-items/d2e/labyrinth-of-ruin/scouts/treasure-hunter/lr-the-dead-mans-compass-back.png",
+    "xws": "thedeadmanscompass"
+  },
+  {
+    "name": "hunting spear",
+    "points": 30,
+    "expansion": "labyrinth of ruin",
+    "image": "class-items/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-hunting-spear.png",
+    "xws": "huntingspear"
+  },
+  {
+    "name": "hunting spear",
+    "points": 31,
+    "expansion": "labyrinth of ruin",
+    "image": "class-items/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-hunting-spear-back.png",
+    "xws": "huntingspear"
+  },
+  {
+    "name": "skinning knife",
+    "points": 32,
+    "expansion": "labyrinth of ruin",
+    "image": "class-items/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-skinning-knife.png",
+    "xws": "skinningknife"
+  },
+  {
+    "name": "skinning knife",
+    "points": 33,
+    "expansion": "labyrinth of ruin",
+    "image": "class-items/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-skinning-knife-back.png",
+    "xws": "skinningknife"
+  },
+  {
+    "name": "stasis rune",
+    "points": 34,
+    "expansion": "lair of the wyrm",
+    "image": "class-items/d2e/lair-of-the-wyrm/mages/geomancer/lw-stasis-rune.png",
+    "xws": "stasisrune"
+  },
+  {
+    "name": "stasis rune",
+    "points": 35,
+    "expansion": "lair of the wyrm",
+    "image": "class-items/d2e/lair-of-the-wyrm/mages/geomancer/lw-stasis-rune-back.png",
+    "xws": "stasisrune"
+  },
+  {
+    "name": "horn of courage",
+    "points": 36,
+    "expansion": "lair of the wyrm",
+    "image": "class-items/d2e/lair-of-the-wyrm/warriors/champion/lw-horn-of-courage.png",
+    "xws": "hornofcourage"
+  },
+  {
+    "name": "horn of courage",
+    "points": 37,
+    "expansion": "lair of the wyrm",
+    "image": "class-items/d2e/lair-of-the-wyrm/warriors/champion/lw-horn-of-courage-back.png",
+    "xws": "hornofcourage"
+  },
+  {
+    "name": "worn greatsword",
+    "points": 38,
+    "expansion": "lair of the wyrm",
+    "image": "class-items/d2e/lair-of-the-wyrm/warriors/champion/lw-worn-greatsword.png",
     "xws": "worngreatsword"
   },
   {
-    "name": "Horn Of Courage",
-    "points": 24,
-    "archetype": "Warrior",
-    "class": "Champion",
-    "traits": "Trinket",
-    "attack": "-",
-    "equip": "Other",
-    "dice": "-",
-    "rules": "Exhaust this card during your turn and choose another hero within 3 spaces of you. The chosen hero gains 1 valor.",
-    "expansion": "Lair Of The Wyrm",
-    "image": "class-items/horn-of-courage-lw-warrior-champion.png",
-    "xws": "hornofcourage"
-  },
-  {
-    "name": "Horn Of Courage",
-    "points": 25,
-    "archetype": "Warrior",
-    "class": "Champion",
-    "expansion": "Lair Of The Wyrm",
-    "image": "class-items/class-skills-champion-back.png",
-    "xws": "hornofcourage"
-  },
-  {
-    "name": "Stasis Rune",
-    "points": 26,
-    "archetype": "Mage",
-    "class": "Geomancer",
-    "traits": "Magic, Rune",
-    "attack": "Range",
-    "equip": "Two Hands",
-    "dice": "Blue Yellow",
-    "rules": "Surge: +1 Heart. Surge Surge: Immobilize.",
-    "expansion": "Lair Of The Wyrm",
-    "image": "class-items/stasis-rune-lw-mage-geomancer.png",
-    "xws": "stasisrune"
-  },
-  {
-    "name": "Stasis Rune",
-    "points": 27,
-    "archetype": "Mage",
-    "class": "Geomancer",
-    "expansion": "Lair Of The Wyrm",
-    "image": "class-items/class-skills-geomancer-back.png",
-    "xws": "stasisrune"
-  },
-  {
-    "name": "Hunting Spear",
-    "points": 28,
-    "archetype": "Warrior",
-    "class": "Beastmaster",
-    "traits": "Exotic",
-    "attack": "Melee",
-    "equip": "One Hand",
-    "dice": "Blue Red",
-    "rules": "Reach. Surge: Pierce 1.",
-    "expansion": "Labyrinth Of Ruin",
-    "image": "class-items/hunting-spear-lr-warrior-beastmaster.png",
-    "xws": "huntingspear"
-  },
-  {
-    "name": "Hunting Spear",
-    "points": 29,
-    "archetype": "Warrior",
-    "class": "Beastmaster",
-    "expansion": "Labyrinth Of Ruin",
-    "image": "class-items/class-skills-beastmaster-back.png",
-    "xws": "huntingspear"
-  },
-  {
-    "name": "Skinning Knife",
-    "points": 30,
-    "archetype": "Warrior",
-    "class": "Beastmaster",
-    "traits": "Blade",
-    "attack": "Melee",
-    "equip": "One Hand",
-    "dice": "Blue Green",
-    "rules": "If the target has any number of damage tokens, this attack gains: Surge: +3 Hearts.",
-    "expansion": "Labyrinth Of Ruin",
-    "image": "class-items/skinning-knife-lr-warrior-beastmaster.png",
-    "xws": "skinningknife"
-  },
-  {
-    "name": "Skinning Knife",
-    "points": 31,
-    "archetype": "Warrior",
-    "class": "Beastmaster",
-    "expansion": "Labyrinth Of Ruin",
-    "image": "class-items/class-skills-beastmaster-back.png",
-    "xws": "skinningknife"
-  },
-  {
-    "name": "Smoking Vials",
-    "points": 32,
-    "archetype": "Healer",
-    "class": "Apothecary",
-    "traits": "Exotic",
-    "attack": "Range",
-    "equip": "One Hand",
-    "dice": "Blue Green",
-    "rules": "Surge Surge: +3 Hearts. Surge: Poison.",
-    "expansion": "Labyrinth Of Ruin",
-    "image": "class-items/smoking-vials-lr-healer-apothecary.png",
-    "xws": "smokingvials"
-  },
-  {
-    "name": "Smoking Vials",
-    "points": 33,
-    "archetype": "Healer",
-    "class": "Apothecary",
-    "expansion": "Labyrinth Of Ruin",
-    "image": "class-items/class-skills-apothecary-back.png",
-    "xws": "smokingvials"
-  },
-  {
-    "name": "Staff Of The Grave",
-    "points": 34,
-    "archetype": "Mage",
-    "class": "Hexer",
-    "traits": "Magic, Staff",
-    "attack": "Range",
-    "equip": "Two Hands",
-    "dice": "Blue Green",
-    "rules": "Surge: +1 Range. Surge: +1 Heart and Recover 1 Heart.",
-    "expansion": "Labyrinth Of Ruin",
-    "image": "class-items/staff-of-the-grave-lr-mage-hexer.png",
-    "xws": "staffofthegrave"
-  },
-  {
-    "name": "Staff Of The Grave",
-    "points": 35,
-    "archetype": "Mage",
-    "class": "Hexer",
-    "expansion": "Labyrinth Of Ruin",
-    "image": "class-items/class-skills-hexer-back.png",
-    "xws": "staffofthegrave"
-  },
-  {
-    "name": "Leather Whip",
-    "points": 36,
-    "archetype": "Scout",
-    "class": "Treasure Hunter",
-    "traits": "Exotic",
-    "attack": "Melee",
-    "equip": "One Hand",
-    "dice": "Blue Yellow",
-    "rules": "Reach. Surge: Pierce 1. Surge: Move the target 1 space.",
-    "expansion": "Labyrinth Of Ruin",
-    "image": "class-items/leather-whip-lr-scout-treasure-hunter.png",
-    "xws": "leatherwhip"
-  },
-  {
-    "name": "Leather Whip",
-    "points": 37,
-    "archetype": "Scout",
-    "class": "Treasure Hunter",
-    "expansion": "Labyrinth Of Ruin",
-    "image": "class-items/class-skills-treasure-hunter-back.png",
-    "xws": "leatherwhip"
-  },
-  {
-    "name": "The Dead Man's Compass",
-    "points": 38,
-    "archetype": "Scout",
-    "class": "Treasure Hunter",
-    "traits": "Trinket",
-    "attack": "-",
-    "equip": "Other",
-    "dice": "-",
-    "rules": "Exhaust this card during your turn. If you are within 3 spaces of a search token, immediately gain 1 movement point.",
-    "expansion": "Labyrinth Of Ruin",
-    "image": "class-items/the-dead-mans-compass-lr-scout-treasure-hunter.png",
-    "xws": "thedeadmanscompass"
-  },
-  {
-    "name": "The Dead Man's Compass",
+    "name": "worn greatsword",
     "points": 39,
-    "archetype": "Scout",
-    "class": "Treasure Hunter",
-    "expansion": "Labyrinth Of Ruin",
-    "image": "class-items/class-skills-treasure-hunter-back.png",
-    "xws": "thedeadmanscompass"
+    "expansion": "lair of the wyrm",
+    "image": "class-items/d2e/lair-of-the-wyrm/warriors/champion/lw-worn-greatsword-back.png",
+    "xws": "worngreatsword"
   },
   {
-    "name": "Iron Flail",
+    "name": "harvester scythe",
     "points": 40,
-    "archetype": "Healer",
-    "class": "Prophet",
-    "traits": "Hammer, Exotic",
-    "attack": "Melee",
-    "equip": "One Hand",
-    "dice": "Blue Yellow",
-    "rules": "Reach. If your other hand is empty, you attacks gain +1 Heart.",
-    "expansion": "The Trollfens",
-    "image": "class-items/iron-flail-tf-healer-prophet.png",
-    "xws": "ironflail"
+    "expansion": "lost legends",
+    "image": "class-items/d2e/lost-legends/healers/soul-reaper/ll-harvester-scythe.png",
+    "xws": "harvesterscythe"
   },
   {
-    "name": "Iron Flail",
+    "name": "harvester scythe",
     "points": 41,
-    "archetype": "Healer",
-    "class": "Prophet",
-    "expansion": "The Trollfens",
-    "image": "class-items/class-skills-prophet-back.png",
+    "expansion": "lost legends",
+    "image": "class-items/d2e/lost-legends/healers/soul-reaper/ll-harvester-scythe-back.png",
+    "xws": "harvesterscythe"
+  },
+  {
+    "name": "mirror of souls",
+    "points": 42,
+    "expansion": "lost legends",
+    "image": "class-items/d2e/lost-legends/healers/soul-reaper/ll-mirror-of-souls.png",
+    "xws": "mirrorofsouls"
+  },
+  {
+    "name": "mirror of souls",
+    "points": 43,
+    "expansion": "lost legends",
+    "image": "class-items/d2e/lost-legends/healers/soul-reaper/ll-mirror-of-souls-back.png",
+    "xws": "mirrorofsouls"
+  },
+  {
+    "name": "runeshard cache",
+    "points": 44,
+    "expansion": "lost legends",
+    "image": "class-items/d2e/lost-legends/mages/elementalist/ll-runeshard-cache.png",
+    "xws": "runeshardcache"
+  },
+  {
+    "name": "runeshard cache",
+    "points": 45,
+    "expansion": "lost legends",
+    "image": "class-items/d2e/lost-legends/mages/elementalist/ll-runeshard-cache-back.png",
+    "xws": "runeshardcache"
+  },
+  {
+    "name": "spire of conflux",
+    "points": 46,
+    "expansion": "lost legends",
+    "image": "class-items/d2e/lost-legends/mages/elementalist/ll-spire-of-conflux.png",
+    "xws": "spireofconflux"
+  },
+  {
+    "name": "spire of conflux",
+    "points": 47,
+    "expansion": "lost legends",
+    "image": "class-items/d2e/lost-legends/mages/elementalist/ll-spire-of-conflux-back.png",
+    "xws": "spireofconflux"
+  },
+  {
+    "name": "double crossbow",
+    "points": 48,
+    "expansion": "manor of ravens",
+    "image": "class-items/d2e/manor-of-ravens/scouts/bounty-hunter/mr-double-crossbow.png",
+    "xws": "doublecrossbow"
+  },
+  {
+    "name": "double crossbow",
+    "points": 49,
+    "expansion": "manor of ravens",
+    "image": "class-items/d2e/manor-of-ravens/scouts/bounty-hunter/mr-double-crossbow-back.png",
+    "xws": "doublecrossbow"
+  },
+  {
+    "name": "signet ring",
+    "points": 50,
+    "expansion": "manor of ravens",
+    "image": "class-items/d2e/manor-of-ravens/warriors/marshal/mr-signet-ring.png",
+    "xws": "signetring"
+  },
+  {
+    "name": "signet ring",
+    "points": 51,
+    "expansion": "manor of ravens",
+    "image": "class-items/d2e/manor-of-ravens/warriors/marshal/mr-signet-ring-back.png",
+    "xws": "signetring"
+  },
+  {
+    "name": "war hammer",
+    "points": 52,
+    "expansion": "manor of ravens",
+    "image": "class-items/d2e/manor-of-ravens/warriors/marshal/mr-war-hammer.png",
+    "xws": "warhammer"
+  },
+  {
+    "name": "war hammer",
+    "points": 53,
+    "expansion": "manor of ravens",
+    "image": "class-items/d2e/manor-of-ravens/warriors/marshal/mr-war-hammer-back.png",
+    "xws": "warhammer"
+  },
+  {
+    "name": "ceremonial staff",
+    "points": 54,
+    "expansion": "sands of the past",
+    "image": "class-items/sotp/sands-of-the-past/healers/hierophant/sotp-ceremonial-staff.png",
+    "xws": "ceremonialstaff"
+  },
+  {
+    "name": "ceremonial staff",
+    "points": 55,
+    "expansion": "sands of the past",
+    "image": "class-items/sotp/sands-of-the-past/healers/hierophant/sotp-ceremonial-staff-back.png",
+    "xws": "ceremonialstaff"
+  },
+  {
+    "name": "sacred scriptures",
+    "points": 56,
+    "expansion": "sands of the past",
+    "image": "class-items/sotp/sands-of-the-past/healers/hierophant/sotp-sacred-scriptures.png",
+    "xws": "sacredscriptures"
+  },
+  {
+    "name": "sacred scriptures",
+    "points": 57,
+    "expansion": "sands of the past",
+    "image": "class-items/sotp/sands-of-the-past/healers/hierophant/sotp-sacred-scriptures-back.png",
+    "xws": "sacredscriptures"
+  },
+  {
+    "name": "mind's eye turban",
+    "points": 58,
+    "expansion": "sands of the past",
+    "image": "class-items/sotp/sands-of-the-past/mages/psychic/sotp-minds-eye-turban.png",
+    "xws": "mindseyeturban"
+  },
+  {
+    "name": "mind's eye turban",
+    "points": 59,
+    "expansion": "sands of the past",
+    "image": "class-items/sotp/sands-of-the-past/mages/psychic/sotp-minds-eye-turban-back.png",
+    "xws": "mindseyeturban"
+  },
+  {
+    "name": "shadow darts",
+    "points": 60,
+    "expansion": "sands of the past",
+    "image": "class-items/sotp/sands-of-the-past/mages/psychic/sotp-shadow-darts.png",
+    "xws": "shadowdarts"
+  },
+  {
+    "name": "shadow darts",
+    "points": 61,
+    "expansion": "sands of the past",
+    "image": "class-items/sotp/sands-of-the-past/mages/psychic/sotp-shadow-darts-back.png",
+    "xws": "shadowdarts"
+  },
+  {
+    "name": "lute",
+    "points": 62,
+    "expansion": "shadow of nerekhall",
+    "image": "class-items/d2e/shadow-of-nerekhall/healers/bard/sn-lute.png",
+    "xws": "lute"
+  },
+  {
+    "name": "lute",
+    "points": 63,
+    "expansion": "shadow of nerekhall",
+    "image": "class-items/d2e/shadow-of-nerekhall/healers/bard/sn-lute-back.png",
+    "xws": "lute"
+  },
+  {
+    "name": "traveler's blade",
+    "points": 64,
+    "expansion": "shadow of nerekhall",
+    "image": "class-items/d2e/shadow-of-nerekhall/healers/bard/sn-travelers-blade.png",
+    "xws": "travelersblade"
+  },
+  {
+    "name": "traveler's blade",
+    "points": 65,
+    "expansion": "shadow of nerekhall",
+    "image": "class-items/d2e/shadow-of-nerekhall/healers/bard/sn-travelers-blade-back.png",
+    "xws": "travelersblade"
+  },
+  {
+    "name": "prismatic staff",
+    "points": 66,
+    "expansion": "shadow of nerekhall",
+    "image": "class-items/d2e/shadow-of-nerekhall/mages/conjurer/sn-prismatic-staff.png",
+    "xws": "prismaticstaff"
+  },
+  {
+    "name": "prismatic staff",
+    "points": 67,
+    "expansion": "shadow of nerekhall",
+    "image": "class-items/d2e/shadow-of-nerekhall/mages/conjurer/sn-prismatic-staff-back.png",
+    "xws": "prismaticstaff"
+  },
+  {
+    "name": "feathered hatchet",
+    "points": 68,
+    "expansion": "shadow of nerekhall",
+    "image": "class-items/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-feathered-hatchet.png",
+    "xws": "featheredhatchet"
+  },
+  {
+    "name": "feathered hatchet",
+    "points": 69,
+    "expansion": "shadow of nerekhall",
+    "image": "class-items/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-feathered-hatchet-back.png",
+    "xws": "featheredhatchet"
+  },
+  {
+    "name": "tribal cloak",
+    "points": 70,
+    "expansion": "shadow of nerekhall",
+    "image": "class-items/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-tribal-cloak.png",
+    "xws": "tribalcloak"
+  },
+  {
+    "name": "tribal cloak",
+    "points": 71,
+    "expansion": "shadow of nerekhall",
+    "image": "class-items/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-tribal-cloak-back.png",
+    "xws": "tribalcloak"
+  },
+  {
+    "name": "jagged handaxe",
+    "points": 72,
+    "expansion": "shadow of nerekhall",
+    "image": "class-items/d2e/shadow-of-nerekhall/warriors/skirmisher/sn-jagged-handaxe.png",
+    "xws": "jaggedhandaxe"
+  },
+  {
+    "name": "jagged handaxe",
+    "points": 73,
+    "expansion": "shadow of nerekhall",
+    "image": "class-items/d2e/shadow-of-nerekhall/warriors/skirmisher/sn-jagged-handaxe-back.png",
+    "xws": "jaggedhandaxe"
+  },
+  {
+    "name": "rusted handaxe",
+    "points": 74,
+    "expansion": "shadow of nerekhall",
+    "image": "class-items/d2e/shadow-of-nerekhall/warriors/skirmisher/sn-rusted-handaxe.png",
+    "xws": "rustedhandaxe"
+  },
+  {
+    "name": "rusted handaxe",
+    "points": 75,
+    "expansion": "shadow of nerekhall",
+    "image": "class-items/d2e/shadow-of-nerekhall/warriors/skirmisher/sn-rusted-handaxe-back.png",
+    "xws": "rustedhandaxe"
+  },
+  {
+    "name": "iron flail",
+    "points": 76,
+    "expansion": "the trollfens",
+    "image": "class-items/d2e/the-trollfens/healers/prophet/tf-iron-flail.png",
     "xws": "ironflail"
   },
   {
-    "name": "Sage's Tome",
-    "points": 42,
-    "archetype": "Healer",
-    "class": "Prophet",
-    "traits": "Book",
-    "attack": "-",
-    "equip": "Other",
-    "dice": "-",
-    "rules": "Exhaust this card before rolling dice for an attribute test to subtract 1 Shield from the results.",
-    "expansion": "The Trollfens",
-    "image": "class-items/sages-tome-tf-healer-prophet.png",
-    "xws": "sagestome"
-  },
-  {
-    "name": "Sage's Tome",
-    "points": 43,
-    "archetype": "Healer",
-    "class": "Prophet",
-    "expansion": "The Trollfens",
-    "image": "class-items/class-skills-prophet-back.png",
-    "xws": "sagestome"
-  },
-  {
-    "name": "Black Widow's Web",
-    "points": 44,
-    "archetype": "Scout",
-    "class": "Stalker",
-    "traits": "Exotic",
-    "attack": "Range",
-    "equip": "One Hand",
-    "dice": "Blue Green",
-    "rules": "Surge: Immobilize. Surge: +1 Heart.",
-    "expansion": "The Trollfens",
-    "image": "class-items/black-widows-web-tf-scout-stalker.png",
-    "xws": "blackwidowsweb"
-  },
-  {
-    "name": "Black Widow's Web",
-    "points": 45,
-    "archetype": "Scout",
-    "class": "Stalker",
-    "expansion": "The Trollfens",
-    "image": "class-items/class-skills-stalker-back.png",
-    "xws": "blackwidowsweb"
-  },
-  {
-    "name": "Hunting Knife",
-    "points": 46,
-    "archetype": "Scout",
-    "class": "Stalker",
-    "traits": "Blade",
-    "attack": "Melee",
-    "equip": "One Hand",
-    "dice": "Blue Yellow",
-    "rules": "Surge: +1 Heart. Surge: Recover 1 Fatigue.",
-    "expansion": "The Trollfens",
-    "image": "class-items/hunting-knife-tf-scout-stalker.png",
-    "xws": "huntingknife"
-  },
-  {
-    "name": "Hunting Knife",
-    "points": 47,
-    "archetype": "Scout",
-    "class": "Stalker",
-    "expansion": "The Trollfens",
-    "image": "class-items/class-skills-stalker-back.png",
-    "xws": "huntingknife"
-  },
-  {
-    "name": "Jagged Handaxe",
-    "points": 48,
-    "archetype": "Warrior",
-    "class": "Skirmisher",
-    "traits": "Axe",
-    "attack": "Melee",
-    "equip": "One Hand",
-    "dice": "Blue Yellow",
-    "rules": "Before you roll attack dice, you may suffer 1 Fatigue to replace the yellow power die with the red power die. Surge: Pierce 1.",
-    "expansion": "Shadow Of Nerekhall",
-    "image": "class-items/jagged-handaxe-sn-warrior-skirmisher.png",
-    "xws": "jaggedhandaxe"
-  },
-  {
-    "name": "Jagged Handaxe",
-    "points": 49,
-    "archetype": "Warrior",
-    "class": "Skirmisher",
-    "expansion": "Shadow Of Nerekhall",
-    "image": "class-items/class-skills-skirmisher-back.png",
-    "xws": "jaggedhandaxe"
-  },
-  {
-    "name": "Rusted Handaxe",
-    "points": 50,
-    "archetype": "Warrior",
-    "class": "Skirmisher",
-    "traits": "Axe",
-    "attack": "Melee",
-    "equip": "One Hand",
-    "dice": "Blue Green",
-    "rules": "After you roll attack dice, you may suffer 1 Fatigue to reroll 1 power die. Surge: +2 Hearts.",
-    "expansion": "Shadow Of Nerekhall",
-    "image": "class-items/rusted-handaxe-sn-warrior-skirmisher.png",
-    "xws": "rustedhandaxe"
-  },
-  {
-    "name": "Rusted Handaxe",
-    "points": 51,
-    "archetype": "Warrior",
-    "class": "Skirmisher",
-    "expansion": "Shadow Of Nerekhall",
-    "image": "class-items/class-skills-skirmisher-back.png",
-    "xws": "rustedhandaxe"
-  },
-  {
-    "name": "Traveler's Blade",
-    "points": 52,
-    "archetype": "Healer",
-    "class": "Bard",
-    "traits": "Blade",
-    "attack": "Melee",
-    "equip": "One Hand",
-    "dice": "Blue Yellow",
-    "rules": "Surge: Pierce 1. Surge: Gain 1 movement point.",
-    "expansion": "Shadow Of Nerekhall",
-    "image": "class-items/travelers-blade-sn-healer-bard.png",
-    "xws": "travelersblade"
-  },
-  {
-    "name": "Traveler's Blade",
-    "points": 53,
-    "archetype": "Healer",
-    "class": "Bard",
-    "expansion": "Shadow Of Nerekhall",
-    "image": "class-items/class-skills-bard-back.png",
-    "xws": "travelersblade"
-  },
-  {
-    "name": "Lute",
-    "points": 54,
-    "archetype": "Healer",
-    "class": "Bard",
-    "traits": "Trinket",
-    "attack": "-",
-    "equip": "Other",
-    "dice": "-",
-    "rules": "Exhaust this card during your turn and suffer 1 Fatigue to choose a hero within 3 spaces of you. That hero recovers 1 Fatigue.",
-    "expansion": "Shadow Of Nerekhall",
-    "image": "class-items/lute-sn-healer-bard.png",
-    "xws": "lute"
-  },
-  {
-    "name": "Lute",
-    "points": 55,
-    "archetype": "Healer",
-    "class": "Bard",
-    "expansion": "Shadow Of Nerekhall",
-    "image": "class-items/class-skills-bard-back.png",
-    "xws": "lute"
-  },
-  {
-    "name": "Prismatic Staff",
-    "points": 56,
-    "archetype": "Mage",
-    "class": "Conjurer",
-    "traits": "Magic, Staff",
-    "attack": "Range",
-    "equip": "Two Hands",
-    "dice": "Blue Green",
-    "rules": "Surge: +1 Heart. Surge: +1 Heart. Surge: Stun.",
-    "expansion": "Shadow Of Nerekhall",
-    "image": "class-items/prismatic-staff-sn-mage-conjurer.png",
-    "xws": "prismaticstaff"
-  },
-  {
-    "name": "Prismatic Staff",
-    "points": 57,
-    "archetype": "Mage",
-    "class": "Conjurer",
-    "expansion": "Shadow Of Nerekhall",
-    "image": "class-items/class-skills-conjurer-back.png",
-    "xws": "prismaticstaff"
-  },
-  {
-    "name": "Feathered Hatchet",
-    "points": 58,
-    "archetype": "Scout",
-    "class": "Shadow Walker",
-    "traits": "Axe, Exotic",
-    "attack": "Range",
-    "equip": "One Hand",
-    "dice": "Blue Red",
-    "rules": "Surge: +1 Range. Surge: Bleed.",
-    "expansion": "Shadow Of Nerekhall",
-    "image": "class-items/feathered-hatchet-sn-scout-shadow-walker.png",
-    "xws": "featherhatchet"
-  },
-  {
-    "name": "Feathered Hatchet",
-    "points": 59,
-    "archetype": "Scout",
-    "class": "Shadow Walker",
-    "expansion": "Shadow Of Nerekhall",
-    "image": "class-items/class-skills-shadow-walker-back.png",
-    "xws": "featherhatchet"
-  },
-  {
-    "name": "Tribal Cloak",
-    "points": 60,
-    "archetype": "Scout",
-    "class": "Shadow Walker",
-    "traits": "Cloak",
-    "attack": "-",
-    "equip": "Armor",
-    "dice": "-",
-    "rules": "Exhaust this card when you perform a rest action. While this card is exhausted, add 1 additional brown die to your defense pool.",
-    "expansion": "Shadow Of Nerekhall",
-    "image": "class-items/tribal-cloak-sn-scout-shadow-walker.png",
-    "xws": "tribalcloak"
-  },
-  {
-    "name": "Tribal Cloak",
-    "points": 61,
-    "archetype": "Scout",
-    "class": "Shadow Walker",
-    "expansion": "Shadow Of Nerekhall",
-    "image": "class-items/class-skills-shadow-walker-back.png",
-    "xws": "tribalcloak"
-  },
-  {
-    "name": "War Hammer",
-    "points": 62,
-    "archetype": "Warrior",
-    "class": "Marshal",
-    "traits": "Hammer",
-    "attack": "Melee",
-    "equip": "Two Hands",
-    "dice": "Blue Red",
-    "rules": "Reach. You cannot spend Surges to recover fatigue. Surge: +2 Hearts.",
-    "expansion": "Manor Of Ravens",
-    "image": "class-items/war-hammer-mr-warrior-marshal.png",
-    "xws": "warhammer"
-  },
-  {
-    "name": "War Hammer",
-    "points": 63,
-    "archetype": "Warrior",
-    "class": "Marshal",
-    "expansion": "Manor Of Ravens",
-    "image": "class-items/class-skills-marshal-back.png",
-    "xws": "warhammer"
-  },
-  {
-    "name": "Signet Ring",
-    "points": 64,
-    "archetype": "Warrior",
-    "class": "Marshal",
-    "traits": "Ring",
-    "attack": "-",
-    "equip": "Other",
-    "dice": "-",
-    "rules": "Exhaust this card when you or an adjacent hero is attacked, before dice are rolled, to add 1 Shield to the results.",
-    "expansion": "Manor Of Ravens",
-    "image": "class-items/signet-ring-mr-warrior-marshal.png",
-    "xws": "signetring"
-  },
-  {
-    "name": "Signet Ring",
-    "points": 65,
-    "archetype": "Warrior",
-    "class": "Marshal",
-    "expansion": "Manor Of Ravens",
-    "image": "class-items/class-skills-marshal-back.png",
-    "xws": "signetring"
-  },
-  {
-    "name": "Double Crossbow",
-    "points": 66,
-    "archetype": "Scout",
-    "class": "Bounty Hunter",
-    "traits": "Bow, Exotic",
-    "attack": "Range",
-    "equip": "Two Hands",
-    "dice": "Blue Red",
-    "rules": "Surge: Pierce 1. Surge: +1 Range.",
-    "expansion": "Manor Of Ravens",
-    "image": "class-items/double-crossbow-mr-scout-bounty-hunter.png",
-    "xws": "doublecrossbow"
-  },
-  {
-    "name": "Double Crossbow",
-    "points": 67,
-    "archetype": "Scout",
-    "class": "Bounty Hunter",
-    "expansion": "Manor Of Ravens",
-    "image": "class-items/class-skills-bounty-hunter-back.png",
-    "xws": "doublecrossbow"
-  },
-  {
-    "name": "Harvester Scythe",
-    "points": 68,
-    "archetype": "Healer",
-    "class": "Soul Reaper",
-    "traits": "Magic, Blade, Staff",
-    "attack": "Melee",
-    "equip": "One Hand",
-    "dice": "Blue Yellow",
-    "rules": "After you defeat a monster with this weapon, recover 1 Heart. Surge: Pierce 1",
-    "expansion": "Lost Legends",
-    "image": "class-items/harvester-scythe-ll-healer-soul-reaper.png",
-    "xws": "harvesterscythe"
-  },
-  {
-    "name": "Harvester Scythe",
-    "points": 69,
-    "archetype": "Healer",
-    "class": "Soul Reaper",
-    "expansion": "Lost Legends",
-    "image": "class-items/class-skills-soul-reaper-back.png",
-    "xws": "harvesterscythe"
-  },
-  {
-    "name": "Mirror of Souls",
-    "points": 70,
-    "archetype": "Healer",
-    "class": "Soul Reaper",
-    "traits": "Trinket",
-    "attack": "-",
-    "equip": "Other",
-    "dice": "-",
-    "rules": "Each time you discard 1 of your Conditions, place 1 damage token on Essence Harvest.",
-    "expansion": "Lost Legends",
-    "image": "class-items/mirror-of-souls-ll-healer-soul-reaper.png",
-    "xws": "mirrorofsouls"
-  },
-  {
-    "name": "Mirror of Souls",
-    "points": 71,
-    "archetype": "Healer",
-    "class": "Soul Reaper",
-    "expansion": "Lost Legends",
-    "image": "class-items/class-skills-soul-reaper-back.png",
-    "xws": "mirrorofsouls"
-  },
-  {
-    "name": "Runeshard Cache",
-    "points": 72,
-    "archetype": "Mage",
-    "class": "Elementalist",
-    "traits": "Trinket",
-    "attack": "-",
-    "equip": "Other",
-    "dice": "-",
-    "rules": "Exhaust this card after you defeat a monster with a Magic weapon. While this card is exhausted, it is an exhausted Elemental card.",
-    "expansion": "Lost Legends",
-    "image": "class-items/runeshard-cache-ll-mage-elementalist.png",
-    "xws": "runeshardcache"
-  },
-  {
-    "name": "Runeshard Cache",
-    "points": 73,
-    "archetype": "Mage",
-    "class": "Elementalist",
-    "expansion": "Lost Legends",
-    "image": "class-items/class-skills-elementalist-back.png",
-    "xws": "runeshardcache"
-  },
-  {
-    "name": "Spire of Conflux",
-    "points": 74,
-    "archetype": "Mage",
-    "class": "Elementalist",
-    "traits": "Magic, Staff",
-    "attack": "Range",
-    "equip": "Two Hands",
-    "dice": "Blue Yellow",
-    "rules": "Surge: +1 Heart. Surge: If 2 or more of your Elemental cards are exhausted, +2 Hearts.",
-    "expansion": "Lost Legends",
-    "image": "class-items/spire-of-conflux-ll-mage-elementalist.png",
-    "xws": "spireofconflux"
-  },
-  {
-    "name": "Spire of Conflux",
-    "points": 75,
-    "archetype": "Mage",
-    "class": "Elementalist",
-    "expansion": "Lost Legends",
-    "image": "class-items/class-skills-elementalist-back.png",
-    "xws": "spireofconflux"
-  },
-  {
-    "name": "Ceremonial Staff",
-    "points": 76,
-    "archetype": "Healer",
-    "class": "Hierophant",
-    "traits": "Exotic, Staff",
-    "attack": "Melee",
-    "equip": "One Hand",
-    "dice": "Blue Red",
-    "rules": "Surge: Curse. Surge: Recover 1 Fatigue.",
-    "expansion": "Sands Of The Past",
-    "image": "class-items/ceremonial-staff-sotp-healer-hierophant.png",
-    "xws": "ceremonialstaff"
-  },
-  {
-    "name": "Ceremonial Staff",
+    "name": "iron flail",
     "points": 77,
-    "archetype": "Healer",
-    "class": "Hierophant",
-    "expansion": "Sands Of The Past",
-    "image": "class-items/class-skills-hierophant-back.png",
-    "xws": "ceremonialstaff"
+    "expansion": "the trollfens",
+    "image": "class-items/d2e/the-trollfens/healers/prophet/tf-iron-flail-back.png",
+    "xws": "ironflail"
   },
   {
-    "name": "Sacred Scriptures",
+    "name": "sage's tome",
     "points": 78,
-    "archetype": "Healer",
-    "class": "Hierophant",
-    "traits": "Book",
-    "attack": "-",
-    "equip": "Trinket",
-    "dice": "-",
-    "rules": "While you are adjacent to your Bandaged Servant, add 1 Shield to your defense results.",
-    "expansion": "Sands Of The Past",
-    "image": "class-items/sacred-scriptures-sotp-healer-hierophant.png",
-    "xws": "sacredscriptures"
+    "expansion": "the trollfens",
+    "image": "class-items/d2e/the-trollfens/healers/prophet/tf-sages-tome.png",
+    "xws": "sagestome"
   },
   {
-    "name": "Sacred Scriptures",
+    "name": "sage's tome",
     "points": 79,
-    "archetype": "Healer",
-    "class": "Hierophant",
-    "expansion": "Sands Of The Past",
-    "image": "class-items/class-skills-hierophant-back.png",
-    "xws": "sacredscriptures"
+    "expansion": "the trollfens",
+    "image": "class-items/d2e/the-trollfens/healers/prophet/tf-sages-tome-back.png",
+    "xws": "sagestome"
   },
   {
-    "name": "Shadow Darts",
+    "name": "black widow's web",
     "points": 80,
-    "archetype": "Mage",
-    "class": "Psychic",
-    "traits": "Exotic, Magic",
-    "attack": "Range",
-    "equip": "One Hand",
-    "dice": "Blue Green",
-    "rules": "Pierce 1. Surge: Blind. Surge: +1 Range, +1 Heart.",
-    "expansion": "Sands Of The Past",
-    "image": "class-items/shadow-darts-sotp-mage-psychic.png",
-    "xws": "shadowdarts"
+    "expansion": "the trollfens",
+    "image": "class-items/d2e/the-trollfens/scouts/stalker/tf-black-widows-web.png",
+    "xws": "blackwidowsweb"
   },
   {
-    "name": "Shadow Darts",
+    "name": "black widow's web",
     "points": 81,
-    "archetype": "Mage",
-    "class": "Psychic",
-    "expansion": "Sands Of The Past",
-    "image": "class-items/class-skills-psychic-back.png",
-    "xws": "shadowdarts"
+    "expansion": "the trollfens",
+    "image": "class-items/d2e/the-trollfens/scouts/stalker/tf-black-widows-web-back.png",
+    "xws": "blackwidowsweb"
   },
   {
-    "name": "Mind's Eye Turban",
+    "name": "hunting knife",
     "points": 82,
-    "archetype": "Mage",
-    "class": "Psychic",
-    "traits": "Helmet",
-    "attack": "-",
-    "equip": "Trinket",
-    "dice": "-",
-    "rules": "At the end of your turn, if you have fatigue tokens equal to your Stamina, recover 1 Fatigue. Limit 1 Helmet equipped at a time.",
-    "expansion": "Sands Of The Past",
-    "image": "class-items/minds-eye-turban-sotp-mage-psychic.png",
-    "xws": "mindseyeturban"
+    "expansion": "the trollfens",
+    "image": "class-items/d2e/the-trollfens/scouts/stalker/tf-hunting-knife.png",
+    "xws": "huntingknife"
   },
   {
-    "name": "Mind's Eye Turban",
+    "name": "hunting knife",
     "points": 83,
-    "archetype": "Mage",
-    "class": "Psychic",
-    "traits": "Helmet",
-    "attack": "-",
-    "equip": "Trinket",
-    "dice": "-",
-    "rules": "At the end of your turn, if you have fatigue tokens equal to your Stamina, recover 1 Fatigue. Limit 1 Helmet equipped at a time.",
-    "expansion": "Sands Of The Past",
-    "image": "class-items/class-skills-psychic-back.png",
-    "xws": "mindseyeturban"
+    "expansion": "the trollfens",
+    "image": "class-items/d2e/the-trollfens/scouts/stalker/tf-hunting-knife-back.png",
+    "xws": "huntingknife"
   }
 ]
