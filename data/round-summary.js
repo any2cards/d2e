@@ -1,30 +1,30 @@
 [
   {
-    "name": "Road To Peril",
+    "name": "round summary",
     "points": 0,
-    "expansion": "Sands Of The Past",
-    "image": "round-summary/round-summary-sotp.png",
-    "xws": "roadtoperil"
+    "expansion": "sands of the past",
+    "image": "round-summary/sotp/sands-of-the-past/sotp-round-summary-front.png",
+    "xws": "roundsummary"
   },
   {
-    "name": "Road To Peril",
+    "name": "road to peril",
     "points": 1,
-    "expansion": "Sands Of The Past",
-    "image": "round-summary/round-summary-sotp-back.png",
+    "expansion": "sands of the past",
+    "image": "round-summary/sotp/sands-of-the-past/sotp-round-summary-front.png",
     "xws": "roadtoperil"
   },
   {
-    "name": "Round Summary",
+    "name": "round summary",
     "points": 2,
-    "expansion": "Sands Of The Past",
-    "image": "round-summary/round-summary-sotp.png",
+    "expansion": "sands of the past",
+    "image": "round-summary/sotp/sands-of-the-past/sotp-round-summary-back.png",
     "xws": "roundsummary"
   },
   {
-    "name": "Round Summary",
+    "name": "road to peril",
     "points": 3,
-    "expansion": "Sands Of The Past",
-    "image": "round-summary/round-summary-sotp-back.png",
-    "xws": "roundsummary"
+    "expansion": "sands of the past",
+    "image": "round-summary/sotp/sands-of-the-past/sotp-round-summary-back.png",
+    "xws": "roadtoperil"
   }
 ]
