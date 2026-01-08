@@ -47,12 +47,13 @@ This repository contains data and images for the following games and components:
 - class-skills
 - conditions
 - corrupt-citizens
+- expansions
 - explorations
 - familiars
 - heroes
 - hybrid-class-skills
 - lieutenants
-- map-pieces
+- map-tiles
 - monster-activations**
 - monsters
 - overlord-decks
@@ -68,6 +69,7 @@ This repository contains data and images for the following games and components:
 - shop-items
 - statuses*
 - tainted
+- tokens
 - traps*
 - travel-event-decks
 - turn-summary
