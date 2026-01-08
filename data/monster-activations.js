@@ -1,1257 +1,1257 @@
 [
   {
-    "name": "FS Monster Activations 1 Of 10",
+    "name": "de monster activation 1 of 10",
     "points": 0,
-    "expansion": "Forgotten Souls",
-    "image": "monster-activations/fs-mac-1-of-10.png",
-    "xws": "fsmonsteractivation1of10"
-  },
-  {
-    "name": "FS Monster Activations 2 Of 10",
-    "points": 1,
-    "expansion": "Forgotten Souls",
-    "image": "monster-activations/fs-mac-2-of-10.png",
-    "xws": "fsmonsteractivation2of10"
-  },
-  {
-    "name": "FS Monster Activations 3 Of 10",
-    "points": 2,
-    "expansion": "Forgotten Souls",
-    "image": "monster-activations/fs-mac-3-of-10.png",
-    "xws": "fsmonsteractivation3of10"
-  },
-  {
-    "name": "FS Monster Activations 4 Of 10",
-    "points": 3,
-    "expansion": "Forgotten Souls",
-    "image": "monster-activations/fs-mac-4-of-10.png",
-    "xws": "fsmonsteractivation4of10"
-  },
-  {
-    "name": "FS Monster Activations 5 Of 10",
-    "points": 4,
-    "expansion": "Forgotten Souls",
-    "image": "monster-activations/fs-mac-5-of-10.png",
-    "xws": "fsmonsteractivation5of10"
-  },
-  {
-    "name": "FS Monster Activations 6 Of 10",
-    "points": 5,
-    "expansion": "Forgotten Souls",
-    "image": "monster-activations/fs-mac-6-of-10.png",
-    "xws": "fsmonsteractivation6of10"
-  },
-  {
-    "name": "FS Monster Activations 7 Of 10",
-    "points": 6,
-    "expansion": "Forgotten Souls",
-    "image": "monster-activations/fs-mac-7-of-10.png",
-    "xws": "fsmonsteractivation7of10"
-  },
-  {
-    "name": "FS Monster Activations 8 Of 10",
-    "points": 7,
-    "expansion": "Forgotten Souls",
-    "image": "monster-activations/fs-mac-8-of-10.png",
-    "xws": "fsmonsteractivation8of10"
-  },
-  {
-    "name": "FS Monster Activations 9 Of 10",
-    "points": 8,
-    "expansion": "Forgotten Souls",
-    "image": "monster-activations/fs-mac-9-of-10.png",
-    "xws": "fsmonsteractivation9of10"
-  },
-  {
-    "name": "FS Monster Activations 10 Of 10",
-    "points": 9,
-    "expansion": "Forgotten Souls",
-    "image": "monster-activations/fs-mac-10-of-10.png",
-    "xws": "fsmonsteractivation10of10"
-  },
-  {
-    "name": "FS-Monster-Activations-Back",
-    "points": 10,
-    "expansion": "Forgotten Souls",
-    "image": "monster-activations/fs-mac-back.png",
-    "xws": "fsmonsteractivationsback"
-  },
-  {
-    "name": "NI Monster Activations 1 Of 10",
-    "points": 11,
-    "expansion": "Nature's Ire",
-    "image": "monster-activations/ni-mac-1-of-10.png",
-    "xws": "nimonsteractivation1of10"
-  },
-  {
-    "name": "NI Monster Activations 2 Of 10",
-    "points": 12,
-    "expansion": "Nature's Ire",
-    "image": "monster-activations/ni-mac-2-of-10.png",
-    "xws": "nimonsteractivation2of10"
-  },
-  {
-    "name": "NI Monster Activations 3 Of 10",
-    "points": 13,
-    "expansion": "Nature's Ire",
-    "image": "monster-activations/ni-mac-3-of-10.png",
-    "xws": "nimonsteractivation3of10"
-  },
-  {
-    "name": "NI Monster Activations 4 Of 10",
-    "points": 14,
-    "expansion": "Nature's Ire",
-    "image": "monster-activations/ni-mac-4-of-10.png",
-    "xws": "nimonsteractivation4of10"
-  },
-  {
-    "name": "NI Monster Activations 5 Of 10",
-    "points": 15,
-    "expansion": "Nature's Ire",
-    "image": "monster-activations/ni-mac-5-of-10.png",
-    "xws": "nimonsteractivation5of10"
-  },
-  {
-    "name": "NI Monster Activations 6 Of 10",
-    "points": 16,
-    "expansion": "Nature's Ire",
-    "image": "monster-activations/ni-mac-6-of-10.png",
-    "xws": "nimonsteractivation6of10"
-  },
-  {
-    "name": "NI Monster Activations 7 Of 10",
-    "points": 17,
-    "expansion": "Nature's Ire",
-    "image": "monster-activations/ni-mac-7-of-10.png",
-    "xws": "nimonsteractivation7of10"
-  },
-  {
-    "name": "NI Monster Activations 8 Of 10",
-    "points": 18,
-    "expansion": "Nature's Ire",
-    "image": "monster-activations/ni-mac-8-of-10.png",
-    "xws": "nimonsteractivation8of10"
-  },
-  {
-    "name": "NI Monster Activations 9 Of 10",
-    "points": 19,
-    "expansion": "Nature's Ire",
-    "image": "monster-activations/ni-mac-9-of-10.png",
-    "xws": "nimonsteractivation9of10"
-  },
-  {
-    "name": "NI Monster Activations 10 Of 10",
-    "points": 20,
-    "expansion": "Nature's Ire",
-    "image": "monster-activations/ni-mac-10-of-10.png",
-    "xws": "nimonsteractivation10of10"
-  },
-  {
-    "name": "NI-Monster-Activations-Back",
-    "points": 21,
-    "expansion": "Nature's Ire",
-    "image": "monster-activations/ni-mac-back.png",
-    "xws": "nimonsteractivationsback"
-  },
-  {
-    "name": "DE Monster Activations 1 Of 10",
-    "points": 22,
-    "expansion": "Dark Elements",
-    "image": "monster-activations/de-mac-1-of-10.png",
+    "expansion": "dark elements",
+    "image": "monster-activations/d2e/dark-elements/de-mac-1-of-10.png",
     "xws": "demonsteractivation1of10"
   },
   {
-    "name": "DE Monster Activations 2 Of 10",
-    "points": 23,
-    "expansion": "Dark Elements",
-    "image": "monster-activations/de-mac-2-of-10.png",
+    "name": "de monster activation 2 of 10",
+    "points": 1,
+    "expansion": "dark elements",
+    "image": "monster-activations/d2e/dark-elements/de-mac-2-of-10.png",
     "xws": "demonsteractivation2of10"
   },
   {
-    "name": "DE Monster Activations 3 Of 10",
-    "points": 24,
-    "expansion": "Dark Elements",
-    "image": "monster-activations/de-mac-3-of-10.png",
+    "name": "de monster activation 3 of 10",
+    "points": 2,
+    "expansion": "dark elements",
+    "image": "monster-activations/d2e/dark-elements/de-mac-3-of-10.png",
     "xws": "demonsteractivation3of10"
   },
   {
-    "name": "DE Monster Activations 4 Of 10",
-    "points": 25,
-    "expansion": "Dark Elements",
-    "image": "monster-activations/de-mac-4-of-10.png",
+    "name": "de monster activation 4 of 10",
+    "points": 3,
+    "expansion": "dark elements",
+    "image": "monster-activations/d2e/dark-elements/de-mac-4-of-10.png",
     "xws": "demonsteractivation4of10"
   },
   {
-    "name": "DE Monster Activations 5 Of 10",
-    "points": 26,
-    "expansion": "Dark Elements",
-    "image": "monster-activations/de-mac-5-of-10.png",
+    "name": "de monster activation 5 of 10",
+    "points": 4,
+    "expansion": "dark elements",
+    "image": "monster-activations/d2e/dark-elements/de-mac-5-of-10.png",
     "xws": "demonsteractivation5of10"
   },
   {
-    "name": "DE Monster Activations 6 Of 10",
-    "points": 27,
-    "expansion": "Dark Elements",
-    "image": "monster-activations/de-mac-6-of-10.png",
+    "name": "de monster activation 6 of 10",
+    "points": 5,
+    "expansion": "dark elements",
+    "image": "monster-activations/d2e/dark-elements/de-mac-6-of-10.png",
     "xws": "demonsteractivation6of10"
   },
   {
-    "name": "DE Monster Activations 7 Of 10",
-    "points": 28,
-    "expansion": "Dark Elements",
-    "image": "monster-activations/de-mac-7-of-10.png",
+    "name": "de monster activation 7 of 10",
+    "points": 6,
+    "expansion": "dark elements",
+    "image": "monster-activations/d2e/dark-elements/de-mac-7-of-10.png",
     "xws": "demonsteractivation7of10"
   },
   {
-    "name": "DE Monster Activations 8 Of 10",
-    "points": 29,
-    "expansion": "Dark Elements",
-    "image": "monster-activations/de-mac-8-of-10.png",
+    "name": "de monster activation 8 of 10",
+    "points": 7,
+    "expansion": "dark elements",
+    "image": "monster-activations/d2e/dark-elements/de-mac-8-of-10.png",
     "xws": "demonsteractivation8of10"
   },
   {
-    "name": "DE Monster Activations 9 Of 10",
-    "points": 30,
-    "expansion": "Dark Elements",
-    "image": "monster-activations/de-mac-9-of-10.png",
+    "name": "de monster activation 9 of 10",
+    "points": 8,
+    "expansion": "dark elements",
+    "image": "monster-activations/d2e/dark-elements/de-mac-9-of-10.png",
     "xws": "demonsteractivation9of10"
   },
   {
-    "name": "DE Monster Activations 10 Of 10",
-    "points": 31,
-    "expansion": "Dark Elements",
-    "image": "monster-activations/de-mac-10-of-10.png",
+    "name": "de monster activation 10 of 10",
+    "points": 9,
+    "expansion": "dark elements",
+    "image": "monster-activations/d2e/dark-elements/de-mac-10-of-10.png",
     "xws": "demonsteractivation10of10"
   },
   {
-    "name": "DE-Monster-Activations-Back",
+    "name": "de-monster-activation-back",
+    "points": 10,
+    "expansion": "dark elements",
+    "image": "monster-activations/d2e/dark-elements/de-mac-back.png",
+    "xws": "demonsteractivationback"
+  },
+  {
+    "name": "fs monster activation 1 of 10",
+    "points": 11,
+    "expansion": "forgotten souls",
+    "image": "monster-activations/d2e/forgotten-souls/fs-mac-1-of-10.png",
+    "xws": "fsmonsteractivation1of10"
+  },
+  {
+    "name": "fs monster activation 2 of 10",
+    "points": 12,
+    "expansion": "forgotten souls",
+    "image": "monster-activations/d2e/forgotten-souls/fs-mac-2-of-10.png",
+    "xws": "fsmonsteractivation2of10"
+  },
+  {
+    "name": "fs monster activation 3 of 10",
+    "points": 13,
+    "expansion": "forgotten souls",
+    "image": "monster-activations/d2e/forgotten-souls/fs-mac-3-of-10.png",
+    "xws": "fsmonsteractivation3of10"
+  },
+  {
+    "name": "fs monster activation 4 of 10",
+    "points": 14,
+    "expansion": "forgotten souls",
+    "image": "monster-activations/d2e/forgotten-souls/fs-mac-4-of-10.png",
+    "xws": "fsmonsteractivation4of10"
+  },
+  {
+    "name": "fs monster activation 5 of 10",
+    "points": 15,
+    "expansion": "forgotten souls",
+    "image": "monster-activations/d2e/forgotten-souls/fs-mac-5-of-10.png",
+    "xws": "fsmonsteractivation5of10"
+  },
+  {
+    "name": "fs monster activation 6 of 10",
+    "points": 16,
+    "expansion": "forgotten souls",
+    "image": "monster-activations/d2e/forgotten-souls/fs-mac-6-of-10.png",
+    "xws": "fsmonsteractivation6of10"
+  },
+  {
+    "name": "fs monster activation 7 of 10",
+    "points": 17,
+    "expansion": "forgotten souls",
+    "image": "monster-activations/d2e/forgotten-souls/fs-mac-7-of-10.png",
+    "xws": "fsmonsteractivation7of10"
+  },
+  {
+    "name": "fs monster activation 8 of 10",
+    "points": 18,
+    "expansion": "forgotten souls",
+    "image": "monster-activations/d2e/forgotten-souls/fs-mac-8-of-10.png",
+    "xws": "fsmonsteractivation8of10"
+  },
+  {
+    "name": "fs monster activation 9 of 10",
+    "points": 19,
+    "expansion": "forgotten souls",
+    "image": "monster-activations/d2e/forgotten-souls/fs-mac-9-of-10.png",
+    "xws": "fsmonsteractivation9of10"
+  },
+  {
+    "name": "fs monster activation 10 of 10",
+    "points": 20,
+    "expansion": "forgotten souls",
+    "image": "monster-activations/d2e/forgotten-souls/fs-mac-10-of-10.png",
+    "xws": "fsmonsteractivation10of10"
+  },
+  {
+    "name": "fs-monster-activation-back",
+    "points": 21,
+    "expansion": "forgotten souls",
+    "image": "monster-activations/d2e/forgotten-souls/fs-mac-back.png",
+    "xws": "fsmonsteractivationback"
+  },
+  {
+    "name": "ni monster activation 1 of 10",
+    "points": 22,
+    "expansion": "nature's ire",
+    "image": "monster-activations/d2e/natures-ire/ni-mac-1-of-10.png",
+    "xws": "nimonsteractivation1of10"
+  },
+  {
+    "name": "ni monster activation 2 of 10",
+    "points": 23,
+    "expansion": "nature's ire",
+    "image": "monster-activations/d2e/natures-ire/ni-mac-2-of-10.png",
+    "xws": "nimonsteractivation2of10"
+  },
+  {
+    "name": "ni monster activation 3 of 10",
+    "points": 24,
+    "expansion": "nature's ire",
+    "image": "monster-activations/d2e/natures-ire/ni-mac-3-of-10.png",
+    "xws": "nimonsteractivation3of10"
+  },
+  {
+    "name": "ni monster activation 4 of 10",
+    "points": 25,
+    "expansion": "nature's ire",
+    "image": "monster-activations/d2e/natures-ire/ni-mac-4-of-10.png",
+    "xws": "nimonsteractivation4of10"
+  },
+  {
+    "name": "ni monster activation 5 of 10",
+    "points": 26,
+    "expansion": "nature's ire",
+    "image": "monster-activations/d2e/natures-ire/ni-mac-5-of-10.png",
+    "xws": "nimonsteractivation5of10"
+  },
+  {
+    "name": "ni monster activation 6 of 10",
+    "points": 27,
+    "expansion": "nature's ire",
+    "image": "monster-activations/d2e/natures-ire/ni-mac-6-of-10.png",
+    "xws": "nimonsteractivation6of10"
+  },
+  {
+    "name": "ni monster activation 7 of 10",
+    "points": 28,
+    "expansion": "nature's ire",
+    "image": "monster-activations/d2e/natures-ire/ni-mac-7-of-10.png",
+    "xws": "nimonsteractivation7of10"
+  },
+  {
+    "name": "ni monster activation 8 of 10",
+    "points": 29,
+    "expansion": "nature's ire",
+    "image": "monster-activations/d2e/natures-ire/ni-mac-8-of-10.png",
+    "xws": "nimonsteractivation8of10"
+  },
+  {
+    "name": "ni monster activation 9 of 10",
+    "points": 30,
+    "expansion": "nature's ire",
+    "image": "monster-activations/d2e/natures-ire/ni-mac-9-of-10.png",
+    "xws": "nimonsteractivation9of10"
+  },
+  {
+    "name": "ni monster activation 10 of 10",
+    "points": 31,
+    "expansion": "nature's ire",
+    "image": "monster-activations/d2e/natures-ire/ni-mac-10-of-10.png",
+    "xws": "nimonsteractivation10of10"
+  },
+  {
+    "name": "ni-monster-activation-back",
     "points": 32,
-    "expansion": "Dark Elements",
-    "image": "monster-activations/de-mac-back.png",
-    "xws": "demonsteractivationsback"
+    "expansion": "nature's ire",
+    "image": "monster-activations/d2e/natures-ire/ni-mac-back.png",
+    "xws": "nimonsteractivationback"
   },
   {
-    "name": "Barghest Activation",
+    "name": "arachyura activation",
     "points": 33,
-    "cardno": "1A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/barghest-activation-sotp-front.png",
-    "xws": "barghestactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-arachyura-front.png",
+    "xws": "arachyuraactivation",
+    "assetno": "12a"
   },
   {
-    "name": "Cave Spider Activation",
+    "name": "arachyura activation",
     "points": 34,
-    "cardno": "2A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/cave-spider-activation-sotp-front.png",
-    "xws": "cavespideractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-arachyura-back.png",
+    "xws": "arachyuraactivation",
+    "assetno": "12b"
   },
   {
-    "name": "Elemental Activation",
+    "name": "bandit activation",
     "points": 35,
-    "cardno": "3A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/elemental-activation-sotp-front.png",
-    "xws": "elementalactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-bandit-front.png",
+    "xws": "banditactivation",
+    "assetno": "22a"
   },
   {
-    "name": "Ettin Activation",
+    "name": "bandit activation",
     "points": 36,
-    "cardno": "4A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/ettin-activation-sotp-front.png",
-    "xws": "ettinactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-bandit-back.png",
+    "xws": "banditactivation",
+    "assetno": "22b"
   },
   {
-    "name": "Flesh Moulder Activation",
+    "name": "bane spider activation",
     "points": 37,
-    "cardno": "5A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/flesh-moulder-activation-sotp-front.png",
-    "xws": "fleshmoulderactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-bane-spider-front.png",
+    "xws": "banespideractivation",
+    "assetno": "30a"
   },
   {
-    "name": "Goblin Archer Activation",
+    "name": "bane spider activation",
     "points": 38,
-    "cardno": "6A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/goblin-archer-activation-sotp-front.png",
-    "xws": "goblinarcheractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-bane-spider-back.png",
+    "xws": "banespideractivation",
+    "assetno": "30b"
   },
   {
-    "name": "Merriod Activation",
+    "name": "barghest activation",
     "points": 39,
-    "cardno": "7A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/merriod-activation-sotp-front.png",
-    "xws": "merriodactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-barghest-front.png",
+    "xws": "barghestactivation",
+    "assetno": "1a"
   },
   {
-    "name": "Shadow Dragon Activation",
+    "name": "barghest activation",
     "points": 40,
-    "cardno": "8A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/shadow-dragon-activation-sotp-front.png",
-    "xws": "shadowdragonactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-barghest-back.png",
+    "xws": "barghestactivation",
+    "assetno": "1b"
   },
   {
-    "name": "Zombie Activation",
+    "name": "baron zachareth activation",
     "points": 41,
-    "cardno": "9A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/zombie-activation-sotp-front.png",
-    "xws": "zombieactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-baron-zachareth-front.png",
+    "xws": "baronzacharethactivation",
+    "assetno": "63a"
   },
   {
-    "name": "Fire Imps Activation",
+    "name": "baron zachareth activation",
     "points": 42,
-    "cardno": "10A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/fire-imps-activation-sotp-front.png",
-    "xws": "fireimpsactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-baron-zachareth-back.png",
+    "xws": "baronzacharethactivation",
+    "assetno": "63b"
   },
   {
-    "name": "Hybrid Sentinel Activation",
+    "name": "beastman activation",
     "points": 43,
-    "cardno": "11A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/hybrid-sentinel-activation-sotp-front.png",
-    "xws": "hybridsentinelactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-beastman-front.png",
+    "xws": "beastmanactivation",
+    "assetno": "31a"
   },
   {
-    "name": "Arachyura Activation",
+    "name": "beastman activation",
     "points": 44,
-    "cardno": "12A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/arachyura-activation-sotp-front.png",
-    "xws": "arachyuraactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-beastman-back.png",
+    "xws": "beastmanactivation",
+    "assetno": "31b"
   },
   {
-    "name": "Carrion Drake Activation",
+    "name": "belthir activation",
     "points": 45,
-    "cardno": "13A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/carrion-drake-activation-sotp-front.png",
-    "xws": "carriondrakeactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-belthir-front.png",
+    "xws": "belthiractivation",
+    "assetno": "62a"
   },
   {
-    "name": "Goblin Witcher Activation",
+    "name": "belthir activation",
     "points": 46,
-    "cardno": "14A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/goblin-witcher-activation-sotp-front.png",
-    "xws": "goblinwitcheractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-belthir-back.png",
+    "xws": "belthiractivation",
+    "assetno": "62b"
   },
   {
-    "name": "Volucrix Reaver Activation",
+    "name": "blood ape activation",
     "points": 47,
-    "cardno": "15A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/volucrix-reaver-activation-sotp-front.png",
-    "xws": "volucrixreaveractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-blood-ape-front.png",
+    "xws": "bloodapeactivation",
+    "assetno": "54a"
   },
   {
-    "name": "Harpy Activation",
+    "name": "blood ape activation",
     "points": 48,
-    "cardno": "16A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/harpy-activation-sotp-front.png",
-    "xws": "harpyactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-blood-ape-back.png",
+    "xws": "bloodapeactivation",
+    "assetno": "54b"
   },
   {
-    "name": "Plague Worm Activation",
+    "name": "bone horror activation",
     "points": 49,
-    "cardno": "17A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/plague-worm-activation-sotp-front.png",
-    "xws": "plaguewormactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-bone-horror-front.png",
+    "xws": "bonehorroractivation",
+    "assetno": "24a"
   },
   {
-    "name": "Changeling Activation",
+    "name": "bone horror activation",
     "points": 50,
-    "cardno": "18A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/changeling-activation-sotp-front.png",
-    "xws": "changelingactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-bone-horror-back.png",
+    "xws": "bonehorroractivation",
+    "assetno": "24b"
   },
   {
-    "name": "Ironbound Activation",
+    "name": "broodwalker activation",
     "points": 51,
-    "cardno": "19A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/ironbound-activation-sotp-front.png",
-    "xws": "ironboundactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-broodwalker-front.png",
+    "xws": "broodwalkeractivation",
+    "assetno": "25a"
   },
   {
-    "name": "Rat Swarm Activation",
+    "name": "broodwalker activation",
     "points": 52,
-    "cardno": "20A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/rat-swarm-activation-sotp-front.png",
-    "xws": "ratswarmactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-broodwalker-back.png",
+    "xws": "broodwalkeractivation",
+    "assetno": "25b"
   },
   {
-    "name": "Ynfernal Hulk Activation",
+    "name": "burrowing horror activation",
     "points": 53,
-    "cardno": "21A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/ynfernal-hulk-activation-sotp-front.png",
-    "xws": "ynfernalhulkactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-burrowing-horror-front.png",
+    "xws": "burrowinghorroractivation",
+    "assetno": "57a"
   },
   {
-    "name": "Bandit Activation",
+    "name": "burrowing horror activation",
     "points": 54,
-    "cardno": "22A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/bandit-activation-sotp-front.png",
-    "xws": "banditactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-burrowing-horror-back.png",
+    "xws": "burrowinghorroractivation",
+    "assetno": "57b"
   },
   {
-    "name": "Wraith Activation",
+    "name": "carrion drake activation",
     "points": 55,
-    "cardno": "23A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/wraith-activation-sotp-front.png",
-    "xws": "wraithactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-carrion-drake-front.png",
+    "xws": "carriondrakeactivation",
+    "assetno": "13a"
   },
   {
-    "name": "Bone Horror Activation",
+    "name": "carrion drake activation",
     "points": 56,
-    "cardno": "24A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/bone-horror-activation-sotp-front.png",
-    "xws": "bonehorroractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-carrion-drake-back.png",
+    "xws": "carriondrakeactivation",
+    "assetno": "13b"
   },
   {
-    "name": "Broodwalker Activation",
+    "name": "cave spider activation",
     "points": 57,
-    "cardno": "25A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/broodwalker-activation-sotp-front.png",
-    "xws": "broodwalkeractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-cave-spider-front.png",
+    "xws": "cavespideractivation",
+    "assetno": "2a"
   },
   {
-    "name": "Reanimate Activation",
+    "name": "cave spider activation",
     "points": 58,
-    "cardno": "26A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/reanimate-activation-sotp-front.png",
-    "xws": "reanimateactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-cave-spider-back.png",
+    "xws": "cavespideractivation",
+    "assetno": "2b"
   },
   {
-    "name": "Marrow Priest Activation",
+    "name": "changeling activation",
     "points": 59,
-    "cardno": "27A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/marrow-priest-activation-sotp-front.png",
-    "xws": "marrowpriestactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-changeling-front.png",
+    "xws": "changelingactivation",
+    "assetno": "18a"
   },
   {
-    "name": "Shambling Colossus Activation",
+    "name": "changeling activation",
     "points": 60,
-    "cardno": "28A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/shambling-colossus-activation-sotp-front.png",
-    "xws": "shamblingcolossusactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-changeling-back.png",
+    "xws": "changelingactivation",
+    "assetno": "18b"
   },
   {
-    "name": "The Dispossessed Activation",
+    "name": "chaos beast activation",
     "points": 61,
-    "cardno": "29A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/the-dispossessed-activation-sotp-front.png",
-    "xws": "thedispossessedactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-chaos-beast-front.png",
+    "xws": "chaosbeastactivation",
+    "assetno": "33a"
   },
   {
-    "name": "Bane Spider Activation",
+    "name": "chaos beast activation",
     "points": 62,
-    "cardno": "30A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/bane-spider-activation-sotp-front.png",
-    "xws": "banespideractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-chaos-beast-back.png",
+    "xws": "chaosbeastactivation",
+    "assetno": "33b"
   },
   {
-    "name": "Beastman Activation",
+    "name": "crow hag activation",
     "points": 63,
-    "cardno": "31A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/beastman-activation-sotp-front.png",
-    "xws": "beastmanactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-crow-hag-front.png",
+    "xws": "crowhagactivation",
+    "assetno": "51a"
   },
   {
-    "name": "Razorwing Activation",
+    "name": "crow hag activation",
     "points": 64,
-    "cardno": "32A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/razorwing-activation-sotp-front.png",
-    "xws": "razorwingactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-crow-hag-back.png",
+    "xws": "crowhagactivation",
+    "assetno": "51b"
   },
   {
-    "name": "Chaos Beast Activation",
+    "name": "crypt dragon activation",
     "points": 65,
-    "cardno": "33A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/chaos-beast-activation-sotp-front.png",
-    "xws": "chaosbeastactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-crypt-dragon-front.png",
+    "xws": "cryptdragonactivation",
+    "assetno": "39a"
   },
   {
-    "name": "Giant Activation",
+    "name": "crypt dragon activation",
     "points": 66,
-    "cardno": "34A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/giant-activation-sotp-front.png",
-    "xws": "giantactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-crypt-dragon-back.png",
+    "xws": "cryptdragonactivation",
+    "assetno": "39b"
   },
   {
-    "name": "Lava Beetle Activation",
+    "name": "dark minotaur activation",
     "points": 67,
-    "cardno": "35A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/lava-beetle-activation-sotp-front.png",
-    "xws": "lavabeetleactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-dark-minotaur-front.png",
+    "xws": "darkminotauractivation",
+    "assetno": "48a"
   },
   {
-    "name": "Golem Activation",
+    "name": "dark minotaur activation",
     "points": 68,
-    "cardno": "36A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/golem-activation-sotp-front.png",
-    "xws": "golemactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-dark-minotaur-back.png",
+    "xws": "darkminotauractivation",
+    "assetno": "48b"
   },
   {
-    "name": "Medusa Activation",
+    "name": "dark priest activation",
     "points": 69,
-    "cardno": "37A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/medusa-activation-sotp-front.png",
-    "xws": "medusaactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-dark-priest-front.png",
+    "xws": "darkpriestactivation",
+    "assetno": "40a"
   },
   {
-    "name": "Sorcerer Activation",
+    "name": "dark priest activation",
     "points": 70,
-    "cardno": "38A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/sorcerer-activation-sotp-front.png",
-    "xws": "sorcereractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-dark-priest-back.png",
+    "xws": "darkpriestactivation",
+    "assetno": "40b"
   },
   {
-    "name": "Crypt Dragon Activation",
+    "name": "deep elf activation",
     "points": 71,
-    "cardno": "39A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/crypt-dragon-activation-sotp-front.png",
-    "xws": "cryptdragonactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-deep-elf-front.png",
+    "xws": "deepelfactivation",
+    "assetno": "45a"
   },
   {
-    "name": "Dark Priest Activation",
+    "name": "deep elf activation",
     "points": 72,
-    "cardno": "40A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/dark-priest-activation-sotp-front.png",
-    "xws": "darkpriestactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-deep-elf-back.png",
+    "xws": "deepelfactivation",
+    "assetno": "45b"
   },
   {
-    "name": "Wendigo Activation",
+    "name": "demon lord activation",
     "points": 73,
-    "cardno": "41A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/wendigo-activation-sotp-front.png",
-    "xws": "wendigoactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-demon-lord-front.png",
+    "xws": "demonlordactivation",
+    "assetno": "52a"
   },
   {
-    "name": "Manticore Activation",
+    "name": "demon lord activation",
     "points": 74,
-    "cardno": "42A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/manticore-activation-sotp-front.png",
-    "xws": "manticoreactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-demon-lord-back.png",
+    "xws": "demonlordactivation",
+    "assetno": "52b"
   },
   {
-    "name": "Ogre Activation",
+    "name": "elemental activation",
     "points": 75,
-    "cardno": "43A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/ogre-activation-sotp-front.png",
-    "xws": "ogreactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-elemental-front.png",
+    "xws": "elementalactivation",
+    "assetno": "3a"
   },
   {
-    "name": "Troll Activation",
+    "name": "elemental activation",
     "points": 76,
-    "cardno": "44A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/troll-activation-sotp-front.png",
-    "xws": "trollactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-elemental-back.png",
+    "xws": "elementalactivation",
+    "assetno": "3b"
   },
   {
-    "name": "Deep Elf Activation",
+    "name": "ettin activation",
     "points": 77,
-    "cardno": "45A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/deep-elf-activation-sotp-front.png",
-    "xws": "deepelfactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-ettin-front.png",
+    "xws": "ettinactivation",
+    "assetno": "4a"
   },
   {
-    "name": "Hellhound Activation",
+    "name": "ettin activation",
     "points": 78,
-    "cardno": "46A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/hellhound-activation-sotp-front.png",
-    "xws": "hellhoundactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-ettin-back.png",
+    "xws": "ettinactivation",
+    "assetno": "4b"
   },
   {
-    "name": "Kobold Activation",
+    "name": "ferrox activation",
     "points": 79,
-    "cardno": "47A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/kobold-activation-sotp-front.png",
-    "xws": "koboldactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-ferrox-front.png",
+    "xws": "ferroxactivation",
+    "assetno": "55a"
   },
   {
-    "name": "Dark Minotaur Activation",
+    "name": "ferrox activation",
     "points": 80,
-    "cardno": "48A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/dark-minotaur-activation-sotp-front.png",
-    "xws": "darkminotauractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-ferrox-back.png",
+    "xws": "ferroxactivation",
+    "assetno": "55b"
   },
   {
-    "name": "Ice Wyrm Activation",
+    "name": "fire imps activation",
     "points": 81,
-    "cardno": "49A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/ice-wyrm-activation-sotp-front.png",
-    "xws": "icewyrmactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-fire-imps-front.png",
+    "xws": "fireimpsactivation",
+    "assetno": "10a"
   },
   {
-    "name": "Shade Activation",
+    "name": "fire imps activation",
     "points": 82,
-    "cardno": "50A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/shade-activation-sotp-front.png",
-    "xws": "shadeactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-fire-imps-back.png",
+    "xws": "fireimpsactivation",
+    "assetno": "10b"
   },
   {
-    "name": "Crow Hag Activation",
+    "name": "flesh moulder activation",
     "points": 83,
-    "cardno": "51A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/crow-hag-activation-sotp-front.png",
-    "xws": "crowhagactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-flesh-moulder-front.png",
+    "xws": "fleshmoulderactivation",
+    "assetno": "5a"
   },
   {
-    "name": "Demon Lord Activation",
+    "name": "flesh moulder activation",
     "points": 84,
-    "cardno": "52A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/demon-lord-activation-sotp-front.png",
-    "xws": "demonlordactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-flesh-moulder-back.png",
+    "xws": "fleshmoulderactivation",
+    "assetno": "5b"
   },
   {
-    "name": "Skeleton Archer Activation",
+    "name": "giant activation",
     "points": 85,
-    "cardno": "53A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/skeleton-archer-activation-sotp-front.png",
-    "xws": "skeletonarcheractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-giant-front.png",
+    "xws": "giantactivation",
+    "assetno": "34a"
   },
   {
-    "name": "Blood Ape Activation",
+    "name": "giant activation",
     "points": 86,
-    "cardno": "54A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/blood-ape-activation-sotp-front.png",
-    "xws": "bloodapeactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-giant-back.png",
+    "xws": "giantactivation",
+    "assetno": "34b"
   },
   {
-    "name": "Ferrox Activation",
+    "name": "goblin archer activation",
     "points": 87,
-    "cardno": "55A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/ferrox-activation-sotp-front.png",
-    "xws": "ferroxactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-goblin-archer-front.png",
+    "xws": "goblinarcheractivation",
+    "assetno": "6a"
   },
   {
-    "name": "Naga Activation",
+    "name": "goblin archer activation",
     "points": 88,
-    "cardno": "56A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/naga-activation-sotp-front.png",
-    "xws": "nagaactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-goblin-archer-back.png",
+    "xws": "goblinarcheractivation",
+    "assetno": "6b"
   },
   {
-    "name": "Burrowing Horror Activation",
+    "name": "goblin witcher activation",
     "points": 89,
-    "cardno": "57A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/burrowing-horror-activation-sotp-front.png",
-    "xws": "burrowinghorroractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-goblin-witcher-front.png",
+    "xws": "goblinwitcheractivation",
+    "assetno": "14a"
   },
   {
-    "name": "Sarcophagus Guard Activation",
+    "name": "goblin witcher activation",
     "points": 90,
-    "cardno": "58A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/sarcophagus-guard-activation-sotp-front.png",
-    "xws": "sarcophagusguardactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-goblin-witcher-back.png",
+    "xws": "goblinwitcheractivation",
+    "assetno": "14b"
   },
   {
-    "name": "Sir Alric Farrow Activation",
+    "name": "golem activation",
     "points": 91,
-    "cardno": "59A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/sir-alric-farrow-activation-sotp-front.png",
-    "xws": "siralricfarrowactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-golem-front.png",
+    "xws": "golemactivation",
+    "assetno": "36a"
   },
   {
-    "name": "Lord Merick Farrow Activation",
+    "name": "golem activation",
     "points": 92,
-    "cardno": "60A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/lord-merick-farrow-activation-sotp-front.png",
-    "xws": "lordmerickfarrowactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-golem-back.png",
+    "xws": "golemactivation",
+    "assetno": "36b"
   },
   {
-    "name": "Lady Eliza Farrow Activation",
+    "name": "harpy activation",
     "points": 93,
-    "cardno": "61A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/lady-eliza-farrow-activation-sotp-front.png",
-    "xws": "ladyelizafarrowactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-harpy-front.png",
+    "xws": "harpyactivation",
+    "assetno": "16a"
   },
   {
-    "name": "Belthir Activation",
+    "name": "harpy activation",
     "points": 94,
-    "cardno": "62A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/belthir-activation-sotp-front.png",
-    "xws": "belthiractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-harpy-back.png",
+    "xws": "harpyactivation",
+    "assetno": "16b"
   },
   {
-    "name": "Baron Zachareth Activation",
+    "name": "hellhound activation",
     "points": 95,
-    "cardno": "63A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/baron-zachareth-activation-sotp-front.png",
-    "xws": "baronzacharethactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-hellhound-front.png",
+    "xws": "hellhoundactivation",
+    "assetno": "46a"
   },
   {
-    "name": "Splig Activation",
+    "name": "hellhound activation",
     "points": 96,
-    "cardno": "64A",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/splig-activation-sotp-front.png",
-    "xws": "spligactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-hellhound-back.png",
+    "xws": "hellhoundactivation",
+    "assetno": "46b"
   },
   {
-    "name": "Barghest Activation",
+    "name": "hybrid sentinel activation",
     "points": 97,
-    "cardno": "1B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/barghest-activation-sotp-back.png",
-    "xws": "barghestactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-hybrid-sentinel-front.png",
+    "xws": "hybridsentinelactivation",
+    "assetno": "11a"
   },
   {
-    "name": "Cave Spider Activation",
+    "name": "hybrid sentinel activation",
     "points": 98,
-    "cardno": "2B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/cave-spider-activation-sotp-back.png",
-    "xws": "cavespideractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-hybrid-sentinel-back.png",
+    "xws": "hybridsentinelactivation",
+    "assetno": "11b"
   },
   {
-    "name": "Elemental Activation",
+    "name": "ice wyrm activation",
     "points": 99,
-    "cardno": "3B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/elemental-activation-sotp-back.png",
-    "xws": "elementalactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-ice-wyrm-front.png",
+    "xws": "icewyrmactivation",
+    "assetno": "49a"
   },
   {
-    "name": "Ettin Activation",
+    "name": "ice wyrm activation",
     "points": 100,
-    "cardno": "4B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/ettin-activation-sotp-back.png",
-    "xws": "ettinactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-ice-wyrm-back.png",
+    "xws": "icewyrmactivation",
+    "assetno": "49b"
   },
   {
-    "name": "Flesh Moulder Activation",
+    "name": "ironbound activation",
     "points": 101,
-    "cardno": "5B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/flesh-moulder-activation-sotp-back.png",
-    "xws": "fleshmoulderactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-ironbound-front.png",
+    "xws": "ironboundactivation",
+    "assetno": "19a"
   },
   {
-    "name": "Goblin Archer Activation",
+    "name": "ironbound activation",
     "points": 102,
-    "cardno": "6B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/goblin-archer-activation-sotp-back.png",
-    "xws": "goblinarcheractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-ironbound-back.png",
+    "xws": "ironboundactivation",
+    "assetno": "19b"
   },
   {
-    "name": "Merriod Activation",
+    "name": "kobold activation",
     "points": 103,
-    "cardno": "7B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/merriod-activation-sotp-back.png",
-    "xws": "merriodactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-kobold-front.png",
+    "xws": "koboldactivation",
+    "assetno": "47a"
   },
   {
-    "name": "Shadow Dragon Activation",
+    "name": "kobold activation",
     "points": 104,
-    "cardno": "8B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/shadow-dragon-activation-sotp-back.png",
-    "xws": "shadowdragonactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-kobold-back.png",
+    "xws": "koboldactivation",
+    "assetno": "47b"
   },
   {
-    "name": "Zombie Activation",
+    "name": "lady eliza farrow activation",
     "points": 105,
-    "cardno": "9B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/zombie-activation-sotp-back.png",
-    "xws": "zombieactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-lady-eliza-farrow-front.png",
+    "xws": "ladyelizafarrowactivation",
+    "assetno": "61a"
   },
   {
-    "name": "Fire Imps Activation",
+    "name": "lady eliza farrow activation",
     "points": 106,
-    "cardno": "10B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/fire-imps-activation-sotp-back.png",
-    "xws": "fireimpsactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-lady-eliza-farrow-back.png",
+    "xws": "ladyelizafarrowactivation",
+    "assetno": "61b"
   },
   {
-    "name": "Hybrid Sentinel Activation",
+    "name": "lava beetle activation",
     "points": 107,
-    "cardno": "11B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/hybrid-sentinel-activation-sotp-back.png",
-    "xws": "hybridsentinelactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-lava-beetle-front.png",
+    "xws": "lavabeetleactivation",
+    "assetno": "35a"
   },
   {
-    "name": "Arachyura Activation",
+    "name": "lava beetle activation",
     "points": 108,
-    "cardno": "12B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/arachyura-activation-sotp-back.png",
-    "xws": "arachyuraactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-lava-beetle-back.png",
+    "xws": "lavabeetleactivation",
+    "assetno": "35b"
   },
   {
-    "name": "Carrion Drake Activation",
+    "name": "lord merick farrow activation",
     "points": 109,
-    "cardno": "13B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/carrion-drake-activation-sotp-back.png",
-    "xws": "carriondrakeactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-lord-merick-farrow-front.png",
+    "xws": "lordmerickfarrowactivation",
+    "assetno": "60a"
   },
   {
-    "name": "Goblin Witcher Activation",
+    "name": "lord merick farrow activation",
     "points": 110,
-    "cardno": "14B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/goblin-witcher-activation-sotp-back.png",
-    "xws": "goblinwitcheractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-lord-merick-farrow-back.png",
+    "xws": "lordmerickfarrowactivation",
+    "assetno": "60b"
   },
   {
-    "name": "Volucrix Reaver Activation",
+    "name": "manticore activation",
     "points": 111,
-    "cardno": "15B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/volucrix-reaver-activation-sotp-back.png",
-    "xws": "volucrixreaveractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-manticore-front.png",
+    "xws": "manticoreactivation",
+    "assetno": "42a"
   },
   {
-    "name": "Harpy Activation",
+    "name": "manticore activation",
     "points": 112,
-    "cardno": "16B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/harpy-activation-sotp-back.png",
-    "xws": "harpyactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-manticore-back.png",
+    "xws": "manticoreactivation",
+    "assetno": "42b"
   },
   {
-    "name": "Plague Worm Activation",
+    "name": "marrow priest activation",
     "points": 113,
-    "cardno": "17B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/plague-worm-activation-sotp-back.png",
-    "xws": "plaguewormactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-marrow-priest-front.png",
+    "xws": "marrowpriestactivation",
+    "assetno": "27a"
   },
   {
-    "name": "Changeling Activation",
+    "name": "marrow priest activation",
     "points": 114,
-    "cardno": "18B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/changeling-activation-sotp-back.png",
-    "xws": "changelingactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-marrow-priest-back.png",
+    "xws": "marrowpriestactivation",
+    "assetno": "27b"
   },
   {
-    "name": "Ironbound Activation",
+    "name": "medusa activation",
     "points": 115,
-    "cardno": "19B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/ironbound-activation-sotp-back.png",
-    "xws": "ironboundactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-medusa-front.png",
+    "xws": "medusaactivation",
+    "assetno": "37a"
   },
   {
-    "name": "Rat Swarm Activation",
+    "name": "medusa activation",
     "points": 116,
-    "cardno": "20B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/rat-swarm-activation-sotp-back.png",
-    "xws": "ratswarmactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-medusa-back.png",
+    "xws": "medusaactivation",
+    "assetno": "37b"
   },
   {
-    "name": "Ynfernal Hulk Activation",
+    "name": "merriod activation",
     "points": 117,
-    "cardno": "21B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/ynfernal-hulk-activation-sotp-back.png",
-    "xws": "ynfernalhulkactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-merriod-front.png",
+    "xws": "merriodactivation",
+    "assetno": "7a"
   },
   {
-    "name": "Bandit Activation",
+    "name": "merriod activation",
     "points": 118,
-    "cardno": "22B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/bandit-activation-sotp-back.png",
-    "xws": "banditactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-merriod-back.png",
+    "xws": "merriodactivation",
+    "assetno": "7b"
   },
   {
-    "name": "Wraith Activation",
+    "name": "naga activation",
     "points": 119,
-    "cardno": "23B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/wraith-activation-sotp-back.png",
-    "xws": "wraithactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-naga-front.png",
+    "xws": "nagaactivation",
+    "assetno": "56a"
   },
   {
-    "name": "Bone Horror Activation",
+    "name": "naga activation",
     "points": 120,
-    "cardno": "24B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/bone-horror-activation-sotp-back.png",
-    "xws": "bonehorroractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-naga-back.png",
+    "xws": "nagaactivation",
+    "assetno": "56b"
   },
   {
-    "name": "Broodwalker Activation",
+    "name": "ogre activation",
     "points": 121,
-    "cardno": "25B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/broodwalker-activation-sotp-back.png",
-    "xws": "broodwalkeractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-ogre-front.png",
+    "xws": "ogreactivation",
+    "assetno": "43a"
   },
   {
-    "name": "Reanimate Activation",
+    "name": "ogre activation",
     "points": 122,
-    "cardno": "26B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/reanimate-activation-sotp-back.png",
-    "xws": "reanimateactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-ogre-back.png",
+    "xws": "ogreactivation",
+    "assetno": "43b"
   },
   {
-    "name": "Marrow Priest Activation",
+    "name": "plague worm activation",
     "points": 123,
-    "cardno": "27B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/marrow-priest-activation-sotp-back.png",
-    "xws": "marrowpriestactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-plague-worm-front.png",
+    "xws": "plaguewormactivation",
+    "assetno": "17a"
   },
   {
-    "name": "Shambling Colossus Activation",
+    "name": "plague worm activation",
     "points": 124,
-    "cardno": "28B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/shambling-colossus-activation-sotp-back.png",
-    "xws": "shamblingcolossusactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-plague-worm-back.png",
+    "xws": "plaguewormactivation",
+    "assetno": "17b"
   },
   {
-    "name": "The Dispossessed Activation",
+    "name": "rat swarm activation",
     "points": 125,
-    "cardno": "29B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/the-dispossessed-activation-sotp-back.png",
-    "xws": "thedispossessedactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-rat-swarm-front.png",
+    "xws": "ratswarmactivation",
+    "assetno": "20a"
   },
   {
-    "name": "Bane Spider Activation",
+    "name": "rat swarm activation",
     "points": 126,
-    "cardno": "30B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/bane-spider-activation-sotp-back.png",
-    "xws": "banespideractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-rat-swarm-back.png",
+    "xws": "ratswarmactivation",
+    "assetno": "20b"
   },
   {
-    "name": "Beastman Activation",
+    "name": "razorwing activation",
     "points": 127,
-    "cardno": "31B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/beastman-activation-sotp-back.png",
-    "xws": "beastmanactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-razorwing-front.png",
+    "xws": "razorwingactivation",
+    "assetno": "32a"
   },
   {
-    "name": "Razorwing Activation",
+    "name": "razorwing activation",
     "points": 128,
-    "cardno": "32B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/razorwing-activation-sotp-back.png",
-    "xws": "razorwingactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-razorwing-back.png",
+    "xws": "razorwingactivation",
+    "assetno": "32b"
   },
   {
-    "name": "Chaos Beast Activation",
+    "name": "reanimate activation",
     "points": 129,
-    "cardno": "33B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/chaos-beast-activation-sotp-back.png",
-    "xws": "chaosbeastactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-reanimate-front.png",
+    "xws": "reanimateactivation",
+    "assetno": "26a"
   },
   {
-    "name": "Giant Activation",
+    "name": "reanimate activation",
     "points": 130,
-    "cardno": "34B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/giant-activation-sotp-back.png",
-    "xws": "giantactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-reanimate-back.png",
+    "xws": "reanimateactivation",
+    "assetno": "26b"
   },
   {
-    "name": "Lava Beetle Activation",
+    "name": "sarcophagus guard activation",
     "points": 131,
-    "cardno": "35B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/lava-beetle-activation-sotp-back.png",
-    "xws": "lavabeetleactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-sarcophagus-guard-front.png",
+    "xws": "sarcophagusguardactivation",
+    "assetno": "58a"
   },
   {
-    "name": "Golem Activation",
+    "name": "sarcophagus guard activation",
     "points": 132,
-    "cardno": "36B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/golem-activation-sotp-back.png",
-    "xws": "golemactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-sarcophagus-guard-back.png",
+    "xws": "sarcophagusguardactivation",
+    "assetno": "58b"
   },
   {
-    "name": "Medusa Activation",
+    "name": "shade activation",
     "points": 133,
-    "cardno": "37B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/medusa-activation-sotp-back.png",
-    "xws": "medusaactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-shade-front.png",
+    "xws": "shadeactivation",
+    "assetno": "50a"
   },
   {
-    "name": "Sorcerer Activation",
+    "name": "shade activation",
     "points": 134,
-    "cardno": "38B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/sorcerer-activation-sotp-back.png",
-    "xws": "sorcereractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-shade-back.png",
+    "xws": "shadeactivation",
+    "assetno": "50b"
   },
   {
-    "name": "Crypt Dragon Activation",
+    "name": "shadow dragon activation",
     "points": 135,
-    "cardno": "39B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/crypt-dragon-activation-sotp-back.png",
-    "xws": "cryptdragonactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-shadow-dragon-front.png",
+    "xws": "shadowdragonactivation",
+    "assetno": "8a"
   },
   {
-    "name": "Dark Priest Activation",
+    "name": "shadow dragon activation",
     "points": 136,
-    "cardno": "40B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/dark-priest-activation-sotp-back.png",
-    "xws": "darkpriestactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-shadow-dragon-back.png",
+    "xws": "shadowdragonactivation",
+    "assetno": "8b"
   },
   {
-    "name": "Wendigo Activation",
+    "name": "shambling colossus activation",
     "points": 137,
-    "cardno": "41B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/wendigo-activation-sotp-back.png",
-    "xws": "wendigoactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-shambling-colossus-front.png",
+    "xws": "shamblingcolossusactivation",
+    "assetno": "28a"
   },
   {
-    "name": "Manticore Activation",
+    "name": "shambling colossus activation",
     "points": 138,
-    "cardno": "42B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/manticore-activation-sotp-back.png",
-    "xws": "manticoreactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-shambling-colossus-back.png",
+    "xws": "shamblingcolossusactivation",
+    "assetno": "28b"
   },
   {
-    "name": "Ogre Activation",
+    "name": "sir alric farrow activation",
     "points": 139,
-    "cardno": "43B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/ogre-activation-sotp-back.png",
-    "xws": "ogreactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-sir-alric-farrow-front.png",
+    "xws": "siralricfarrowactivation",
+    "assetno": "59a"
   },
   {
-    "name": "Troll Activation",
+    "name": "sir alric farrow activation",
     "points": 140,
-    "cardno": "44B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/troll-activation-sotp-back.png",
-    "xws": "trollactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-sir-alric-farrow-back.png",
+    "xws": "siralricfarrowactivation",
+    "assetno": "59b"
   },
   {
-    "name": "Deep Elf Activation",
+    "name": "skeleton archer activation",
     "points": 141,
-    "cardno": "45B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/deep-elf-activation-sotp-back.png",
-    "xws": "deepelfactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-skeleton-archer-front.png",
+    "xws": "skeletonarcheractivation",
+    "assetno": "53a"
   },
   {
-    "name": "Hellhound Activation",
+    "name": "skeleton archer activation",
     "points": 142,
-    "cardno": "46B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/hellhound-activation-sotp-back.png",
-    "xws": "hellhoundactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-skeleton-archer-back.png",
+    "xws": "skeletonarcheractivation",
+    "assetno": "53b"
   },
   {
-    "name": "Kobold Activation",
+    "name": "sorcerer activation",
     "points": 143,
-    "cardno": "47B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/kobold-activation-sotp-back.png",
-    "xws": "koboldactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-sorcerer-front.png",
+    "xws": "sorcereractivation",
+    "assetno": "38a"
   },
   {
-    "name": "Dark Minotaur Activation",
+    "name": "sorcerer activation",
     "points": 144,
-    "cardno": "48B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/dark-minotaur-activation-sotp-back.png",
-    "xws": "darkminotauractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-sorcerer-back.png",
+    "xws": "sorcereractivation",
+    "assetno": "38b"
   },
   {
-    "name": "Ice Wyrm Activation",
+    "name": "splig activation",
     "points": 145,
-    "cardno": "49B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/ice-wyrm-activation-sotp-back.png",
-    "xws": "icewyrmactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-splig-front.png",
+    "xws": "spligactivation",
+    "assetno": "64a"
   },
   {
-    "name": "Shade Activation",
+    "name": "splig activation",
     "points": 146,
-    "cardno": "50B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/shade-activation-sotp-back.png",
-    "xws": "shadeactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-splig-back.png",
+    "xws": "spligactivation",
+    "assetno": "64b"
   },
   {
-    "name": "Crow Hag Activation",
+    "name": "the dispossessed activation",
     "points": 147,
-    "cardno": "51B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/crow-hag-activation-sotp-back.png",
-    "xws": "crowhagactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-the-dispossessed-front.png",
+    "xws": "thedispossessedactivation",
+    "assetno": "29a"
   },
   {
-    "name": "Demon Lord Activation",
+    "name": "the dispossessed activation",
     "points": 148,
-    "cardno": "52B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/demon-lord-activation-sotp-back.png",
-    "xws": "demonlordactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-the-dispossessed-back.png",
+    "xws": "thedispossessedactivation",
+    "assetno": "29b"
   },
   {
-    "name": "Skeleton Archer Activation",
+    "name": "troll activation",
     "points": 149,
-    "cardno": "53B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/skeleton-archer-activation-sotp-back.png",
-    "xws": "skeletonarcheractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-troll-front.png",
+    "xws": "trollactivation",
+    "assetno": "44a"
   },
   {
-    "name": "Blood Ape Activation",
+    "name": "troll activation",
     "points": 150,
-    "cardno": "54B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/blood-ape-activation-sotp-back.png",
-    "xws": "bloodapeactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-troll-back.png",
+    "xws": "trollactivation",
+    "assetno": "44b"
   },
   {
-    "name": "Ferrox Activation",
+    "name": "volucrix reaver activation",
     "points": 151,
-    "cardno": "55B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/ferrox-activation-sotp-back.png",
-    "xws": "ferroxactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-volucrix-reaver-front.png",
+    "xws": "volucrixreaveractivation",
+    "assetno": "15a"
   },
   {
-    "name": "Naga Activation",
+    "name": "volucrix reaver activation",
     "points": 152,
-    "cardno": "56B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/naga-activation-sotp-back.png",
-    "xws": "nagaactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-volucrix-reaver-back.png",
+    "xws": "volucrixreaveractivation",
+    "assetno": "15b"
   },
   {
-    "name": "Burrowing Horror Activation",
+    "name": "wendigo activation",
     "points": 153,
-    "cardno": "57B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/burrowing-horror-activation-sotp-back.png",
-    "xws": "burrowinghorroractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-wendigo-front.png",
+    "xws": "wendigoactivation",
+    "assetno": "41a"
   },
   {
-    "name": "Sarcophagus Guard Activation",
+    "name": "wendigo activation",
     "points": 154,
-    "cardno": "58B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/sarcophagus-guard-activation-sotp-back.png",
-    "xws": "sarcophagusguardactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-wendigo-back.png",
+    "xws": "wendigoactivation",
+    "assetno": "41b"
   },
   {
-    "name": "Sir Alric Farrow Activation",
+    "name": "wraith activation",
     "points": 155,
-    "cardno": "59B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/sir-alric-farrow-activation-sotp-back.png",
-    "xws": "siralricfarrowactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-wraith-front.png",
+    "xws": "wraithactivation",
+    "assetno": "23a"
   },
   {
-    "name": "Lord Merick Farrow Activation",
+    "name": "wraith activation",
     "points": 156,
-    "cardno": "60B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/lord-merick-farrow-activation-sotp-back.png",
-    "xws": "lordmerickfarrowactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-wraith-back.png",
+    "xws": "wraithactivation",
+    "assetno": "23b"
   },
   {
-    "name": "Lady Eliza Farrow Activation",
+    "name": "ynfernal hulk activation",
     "points": 157,
-    "cardno": "61B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/lady-eliza-farrow-activation-sotp-back.png",
-    "xws": "ladyelizafarrowactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-ynfernal-hulk-front.png",
+    "xws": "ynfernalhulkactivation",
+    "assetno": "21a"
   },
   {
-    "name": "Belthir Activation",
+    "name": "ynfernal hulk activation",
     "points": 158,
-    "cardno": "62B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/belthir-activation-sotp-back.png",
-    "xws": "belthiractivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-ynfernal-hulk-back.png",
+    "xws": "ynfernalhulkactivation",
+    "assetno": "21b"
   },
   {
-    "name": "Baron Zachareth Activation",
+    "name": "zombie activation",
     "points": 159,
-    "cardno": "63B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/baron-zachareth-activation-sotp-back.png",
-    "xws": "baronzacharethactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-zombie-front.png",
+    "xws": "zombieactivation",
+    "assetno": "9a"
   },
   {
-    "name": "Splig Activation",
+    "name": "zombie activation",
     "points": 160,
-    "cardno": "64B",
-    "expansion": "Sands Of The Past",
-    "image": "monster-activations/splig-activation-sotp-back.png",
-    "xws": "spligactivation"
+    "expansion": "sands of the past",
+    "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-zombie-back.png",
+    "xws": "zombieactivation",
+    "assetno": "9b"
   }
 ]
