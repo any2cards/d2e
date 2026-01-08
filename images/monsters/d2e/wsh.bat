@@ -1,0 +1,20 @@
+copy base-game\act2\*.* C:\Users\any2c\Downloads\shows
+copy bonds-of-the-wild\act2\*.* C:\Users\any2c\Downloads\shows
+copy conversion-kit\act2\*.* C:\Users\any2c\Downloads\shows
+copy crown-of-destiny\act2\*.* C:\Users\any2c\Downloads\shows
+copy crusade-of-the-forgotten\act2\*.* C:\Users\any2c\Downloads\shows
+copy guardians-of-deephall\act2\*.* C:\Users\any2c\Downloads\shows
+copy labyrinth-of-ruin\act2\*.* C:\Users\any2c\Downloads\shows
+copy lair-of-the-wyrm\act2\*.* C:\Users\any2c\Downloads\shows
+copy manor-of-ravens\act2\*.* C:\Users\any2c\Downloads\shows
+copy mists-of-bilehall\act2\*.* C:\Users\any2c\Downloads\shows
+copy oath-of-the-outcast\act2\*.* C:\Users\any2c\Downloads\shows
+copy shadow-of-nerekhall\act2\*.* C:\Users\any2c\Downloads\shows
+copy shards-of-everdark\act2\*.* C:\Users\any2c\Downloads\shows
+copy stewards-of-the-secret\act2\*.* C:\Users\any2c\Downloads\shows
+copy the-chains-that-rust\act2\*.* C:\Users\any2c\Downloads\shows
+copy the-trollfens\act2\*.* C:\Users\any2c\Downloads\shows
+copy treaty-of-champions\act2\*.* C:\Users\any2c\Downloads\shows
+copy visions-of-dawn\act2\*.* C:\Users\any2c\Downloads\shows
+copy ..\sotp\sands-of-the-past\act2\*.* C:\Users\any2c\Downloads\shows 
+pause
