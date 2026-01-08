@@ -1,30 +1,30 @@
 [
   {
-    "name": "Easy Difficulty",
+    "name": "easy difficulty",
     "points": 0,
-    "expansion": "Sands Of The Past",
-    "image": "statuses/easy-difficulty-sotp.png",
+    "expansion": "sands of the past",
+    "image": "statuses/sotp/sands-of-the-past/sotp-easy-difficulty.png",
     "xws": "easydifficulty"
   },
   {
-    "name": "Normal Difficulty",
+    "name": "heroic difficulty",
     "points": 1,
-    "expansion": "Sands Of The Past",
-    "image": "statuses/normal-difficulty-sotp.png",
-    "xws": "normaldifficulty"
-  },
-  {
-    "name": "Heroic Difficulty",
-    "points": 2,
-    "expansion": "Sands Of The Past",
-    "image": "statuses/heroic-difficulty-sotp.png",
+    "expansion": "sands of the past",
+    "image": "statuses/sotp/sands-of-the-past/sotp-heroic-difficulty.png",
     "xws": "heroicdifficulty"
   },
   {
-    "name": "Legendary Difficulty",
-    "points": 3,
-    "expansion": "Sands Of The Past",
-    "image": "statuses/legendary-difficulty-sotp.png",
+    "name": "legendary difficulty",
+    "points": 2,
+    "expansion": "sands of the past",
+    "image": "statuses/sotp/sands-of-the-past/sotp-legendary-difficulty.png",
     "xws": "legendarydifficulty"
+  },
+  {
+    "name": "normal difficulty",
+    "points": 3,
+    "expansion": "sands of the past",
+    "image": "statuses/sotp/sands-of-the-past/sotp-normal-difficulty.png",
+    "xws": "normaldifficulty"
   }
 ]
