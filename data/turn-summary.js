@@ -1,44 +1,44 @@
 [
   {
-    "name": "Hero Turn Summary Bronze",
+    "name": "hero turn summary bronze",
     "points": 0,
-    "expansion": "Base Game",
-    "image": "turn-summary/hero-turn-summary-bronze-bg.png",
+    "expansion": "base game",
+    "image": "turn-summary/d2e/base-game/bg-hero-turn-summary-bronze.png",
     "xws": "heroturnsummarybronze"
   },
   {
-    "name": "Hero Turn Summary Gold",
+    "name": "hero turn summary gold",
     "points": 1,
-    "expansion": "Base Game",
-    "image": "turn-summary/hero-turn-summary-gold-bg.png",
+    "expansion": "base game",
+    "image": "turn-summary/d2e/base-game/bg-hero-turn-summary-gold.png",
     "xws": "heroturnsummarygold"
   },
   {
-    "name": "Hero Turn Summary Purple",
+    "name": "hero turn summary purple",
     "points": 2,
-    "expansion": "Base Game",
-    "image": "turn-summary/hero-turn-summary-purple-bg.png",
+    "expansion": "base game",
+    "image": "turn-summary/d2e/base-game/bg-hero-turn-summary-purple.png",
     "xws": "heroturnsummarypurple"
   },
   {
-    "name": "Hero Turn Summary Silver",
+    "name": "hero turn summary silver",
     "points": 3,
-    "expansion": "Base Game",
-    "image": "turn-summary/hero-turn-summary-silver-bg.png",
+    "expansion": "base game",
+    "image": "turn-summary/d2e/base-game/bg-hero-turn-summary-silver.png",
     "xws": "heroturnsummarysilver"
   },
   {
-    "name": "Overlord Turn Summary",
+    "name": "overlord turn summary",
     "points": 4,
-    "expansion": "Base Game",
-    "image": "turn-summary/overlord-turn-summary-bg.png",
+    "expansion": "base game",
+    "image": "turn-summary/d2e/base-game/bg-overlord-turn-summary.png",
     "xws": "overlordturnsummary"
   },
   {
-    "name": "Overlord Turn Summary",
+    "name": "overlord turn summary errata",
     "points": 5,
-    "expansion": "Base Game",
-    "image": "turn-summary/overlord-turn-summary-bg-errata.png",
-    "xws": "overlordturnsummary"
+    "expansion": "base game",
+    "image": "turn-summary/d2e/base-game/bg-overlord-turn-summary-errata.png",
+    "xws": "overlordturnsummaryerrata"
   }
 ]
