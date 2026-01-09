@@ -98,14 +98,14 @@
     "xws": "beneaththemanor"
   },
   {
-    "name": "where the heart",
+    "name": "where the heart is",
     "points": 14,
     "expansion": "manor of ravens",
     "image": "advanced-quests/d2e/manor-of-ravens/act2/mr-where-the-heart-is-front.png",
     "xws": "wheretheheart"
   },
   {
-    "name": "where the heart",
+    "name": "where the heart is",
     "points": 15,
     "expansion": "manor of ravens",
     "image": "advanced-quests/d2e/manor-of-ravens/act2/mr-where-the-heart-is-back.png",
