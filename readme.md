@@ -76,7 +76,7 @@ This repository contains data and images for the following games and components:
 
 **The items listed above with a post-pended single asterisk are from User Community content. The items listed above with a post-pended double asterisk are from FFG & User Community content.**
 
-There are three top-level directories: `data` , `images` , and `xwc`.
+There are four top-level directories: `data` , `images` , `progs`, and `xwc`.
 
 ### data
 
@@ -85,6 +85,10 @@ The `data` folder contains all D2e Asset Viewer data in JSON format.
 ### images
 
 The `images` folder contains D2e Asset Viewer images for each of the above components.
+
+### progs
+
+The `progs` folder contains programs used to generate various data files for the D2e Asset Viewer.
 
 ### xwc
 

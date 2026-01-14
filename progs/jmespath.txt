@@ -1,0 +1,34 @@
+The following are the JMESPATH commands given for each asset type to: https://jsonformatter.org/
+
+SORT:
+
+advanced-quests-js:		[*] | sort_by(sort_by(@,&name),&expansion)
+agendas.js:				[*] | sort_by(sort_by(sort_by(@,&cardno),&name),&expansion)
+agents.js:				[*] | sort_by(sort_by(sort_by(@,&name),&act),&expansion)
+allies.js:				[*] | sort_by(sort_by(@,&name),&expansion)
+ally-skills.js:			[*] | sort_by(sort_by(sort_by(@,&name),&ally),&expansion)
+city-event-decks.js:	[*] | sort_by(sort_by(@,&name),&expansion)
+class-familiars-js:		[*] | sort_by(sort_by(sort_by(sort_by(@,&name),&class),&archetype),&expansion)
+class-items.js:			[*] | sort_by(sort_by(sort_by(sort_by(@,&name),&class),&archetype),&expansion)
+class-skills-js:		[*] | sort_by(sort_by(sort_by(sort_by(@,&name),&class),&archetype),&expansion)
+conditions-js:			[*] | sort_by(sort_by(@,&name),&expansion)
+corrupt-citizens-js:	[*] | sort_by(sort_by(@,&name),&expansion)
+expansions-js:          [*] | sort_by(sort_by(sort_by(@,&name),&type),&expansion)
+explorations-js:        Manual based on name <-- icon <-- expansion
+
+
+DATA EXTRACTION:
+
+advanced-quests-js:		[*].{name: name, act: act, travel: travel, rule: rule, description: description, "overlord reward": "overlord reward", "hero reward": "hero reward"}
+agendas.js:				[*].{name: name, cardno: cardno}
+agents.js:				[*].{name: name, act: act, attack: attack, abilities: abilities, characteristics: characteristics, "ability rules": "ability rules", deck: deck, card: card}
+allies.js:				[*].{name: name, act: act, attack: attack, might: might, knowledge: knowledge, willpower: willpower, awareness: awareness, abilities: abilities, characteristics: characteristics, "ability rules": "ability rules"}
+ally-skills.js:			[*].{name: name, ally: ally, rules: rules}
+city-event-decks.js:	[*].{name: name, travel: travel, card: card}
+class-familiars.js:		[*].{name: name, archetype: archetype, class: class, speed: speed, health: health, defense: defense, attack: attack, dice: dice, rules: rules}
+class-items.js:			[*].{name: name, archetype: archetype, class: class, traits: traits, attack: attack, equip: equip, dice: dice, rules: rules}
+class-skills-js:		[*].{name: name, archetype: archetype, class: class, "xp cost": "xp cost", rules: rules, "fatigue cost": "fatigue cost"}
+conditions.js:			[*].{name: name, count: count, traits: traits}
+corrupt-citizens.js:	[*].{name: name, timing: timing, traits: traits, description: description}
+expansions.js:			[*].{name: name, type: type}
+expplorations-js:		[*].{name: name, icon: icon, rules: rules, "after setup rules": "after setup rules", "overlord flavor": "overlord flavor", "overlord effects": "overlord effects", "timer flavor": "timer flavor", timer: timer, "timer effects": "timer effects"}
