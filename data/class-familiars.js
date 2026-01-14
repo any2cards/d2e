@@ -2,6 +2,14 @@
   {
     "name": "reanimate",
     "points": 0,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "speed": "3",
+    "health": "4",
+    "defense": null,
+    "attack": "Melee",
+    "dice": "Blue Red",
+    "rules": "This familiar is treated as a figure but cannot recover any amount of Hearts. It may perform 1 attack action during its activation. Each attack made by this familiar gains: Surge: +1 Heart.",
     "expansion": "base game",
     "image": "class-familiars/d2e/base-game/mages/necromancer/bg-reanimate.png",
     "xws": "reanimate"
@@ -9,6 +17,14 @@
   {
     "name": "reanimate",
     "points": 1,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "dice": null,
+    "rules": null,
     "expansion": "base game",
     "image": "class-familiars/d2e/base-game/mages/necromancer/bg-reanimate-back.png",
     "xws": "reanimate"
@@ -16,6 +32,14 @@
   {
     "name": "wolf",
     "points": 2,
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "speed": "4",
+    "health": "3",
+    "defense": null,
+    "attack": "Melee",
+    "dice": "Blue Red",
+    "rules": "This familiar is treated as a figure. It may perform 1 attack action during its activation. Each attack made by this familiar gains: Surge: Pierce 1.",
     "expansion": "labyrinth of ruin",
     "image": "class-familiars/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-wolf.png",
     "xws": "wolf"
@@ -23,6 +47,14 @@
   {
     "name": "wolf",
     "points": 3,
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "dice": null,
+    "rules": null,
     "expansion": "labyrinth of ruin",
     "image": "class-familiars/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-wolf-back.png",
     "xws": "wolf"
@@ -30,6 +62,14 @@
   {
     "name": "summoned stone",
     "points": 4,
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "speed": "2",
+    "health": "2",
+    "defense": "Brown",
+    "attack": null,
+    "dice": null,
+    "rules": "This familiar is treated as an obstacle, but may be targeted and affected by any attack (even from heroes). You cannot have more than 1 Summoned Stone on the map at a time, unless an ability allows it. Each of your attacks targeting a monster adjacent to a Summoned Stone gains 1 Surge.",
     "expansion": "lair of the wyrm",
     "image": "class-familiars/d2e/lair-of-the-wyrm/mages/geomancer/lw-summoned-stone.png",
     "xws": "summonedstone"
@@ -37,6 +77,14 @@
   {
     "name": "summoned stone",
     "points": 5,
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "dice": null,
+    "rules": null,
     "expansion": "lair of the wyrm",
     "image": "class-familiars/d2e/lair-of-the-wyrm/mages/geomancer/lw-summoned-stone-back.png",
     "xws": "summonedstone"
@@ -44,6 +92,14 @@
   {
     "name": "bandaged servant",
     "points": 6,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "dice": null,
+    "rules": null,
     "expansion": "sands of the past",
     "image": "class-familiars/sotp/sands-of-the-past/healers/hierophant/sotp-bandaged-servant.png",
     "xws": "bandagedservant"
@@ -51,6 +107,14 @@
   {
     "name": "bandaged servant",
     "points": 7,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "dice": null,
+    "rules": null,
     "expansion": "sands of the past",
     "image": "class-familiars/sotp/sands-of-the-past/healers/hierophant/sotp-bandaged-servant-back.png",
     "xws": "bandagedservant"
@@ -58,6 +122,14 @@
   {
     "name": "shadow soul",
     "points": 8,
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "speed": "1",
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "dice": null,
+    "rules": "The Shadow Soul may occupy any space containing figures or terrain. Each time a monster in a space containing or adjacent to a Shadow Soul suffers Hearts from an attack, it suffers 1 additional Heart.",
     "expansion": "shadow of nerekhall",
     "image": "class-familiars/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-shadow-soul.png",
     "xws": "shadowsoul"
@@ -65,6 +137,14 @@
   {
     "name": "shadow soul",
     "points": 9,
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "dice": null,
+    "rules": null,
     "expansion": "shadow of nerekhall",
     "image": "class-familiars/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-shadow-soul-back.png",
     "xws": "shadowsoul"

@@ -2,6 +2,11 @@
   {
     "name": "armor of faith",
     "points": 0,
+    "archetype": "Healer",
+    "class": "Disciple",
+    "xp cost": 1,
+    "rules": "Each time you use Prayer of Healing on a hero, that hero adds 1 additional brown die to his defense pool until the start of your next turn. Place a hero token belonging to that hero on this card as a reminder.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/disciple/bg-armor-of-faith.png",
     "xws": "armoroffaith"
@@ -9,6 +14,11 @@
   {
     "name": "blessed strike",
     "points": 1,
+    "archetype": "Healer",
+    "class": "Disciple",
+    "xp cost": 1,
+    "rules": "Action: Perform an attack with a Melee weapon. If you deal at least 1 Heart (after rolling defense dice), you and 1 hero of your choice adjacent to you each recover 2 Hearts.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/disciple/bg-blessed-strike.png",
     "xws": "blessedstrike"
@@ -16,6 +26,11 @@
   {
     "name": "cleansing touch",
     "points": 2,
+    "archetype": "Healer",
+    "class": "Disciple",
+    "xp cost": 1,
+    "rules": "Each time you use Prayer of Healing on a hero, that hero may also discard 1 of his Condition cards.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/disciple/bg-cleansing-touch.png",
     "xws": "cleansingtouch"
@@ -23,6 +38,11 @@
   {
     "name": "disciple-back",
     "points": 3,
+    "archetype": "Healer",
+    "class": "Disciple",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/disciple/bg-disciple-back.png",
     "xws": "discipleback"
@@ -30,6 +50,11 @@
   {
     "name": "divine fury",
     "points": 4,
+    "archetype": "Healer",
+    "class": "Disciple",
+    "xp cost": 2,
+    "rules": "Each time you use Prayer of Healing on a hero, that hero adds 1 additional yellow power die to his attack pool on his next attack this round. Place a hero token belonging to that hero on this card as a reminder.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/disciple/bg-divine-fury.png",
     "xws": "divinefury"
@@ -37,6 +62,11 @@
   {
     "name": "holy power",
     "points": 5,
+    "archetype": "Healer",
+    "class": "Disciple",
+    "xp cost": 3,
+    "rules": "Your Prayer of Healing may now affect 2 different heroes. If you roll a Surge on the red power die when using Prayer of Healing, both heroes recover 1 Fatigue.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/disciple/bg-holy-power.png",
     "xws": "holypower"
@@ -44,6 +74,11 @@
   {
     "name": "prayer of healing",
     "points": 6,
+    "archetype": "Healer",
+    "class": "Disciple",
+    "xp cost": 0,
+    "rules": "Exhaust this card during your turn and choose yourself or an adjacent hero. Roll 1 red power die. The chosen hero recovers Hearts equal to the Hearts rolled.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/disciple/bg-prayer-of-healing.png",
     "xws": "prayerofhealing"
@@ -51,6 +86,11 @@
   {
     "name": "prayer of peace",
     "points": 7,
+    "archetype": "Healer",
+    "class": "Disciple",
+    "xp cost": 2,
+    "rules": "Action: Exhaust this card. While this card is exhausted, monsters cannot perform an attack while adjacent to you.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/disciple/bg-prayer-of-peace.png",
     "xws": "prayerofpeace"
@@ -58,6 +98,11 @@
   {
     "name": "radiant light",
     "points": 8,
+    "archetype": "Healer",
+    "class": "Disciple",
+    "xp cost": 3,
+    "rules": "Action: Roll 1 red power die. Each hero in your line of sight (including yourself) recovers the amount of Hearts rolled. Each monster in your line of sight suffers the amount of Hearts rolled.",
+    "fatigue cost": "3",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/disciple/bg-radiant-light.png",
     "xws": "radiantlight"
@@ -65,6 +110,11 @@
   {
     "name": "time of need",
     "points": 9,
+    "archetype": "Healer",
+    "class": "Disciple",
+    "xp cost": 2,
+    "rules": "Action: You receive 2 movement points and recover 2 Fatigue.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/disciple/bg-time-of-need.png",
     "xws": "timeofneed"
@@ -72,6 +122,11 @@
   {
     "name": "ancestor spirits",
     "points": 10,
+    "archetype": "Healer",
+    "class": "Spiritspeaker",
+    "xp cost": 3,
+    "rules": "When a monster suffers Hearts due to 1 or your class skills, exhaust this card. That monster is Poisoned. When a hero recovers Hearts or Fatigue due to 1 of your class skills, exhaust this card to allow that hero to recover 1 Heart and 1 Fatigue.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/spiritspeaker/bg-ancestor-spirits.png",
     "xws": "ancestorspirits"
@@ -79,6 +134,11 @@
   {
     "name": "ancestor spirits",
     "points": 11,
+    "archetype": "Healer",
+    "class": "Spiritspeaker",
+    "xp cost": 3,
+    "rules": "Exhaust this card when 1 or more monsters suffer Hearts from 1 of your class skills. Each of those monsters is poisoned. Exhaust this card when 1 or more heroes recover Hearts or Fatigue from 1 of your class skills. Each of those heroes recovers 1 Heart and 1 Fatigue.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/spiritspeaker/bg-ancestor-spirits-errata.png",
     "xws": "ancestorspirits"
@@ -86,6 +146,11 @@
   {
     "name": "cloud of mist",
     "points": 12,
+    "archetype": "Healer",
+    "class": "Spiritspeaker",
+    "xp cost": 2,
+    "rules": "Action: Exhaust this card. While this card is exhausted, each attack that targets a space within 3 spaces of you misses unless the attack spends 1 Surge.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/spiritspeaker/bg-cloud-of-mist.png",
     "xws": "cloudofmist"
@@ -93,6 +158,11 @@
   {
     "name": "drain spirit",
     "points": 13,
+    "archetype": "Healer",
+    "class": "Spiritspeaker",
+    "xp cost": 1,
+    "rules": "Action: Perform an attack. If you deal at least 1 Heart (after rolling defense dice), each hero within 3 spaces of you (including yourself) recovers 1 Heart.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/spiritspeaker/bg-drain-spirit.png",
     "xws": "drainspirit"
@@ -100,6 +170,11 @@
   {
     "name": "healing rain",
     "points": 14,
+    "archetype": "Healer",
+    "class": "Spiritspeaker",
+    "xp cost": 1,
+    "rules": "Action: Roll 1 red power die. Each hero within 3 spaces of you (including yourself) recovers Hearts equal to the Hearts rolled.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/spiritspeaker/bg-healing-rain.png",
     "xws": "healingrain"
@@ -107,6 +182,11 @@
   {
     "name": "nature's bounty",
     "points": 15,
+    "archetype": "Healer",
+    "class": "Spiritspeaker",
+    "xp cost": 2,
+    "rules": "Each time you recover Fatigue by resting, you also recover Hearts equal to the amount of Fatigue recovered.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/spiritspeaker/bg-natures-bounty.png",
     "xws": "naturesbounty"
@@ -114,6 +194,11 @@
   {
     "name": "shared pain",
     "points": 16,
+    "archetype": "Healer",
+    "class": "Spiritspeaker",
+    "xp cost": 1,
+    "rules": "Action: Perform an attack. If you deal at least 1 Heart (after rolling defense dice), each other figure in the target's monster group suffers 1 Heart.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/spiritspeaker/bg-shared-pain.png",
     "xws": "sharedpain"
@@ -121,6 +206,11 @@
   {
     "name": "spiritspeaker-back",
     "points": 17,
+    "archetype": "Healer",
+    "class": "Spiritspeaker",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/spiritspeaker/bg-spiritspeaker-back.png",
     "xws": "spiritspeakerback"
@@ -128,6 +218,11 @@
   {
     "name": "stoneskin",
     "points": 18,
+    "archetype": "Healer",
+    "class": "Spiritspeaker",
+    "xp cost": 0,
+    "rules": "When you or a hero within 3 spaces of you is attacked, before dice are rolled, exhaust this card to add 1 additional gray die to that hero's defense pool.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/spiritspeaker/bg-stoneskin.png",
     "xws": "stoneskin"
@@ -135,6 +230,11 @@
   {
     "name": "tempest",
     "points": 19,
+    "archetype": "Healer",
+    "class": "Spiritspeaker",
+    "xp cost": 2,
+    "rules": "Action: Exhaust this card and test Willpower. If you fail, recover 1 Fatigue. If you pass, each monster within 3 spaces of you suffers 2 Hearts and hero within 3 spaces of you recovers 1 Heart.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/spiritspeaker/bg-tempest.png",
     "xws": "tempest"
@@ -142,6 +242,11 @@
   {
     "name": "vigor",
     "points": 20,
+    "archetype": "Healer",
+    "class": "Spiritspeaker",
+    "xp cost": 3,
+    "rules": "Each of your attacks gains: Surge: Each hero recovers 1 Fatigue.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/healers/spiritspeaker/bg-vigor.png",
     "xws": "vigor"
@@ -149,6 +254,11 @@
   {
     "name": "army of death",
     "points": 21,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "xp cost": 3,
+    "rules": "Action: Perform an attack with your Reanimate. This attack affects each monster in your line of sight, ignoring range; your Reanimate does not need line of sight to the affected monsters, but does need to be on the map.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/necromancer/bg-army-of-death.png",
     "xws": "armyofdeath"
@@ -156,6 +266,11 @@
   {
     "name": "corpse blast",
     "points": 22,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "xp cost": 1,
+    "rules": "Action: Perform an attack targeting your Reanimate's space with a Magic weapon. This attack gains Blast. You do not need range or line of sight to the space. After the attack is resolved, the Reanimate is defeated.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/necromancer/bg-corpse-blast.png",
     "xws": "corpseblast"
@@ -163,6 +278,11 @@
   {
     "name": "dark pact",
     "points": 23,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "xp cost": 2,
+    "rules": "Your Reanimate adds 1 additional brown die to its defense pool. Each time you suffer Hearts, you may choose to have your Reanimate suffer all of the Hearts instead. Each time your Reanimate suffers Hearts, you may choose to suffer all of the Hearts instead.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/necromancer/bg-dark-pact.png",
     "xws": "darkpact"
@@ -170,6 +290,11 @@
   {
     "name": "deathly haste",
     "points": 24,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "xp cost": 1,
+    "rules": "Each time you suffer 1 Fatigue to gain 1 movement point, you may then move your Reanimate 1 space.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/necromancer/bg-deathly-haste.png",
     "xws": "deathlyhaste"
@@ -177,6 +302,11 @@
   {
     "name": "dying command",
     "points": 25,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "xp cost": 3,
+    "rules": "When you or your Reanimate defeats a monster, exhaust this card to test Knowledge. If you fail, recover 1 Fatigue. If you pass, return that monster to the map. THen move the monster up to its Speed and perform an attack with it. Then remove the monster from the map.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/necromancer/bg-dying-command.png",
     "xws": "dyingcommand"
@@ -184,6 +314,11 @@
   {
     "name": "dying command",
     "points": 26,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "xp cost": 3,
+    "rules": "Exhaust this card after you or your reanimate resolves an attack. Choose 1 monster defeated by that attack and test Knowledge. If you fail, recover 1 Fatigue. If you pass, perform the following in order: return that monster to the map, move it up to its Speed, perform 1 attack with it, and remove it from the map.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/necromancer/bg-dying-command-errata.png",
     "xws": "dyingcommand"
@@ -191,6 +326,11 @@
   {
     "name": "fury of undeath",
     "points": 27,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "xp cost": 1,
+    "rules": "Action: Exhaust this card to activate your Reanimate. Your Reanimate still activates this turn as normal.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/necromancer/bg-fury-of-undeath.png",
     "xws": "furyofundeath"
@@ -198,6 +338,11 @@
   {
     "name": "necromancer-back",
     "points": 28,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/necromancer/bg-necromancer-back.png",
     "xws": "necromancerback"
@@ -205,6 +350,11 @@
   {
     "name": "raise dead",
     "points": 29,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "xp cost": 0,
+    "rules": "Action: Place your Reanimate familiar token in a space adjacent to you. You may only control 1 Reanimate at a time. You may discard your Reanimate token at any time during your turn.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/necromancer/bg-raise-dead-errata.png",
     "xws": "raisedead"
@@ -212,6 +362,11 @@
   {
     "name": "raise dead",
     "points": 30,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "xp cost": 0,
+    "rules": "Action: Place your Reanimate familiar token in an empty space adjacent to you. You may only control 1 Reanimate at a time. You may discard your Reanimate token at any time during your turn.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/necromancer/bg-raise-dead.png",
     "xws": "raisedead"
@@ -219,6 +374,11 @@
   {
     "name": "undead might",
     "points": 31,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "xp cost": 2,
+    "rules": "Your reanimate gains +2 Health, even when this card is exhausted. Exhaust this card when your Reanimate attacks a monster. This attack gains +1 Heart.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/necromancer/bg-undead-might.png",
     "xws": "undeadmight"
@@ -226,6 +386,11 @@
   {
     "name": "vampiric blood",
     "points": 32,
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "xp cost": 2,
+    "rules": "Your reanimate adds 1 additional yellow power die to its attack pool. Each time you or your Reanimate defeats a monster, you recover 1 Fatigue.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/necromancer/bg-vampiric-blood.png",
     "xws": "vampiricblood"
@@ -233,6 +398,11 @@
   {
     "name": "break the rune",
     "points": 33,
+    "archetype": "Mage",
+    "class": "Runemaster",
+    "xp cost": 3,
+    "rules": "Action: Perform an attack with a Rune weapon. This attack ignores range and targets each monster and hero figure within 3 spaces of you in your line of sight. Each figure rolls defense dice separately. This attack cannot be affected by Blast.",
+    "fatigue cost": "4",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/runemaster/bg-break-the-rune.png",
     "xws": "breaktherune"
@@ -240,6 +410,11 @@
   {
     "name": "break the rune",
     "points": 34,
+    "archetype": "Mage",
+    "class": "Runemaster",
+    "xp cost": 3,
+    "rules": "Action: Perform an attack with a Rune weapon. This attack ignores range and targets each other figure within 3 spaces and in your line of sight. Each figure rolls defense dice separately.",
+    "fatigue cost": "4",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/runemaster/bg-break-the-rune-errata.png",
     "xws": "breaktherune"
@@ -247,6 +422,11 @@
   {
     "name": "exploding rune",
     "points": 35,
+    "archetype": "Mage",
+    "class": "Runemaster",
+    "xp cost": 1,
+    "rules": "Action: Perform an attack with a Rune weapon. This attack gains Blast.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/runemaster/bg-exploding-rune.png",
     "xws": "explodingrune"
@@ -254,6 +434,11 @@
   {
     "name": "ghost armor",
     "points": 36,
+    "archetype": "Mage",
+    "class": "Runemaster",
+    "xp cost": 1,
+    "rules": "After you roll defense dice when attacked, use this card to add 1 Shield to the results.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/runemaster/bg-ghost-armor.png",
     "xws": "ghostarmor"
@@ -261,6 +446,11 @@
   {
     "name": "inscribe rune",
     "points": 37,
+    "archetype": "Mage",
+    "class": "Runemaster",
+    "xp cost": 1,
+    "rules": "Any weapon you equip gains the Rune trait while equipped.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/runemaster/bg-inscribe-rune.png",
     "xws": "inscriberune"
@@ -268,6 +458,11 @@
   {
     "name": "iron will",
     "points": 38,
+    "archetype": "Mage",
+    "class": "Runemaster",
+    "xp cost": 2,
+    "rules": "You gain +1 Stamina. Each time you spend 1 Surge during an attack to recover 1 Fatigue, you instead recover 2 Fatigue.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/runemaster/bg-iron-will.png",
     "xws": "ironwill"
@@ -275,6 +470,11 @@
   {
     "name": "quick casting",
     "points": 39,
+    "archetype": "Mage",
+    "class": "Runemaster",
+    "xp cost": 3,
+    "rules": "After you perform an attack with a Rune weapon, exhaust this card to immediately perform an additional attack.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/runemaster/bg-quick-casting.png",
     "xws": "quickcasting"
@@ -282,6 +482,11 @@
   {
     "name": "rune mastery",
     "points": 40,
+    "archetype": "Mage",
+    "class": "Runemaster",
+    "xp cost": 2,
+    "rules": "When you attack with a Rune weapon, you may exhaust this card to add 1 Surge to the results.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/runemaster/bg-rune-mastery.png",
     "xws": "runemastery"
@@ -289,6 +494,11 @@
   {
     "name": "runemaster-back",
     "points": 41,
+    "archetype": "Mage",
+    "class": "Runemaster",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/runemaster/bg-runemaster-back.png",
     "xws": "runemasterback"
@@ -296,6 +506,11 @@
   {
     "name": "runic knowledge",
     "points": 42,
+    "archetype": "Mage",
+    "class": "Runemaster",
+    "xp cost": 0,
+    "rules": "While you have a Magic or Rune weapon equipped, each of your attacks gains: Surge: Suffer 1 Fatigue to gain +2 Hearts.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/runemaster/bg-runic-knowledge.png",
     "xws": "runicknowledge"
@@ -303,6 +518,11 @@
   {
     "name": "runic sorcery",
     "points": 43,
+    "archetype": "Mage",
+    "class": "Runemaster",
+    "xp cost": 2,
+    "rules": "Action: Perform an attack with a Rune weapon. If this attack deals at least 1 Heart (after rolling defense dice), choose 1 condition. The target suffers the chosen condition.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/mages/runemaster/bg-runic-sorcery.png",
     "xws": "runicsorcery"
@@ -310,6 +530,11 @@
   {
     "name": "appraisal",
     "points": 44,
+    "archetype": "Scout",
+    "class": "Thief",
+    "xp cost": 1,
+    "rules": "After you draw a Search card, you may discard it to draw a new Search card. You must keep the second card.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/thief/bg-appraisal.png",
     "xws": "appraisal"
@@ -317,6 +542,11 @@
   {
     "name": "bushwhack",
     "points": 45,
+    "archetype": "Scout",
+    "class": "Thief",
+    "xp cost": 3,
+    "rules": "Exhaust this card during your turn to attack a monster that is the only monster in your line of sight. This attack does not require an action.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/thief/bg-bushwhack.png",
     "xws": "bushwhack"
@@ -324,6 +554,11 @@
   {
     "name": "caltrops",
     "points": 46,
+    "archetype": "Scout",
+    "class": "Thief",
+    "xp cost": 2,
+    "rules": "When a monster moves into an empty space adjacent to you, exhaust this card to test Awareness. If you pass, the monster suffers 1 Heart and is Immobilized.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/thief/bg-caltrops.png",
     "xws": "caltrops"
@@ -331,6 +566,11 @@
   {
     "name": "dirty tricks",
     "points": 47,
+    "archetype": "Scout",
+    "class": "Thief",
+    "xp cost": 1,
+    "rules": "Action: Perform an attack with a Melee or Blade weapon. If the attack deals at least 1 Heart (after rolling defense dice), the target is Stunned.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/thief/bg-dirty-tricks.png",
     "xws": "dirtytricks"
@@ -338,6 +578,11 @@
   {
     "name": "greedy",
     "points": 48,
+    "archetype": "Scout",
+    "class": "Thief",
+    "xp cost": 0,
+    "rules": "Action: Search a search token within 3 spaces of you.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/thief/bg-greedy.png",
     "xws": "greedy"
@@ -345,6 +590,11 @@
   {
     "name": "lurk",
     "points": 49,
+    "archetype": "Scout",
+    "class": "Thief",
+    "xp cost": 3,
+    "rules": "Exhaust this card during your turn to perform a search action; this does not require an action. While this card is exhausted, add 1 additional brown die to your defense pool.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/thief/bg-lurk.png",
     "xws": "lurk"
@@ -352,6 +602,11 @@
   {
     "name": "sneaky",
     "points": 50,
+    "archetype": "Scout",
+    "class": "Thief",
+    "xp cost": 1,
+    "rules": "You gain +1 Heart on attacks against monsters that did not have line of sight of you at the start of your turn (even if this card is exhausted). You may exhaust this card to perform an open or close a door action without using an action.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/thief/bg-sneaky.png",
     "xws": "sneaky"
@@ -359,6 +614,11 @@
   {
     "name": "thief-back",
     "points": 51,
+    "archetype": "Scout",
+    "class": "Thief",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/thief/bg-thief-back.png",
     "xws": "thiefback"
@@ -366,6 +626,11 @@
   {
     "name": "tumble",
     "points": 52,
+    "archetype": "Scout",
+    "class": "Thief",
+    "xp cost": 2,
+    "rules": "Exhaust this card during your turn. While this card is exhausted, you may move through enemy figures.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/thief/bg-tumble.png",
     "xws": "tumble"
@@ -373,6 +638,11 @@
   {
     "name": "unseen",
     "points": 53,
+    "archetype": "Scout",
+    "class": "Thief",
+    "xp cost": 2,
+    "rules": "Exhaust this card during your turn. While this card is exhausted, each attack that targets you misses unless the attacker spends 1 Surge.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/thief/bg-unseen.png",
     "xws": "unseen"
@@ -380,6 +650,11 @@
   {
     "name": "accurate",
     "points": 54,
+    "archetype": "Scout",
+    "class": "Wildlander",
+    "xp cost": 1,
+    "rules": "Each time you perform an attack with a Bow, you may reroll 1 power die (limit once per attack).",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/wildlander/bg-accurate.png",
     "xws": "accurate"
@@ -387,6 +662,11 @@
   {
     "name": "black arrow",
     "points": 55,
+    "archetype": "Scout",
+    "class": "Wildlander",
+    "xp cost": 3,
+    "rules": "Action: Perform an attack with a Bow. This attack gains +2 range. If you deal less than 3 Hearts (after rolling defense dice), deal 3 Hearts instead (unless this attack misses).",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/wildlander/bg-black-arrow.png",
     "xws": "blackarrow"
@@ -394,6 +674,11 @@
   {
     "name": "bow mastery",
     "points": 56,
+    "archetype": "Scout",
+    "class": "Wildlander",
+    "xp cost": 2,
+    "rules": "When you attack with a Bow, you may exhaust this card to add 1 Surge to the results.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/wildlander/bg-bow-mastery.png",
     "xws": "bowmastery"
@@ -401,6 +686,11 @@
   {
     "name": "danger sense",
     "points": 57,
+    "archetype": "Scout",
+    "class": "Wildlander",
+    "xp cost": 1,
+    "rules": "Action: Exhaust this card to force the overlord to discard 1 Overlord card from his hand at random.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/wildlander/bg-danger-sense.png",
     "xws": "dangersense"
@@ -408,6 +698,11 @@
   {
     "name": "eagle eyes",
     "points": 58,
+    "archetype": "Scout",
+    "class": "Wildlander",
+    "xp cost": 1,
+    "rules": "When you perform an attack with a Bow, friendly figures do not block your line of sight.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/wildlander/bg-eagle-eyes.png",
     "xws": "eagleeyes"
@@ -415,6 +710,11 @@
   {
     "name": "first strike",
     "points": 59,
+    "archetype": "Scout",
+    "class": "Wildlander",
+    "xp cost": 2,
+    "rules": "During the overlord's turn, immediately after he chooses a monster to activate, you may exhaust this card to perform an attack targeting that monster with a Bow. After this attack is resolved, if the monster was not defeated, it may continue its activation.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/wildlander/bg-first-strike.png",
     "xws": "firststrike"
@@ -422,6 +722,11 @@
   {
     "name": "fleet of foot",
     "points": 60,
+    "archetype": "Scout",
+    "class": "Wildlander",
+    "xp cost": 2,
+    "rules": "Each time you suffer 1 Fatigue to gain 1 movement point, you instead receive 2 movement points. Each time you use Nimble, you may move 2 spaces instead of 1.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/wildlander/bg-fleet-of-foot.png",
     "xws": "fleetoffoot"
@@ -429,6 +734,11 @@
   {
     "name": "nimble",
     "points": 61,
+    "archetype": "Scout",
+    "class": "Wildlander",
+    "xp cost": 0,
+    "rules": "Each time a monster moves into a space adjacent to you, you may use this card to move 1 space; then the monster may continue its activation.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/wildlander/bg-nimble.png",
     "xws": "nimble"
@@ -436,6 +746,11 @@
   {
     "name": "running shot",
     "points": 62,
+    "archetype": "Scout",
+    "class": "Wildlander",
+    "xp cost": 3,
+    "rules": "Each time you perform an attack with a Bow, you receive 2 movement points before or after the attack. If you have Heavy Armor equipped, you receive only 1 movement point before or after the attack.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/wildlander/bg-running-shot.png",
     "xws": "runningshot"
@@ -443,6 +758,11 @@
   {
     "name": "running shot",
     "points": 63,
+    "archetype": "Scout",
+    "class": "Wildlander",
+    "xp cost": 3,
+    "rules": "Each time you perform an attack with a Bow, you may move up to 2 spaces either before declaring a target or after the attack resolves. If you have Heavy Armor equipped, you may only move 1 space.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/wildlander/bg-running-shot-errata.png",
     "xws": "runningshot"
@@ -450,6 +770,11 @@
   {
     "name": "wildlander-back",
     "points": 64,
+    "archetype": "Scout",
+    "class": "Wildlander",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/scouts/wildlander/bg-wildlander-back.png",
     "xws": "wildlanderback"
@@ -457,6 +782,11 @@
   {
     "name": "berserker-back",
     "points": 65,
+    "archetype": "Warrior",
+    "class": "Berserker",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/berserker/bg-berserker-back.png",
     "xws": "berserkerback"
@@ -464,6 +794,11 @@
   {
     "name": "brute",
     "points": 66,
+    "archetype": "Warrior",
+    "class": "Berserker",
+    "xp cost": 1,
+    "rules": "You gain +4 Health. Whenever you stand up or are revived by another hero, you recover 2 additional Hearts.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/berserker/bg-brute.png",
     "xws": "brute"
@@ -471,6 +806,11 @@
   {
     "name": "charge",
     "points": 67,
+    "archetype": "Warrior",
+    "class": "Berserker",
+    "xp cost": 2,
+    "rules": "Action: Move up to your Speed and then perform an attack with a Melee weapon.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/berserker/bg-charge.png",
     "xws": "charge"
@@ -478,6 +818,11 @@
   {
     "name": "counter attack",
     "points": 68,
+    "archetype": "Warrior",
+    "class": "Berserker",
+    "xp cost": 1,
+    "rules": "After an adjacent monster resolves an attack that affects you, exhaust this card to perform an attack with a Melee weapon against the attacking monster. After this attack is resolved, if the monster was not defeated, it may continue its activation.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/berserker/bg-counter-attack.png",
     "xws": "counterattack"
@@ -485,6 +830,11 @@
   {
     "name": "cripple",
     "points": 69,
+    "archetype": "Warrior",
+    "class": "Berserker",
+    "xp cost": 1,
+    "rules": "Exhaust this card during your turn to choose a monster adjacent to you and test Might. If you pass, the monster is Immobilized.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/berserker/bg-cripple.png",
     "xws": "cripple"
@@ -492,6 +842,11 @@
   {
     "name": "death rage",
     "points": 70,
+    "archetype": "Warrior",
+    "class": "Berserker",
+    "xp cost": 3,
+    "rules": "Action: Perform an attack with a Melee weapon. This attack gains: Surge: +1 Heart for every 2 Hearts on your Hero sheet.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/berserker/bg-death-rage.png",
     "xws": "deathrage"
@@ -499,6 +854,11 @@
   {
     "name": "execute",
     "points": 71,
+    "archetype": "Warrior",
+    "class": "Berserker",
+    "xp cost": 3,
+    "rules": "When performing an attack with a Melee weapon, after the dice are rolled, exhaust this card to gain +X Hearts, where X is the amount of Fatigue suffered to use this skill.",
+    "fatigue cost": "X",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/berserker/bg-execute.png",
     "xws": "execute"
@@ -506,6 +866,11 @@
   {
     "name": "rage",
     "points": 72,
+    "archetype": "Warrior",
+    "class": "Berserker",
+    "xp cost": 0,
+    "rules": "Action: Perform an attack with a Melee weapon. This attack gains +1 Heart.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/berserker/bg-rage.png",
     "xws": "rage"
@@ -513,6 +878,11 @@
   {
     "name": "weapon mastery",
     "points": 73,
+    "archetype": "Warrior",
+    "class": "Berserker",
+    "xp cost": 2,
+    "rules": "Each time you perform an attack with either 1 Melee weapon with 2 hand icons or 2 Melee weapons with 1 hand icon each, you may exhaust this card to add 1 Surge to the results.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/berserker/bg-weapon-mastery.png",
     "xws": "weaponmastery"
@@ -520,6 +890,11 @@
   {
     "name": "whirlwind",
     "points": 74,
+    "archetype": "Warrior",
+    "class": "Berserker",
+    "xp cost": 2,
+    "rules": "Action: Perform an attack with a Melee weapon targeting all adjacent monsters. You make 1 attack roll and each monster rolls defense dice separately.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/berserker/bg-whirlwind.png",
     "xws": "whirlwind"
@@ -527,6 +902,11 @@
   {
     "name": "advance",
     "points": 75,
+    "archetype": "Warrior",
+    "class": "Knight",
+    "xp cost": 1,
+    "rules": "After defeating a monster with an attack using a Melee weapon, exhaust this card to move up to your Speed and perform an additional attack.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/knight/bg-advance.png",
     "xws": "advance"
@@ -534,6 +914,11 @@
   {
     "name": "challenge",
     "points": 76,
+    "archetype": "Warrior",
+    "class": "Knight",
+    "xp cost": 1,
+    "rules": "Exhaust this card to choose a monster in your line of sight and place your hero token on it. While this card is exhausted, each attack performed by you or the monster, when targeting each other, gains +1 Heart.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/knight/bg-challenge.png",
     "xws": "challenge"
@@ -541,6 +926,11 @@
   {
     "name": "defend",
     "points": 77,
+    "archetype": "Warrior",
+    "class": "Knight",
+    "xp cost": 1,
+    "rules": "When a hero adjacent to you is targeted by an attack, use this card to instead declare yourself as the target of the attack. Range and line of sight are still measured to the targeted hero's space.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/knight/bg-defend.png",
     "xws": "defend"
@@ -548,6 +938,11 @@
   {
     "name": "defense training",
     "points": 78,
+    "archetype": "Warrior",
+    "class": "Knight",
+    "xp cost": 2,
+    "rules": "As long as you have a Shield equipped, add 1 additional brown due to your defense pool (even if this card is exhausted). When you would exhaust your equipped Shield (such as to use the Shield's ability), you may exhaust this card instead.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/knight/bg-defense-training.png",
     "xws": "defensetraining"
@@ -555,6 +950,11 @@
   {
     "name": "guard",
     "points": 79,
+    "archetype": "Warrior",
+    "class": "Knight",
+    "xp cost": 2,
+    "rules": "When a monster moves into a space adjacent to you, exhaust this card to interrupt that monster's activation and perform an attack with a Melee weapon. After this attack is resolved, if the monster was not defeated, it may continue its activation.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/knight/bg-guard-errata.png",
     "xws": "guard"
@@ -562,6 +962,11 @@
   {
     "name": "guard",
     "points": 80,
+    "archetype": "Warrior",
+    "class": "Knight",
+    "xp cost": 2,
+    "rules": "When a monster moves into an empty space adjacent to you, exhaust this card to interrupt that monster's activation and perform an attack with a Melee weapon. After this attack is resolved, if the monster was not defeated, it may continue its activation.",
+    "fatigue cost": "2",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/knight/bg-guard.png",
     "xws": "guard"
@@ -569,6 +974,11 @@
   {
     "name": "inspiration",
     "points": 81,
+    "archetype": "Warrior",
+    "class": "Knight",
+    "xp cost": 3,
+    "rules": "At the start of your turn, if you are adjacent to at least one other hero, you and each other hero adjacent to you recover 1 Fatigue.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/knight/bg-inspiration.png",
     "xws": "inspiration"
@@ -576,6 +986,11 @@
   {
     "name": "knight-back",
     "points": 82,
+    "archetype": "Warrior",
+    "class": "Knight",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/knight/bg-knight-back.png",
     "xws": "knightback"
@@ -583,6 +998,11 @@
   {
     "name": "oath of honor",
     "points": 83,
+    "archetype": "Warrior",
+    "class": "Knight",
+    "xp cost": 0,
+    "rules": "Action: Choose another hero within 3 spaces of you who has a monster adjacent to him. Place your hero figure in the closest empty space adjacent to the monster and perform an attack with a Melee weapon against that monster.",
+    "fatigue cost": "1",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/knight/bg-oath-of-honor.png",
     "xws": "oathofhonor"
@@ -590,6 +1010,11 @@
   {
     "name": "shield slam",
     "points": 84,
+    "archetype": "Warrior",
+    "class": "Knight",
+    "xp cost": 2,
+    "rules": "While you have a Shield equipped (even if exhausted), each of your attacks with a Melee weapon gain: Surge: Choose a monster adjacent top you. That monster is Stunned.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/knight/bg-shield-slam.png",
     "xws": "shieldslam"
@@ -597,6 +1022,11 @@
   {
     "name": "stalwart",
     "points": 85,
+    "archetype": "Warrior",
+    "class": "Knight",
+    "xp cost": 3,
+    "rules": "You gain +2 Health. When you are defeated, you may immediately move up to your Speed and perform an attack with a Melee weapon. After the attack is resolved, you are knocked out.",
+    "fatigue cost": "0",
     "expansion": "base game",
     "image": "class-skills/d2e/base-game/warriors/knight/bg-stalwart.png",
     "xws": "stalwart"
@@ -604,6 +1034,11 @@
   {
     "name": "apothecary-back",
     "points": 86,
+    "archetype": "Healer",
+    "class": "Apothecary",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/healers/apothecary/lr-apothecary-back.png",
     "xws": "apothecaryback"
@@ -611,6 +1046,11 @@
   {
     "name": "bottled courage",
     "points": 87,
+    "archetype": "Healer",
+    "class": "Apothecary",
+    "xp cost": 2,
+    "rules": "Exhaust this card during your turn to perform an attack. This attack does not require an action. If you deal at least 1 Heart (after rolling defense dice), choose yourself or an adjacent hero to gain 1 elixir token.",
+    "fatigue cost": "2",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/healers/apothecary/lr-bottled-courage.png",
     "xws": "bottledcourage"
@@ -618,6 +1058,11 @@
   {
     "name": "brew elixir",
     "points": 88,
+    "archetype": "Healer",
+    "class": "Apothecary",
+    "xp cost": 0,
+    "rules": "Exhaust this card during your turn. Choose yourself or an adjacent hero to gain 1 elixir token. Once during his turn, a hero may discard 1 elixir token to roll 1 red power die and recover Hearts equal to the Hearts rolled.",
+    "fatigue cost": "1",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/healers/apothecary/lr-brew-elixir.png",
     "xws": "brewelixir"
@@ -625,6 +1070,11 @@
   {
     "name": "concoction",
     "points": 89,
+    "archetype": "Healer",
+    "class": "Apothecary",
+    "xp cost": 1,
+    "rules": "Action: Perform an attack. If you have at least 1 elixir token, add 1 Surge to the results. This attack gains: Pierce 1. Surge: +1 Heart.",
+    "fatigue cost": "1",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/healers/apothecary/lr-concoction.png",
     "xws": "concoction"
@@ -632,6 +1082,11 @@
   {
     "name": "herbal lore",
     "points": 90,
+    "archetype": "Healer",
+    "class": "Apothecary",
+    "xp cost": 1,
+    "rules": "Exhaust this card when a hero discards 1 elixir token. In addition to any other effect from the discarded elixir token, the hero may also discard 1 of his Condition cards.",
+    "fatigue cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/healers/apothecary/lr-herbal-lore.png",
     "xws": "herballore"
@@ -639,6 +1094,11 @@
   {
     "name": "hidden stash",
     "points": 91,
+    "archetype": "Healer",
+    "class": "Apothecary",
+    "xp cost": 3,
+    "rules": "Action: Exhaust this card. You and each adjacent hero gain 1 elixir token.",
+    "fatigue cost": "2",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/healers/apothecary/lr-hidden-stash.png",
     "xws": "hiddenstash"
@@ -646,6 +1106,11 @@
   {
     "name": "inky substance",
     "points": 92,
+    "archetype": "Healer",
+    "class": "Apothecary",
+    "xp cost": 1,
+    "rules": "Exhaust this card to choose 1 monster within 3 spaces of you and place an elixir token on it. A hero targeting that monster with an attack may discard the elixir token, before his attack roll, to add 1 additional green power die to his attack pool.",
+    "fatigue cost": "1",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/healers/apothecary/lr-inky-substance.png",
     "xws": "inkysubstance"
@@ -653,6 +1118,11 @@
   {
     "name": "potent remedies",
     "points": 93,
+    "archetype": "Healer",
+    "class": "Apothecary",
+    "xp cost": 3,
+    "rules": "When a hero discards an elixir token, he may roll 1 additional green power die and recover Fatigue equal to the Surges rolled, in addition to any Hearts recovered (even if this card is exhausted). You may exhaust this card to revive an adjacent hero without using an action.",
+    "fatigue cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/healers/apothecary/lr-potent-remedies.png",
     "xws": "potentremedies"
@@ -660,6 +1130,11 @@
   {
     "name": "potent remedies",
     "points": 94,
+    "archetype": "Healer",
+    "class": "Apothecary",
+    "xp cost": 3,
+    "rules": "When a hero discards an elixir token from his Hero sheet, he may roll 1 additional green power die and recover Fatigue equal to the Surges rolled, in addition to any Hearts recovered (even if this card is exhausted). You may exhaust this card to revive an adjacent hero without using an action.",
+    "fatigue cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/healers/apothecary/lr-potent-remedies-errata.png",
     "xws": "potentremedies"
@@ -667,6 +1142,11 @@
   {
     "name": "protective tonic",
     "points": 95,
+    "archetype": "Healer",
+    "class": "Apothecary",
+    "xp cost": 2,
+    "rules": "Exhaust this card immediately after a hero discards an elixir token to place 1 of his hero tokens on this card. A hero may discard 1 of his hero tokens from this card, before rolling defense dice, to add 1 gray die to his defense pool.",
+    "fatigue cost": "1",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/healers/apothecary/lr-protective-tonic.png",
     "xws": "protectivetonic"
@@ -674,6 +1154,11 @@
   {
     "name": "secret formula",
     "points": 96,
+    "archetype": "Healer",
+    "class": "Apothecary",
+    "xp cost": 2,
+    "rules": "You gain +2 Health, even while this card is exhausted. Exhaust this card when a hero with an elixir token declares the target for an attack. He may add 1 additional green power die to his attack pool and the attack gains: Surge: +2 Hearts.",
+    "fatigue cost": "1",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/healers/apothecary/lr-secret-formula.png",
     "xws": "secretformula"
@@ -681,6 +1166,11 @@
   {
     "name": "accursed arms",
     "points": 97,
+    "archetype": "Mage",
+    "class": "Hexer",
+    "xp cost": 3,
+    "rules": "Exhaust this card during your turn to choose 1 hero adjacent to a hexed monster. The chosen hero may immediately perform 1 attack targeting a hexed monster.",
+    "fatigue cost": "2",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/mages/hexer/lr-accursed-arms.png",
     "xws": "accursedarms"
@@ -688,6 +1178,11 @@
   {
     "name": "affliction",
     "points": 98,
+    "archetype": "Mage",
+    "class": "Hexer",
+    "xp cost": 1,
+    "rules": "Exhaust this card when a hexed monster declares a move action and discard 1 hex token from that monster. That monster immediately suffers 1 Heart. In addition, that monster suffers 1 additional Heart for each space it moves during its activation.",
+    "fatigue cost": "1",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/mages/hexer/lr-affliction.png",
     "xws": "affliction"
@@ -695,6 +1190,11 @@
   {
     "name": "crippling curse",
     "points": 99,
+    "archetype": "Mage",
+    "class": "Hexer",
+    "xp cost": 2,
+    "rules": "Action: Exhaust this card to choose any number of hexed monsters. For each monster chosen, test Knowledge. For each test you pass, you may choose 1 condition for the corresponding monster to suffer.",
+    "fatigue cost": "2",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/mages/hexer/lr-crippling-curse.png",
     "xws": "cripplingcurse"
@@ -702,6 +1202,11 @@
   {
     "name": "enfeebling hex",
     "points": 100,
+    "archetype": "Mage",
+    "class": "Hexer",
+    "xp cost": 0,
+    "rules": "While you have a Magic weapon equipped, each of your attacks gains: Surge: Hex 1 monster within 3 spaces of your target. When performing an attack targeting a hexed monster, a hero may discard any number of hex tokens before spending Surges. The attack gains +1 Heart for each hex token discarded.",
+    "fatigue cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/mages/hexer/lr-enfeebling-hex.png",
     "xws": "enfeeblinghex"
@@ -709,6 +1214,11 @@
   {
     "name": "fel command",
     "points": 101,
+    "archetype": "Mage",
+    "class": "Hexer",
+    "xp cost": 2,
+    "rules": "Exhaust this card when the overlord chooses a hexed monster to activate. Discard 1 hex token from that monster to immediately perform an attack with it. You make all choices during the attack. After the attack is resolved, the monster activates as normal.",
+    "fatigue cost": "2",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/mages/hexer/lr-fel-command.png",
     "xws": "felcommand"
@@ -716,6 +1226,11 @@
   {
     "name": "hexer-back",
     "points": 102,
+    "archetype": "Mage",
+    "class": "Hexer",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/mages/hexer/lr-hexer-back.png",
     "xws": "hexerback"
@@ -723,6 +1238,11 @@
   {
     "name": "internal rot",
     "points": 103,
+    "archetype": "Mage",
+    "class": "Hexer",
+    "xp cost": 2,
+    "rules": "Each time a monster becomes hexed, you may place 1 additional hex token on that monster. Each of your attacks with a Magic weapon targeting a hexed monster gains Pierce 2.",
+    "fatigue cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/mages/hexer/lr-internal-rot.png",
     "xws": "internalrot"
@@ -730,6 +1250,11 @@
   {
     "name": "plague cloud",
     "points": 104,
+    "archetype": "Mage",
+    "class": "Hexer",
+    "xp cost": 3,
+    "rules": "Action: Perform an attack with a Magic weapon. This attack targets each hexed monster in your line of sight and ignores range. Each figure rolls defense dice separately. Before rolling dice for the attack, each monster adjacent to a target monster is hexed.",
+    "fatigue cost": "3",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/mages/hexer/lr-plague-cloud.png",
     "xws": "plaguecloud"
@@ -737,6 +1262,11 @@
   {
     "name": "plague spasm",
     "points": 105,
+    "archetype": "Mage",
+    "class": "Hexer",
+    "xp cost": 1,
+    "rules": "Exhaust this card when a hexed monster declares an attack, before dice are rolled, and discard 1 hex token from that monster.The target of its attack may add 1 black die to his defense pool.",
+    "fatigue cost": "1",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/mages/hexer/lr-plague-spasm.png",
     "xws": "plaguespasm"
@@ -744,6 +1274,11 @@
   {
     "name": "viral hex",
     "points": 106,
+    "archetype": "Mage",
+    "class": "Hexer",
+    "xp cost": 1,
+    "rules": "Exhaust this card during your turn to take a number of hex tokens equal to the number of hexed monsters within 3 spaces of you. You may place each hex token on a monster of your choice within 3 spaces of you.",
+    "fatigue cost": "1",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/mages/hexer/lr-viral-hex.png",
     "xws": "viralhex"
@@ -751,6 +1286,11 @@
   {
     "name": "delver",
     "points": 107,
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "xp cost": 0,
+    "rules": "If you are not adjacent to any other hero, each of your attacks gains +1 Heart. Each time you would draw a Search card, instead draw 2 and choose 1 to keep. Then place the other Search card either on the top or the bottom of the Search deck.",
+    "fatigue cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/scouts/treasure-hunter/lr-delver.png",
     "xws": "delver"
@@ -758,6 +1298,11 @@
   {
     "name": "dungeoneer",
     "points": 108,
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "xp cost": 1,
+    "rules": "Action: Exhaust this card to perform a search action. While this card is exhausted, you may perform 1 attack during your turn without using an action.",
+    "fatigue cost": "1",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/scouts/treasure-hunter/lr-dungeoneer.png",
     "xws": "dungeoneer"
@@ -765,6 +1310,11 @@
   {
     "name": "finder's keeper's",
     "points": 109,
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "xp cost": 3,
+    "rules": "Action: Perform an attack with an Exotic weapon, adding 1 additional green power die to your attack pool. This attack gains: Surge: +1 Heart for each Search card you have (facedown or faceup), up to a maximum of +4 Hearts.",
+    "fatigue cost": "1",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/scouts/treasure-hunter/lr-finders-keepers.png",
     "xws": "finderskeepers"
@@ -772,6 +1322,11 @@
   {
     "name": "gold rush",
     "points": 110,
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "xp cost": 1,
+    "rules": "Exhaust this card during your turn immediately after performing a search action to gain movement points equal to the number of Search cards you have (facedown or faceup), up to a maximum of 5. While this card is exhausted, you may move through enemy figures.",
+    "fatigue cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/scouts/treasure-hunter/lr-gold-rush.png",
     "xws": "goldrush"
@@ -779,6 +1334,11 @@
   {
     "name": "guard the spoils",
     "points": 111,
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "xp cost": 2,
+    "rules": "Exhaust this card when you are targeted by an attack, before dice are rolled. Add the following dice to your defense pool, depending on how many Search cards you have: 0-1 Search cards: 1 brown, 2 Search cards: 1 gray, 3+ Search cards: 1 black.",
+    "fatigue cost": "1",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/scouts/treasure-hunter/lr-guard-the-spoils.png",
     "xws": "guardthespoils"
@@ -786,6 +1346,11 @@
   {
     "name": "lure of fortune",
     "points": 112,
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "xp cost": 2,
+    "rules": "Each time you perform a search action, you recover 1 Heart and 1 Fatigue. Additionally, each time you defeat a monster you may move the top card of the Search deck to the bottom of the deck without looking at it.",
+    "fatigue cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/scouts/treasure-hunter/lr-lure-of-fortune.png",
     "xws": "lureoffortune"
@@ -793,6 +1358,11 @@
   {
     "name": "sleight of hand",
     "points": 113,
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "xp cost": 2,
+    "rules": "While you have an Exotic or Bow weapon equipped, each of your attacks gains Pierce 2 (even while this card is exhausted). When another hero draws a Search card, exhaust this card to allow him to immediately give the Search card to you.",
+    "fatigue cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/scouts/treasure-hunter/lr-sleight-of-hand.png",
     "xws": "sleightofhand"
@@ -800,6 +1370,11 @@
   {
     "name": "survey",
     "points": 114,
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "xp cost": 1,
+    "rules": "You gain +1 Stamina, even while this card is exhausted. Exhaust this card during your turn to look at the top 3 cards of the Search deck. You may return the cards to the top of the Search deck in any order you choose.",
+    "fatigue cost": "1",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/scouts/treasure-hunter/lr-survey.png",
     "xws": "survey"
@@ -807,6 +1382,11 @@
   {
     "name": "trail of riches",
     "points": 115,
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "xp cost": 3,
+    "rules": "If you have 2 or more Search cards in front of you (facedown or faceup), you may exhaust this card to search a search token within 3 spaces of you without using an action.",
+    "fatigue cost": "1",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/scouts/treasure-hunter/lr-trail-of-riches.png",
     "xws": "trailofriches"
@@ -814,6 +1394,11 @@
   {
     "name": "treasure-hunter-back",
     "points": 116,
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/scouts/treasure-hunter/lr-treasure-hunter-back.png",
     "xws": "treasurehunterback"
@@ -821,6 +1406,11 @@
   {
     "name": "beastmaster-back",
     "points": 117,
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-beastmaster-back.png",
     "xws": "beastmasterback"
@@ -828,6 +1418,11 @@
   {
     "name": "bestial rage",
     "points": 118,
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "xp cost": 1,
+    "rules": "Action: Perform an attack. If you are adjacent to your Wolf, you may reroll 1 attack die. This attack gains: Surge: Roll 1 red power die and add the Hearts rolled to your attack results.",
+    "fatigue cost": "2",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-bestial-rage.png",
     "xws": "bestialrage"
@@ -835,6 +1430,11 @@
   {
     "name": "bound by the hunt",
     "points": 119,
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "xp cost": 0,
+    "rules": "Action: Place your Wolf familiar token in an empty space adjacent to you. You may only control 1 wolf at a time. You may discard your Wolf familiar token at any time during your turn.",
+    "fatigue cost": "1",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-bound-by-the-hunt.png",
     "xws": "boundbythehunt"
@@ -842,6 +1442,11 @@
   {
     "name": "changing skins",
     "points": 120,
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "xp cost": 3,
+    "rules": "Action: Exhaust this card to perform an attack as if you occupied your Wolf's space. While this card is exhausted, each attack you or your Wolf performs gains: Surge: Pierce 2. Surge Surge: +5 Hearts.",
+    "fatigue cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-changing-skins.png",
     "xws": "changingskins"
@@ -849,6 +1454,11 @@
   {
     "name": "feral frenzy",
     "points": 121,
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "xp cost": 2,
+    "rules": "Action: Exhaust this card to perform an attack. After resolving your attack, your Wolf may immediately perform an attack. While this card is exhausted, each hero attacking a monster adjacent to you or your Wolf may add 1 green power die to his attack pool.",
+    "fatigue cost": "2",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-feral-frenzy.png",
     "xws": "feralfrenzy"
@@ -856,6 +1466,11 @@
   {
     "name": "predator",
     "points": 122,
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "xp cost": 3,
+    "rules": "You and your Wolf each gain +4 Health. Whenever you stand up or are revived by another hero, you recover 2 additional Hearts. Your Wolf's attacks gain: Surge: +1 Heart. Surge: You recover 1 Fatigue.",
+    "fatigue cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-predator.png",
     "xws": "predator"
@@ -863,6 +1478,11 @@
   {
     "name": "savagery",
     "points": 123,
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "xp cost": 2,
+    "rules": "Each time a hero performs an attack that targets a monster adjacent to your Wolf, he may add 1 additional green power die to hist attack pool. Each time your Wolf performs an attack that targets a monster adjacent to a hero figure, your Wolf may add 1 additional green power die to its attack pool.",
+    "fatigue cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-savagery.png",
     "xws": "savagery"
@@ -870,6 +1490,11 @@
   {
     "name": "shadow hunter",
     "points": 124,
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "xp cost": 2,
+    "rules": "Your wolf adds 1 additional gray die to its defense pool. Before activating your Wolf, you may choose to perform an attack with it, rolling the dice shown below. Then your Wolf is defeated. Melee: Red Red Green Green.",
+    "fatigue cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-shadow-hunter.png",
     "xws": "shadowhunter"
@@ -877,6 +1502,11 @@
   {
     "name": "stalker",
     "points": 125,
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "xp cost": 1,
+    "rules": "Immediately after declaring the target of your attack, you may move your Wolf 1 space. Additionally, a monster cannot declare your Wolf as the target of an attack if it could legally target a hero figure instead.",
+    "fatigue cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-stalker.png",
     "xws": "stalker"
@@ -884,6 +1514,11 @@
   {
     "name": "survivalist",
     "points": 126,
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "xp cost": 1,
+    "rules": "You gain +2 Health. Each hero adjacent to your Wolf adds 1 additional brown die to his defense pool. While your Wolf is adjacent to a hero, your wolf adds 1 additional brown die to its defense pool.",
+    "fatigue cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "class-skills/d2e/labyrinth-of-ruin/warriors/beastmaster/lr-survivalist.png",
     "xws": "survivalist"
@@ -891,6 +1526,11 @@
   {
     "name": "cataclysm",
     "points": 127,
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "xp cost": 3,
+    "rules": "Action: Exhaust this card. For each Summoned Stone on the map, perform 1 attack with a Magic weapon, measuring range and line of sight from a space containing a Summoned Stone. After resolving each attack, remove the Summoned Stone from the map.",
+    "fatigue cost": "2",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/mages/geomancer/lw-cataclysm.png",
     "xws": "cataclysm"
@@ -898,6 +1538,11 @@
   {
     "name": "earthen anguish",
     "points": 128,
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "xp cost": 1,
+    "rules": "Action: Exhaust this card to perform an attack with a Magic weapon targeting a space containing a Summoned Stone (ignoring range and line of sight). This attack gains Blast. After the attack is resolved, the Summoned Stone is defeated.",
+    "fatigue cost": "1",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/mages/geomancer/lw-earthen-anguish.png",
     "xws": "earthenanguish"
@@ -905,6 +1550,11 @@
   {
     "name": "geomancer-back",
     "points": 129,
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/mages/geomancer/lw-geomancer-back.png",
     "xws": "geomancerback"
@@ -912,6 +1562,11 @@
   {
     "name": "gravity spike",
     "points": 130,
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "xp cost": 3,
+    "rules": "Action: Exhaust this card to choose a monster group. Move each figure of that monster group up to 2 spaces toward a Summoned Stone. Each monster figure that ends this movement adjacent to a Summoned Stone suffers 1 Heart.",
+    "fatigue cost": "2",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/mages/geomancer/lw-gravity-spike.png",
     "xws": "gravityspike"
@@ -919,6 +1574,11 @@
   {
     "name": "ley line",
     "points": 131,
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "xp cost": 2,
+    "rules": "You may have 1 additional Summoned Stone on the map at a time. While you are within 3 spaces of any 2 Summoned Stones on the map, you may exhaust this card before any dice are rolled to either add 1 Shield to your defense results or 1 Surge to your attack results.",
+    "fatigue cost": "0",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/mages/geomancer/lw-ley-line.png",
     "xws": "leyline"
@@ -926,6 +1586,11 @@
   {
     "name": "molten fury",
     "points": 132,
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "xp cost": 2,
+    "rules": "Action: Perform an attack with a Magic weapon, measuring range and line of sight from a space containing a Summoned Stone. This attack gains: Burn. Surge: Blast.",
+    "fatigue cost": "2",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/mages/geomancer/lw-molten-fury.png",
     "xws": "moltenfury"
@@ -933,6 +1598,11 @@
   {
     "name": "quaking word",
     "points": 133,
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "xp cost": 1,
+    "rules": "Action: Perform an attack with a Magic weapon. This attack gain: Surge: Each monster figure within 2 spaces of a Summoned Stone tests Awareness. Each figure that fails is Stunned.",
+    "fatigue cost": "2",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/mages/geomancer/lw-quaking-word.png",
     "xws": "quakingword"
@@ -940,6 +1610,11 @@
   {
     "name": "quaking word",
     "points": 134,
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "xp cost": 1,
+    "rules": "Action: Perform an attack with a Magic weapon. This attack gains: Surge: Each monster within 2 spaces of a Summoned Stone tests Awareness. Each figure that fails is Stunned.",
+    "fatigue cost": "2",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/mages/geomancer/lw-quaking-word-errata.png",
     "xws": "quakingword"
@@ -947,6 +1622,11 @@
   {
     "name": "stone tongue",
     "points": 135,
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "xp cost": 1,
+    "rules": "You may have 1 additional Summoned Stone on the map at a time. Your Summoned Stones now have a Speed of 3. In addition, each of your Summoned Stones adds 1 additional gray die to its defense pool.",
+    "fatigue cost": "0",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/mages/geomancer/lw-stone-tongue.png",
     "xws": "stonetongue"
@@ -954,6 +1634,11 @@
   {
     "name": "terracall",
     "points": 136,
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "xp cost": 0,
+    "rules": "Action: Exhaust this card to place a Summoned Stone in an empty space within 3 spaces of you. While this card is exhausted, 1 of your Summoned Stones may perform an attack during its activation (using 1 of your equipped Magic weapons).",
+    "fatigue cost": "0",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/mages/geomancer/lw-terracall.png",
     "xws": "terracall"
@@ -961,6 +1646,11 @@
   {
     "name": "ways of stone",
     "points": 137,
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "xp cost": 2,
+    "rules": "Action: Exhaust this card to remove your figure from the map and place it in an empty space adjacent to a Summoned Stone. While this card is exhausted, each of your Summoned Stones may add 1 additional gray die to its defense pool.",
+    "fatigue cost": "2",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/mages/geomancer/lw-ways-of-stone.png",
     "xws": "waysofstone"
@@ -968,6 +1658,11 @@
   {
     "name": "a living legend",
     "points": 138,
+    "archetype": "Warrior",
+    "class": "Champion",
+    "xp cost": 1,
+    "rules": "Exhaust this card when you would suffer any amount of Hearts (from any source). You may spend up to 3 valor to reduce the Hearts suffered by 1 for each valor spent.",
+    "fatigue cost": "1",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/warriors/champion/lw-a-living-legend.png",
     "xws": "alivinglegend"
@@ -975,6 +1670,11 @@
   {
     "name": "champion-back",
     "points": 139,
+    "archetype": "Warrior",
+    "class": "Champion",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/warriors/champion/lw-champion-back.png",
     "xws": "championback"
@@ -982,6 +1682,11 @@
   {
     "name": "for the cause",
     "points": 140,
+    "archetype": "Warrior",
+    "class": "Champion",
+    "xp cost": 3,
+    "rules": "Add 1 brown die to your defense pool (even if this card is exhausted). Exhaust this card when a monster declares an attack targeting you or a hero adjacent to you and spend any number of valor. For each valor spent, add 1 gray die to the target hero's defense pool.",
+    "fatigue cost": "1",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/warriors/champion/lw-for-the-cause.png",
     "xws": "forthecause"
@@ -989,6 +1694,11 @@
   {
     "name": "glory of battle",
     "points": 141,
+    "archetype": "Warrior",
+    "class": "Champion",
+    "xp cost": 1,
+    "rules": "Each time you defeat a monster, each other hero within 3 spaces of you gains 1 valor. Before rolling his defense dice, a hero may spend 1 valor to add 1 Shield to his defense results (limit once per defense roll).",
+    "fatigue cost": "0",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/warriors/champion/lw-glory-of-battle.png",
     "xws": "gloryofbattle"
@@ -996,6 +1706,11 @@
   {
     "name": "inspiring presence",
     "points": 142,
+    "archetype": "Warrior",
+    "class": "Champion",
+    "xp cost": 1,
+    "rules": "Each time a hero within 3 spaces of you (including yourself) performs an attack, his attack gains: Surge: Gain 1 valor. In addition, you may spend 1 valor to allow a hero within 3 spaces of you to reroll a failed Willpower test (once per WIllpower test).",
+    "fatigue cost": "0",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/warriors/champion/lw-inspiring-presence.png",
     "xws": "inspiringpresence"
@@ -1003,6 +1718,11 @@
   {
     "name": "motivating charge",
     "points": 143,
+    "archetype": "Warrior",
+    "class": "Champion",
+    "xp cost": 2,
+    "rules": "Action: Exhaust this card to move up to your Speed and perform an attack with a Melee weapon. If this attack defeats a monster, each hero within 3 spaces of you (including yourself) may either gain 1 valor or recover 1 Fatigue.",
+    "fatigue cost": "2",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/warriors/champion/lw-motivating-charge.png",
     "xws": "motivatingcharge"
@@ -1010,6 +1730,11 @@
   {
     "name": "no mercy",
     "points": 144,
+    "archetype": "Warrior",
+    "class": "Champion",
+    "xp cost": 2,
+    "rules": "After the overlord completes a monster group's activation, a hero within 3 spaces of you (including yourself) may spend 2 valor to exhaust this card and immediately perform an attack.",
+    "fatigue cost": "0",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/warriors/champion/lw-no-mercy.png",
     "xws": "nomercy"
@@ -1017,6 +1742,11 @@
   {
     "name": "stoic resolve",
     "points": 145,
+    "archetype": "Warrior",
+    "class": "Champion",
+    "xp cost": 2,
+    "rules": "Each time you or a hero within 3 spaces of you spends any number of valor, you or 1 hero adjacent to you may recover 1 Fatigue.",
+    "fatigue cost": "0",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/warriors/champion/lw-stoic-resolve.png",
     "xws": "stoicresolve"
@@ -1024,6 +1754,11 @@
   {
     "name": "valor of heroes",
     "points": 146,
+    "archetype": "Warrior",
+    "class": "Champion",
+    "xp cost": 0,
+    "rules": "Each time you defeat a monster with an attack with a Melee weapon, gain 1 valor. Before rolling his attack dice, a hero may spend 1 valor to add 1 Heart to his attack results (limit once per attack).",
+    "fatigue cost": "0",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/warriors/champion/lw-valor-of-heroes.png",
     "xws": "valorofheroes"
@@ -1031,6 +1766,11 @@
   {
     "name": "valorous strike",
     "points": 147,
+    "archetype": "Warrior",
+    "class": "Champion",
+    "xp cost": 3,
+    "rules": "Each time you gain valor you may instead place a damage token on this card. After one of your attacks with a Melee weapon deals at least 1 Heart (after rolling defense dice), you may exhaust this card to deal +1 Heart for each damage token on this card. Then, discard all damage tokens from this card.",
+    "fatigue cost": "0",
     "expansion": "lair of the wyrm",
     "image": "class-skills/d2e/lair-of-the-wyrm/warriors/champion/lw-valorous-strike.png",
     "xws": "valorousstrike"
@@ -1038,6 +1778,11 @@
   {
     "name": "blight extraction",
     "points": 148,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "xp cost": 1,
+    "rules": "Each time you use Stream of Life, the chosen hero may also discard 1 Condition. If they do, you may gain that Condition and place 2 damage tokens on Essence Harvest.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/healers/soul-reaper/ll-blight-extraction.png",
     "xws": "blightextraction"
@@ -1045,6 +1790,11 @@
   {
     "name": "blight extraction",
     "points": 149,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "xp cost": 1,
+    "rules": "Each time you use Stream of Life, the chosen hero may also discard 1 Condition. If another hero discards a Condition from this effect, you may gain that Condition and place 2 damage tokens on Essence Harvest.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/healers/soul-reaper/ll-blight-extraction-errata.png",
     "xws": "blightextraction"
@@ -1052,6 +1802,11 @@
   {
     "name": "cursed soul",
     "points": 150,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "xp cost": 2,
+    "rules": "Exhaust this card during your turn and discard 2 essence to choose a monster within 3 spaces of you. Until you refresh this card, each attack that targets that monster deals +1 Heart. Place one of your hero tokens near that monster as a reminder.",
+    "fatigue cost": "1",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/healers/soul-reaper/ll-cursed-soul.png",
     "xws": "cursedsoul"
@@ -1059,6 +1814,11 @@
   {
     "name": "essence harvest",
     "points": 151,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "xp cost": 0,
+    "rules": "When any monster is defeated, place one damage token on this card. Damage tokens on this card are essence. If you are defeated, discard all essence on this card.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/healers/soul-reaper/ll-essence-harvest.png",
     "xws": "essenceharvest"
@@ -1066,6 +1826,11 @@
   {
     "name": "ethereal armor",
     "points": 152,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "xp cost": 2,
+    "rules": "Exhaust this card during your turn to choose yourself or an adjacent hero. Place that hero's token on this card as a reminder. Until this card is refreshed, each time that hero is affected by an attack, add 1 Shield to the defense results and place 1 damage token on Essence Harvest.",
+    "fatigue cost": "1",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/healers/soul-reaper/ll-ethereal-armor.png",
     "xws": "etherealarmor"
@@ -1073,6 +1838,11 @@
   {
     "name": "font of vitality",
     "points": 153,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "xp cost": 3,
+    "rules": "Each time you use Stream of Life or Spirit Link, each hero who recovers Hearts recovers 1 additional Heart. When another hero within 3 spaces of you performs a rest action, place 2 damage tokens on Essence Harvest.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/healers/soul-reaper/ll-font-of-vitality.png",
     "xws": "fontofvitality"
@@ -1080,6 +1850,11 @@
   {
     "name": "galvanize",
     "points": 154,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "xp cost": 2,
+    "rules": "When you use Stream of Life, the chosen hero may place one of their hero tokens on this card. A hero may discard their hero token from this card to do 1 of the following: -Reroll any 1 die -Move up to 2 spaces and recover 1 Heart during their turn.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/healers/soul-reaper/ll-galvanize.png",
     "xws": "galvanize"
@@ -1087,6 +1862,11 @@
   {
     "name": "reaper's pact",
     "points": 155,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "xp cost": 3,
+    "rules": "When you use Stream of Life, you may spend 2 additional essence to choose 1 additional hero. When you use Stream of Life, you may spend 1 additional essence to have each chosen hero recover 1 Fatigue.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/healers/soul-reaper/ll-reapers-pact.png",
     "xws": "reaperspact"
@@ -1094,6 +1874,11 @@
   {
     "name": "soul-reaper-back",
     "points": 156,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/healers/soul-reaper/ll-soul-reaper-back.png",
     "xws": "soulreaperback"
@@ -1101,6 +1886,11 @@
   {
     "name": "spirit link",
     "points": 157,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "xp cost": 1,
+    "rules": "At the start of each encounter, place 4 damage tokens on Essence Harvest. Exhaust this card when another hero within 3 spaces of you would be knocked out. Discard any amount of essence. That hero recovers an equal amount of Hearts instead.",
+    "fatigue cost": "2",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/healers/soul-reaper/ll-spirit-link.png",
     "xws": "spiritlink"
@@ -1108,6 +1898,11 @@
   {
     "name": "stream of life",
     "points": 158,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "xp cost": 0,
+    "rules": "Exhaust this card during your turn and discard up to 4 essence. Then choose a hero within 3 spaces of you to recover an equal amount of Hearts.",
+    "fatigue cost": "1",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/healers/soul-reaper/ll-stream-of-life.png",
     "xws": "streamoflife"
@@ -1115,6 +1910,11 @@
   {
     "name": "unholy bond",
     "points": 159,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "xp cost": 1,
+    "rules": "Each time a monster within 3 spaces performs an attack, you may spend 1 essence to reroll 1 attack or power die.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/healers/soul-reaper/ll-unholy-bond-errata.png",
     "xws": "unholybond"
@@ -1122,6 +1922,11 @@
   {
     "name": "unholy bond",
     "points": 160,
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "xp cost": 1,
+    "rules": "Each time a monster within 3 spaces performs an attack, you may spend 1 essence to force the monster to reroll 1 attack or power die.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/healers/soul-reaper/ll-unholy-bond.png",
     "xws": "unholybond"
@@ -1129,6 +1934,11 @@
   {
     "name": "blaze",
     "points": 161,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 9,
+    "rules": "Exhaust this card when you perform an attack, after dice are rolled. This attack gains Pierce X, where X is equal to the number of exhausted Elemental cards.",
+    "fatigue cost": "1",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-blaze.png",
     "xws": "blaze"
@@ -1136,6 +1946,11 @@
   {
     "name": "earth and sky",
     "points": 162,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 1,
+    "rules": "When you use Gust or Grasp, you may choose a figure that is 5 spaces away instead of 3. When you purchase this card, gain an additional Elemental skill.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-earth-and-sky.png",
     "xws": "earthandsky"
@@ -1143,6 +1958,11 @@
   {
     "name": "elemental focus",
     "points": 163,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 0,
+    "rules": "When you gain this card, choose 2 Elemental cards and immediately gain them. Elemental cards are class cards that have an Elemental symbol in place of an XP cost.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-elemental-focus.png",
     "xws": "elementalfocus"
@@ -1150,6 +1970,11 @@
   {
     "name": "elementalist-back",
     "points": 164,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-elementalist-back.png",
     "xws": "elementalistback"
@@ -1157,6 +1982,11 @@
   {
     "name": "grasp",
     "points": 165,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 9,
+    "rules": "Exhaust this card during your turn to choose a non-lieutenant monster within 3 spaces of you. If the number of exhausted Elemental cards is equal to or greater than the number of spaces that monster occupies, it is Stunned.",
+    "fatigue cost": "1",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-grasp.png",
     "xws": "grasp"
@@ -1164,6 +1994,11 @@
   {
     "name": "gust",
     "points": 166,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 9,
+    "rules": "Exhaust this card during your turn to choose another friendly figure within 3 spaces of you. Move that figure up to a number of spaces equal to the number of exhausted Elemental cards.",
+    "fatigue cost": "1",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-gust.png",
     "xws": "gust"
@@ -1171,6 +2006,11 @@
   {
     "name": "nature's embrace",
     "points": 167,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 3,
+    "rules": "Apply +1 to your Stamina. When you use Tide you may choose 1 additional monster. When you use Grasp, you may target a number of non-lieutenant figures equal to the number of exhausted Elemental cards.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-natures-embrace.png",
     "xws": "naturesembrace"
@@ -1178,6 +2018,11 @@
   {
     "name": "nature's embrace",
     "points": 168,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 3,
+    "rules": "Apply +1 to your Stamina. When you use Tide, you may choose 1 additional monster. When you use Grasp, you may target a number of non-lieutenant figures equal to the number of exhausted Elementalist cards.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-natures-embrace-errata.png",
     "xws": "naturesembrace"
@@ -1185,6 +2030,11 @@
   {
     "name": "nature's fury",
     "points": 169,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 3,
+    "rules": "Apply +1 to your Stamina. When you use Blaze, add 1 additional yellow power die to your attack pool during that attack. When you use Gust, you may choose yourself.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-natures-fury.png",
     "xws": "naturesfury"
@@ -1192,6 +2042,11 @@
   {
     "name": "nature's fury",
     "points": 170,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 3,
+    "rules": "Apply +1 to your Stamina. After you use Blaze, add 1 yellow power die and add the results to your attack results. When you use Gust, you may choose yourself.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-natures-fury-errata.png",
     "xws": "naturesfury"
@@ -1199,6 +2054,11 @@
   {
     "name": "primal harmony",
     "points": 171,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 1,
+    "rules": "Exhaust this card during your turn to refresh 1 of your Elemental cards.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-primal-harmony.png",
     "xws": "primalharmony"
@@ -1206,6 +2066,11 @@
   {
     "name": "spiritual balance",
     "points": 172,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 2,
+    "rules": "Exhaust this card after you exhaust an Elemental card. If there are 2 or more exhausted Elemental cards, recover 2 Fatigue.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-spiritual-balance.png",
     "xws": "spiritualbalance"
@@ -1213,6 +2078,11 @@
   {
     "name": "storm's fury",
     "points": 173,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 2,
+    "rules": "When you use Tide, you may choose a monster within 2 spaces instead of an adjacent monster. When you use Gust, you may choose 1 non-lieutenant figure instead.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-storms-fury.png",
     "xws": "stormsfury"
@@ -1220,6 +2090,11 @@
   {
     "name": "sun and sea",
     "points": 174,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 1,
+    "rules": "When you use Tide or Blaze, you may exhuast this card to reroll 1 attack or power die. When you purchase this card, gain an additional Elemental skill.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-sun-and-sea.png",
     "xws": "sunandsea"
@@ -1227,6 +2102,11 @@
   {
     "name": "sun and sea",
     "points": 175,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 1,
+    "rules": "When you use Tide or Blaze, you may exhaust this card to reroll 1 attack or power die. When you purchase this card, gain an additional Elemental skill.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-sun-and-sea-errata.png",
     "xws": "sunandsea"
@@ -1234,6 +2114,11 @@
   {
     "name": "tide",
     "points": 176,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 9,
+    "rules": "Exhaust this card after you perform an attack. A monster adjacent to the target space suffers Hearts equal to the number of exhausted Elemental cards.",
+    "fatigue cost": "1",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-tide.png",
     "xws": "tide"
@@ -1241,6 +2126,11 @@
   {
     "name": "tide",
     "points": 177,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 9,
+    "rules": "Exhaust this card when you perform an attack, after dice are rolled. A monster adjacent to the target space suffers Hearts equal to the number of exhausted Elemental cards.",
+    "fatigue cost": "1",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-tide-errata.png",
     "xws": "tide"
@@ -1248,6 +2138,11 @@
   {
     "name": "volcanic might",
     "points": 178,
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "xp cost": 2,
+    "rules": "While Grasp is exhausted, add 1 Shield to your defense results. While Blaze is exhausted, after a monster resolves an attack that targets you, that monster suffers 1 Heart.",
+    "fatigue cost": "0",
     "expansion": "lost legends",
     "image": "class-skills/d2e/lost-legends/mages/elementalist/ll-volcanic-might.png",
     "xws": "volcanicmight"
@@ -1255,6 +2150,11 @@
   {
     "name": "bounty-hunter-back",
     "points": 179,
+    "archetype": "Scout",
+    "class": "Bounty Hunter",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/scouts/bounty-hunter/mr-bounty-hunter-back.png",
     "xws": "bountyhunterback"
@@ -1262,6 +2162,11 @@
   {
     "name": "chosen target",
     "points": 180,
+    "archetype": "Scout",
+    "class": "Bounty Hunter",
+    "xp cost": 0,
+    "rules": "Exhaust this card at the start of your turn to track a monster in your line of sight. Each time you perform an attack that targets a tracked monster, that attack gains +1 Heart (even while this card is exhausted).",
+    "fatigue cost": "1",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/scouts/bounty-hunter/mr-chosen-target.png",
     "xws": "chosentarget"
@@ -1269,6 +2174,11 @@
   {
     "name": "dark iron chains",
     "points": 181,
+    "archetype": "Scout",
+    "class": "Bounty Hunter",
+    "xp cost": 2,
+    "rules": "Use this card when a tracked monster in your line of sight performs an attack, after dice are rolled: X is equal to the number of Surge results. Then, test Awareness. If you pass, that monster cannot spend Surges during that attack.",
+    "fatigue cost": "X",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/scouts/bounty-hunter/mr-dark-iron-chains.png",
     "xws": "darkironchains"
@@ -1276,6 +2186,11 @@
   {
     "name": "evil eye",
     "points": 182,
+    "archetype": "Scout",
+    "class": "Bounty Hunter",
+    "xp cost": 2,
+    "rules": "Exhaust this card at the end of your turn and choose 1 tracked monster. That monster is Doomed. Exhaust this card at the end of your turn and choose 1 Doomed monster that is tracked. That monster suffers 1 Heart.",
+    "fatigue cost": "0",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/scouts/bounty-hunter/mr-evil-eye.png",
     "xws": "evileye"
@@ -1283,6 +2198,11 @@
   {
     "name": "lie in wait",
     "points": 183,
+    "archetype": "Scout",
+    "class": "Bounty Hunter",
+    "xp cost": 1,
+    "rules": "Action: Exhaust this card. While this card is exhausted, you cannot perform actions, and you cannot move or be moved. When you refresh this card, perform an attack. This is in addition to your 2 normal actions. Add 1 additional yellow power die to your attack pool during this attack.",
+    "fatigue cost": "0",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/scouts/bounty-hunter/mr-lie-in-wait.png",
     "xws": "lieinwait"
@@ -1290,6 +2210,11 @@
   {
     "name": "longshot",
     "points": 184,
+    "archetype": "Scout",
+    "class": "Bounty Hunter",
+    "xp cost": 1,
+    "rules": "Exhaust this card when you perform an attack with a Bow weapon, before dice are rolled. If the target is 5 or more spaces away from you, that attack gains +3 Range and +1 Heart.",
+    "fatigue cost": "1",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/scouts/bounty-hunter/mr-longshot.png",
     "xws": "longshot"
@@ -1297,6 +2222,11 @@
   {
     "name": "not so fast",
     "points": 185,
+    "archetype": "Scout",
+    "class": "Bounty Hunter",
+    "xp cost": 1,
+    "rules": "Use this card when a tracked monster in your line of sight performs a move action. Reduce that monster's movement points by 1 (to a minimum of 1). You may immediately move 2 spaces.",
+    "fatigue cost": "1",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/scouts/bounty-hunter/mr-not-so-fast.png",
     "xws": "notsofast"
@@ -1304,6 +2234,11 @@
   {
     "name": "payday",
     "points": 186,
+    "archetype": "Scout",
+    "class": "Bounty Hunter",
+    "xp cost": 3,
+    "rules": "Exhaust this card after you defeat a master monster. The overlord must choose 1 search token on the map. Search that search token. Place 1 hero token on the monster's Monster card as a reminder. This card cannot be used on the same monster group twice during the same encounter.",
+    "fatigue cost": "0",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/scouts/bounty-hunter/mr-payday.png",
     "xws": "payday"
@@ -1311,6 +2246,11 @@
   {
     "name": "rapid fire",
     "points": 187,
+    "archetype": "Scout",
+    "class": "Bounty Hunter",
+    "xp cost": 3,
+    "rules": "Use this card after you use a Bow weapon to defeat a tracked monster to move up to 2 spaces. Then, choose 1 monster in your line of sight. Perform an additional attack that targets that monster. Then, if you do not defeat that monster, track that monster.",
+    "fatigue cost": "1",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/scouts/bounty-hunter/mr-rapid-fire.png",
     "xws": "rapidfire"
@@ -1318,6 +2258,11 @@
   {
     "name": "undercover",
     "points": 188,
+    "archetype": "Scout",
+    "class": "Bounty Hunter",
+    "xp cost": 2,
+    "rules": "Exhaust this card at the end of your turn if you did not perform an attack that turn. While this card is exhausted, add 1 additional gray die to your defense pool. When you refresh this card, gain 3 movement points.",
+    "fatigue cost": "0",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/scouts/bounty-hunter/mr-undercover.png",
     "xws": "undercover"
@@ -1325,6 +2270,11 @@
   {
     "name": "by the book",
     "points": 189,
+    "archetype": "Warrior",
+    "class": "Marshal",
+    "xp cost": 2,
+    "rules": "Exhaust this card when the overlord plays an Overlord card. Test KNowledge. Add Shields to the results equal to the experience cost of the Overlord card. If you pass, the overlord places that card facedown on top of his Overlord deck without resolving its effect. If you fail, suffer 1 Fatigue.",
+    "fatigue cost": "1",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/warriors/marshal/mr-by-the-book.png",
     "xws": "bythebook"
@@ -1332,6 +2282,11 @@
   {
     "name": "crushing blow",
     "points": 190,
+    "archetype": "Warrior",
+    "class": "Marshal",
+    "xp cost": 3,
+    "rules": "Exhaust this card when a monster within 2 spaces of you and in your line of sight performs an attack that deals no Hearts. Perform an attack with a Melee weapon with 2 hand icons that targets that monster. If you do, remove all defense dice from the target monster's defense pool during this attack.",
+    "fatigue cost": "0",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/warriors/marshal/mr-crushing-blow.png",
     "xws": "crushingblow"
@@ -1339,6 +2294,11 @@
   {
     "name": "i am the law",
     "points": 191,
+    "archetype": "Warrior",
+    "class": "Marshal",
+    "xp cost": 2,
+    "rules": "Exhaust this card after a monster within 2 spaces of you resolves an attack that affects you. Perform an attack that targets that monster. Then, you may test Knowledge. If you pass, suffer 1 Fatigue, and that monster gains 1 condition of your choice.",
+    "fatigue cost": "0",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/warriors/marshal/mr-i-am-the-law.png",
     "xws": "iamthelaw"
@@ -1346,6 +2306,11 @@
   {
     "name": "just reward",
     "points": 192,
+    "archetype": "Warrior",
+    "class": "Marshal",
+    "xp cost": 1,
+    "rules": "Exhaust this card when the overlord activates a monster group. While this card is exhausted, each time a monster that is in your line of sight and in that group resolves an attack that targets another hero within 3 spaces of you, you may force the overlord to discard 1 Overlord card from his hand at random after the attack.",
+    "fatigue cost": "2",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/warriors/marshal/mr-just-reward.png",
     "xws": "justreward"
@@ -1353,6 +2318,11 @@
   {
     "name": "last stand",
     "points": 193,
+    "archetype": "Warrior",
+    "class": "Marshal",
+    "xp cost": 3,
+    "rules": "Exhaust this card when a hero within 5 spaces of you is knocked out. Remove your figure from the map and place it in that hero's space. Then, you may perform an attack. When this card refreshes, you may revive 1 knocked-out hero in your space.",
+    "fatigue cost": "2",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/warriors/marshal/mr-last-stand.png",
     "xws": "laststand"
@@ -1360,6 +2330,11 @@
   {
     "name": "marshal-back",
     "points": 194,
+    "archetype": "Warrior",
+    "class": "Marshal",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/warriors/marshal/mr-marshal-back.png",
     "xws": "marshalback"
@@ -1367,6 +2342,11 @@
   {
     "name": "retribution",
     "points": 195,
+    "archetype": "Warrior",
+    "class": "Marshal",
+    "xp cost": 0,
+    "rules": "Exhaust this card after a monster within 2 spaces of you resolves an attack that affects another hero. That monster suffers 2 Hearts.",
+    "fatigue cost": "1",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/warriors/marshal/mr-retribution.png",
     "xws": "retribution"
@@ -1374,6 +2354,11 @@
   {
     "name": "shockwave",
     "points": 196,
+    "archetype": "Warrior",
+    "class": "Marshal",
+    "xp cost": 1,
+    "rules": "Exhaust this card when you perform an attack with a Melee weapon with two hand icons, before dice are rolled. If that attack deals 1 or more Hearts (after the defense roll), each monster adjacent to your target suffers 1 Heart.",
+    "fatigue cost": "1",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/warriors/marshal/mr-shockwave.png",
     "xws": "shockwave"
@@ -1381,6 +2366,11 @@
   {
     "name": "vigilant watch",
     "points": 197,
+    "archetype": "Warrior",
+    "class": "Marshal",
+    "xp cost": 2,
+    "rules": "Exhaust this card when a monster enters a space adjacent to you. While this card is exhausted, each time a monster moves out of a space within 2 spaces of you, that monster suffers 1 Heart.",
+    "fatigue cost": "1",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/warriors/marshal/mr-vigilant-watch.png",
     "xws": "vigilantwatch"
@@ -1388,6 +2378,11 @@
   {
     "name": "zealous fire",
     "points": 198,
+    "archetype": "Warrior",
+    "class": "Marshal",
+    "xp cost": 1,
+    "rules": "Exhaust this card when the overlord plays an Overlord card. Recover 1 Fatigue. When you refresh this card, choose 1 monster within 2 spaces of you. That monster suffers 1 Heart.",
+    "fatigue cost": "0",
     "expansion": "manor of ravens",
     "image": "class-skills/d2e/manor-of-ravens/warriors/marshal/mr-zealous-fire.png",
     "xws": "zealousfire"
@@ -1395,6 +2390,11 @@
   {
     "name": "embalming ritual",
     "points": 199,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "xp cost": 0,
+    "rules": "Exhaust this card during your turn to place your Bandaged Servant familiar token in an empty space within 2 spaces of you. You may control 1 Bandaged Servant at a time. You may discard your Bandaged Servant familiar token at any time during your turn.",
+    "fatigue cost": "1",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/healers/hierophant/sotp-embalming-ritual.png",
     "xws": "embalmingritual"
@@ -1402,6 +2402,11 @@
   {
     "name": "eternal service",
     "points": 200,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "xp cost": 1,
+    "rules": "Whenever you stand up or are revived, roll 2 additional yellow power dice. Action: Revive a knocked out hero adjacent to your Bandaged Servant. He rolls 2 additional yellow power dice.",
+    "fatigue cost": "1",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/healers/hierophant/sotp-eternal-service.png",
     "xws": "eternalservice"
@@ -1409,6 +2414,11 @@
   {
     "name": "gift of the desert",
     "points": 201,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "xp cost": 3,
+    "rules": "Action: Exhaust this card. Up to 2 heroes adjacent to your Bandaged Servant may each perform an action. This action cannot be a rest action.",
+    "fatigue cost": "2",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/healers/hierophant/sotp-gift-of-the-desert.png",
     "xws": "giftofthedesert"
@@ -1416,6 +2426,11 @@
   {
     "name": "hierophant-back",
     "points": 202,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/healers/hierophant/sotp-hierophant-back.png",
     "xws": "hierophantback"
@@ -1423,6 +2438,11 @@
   {
     "name": "hymn",
     "points": 203,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "xp cost": 1,
+    "rules": "Exhaust this card during your turn. A hero adjacent to your Bandaged Servant recovers 2 Fatigue.",
+    "fatigue cost": "1",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/healers/hierophant/sotp-hymn.png",
     "xws": "hymn"
@@ -1430,6 +2450,11 @@
   {
     "name": "path of prophecy",
     "points": 204,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "xp cost": 1,
+    "rules": "Exhaust this card to move your Bandaged Servant up to 3 spaces. At the end of your turn, if this card is exhausted and any monster suffered 1 or more Hearts during your turn, your Bandaged Servant is defeated and you are Blinded and Stunned.",
+    "fatigue cost": "0",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/healers/hierophant/sotp-path-of-prophecy.png",
     "xws": "pathofprophecy"
@@ -1437,6 +2462,11 @@
   {
     "name": "royal guard",
     "points": 205,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "xp cost": 3,
+    "rules": "Your Bandaged Servant adds 1 grey die to its defense pool, even while this card is exhausted. Exhaust this card during your turn. Your Bandaged Servant performs a Melee attack using the dice and abilities of a weapon equipped by you or a hero adjacent to it.",
+    "fatigue cost": "2",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/healers/hierophant/sotp-royal-guard.png",
     "xws": "royalguard"
@@ -1444,6 +2474,11 @@
   {
     "name": "sands of vengeance",
     "points": 206,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "xp cost": 2,
+    "rules": "Action: Your Bandaged Servant performs an attack targeting all monsters within 2 spaces of it, rolling the dice shown below. This attack ignores line of sight and gains: Surge: +1 Heart, you recover 1 Fatigue. Surge Surge: +1 Heart, Blind. Then your Bandaged Servant is defeated. Melee ActI: Blue Yellow. Act II: Blue Yellow Green.",
+    "fatigue cost": "2",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/healers/hierophant/sotp-sands-of-vengeance.png",
     "xws": "sandsofvengeance"
@@ -1451,6 +2486,11 @@
   {
     "name": "shroud of respite",
     "points": 207,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "xp cost": 2,
+    "rules": "While this card is not exhausted, heroes adjacent to your Bandaged Servant may ignore the effects of conditions they suffer from. A hero adjacent to your Bandaged Servant may exhaust this card during his turn or activation to discard 1 Condition card or token.",
+    "fatigue cost": "0",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/healers/hierophant/sotp-shroud-of-respite.png",
     "xws": "shroudofrespite"
@@ -1458,6 +2498,11 @@
   {
     "name": "words of wisdom",
     "points": 208,
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "xp cost": 2,
+    "rules": "Heroes adjacent to your Bandaged Servant apply +1 to Might, Willpower, Knowledge, and Awareness (to a maximum of 6 each), even while this card is exhausted. A hero adjacent to your Bandaged Servant may exhaust this card after rolling dice for an attack to reroll 1 attack or power die.",
+    "fatigue cost": "0",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/healers/hierophant/sotp-words-of-wisdom.png",
     "xws": "wordsofwisdom"
@@ -1465,6 +2510,11 @@
   {
     "name": "empathetic resolve",
     "points": 209,
+    "archetype": "Mage",
+    "class": "Psychic",
+    "xp cost": 1,
+    "rules": "Apply +1 to your Willpower (to a maximum of 6), even while this card is exhausted. Exhaust this card when a linked hero fails an attribute test. He may reroll the test and subtract 1 Shield from the results.",
+    "fatigue cost": "1",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/mages/psychic/sotp-empathetic-resolve.png",
     "xws": "empatheticresolve"
@@ -1472,6 +2522,11 @@
   {
     "name": "mental assault",
     "points": 210,
+    "archetype": "Mage",
+    "class": "Psychic",
+    "xp cost": 0,
+    "rules": "Each figure within 2 spaces of you is linked, even while this card is exhausted. Exhaust this card and choose a linked monster. Roll 1 yellow power die. The chosen monster suffers Hearts equal to the Hearts rolled. If you roll no Hearts, recover 1 Fatigue.",
+    "fatigue cost": "1",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/mages/psychic/sotp-mental-assault.png",
     "xws": "mentalassault"
@@ -1479,6 +2534,11 @@
   {
     "name": "mental fortitude",
     "points": 211,
+    "archetype": "Mage",
+    "class": "Psychic",
+    "xp cost": 2,
+    "rules": "Exhaust this card when a linked hero is attacked, after dice are rolled, to test Willpower. If you pass, the hero adds 1 Shield to his defense results for each Shield rolled on this test.",
+    "fatigue cost": "1",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/mages/psychic/sotp-mental-fortitude.png",
     "xws": "mentalfortitude"
@@ -1486,6 +2546,11 @@
   {
     "name": "mind over matter",
     "points": 212,
+    "archetype": "Mage",
+    "class": "Psychic",
+    "xp cost": 3,
+    "rules": "While this card is not exhausted, apply +1 to your Willpower (to a maximum of 6), you may test Willpower instead of Might, and ignore the effects of terrain while moving. Exhaust this card to discard all Condition cards from yourself.",
+    "fatigue cost": "0",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/mages/psychic/sotp-mind-over-matter.png",
     "xws": "mindovermatter"
@@ -1493,6 +2558,11 @@
   {
     "name": "overload",
     "points": 213,
+    "archetype": "Mage",
+    "class": "Psychic",
+    "xp cost": 1,
+    "rules": "Action: Choose a linked monster and test Knowledge and Willpower. If you pass both tests, the monster is Stunned and Immobilized. If you pass only 1 test, the monster suffers 1 of those conditions of your choice.",
+    "fatigue cost": "2",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/mages/psychic/sotp-overload.png",
     "xws": "overload"
@@ -1500,6 +2570,11 @@
   {
     "name": "possession",
     "points": 214,
+    "archetype": "Mage",
+    "class": "Psychic",
+    "xp cost": 2,
+    "rules": "Action: Choose a linked minion monster and test Willpower. If you pass, perform an attack with that monster as if it were a hero. You may force it to attack itself.",
+    "fatigue cost": "2",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/mages/psychic/sotp-possession.png",
     "xws": "possession"
@@ -1507,20 +2582,35 @@
   {
     "name": "prescience",
     "points": 215,
-    "expansion": "sands of the past",
-    "image": "class-skills/sotp/sands-of-the-past/mages/psychic/sotp-prescience-coop.png",
-    "xws": "prescience"
-  },
-  {
-    "name": "prescience",
-    "points": 216,
+    "archetype": "Mage",
+    "class": "Psychic",
+    "xp cost": 1,
+    "rules": "Exhaust this card during your turn to place a random card from the overlord's hand faceup in your play area. The overlord may still play that card. If he does, you recover 1 Fatigue. Shuffle the card into the overlord's deck if another Overlord card is played or when this card refreshes, whichever comes first.",
+    "fatigue cost": "2",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/mages/psychic/sotp-prescience.png",
     "xws": "prescience"
   },
   {
+    "name": "prescience",
+    "points": 216,
+    "archetype": "Mage",
+    "class": "Psychic",
+    "xp cost": 1,
+    "rules": "Exhaust this card when a monster group activates and test Knowledge. If you pass, replace the activation list of all monsters in that group with: Action: Engage the closest hero. Action: Attack the closest hero. Then retreat.",
+    "fatigue cost": "2",
+    "expansion": "sands of the past",
+    "image": "class-skills/sotp/sands-of-the-past/mages/psychic/sotp-prescience-coop.png",
+    "xws": "prescience"
+  },
+  {
     "name": "psychic-back",
     "points": 217,
+    "archetype": "Mage",
+    "class": "Psychic",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/mages/psychic/sotp-psychic-back.png",
     "xws": "psychicback"
@@ -1528,6 +2618,11 @@
   {
     "name": "reaching out",
     "points": 218,
+    "archetype": "Mage",
+    "class": "Psychic",
+    "xp cost": 2,
+    "rules": "Each figure within 3 spaces of you is linked. Each time you use Mental Assault, recover Fatigue equal to the Surges rolled.",
+    "fatigue cost": "0",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/mages/psychic/sotp-reaching-out.png",
     "xws": "reachingout"
@@ -1535,6 +2630,11 @@
   {
     "name": "towering intellect",
     "points": 219,
+    "archetype": "Mage",
+    "class": "Psychic",
+    "xp cost": 3,
+    "rules": "Apply +1 to your Knowledge (to a maximum of 6) and +1 to your Stamina. Each time you use Mental Assault, roll 1 additional yellow power die.",
+    "fatigue cost": "0",
     "expansion": "sands of the past",
     "image": "class-skills/sotp/sands-of-the-past/mages/psychic/sotp-towering-intellect.png",
     "xws": "toweringintellect"
@@ -1542,6 +2642,11 @@
   {
     "name": "aria of war",
     "points": 220,
+    "archetype": "Healer",
+    "class": "Bard",
+    "xp cost": 2,
+    "rules": "Use this card during your turn to place a song token on this card. Melody: If a hero within 3 spaces of you is attacked, he adds 1 Shield to his defense results. Harmony: If a hero within 3 spaces of you performs an attack, his attack gains +1 Heart.",
+    "fatigue cost": "2",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/healers/bard/sn-aria-of-war.png",
     "xws": "ariaofwar"
@@ -1549,6 +2654,11 @@
   {
     "name": "bard-back",
     "points": 221,
+    "archetype": "Healer",
+    "class": "Bard",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/healers/bard/sn-bard-back.png",
     "xws": "bardback"
@@ -1556,6 +2666,11 @@
   {
     "name": "cacophony",
     "points": 222,
+    "archetype": "Healer",
+    "class": "Bard",
+    "xp cost": 3,
+    "rules": "Apply +1 to your Stamina (even while this card is exhausted). Exhaust this card and choose 1 of your Class cards. While this card is exhausted, the Melody and Harmony effects of the chosen card trigger.",
+    "fatigue cost": "3",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/healers/bard/sn-cacophony.png",
     "xws": "cacophony"
@@ -1563,6 +2678,11 @@
   {
     "name": "concentration",
     "points": 223,
+    "archetype": "Healer",
+    "class": "Bard",
+    "xp cost": 2,
+    "rules": "At the start of your turn, if both of your song tokens are on different Class cards, you recover 1 Heart and 1 Fatigue. Exhaust this card when a hero within 3 spaces of you recovers 1 or more Hearts. That hero recovers 2 additional Hearts.",
+    "fatigue cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/healers/bard/sn-concentration.png",
     "xws": "concentration"
@@ -1570,6 +2690,11 @@
   {
     "name": "dissonance",
     "points": 224,
+    "archetype": "Healer",
+    "class": "Bard",
+    "xp cost": 1,
+    "rules": "Use this card during your turn to place a song token on this card. Melody: If a hero starts his turn within 3 spaces of you, he gains 1 movement point. Harmony: If a monster within 3 spaces of you is activated, it suffers 1 Heart.",
+    "fatigue cost": "2",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/healers/bard/sn-dissonance.png",
     "xws": "dissonance"
@@ -1577,6 +2702,11 @@
   {
     "name": "peaceful rest",
     "points": 225,
+    "archetype": "Healer",
+    "class": "Bard",
+    "xp cost": 1,
+    "rules": "If a hero within 3 spaces of you recovers Fatigue as the result of a rest action, he recovers 2 Hearts in addition to the Fatigue.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/healers/bard/sn-peaceful-rest.png",
     "xws": "peacefulrest"
@@ -1584,6 +2714,11 @@
   {
     "name": "rehearsal",
     "points": 226,
+    "archetype": "Healer",
+    "class": "Bard",
+    "xp cost": 2,
+    "rules": "Use this card during your turn to place a song token on this card. Melody: At the end of your turn, choose 1 hero within 3 spaces of you. He may discard 1 Condition card. Harmony: Each hero within 3 spaces of you may reroll 1 die once per round.",
+    "fatigue cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/healers/bard/sn-rehearsal.png",
     "xws": "rehearsal"
@@ -1591,6 +2726,11 @@
   {
     "name": "song of mending",
     "points": 227,
+    "archetype": "Healer",
+    "class": "Bard",
+    "xp cost": 0,
+    "rules": "Use this card during your turn to place a song token on this card. Melody: At the end of your turn, each hero within 3 spaces of you recovers 1 Heart. Harmony: At the end of your turn, each other hero within 3 spaces of your recovers 1 Fatigue.",
+    "fatigue cost": "2",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/healers/bard/sn-song-of-mending.png",
     "xws": "songofmending"
@@ -1598,6 +2738,11 @@
   {
     "name": "understudy",
     "points": 228,
+    "archetype": "Healer",
+    "class": "Bard",
+    "xp cost": 1,
+    "rules": "Use this card during your turn to place a song token on this card. Melody: Each time a hero within 3 spaces of you recovers 1 or more Hearts, he recovers 1 additional Heart. Harmony: Each time a hero within 3 spaces of you recovers 1 or more Fatigue, he recovers 1 additional Fatigue.",
+    "fatigue cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/healers/bard/sn-understudy.png",
     "xws": "understudy"
@@ -1605,6 +2750,11 @@
   {
     "name": "wayfarer",
     "points": 229,
+    "archetype": "Healer",
+    "class": "Bard",
+    "xp cost": 3,
+    "rules": "Apply +2 to your Health. All of your Melody and Harmony effects apply within 5 spaces instead of 3 spaces. Each time you place a song token on one of your Class cards, you may move 1 space.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/healers/bard/sn-wayfarer.png",
     "xws": "wayfarer"
@@ -1612,6 +2762,11 @@
   {
     "name": "blinding light",
     "points": 230,
+    "archetype": "Mage",
+    "class": "Conjurer",
+    "xp cost": 2,
+    "rules": "Exhaust this card when you are attacked, before dice are rolled, to add 2 Shields to your defense results. After the attack resolves, place an image token in an empty space adjacent to your figure. If this attack did not deal at least 1 Heart (after the defense roll), you may move up to 2 spaces.",
+    "fatigue cost": "2",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/mages/conjurer/sn-blinding-light.png",
     "xws": "blindinglight"
@@ -1619,6 +2774,11 @@
   {
     "name": "channeling",
     "points": 231,
+    "archetype": "Mage",
+    "class": "Conjurer",
+    "xp cost": 1,
+    "rules": "You may discard any number of image tokens at any time during your turn. You may spend 1 movement point during your turn to move an image token 1 space. Action: Perform an attack with a Magic weapon. Measure range and line of sight from one of your image tokens.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/mages/conjurer/sn-channeling.png",
     "xws": "channeling"
@@ -1626,6 +2786,11 @@
   {
     "name": "conjurer-back",
     "points": 232,
+    "archetype": "Mage",
+    "class": "Conjurer",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/mages/conjurer/sn-conjurer-back.png",
     "xws": "conjurerback"
@@ -1633,6 +2798,11 @@
   {
     "name": "focus fire",
     "points": 233,
+    "archetype": "Mage",
+    "class": "Conjurer",
+    "xp cost": 2,
+    "rules": "Action: Perform an attack with a Magic weapon. This attack gains +1 Heart for each image token within 3 spaces of the target.",
+    "fatigue cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/mages/conjurer/sn-focus-fire.png",
     "xws": "focusfire"
@@ -1640,6 +2810,11 @@
   {
     "name": "illusory path",
     "points": 234,
+    "archetype": "Mage",
+    "class": "Conjurer",
+    "xp cost": 1,
+    "rules": "Monsters must spend 1 additional movement point to enter a space adjacent to an image token. Each time you suffer 1 Fatigue to gain 1 movement point, you may move an image token 1 space.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/mages/conjurer/sn-illusory-path.png",
     "xws": "illusorypath"
@@ -1647,6 +2822,11 @@
   {
     "name": "many friends",
     "points": 235,
+    "archetype": "Mage",
+    "class": "Conjurer",
+    "xp cost": 1,
+    "rules": "If you are adjacent to 1 or more image tokens, add 1 additional brown defense die to your defense pool. If there are 3 or more image tokens on the map, add 1 additional green power die to your attack pool.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/mages/conjurer/sn-many-friends.png",
     "xws": "manyfriends"
@@ -1654,6 +2834,11 @@
   {
     "name": "mirror image",
     "points": 236,
+    "archetype": "Mage",
+    "class": "Conjurer",
+    "xp cost": 0,
+    "rules": "Use this card and suffer Fatigue equal to the number of image tokens on the map. Then, place 1 image token in an empty space within 2 spaces of your figure. An image token is treated as a hero figure with your attributes and a gray defense die. If an image token suffers Hearts or Fatigue, it is discarded, and you suffer 1 Heart and 1 Fatigue.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/mages/conjurer/sn-mirror-image-errata.png",
     "xws": "mirrorimage"
@@ -1661,6 +2846,11 @@
   {
     "name": "mirror image",
     "points": 237,
+    "archetype": "Mage",
+    "class": "Conjurer",
+    "xp cost": 0,
+    "rules": "Use this card during your turn and suffer Fatigue equal to the number of image tokens on the map. Then, place 1 image token in an empty space within 2 spaces of your figure. An image token is treated as a hero figure with your attributes and a gray defense die. If an image token suffers Hearts or Fatigue, it is discarded, and you suffer 1 Heart and 1 Fatigue.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/mages/conjurer/sn-mirror-image.png",
     "xws": "mirrorimage"
@@ -1668,6 +2858,11 @@
   {
     "name": "prismatic assault",
     "points": 238,
+    "archetype": "Mage",
+    "class": "Conjurer",
+    "xp cost": 3,
+    "rules": "Action: Exhaust this card. For each image token on the map, you may either move the image token up to your Speed or perform an attack with a Magic weapon. If you perform an attack, measure range and line of sight from the image token.",
+    "fatigue cost": "3",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/mages/conjurer/sn-prismatic-assault.png",
     "xws": "prismaticassault"
@@ -1675,6 +2870,11 @@
   {
     "name": "refraction",
     "points": 239,
+    "archetype": "Mage",
+    "class": "Conjurer",
+    "xp cost": 1,
+    "rules": "Action: Exhaust this card to place 1 image token in an empty space within 3 spaces of another image token. Then, you may perform an attack with a Magic weapon. If you do, measure range and line of sight from one of those image tokens.",
+    "fatigue cost": "2",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/mages/conjurer/sn-refraction.png",
     "xws": "refraction"
@@ -1682,6 +2882,11 @@
   {
     "name": "sleight of mind",
     "points": 240,
+    "archetype": "Mage",
+    "class": "Conjurer",
+    "xp cost": 2,
+    "rules": "Action: Choose 1 image token within 5 spaces of your figure and remove your figure from the map. Replace the chosen image token with your figure and discard the token. Then, each monster adjacent to your figure is Stunned.",
+    "fatigue cost": "2",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/mages/conjurer/sn-sleight-of-mind.png",
     "xws": "sleightofmind"
@@ -1689,6 +2894,11 @@
   {
     "name": "vortex",
     "points": 241,
+    "archetype": "Mage",
+    "class": "Conjurer",
+    "xp cost": 3,
+    "rules": "Action: Exhaust this card and choose an image token on the map. MOve each monster within 3 spaces of that image token up to 2 spaces. Each monster must end its movement within 3 spaces of the image token. Each of those monsters suffers 2 Hearts.",
+    "fatigue cost": "2",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/mages/conjurer/sn-vortex.png",
     "xws": "vortex"
@@ -1696,6 +2906,11 @@
   {
     "name": "dark servant",
     "points": 242,
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "xp cost": 1,
+    "rules": "Action: Exhaust this card to search a search token within 3 spaces of a Shadow Soul. Then, discard that Shadow Soul.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-dark-servant.png",
     "xws": "darkservant"
@@ -1703,6 +2918,11 @@
   {
     "name": "dark shift",
     "points": 243,
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "xp cost": 2,
+    "rules": "Apply +1 to your Stamina. Each time a hero enters a space containing a Shadow Soul, that hero gains 1 movement point.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-dark-shift.png",
     "xws": "darkshift"
@@ -1710,6 +2930,11 @@
   {
     "name": "endless void",
     "points": 244,
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "xp cost": 2,
+    "rules": "Each time a Shadow Soul is discarded due to your class skills, you recover 1 Heart and 1 Fatigue. If a hero figure in a space containing a Shadow Soul is the target of an attack, that attack is a miss unless the attacker spends 1 Surge.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-endless-void.png",
     "xws": "endlessvoid"
@@ -1717,6 +2942,11 @@
   {
     "name": "faithful friend",
     "points": 245,
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "xp cost": 1,
+    "rules": "Exhaust this card at the start of your turn to place a Shadow Soul in a space within 3 spaces of you.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-faithful-friend.png",
     "xws": "faithfulfriend"
@@ -1724,6 +2954,11 @@
   {
     "name": "otherworldly",
     "points": 246,
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "xp cost": 2,
+    "rules": "Each attack that targets a monster in a space containing or adjacent to a Shadow Soul gains Pierce 1. Each time you spend 1 Surge to recover 1 Fatigue, you attack gains +1 Heart.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-otherworldly.png",
     "xws": "otherworldly"
@@ -1731,6 +2966,11 @@
   {
     "name": "shadow puppet",
     "points": 247,
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "xp cost": 3,
+    "rules": "Action: Exhaust this card to choose a monster within 3 spaces of a Shadow Soul. Perform an attack with that Shadow Soul, using the attack type, dice, and surge abilities of that monster.",
+    "fatigue cost": "3",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-shadow-puppet.png",
     "xws": "shadowpuppet"
@@ -1738,6 +2978,11 @@
   {
     "name": "shadow step",
     "points": 248,
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "xp cost": 3,
+    "rules": "Action: Exhaust this card to place your hero figure in a space that contains only a Shadow Soul. Then, you may discard that Shadow Soul to perform an attack. If you do, add 1 Surge to the results.",
+    "fatigue cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-shadow-step.png",
     "xws": "shadowstep"
@@ -1745,6 +2990,11 @@
   {
     "name": "shadow-walker-back",
     "points": 249,
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-shadow-walker-back.png",
     "xws": "shadowwalkerback"
@@ -1752,6 +3002,11 @@
   {
     "name": "soul bound",
     "points": 250,
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "xp cost": 0,
+    "rules": "Use this card when you perform an attack that is not a miss. Place a Shadow Soul in any space adjacent to the target. Only 1 Shadow Soul can be on the map at any time.",
+    "fatigue cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-soul-bound.png",
     "xws": "soulbound"
@@ -1759,6 +3014,11 @@
   {
     "name": "through the veil",
     "points": 251,
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "xp cost": 1,
+    "rules": "Exhaust this card when you perform an attack that targets a monster in a space containing or adjacent to a Shadow Soul, before dice are rolled. Add 1 additional green power die to your attack pool.",
+    "fatigue cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/scouts/shadow-walker/sn-through-the-veil.png",
     "xws": "throughtheveil"
@@ -1766,6 +3026,11 @@
   {
     "name": "back in action",
     "points": 252,
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "xp cost": 1,
+    "rules": "Apply +2 to your Health. Each time you stand up or are revived by another hero, you may immediately move up to your Speed.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/warriors/skirmisher/sn-back-in-action.png",
     "xws": "backinaction"
@@ -1773,6 +3038,11 @@
   {
     "name": "born in battle",
     "points": 253,
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "xp cost": 2,
+    "rules": "Each time you defeat a monster with an attack using a Melee weapon with 1 hand icon, you recover 1 Heart and 1 Fatigue.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/warriors/skirmisher/sn-born-in-battle.png",
     "xws": "borninbattle"
@@ -1780,6 +3050,11 @@
   {
     "name": "carve a path",
     "points": 254,
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "xp cost": 3,
+    "rules": "Apply +1 to your Speed. Action: Move up to your Speed, then perform an attack. During this movement, you may move through spaces containing enemy figures. This attack affects each monster you moved through during this action.",
+    "fatigue cost": "3",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/warriors/skirmisher/sn-carve-a-path.png",
     "xws": "carveapath"
@@ -1787,6 +3062,11 @@
   {
     "name": "deep wounds",
     "points": 255,
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "xp cost": 1,
+    "rules": "Exhaust this card when you resolve an attack that dealt at least 1 Heart to a monster (after the defense roll). That monster suffers 1 additional Heart and is Bleeding.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/warriors/skirmisher/sn-deep-wounds.png",
     "xws": "deepwounds"
@@ -1794,6 +3074,11 @@
   {
     "name": "dual strike",
     "points": 256,
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "xp cost": 0,
+    "rules": "Exhaust this card when you perform an attack, before dice are rolled. If you have 2 Melee weapons with 1 hand icon each equipped, add 1 Surge to the results. You may use the Surge abilities on both weapons during the attack.",
+    "fatigue cost": "2",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/warriors/skirmisher/sn-dual-strike.png",
     "xws": "dualstrike"
@@ -1801,6 +3086,11 @@
   {
     "name": "ever in motion",
     "points": 257,
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "xp cost": 2,
+    "rules": "When you are knocked out, you may place your hero token in an empty space within 3 spaces of your hero figure (even while this card is exhausted). Exhaust this card at the start of your turn to discard a Stunned or Immobilized Condition card.",
+    "fatigue cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/warriors/skirmisher/sn-ever-in-motion.png",
     "xws": "everinmotion"
@@ -1808,6 +3098,11 @@
   {
     "name": "keen edge",
     "points": 258,
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "xp cost": 1,
+    "rules": "Each attack you perform with a Blade or Axe weapon gains Pierce 1.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/warriors/skirmisher/sn-keen-edge.png",
     "xws": "keenedge"
@@ -1815,6 +3110,11 @@
   {
     "name": "skirmisher-back",
     "points": 259,
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/warriors/skirmisher/sn-skirmisher-back.png",
     "xws": "skirmisherback"
@@ -1822,6 +3122,11 @@
   {
     "name": "unrelenting",
     "points": 260,
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "xp cost": 2,
+    "rules": "Exhaust this card after resolving an attack with a Melee weapon with 1 hand icon. Perform an attack that targets one of the same monsters with a different Melee weapon with 1 hand icon.",
+    "fatigue cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/warriors/skirmisher/sn-unrelenting.png",
     "xws": "unrelenting"
@@ -1829,6 +3134,11 @@
   {
     "name": "unstoppable",
     "points": 261,
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "xp cost": 3,
+    "rules": "Apply +1 to your Stamina. Each time you perform an attack with a Melee weapon, after dice are rolled, you may change each X result to another result of your choice.",
+    "fatigue cost": "0",
     "expansion": "shadow of nerekhall",
     "image": "class-skills/d2e/shadow-of-nerekhall/warriors/skirmisher/sn-unstoppable.png",
     "xws": "unstoppable"
@@ -1836,6 +3146,11 @@
   {
     "name": "all-seeing",
     "points": 262,
+    "archetype": "Healer",
+    "class": "Prophet",
+    "xp cost": 2,
+    "rules": "Exhaust this card when the insight token is discarded. Another hero of your choice gains the insight token.",
+    "fatigue cost": "1",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/healers/prophet/tf-all-seeing.png",
     "xws": "allseeing"
@@ -1843,6 +3158,11 @@
   {
     "name": "battle vision",
     "points": 263,
+    "archetype": "Healer",
+    "class": "Prophet",
+    "xp cost": 1,
+    "rules": "You gain +1 Awareness up to a maximum of 6. For each hero within 2 spaces of the hero with the insight token may suffer 2 Fatigue to reroll 1 attack die once on each attack.",
+    "fatigue cost": "0",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/healers/prophet/tf-battle-vision.png",
     "xws": "battlevision"
@@ -1850,6 +3170,11 @@
   {
     "name": "focused insights",
     "points": 264,
+    "archetype": "Healer",
+    "class": "Prophet",
+    "xp cost": 3,
+    "rules": "You gain +2 Health. When a hero gains the insight token, each hero adjacent to that hero recovers 1 Heart and 1 Fatigue.",
+    "fatigue cost": "0",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/healers/prophet/tf-focused-insights.png",
     "xws": "focusedinsights"
@@ -1857,6 +3182,11 @@
   {
     "name": "forewarning",
     "points": 265,
+    "archetype": "Healer",
+    "class": "Prophet",
+    "xp cost": 1,
+    "rules": "Exhaust this card when a monster attacks a hero with the insight token, after rolling dice. Discard the insight token to add 2 Shields to his results.",
+    "fatigue cost": "1",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/healers/prophet/tf-forewarning.png",
     "xws": "forewarning"
@@ -1864,6 +3194,11 @@
   {
     "name": "grim fate",
     "points": 266,
+    "archetype": "Healer",
+    "class": "Prophet",
+    "xp cost": 1,
+    "rules": "A hero with the insight token may suffer 2 Fatigue and exhaust this card during his turn to force the overlord to reveal the top card of the Overlord deck. That hero forces the overlord to place the revealed card either on the top or the bottom of the Overlord deck.",
+    "fatigue cost": "0",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/healers/prophet/tf-grim-fate.png",
     "xws": "grimfate"
@@ -1871,6 +3206,11 @@
   {
     "name": "lifeline",
     "points": 267,
+    "archetype": "Healer",
+    "class": "Prophet",
+    "xp cost": 2,
+    "rules": "Exhaust this card when a hero with the insight token would be defeated. Discard the insight token for that hero to immediately recover 1 Heart.",
+    "fatigue cost": "2",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/healers/prophet/tf-lifeline.png",
     "xws": "lifeline"
@@ -1878,6 +3218,11 @@
   {
     "name": "omniscience",
     "points": 268,
+    "archetype": "Healer",
+    "class": "Prophet",
+    "xp cost": 3,
+    "rules": "Exhaust this card when a monster declares a hero with the insight token as the target of an attack, before rolling dice. Discard the insight token to cause the attack to immediately miss.",
+    "fatigue cost": "3",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/healers/prophet/tf-omniscience.png",
     "xws": "omniscience"
@@ -1885,6 +3230,11 @@
   {
     "name": "prophet-back",
     "points": 269,
+    "archetype": "Healer",
+    "class": "Prophet",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/healers/prophet/tf-prophet-back.png",
     "xws": "prophetback"
@@ -1892,6 +3242,11 @@
   {
     "name": "soothing insight",
     "points": 270,
+    "archetype": "Healer",
+    "class": "Prophet",
+    "xp cost": 0,
+    "rules": "Exhaust this card during your turn. You or 1 hero of your choice gains the insight token. When a hero gains the insight token, he recovers 1 Heart and 1 Fatigue. A hero with the insight token may discard it during his turn to recover 1 Heart.",
+    "fatigue cost": "1",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/healers/prophet/tf-soothing-insight.png",
     "xws": "soothinginsight"
@@ -1899,6 +3254,11 @@
   {
     "name": "victory foretold",
     "points": 271,
+    "archetype": "Healer",
+    "class": "Prophet",
+    "xp cost": 2,
+    "rules": "Exhaust this card when a hero with the insight token attacks a monster, before rolling dice. Discard the insight token for that hero to roll an additional green power die on the attack. If the monster is defeated, the hero recovers 3 Hearts.",
+    "fatigue cost": "2",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/healers/prophet/tf-victory-foretold.png",
     "xws": "victoryforetold"
@@ -1906,6 +3266,11 @@
   {
     "name": "ambush",
     "points": 272,
+    "archetype": "Scout",
+    "class": "Stalker",
+    "xp cost": 3,
+    "rules": "Exhaust this card when a monster enters an empty space within 3 spaces of a trap token to immediately perform an attack targeting that monster. After the attack is resolved, if the monster was not defeated, it may continue its activation.",
+    "fatigue cost": "1",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/scouts/stalker/tf-ambush.png",
     "xws": "ambush"
@@ -1913,6 +3278,11 @@
   {
     "name": "easy prey",
     "points": 273,
+    "archetype": "Scout",
+    "class": "Stalker",
+    "xp cost": 2,
+    "rules": "Action: Exhaust this card to perform an attack. Before rolling dice, place 1 trap token in the closest empty space adjacent to the target. While this card is exhausted, each attack targeting a monster adjacent to a trap token gains Pierce 1.",
+    "fatigue cost": "1",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/scouts/stalker/tf-easy-prey.png",
     "xws": "easyprey"
@@ -1920,6 +3290,11 @@
   {
     "name": "exploit",
     "points": 274,
+    "archetype": "Scout",
+    "class": "Stalker",
+    "xp cost": 1,
+    "rules": "Action: Perform an attack. If this attack targets a monster within 3 spaces of a trap token, add 1 additional green power die to your attack pool. This attack gains: Surge: The target is Weakened (even if you didn't deal any Hearts).",
+    "fatigue cost": "1",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/scouts/stalker/tf-exploit.png",
     "xws": "exploit"
@@ -1927,6 +3302,11 @@
   {
     "name": "hunter's mark",
     "points": 275,
+    "archetype": "Scout",
+    "class": "Stalker",
+    "xp cost": 1,
+    "rules": "Exhaust this card during your turn to choose a monster within 3 spaces of a trap token and place 1 of your hero tokens on that monster's base, indicating that it is marked. The next hero to attack a marked monster adds 1 Surge to his attack results.",
+    "fatigue cost": "1",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/scouts/stalker/tf-hunters-mark.png",
     "xws": "huntersmark"
@@ -1934,6 +3314,11 @@
   {
     "name": "lay of the land",
     "points": 276,
+    "archetype": "Scout",
+    "class": "Stalker",
+    "xp cost": 2,
+    "rules": "Any hero adjacent to a search token and within 3 spaces of a trap token during their turn may suffer 1 Fatigue to exhaust this card and search the search token without using an action.",
+    "fatigue cost": "0",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/scouts/stalker/tf-lay-of-the-land.png",
     "xws": "layoftheland"
@@ -1941,6 +3326,11 @@
   {
     "name": "makeshift trap",
     "points": 277,
+    "archetype": "Scout",
+    "class": "Stalker",
+    "xp cost": 1,
+    "rules": "Exhaust this card immediately after performing a search action to place 1 trap token in an empty space adjacent to you. While this card is exhausted, each hero adjacent to a trap token recovers 1 Fatigue at the start of his turn.",
+    "fatigue cost": "0",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/scouts/stalker/tf-makeshift-trap.png",
     "xws": "makeshifttrap"
@@ -1948,6 +3338,11 @@
   {
     "name": "poison barbs",
     "points": 278,
+    "archetype": "Scout",
+    "class": "Stalker",
+    "xp cost": 2,
+    "rules": "Exhaust this card during your turn to choose a trap token on the map. Roll the blue attack die for each monster within 3 spaces of the chosen trap token. Each time you do not roll an X, the monster is Poisoned. Then, discard the trap token.",
+    "fatigue cost": "2",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/scouts/stalker/tf-poison-barbs.png",
     "xws": "poisonbarbs"
@@ -1955,6 +3350,11 @@
   {
     "name": "set trap",
     "points": 279,
+    "archetype": "Scout",
+    "class": "Stalker",
+    "xp cost": 0,
+    "rules": "Exhaust this card to place 1 trap token in an empty space adjacent to you. While you are adjacent to a trap token, each of your attacks gains +1 Heart. If a monster enters a space adjacent to a trap token, discard the trap token from the map and that monster suffers 1 Heart.",
+    "fatigue cost": "1",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/scouts/stalker/tf-set-trap.png",
     "xws": "settrap"
@@ -1962,6 +3362,11 @@
   {
     "name": "stalker-back",
     "points": 280,
+    "archetype": "Scout",
+    "class": "Stalker",
+    "xp cost": null,
+    "rules": null,
+    "fatigue cost": null,
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/scouts/stalker/tf-stalker-back.png",
     "xws": "stalkerback"
@@ -1969,6 +3374,11 @@
   {
     "name": "upper hand",
     "points": 281,
+    "archetype": "Scout",
+    "class": "Stalker",
+    "xp cost": 3,
+    "rules": "You gain +1 Stamina and +2 Health. Action: Perform an attack. Before rolling dice, you may discard any number of trap tokens from the map. For each trap token discarded from the map, this attack gains +1 Heart.",
+    "fatigue cost": "2",
     "expansion": "the trollfens",
     "image": "class-skills/d2e/the-trollfens/scouts/stalker/tf-upper-hand.png",
     "xws": "upperhand"
