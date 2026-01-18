@@ -2,24 +2,34 @@ The following are the JMESPATH commands given for each asset type to: https://js
 
 SORT:
 
-advanced-quests-js:		[*] | sort_by(sort_by(@,&name),&expansion)
+advanced-quests.js:		[*] | sort_by(sort_by(@,&name),&expansion)
 agendas.js:				[*] | sort_by(sort_by(sort_by(@,&cardno),&name),&expansion)
 agents.js:				[*] | sort_by(sort_by(sort_by(@,&name),&act),&expansion)
 allies.js:				[*] | sort_by(sort_by(@,&name),&expansion)
 ally-skills.js:			[*] | sort_by(sort_by(sort_by(@,&name),&ally),&expansion)
 city-event-decks.js:	[*] | sort_by(sort_by(@,&name),&expansion)
-class-familiars-js:		[*] | sort_by(sort_by(sort_by(sort_by(@,&name),&class),&archetype),&expansion)
+class-familiars.js:		[*] | sort_by(sort_by(sort_by(sort_by(@,&name),&class),&archetype),&expansion)
 class-items.js:			[*] | sort_by(sort_by(sort_by(sort_by(@,&name),&class),&archetype),&expansion)
-class-skills-js:		[*] | sort_by(sort_by(sort_by(sort_by(@,&name),&class),&archetype),&expansion)
-conditions-js:			[*] | sort_by(sort_by(@,&name),&expansion)
-corrupt-citizens-js:	[*] | sort_by(sort_by(@,&name),&expansion)
-expansions-js:          [*] | sort_by(sort_by(sort_by(@,&name),&type),&expansion)
-explorations-js:        Manual based on name <-- icon <-- expansion
+class-skills.js:		[*] | sort_by(sort_by(sort_by(sort_by(@,&name),&class),&archetype),&expansion)
+conditions.js:			[*] | sort_by(sort_by(@,&name),&expansion)
+corrupt-citizens.js:	[*] | sort_by(sort_by(@,&name),&expansion)
+expansions.js:          [*] | sort_by(sort_by(sort_by(@,&name),&type),&expansion)
+explorations.js:        Manual based on name <-- icon <-- expansion
+familiars.js:			[*] | sort_by(sort_by(@,&name),&expansion)
+heroes.js				[*] | sort_by(sort_by(sort_by(@,&name),&archetype),&expansion) 
+hybrid-class-skills.js	[*] | sort_by(sort_by(sort_by(sort_by(@,&name),&class),&archetype),&expansion)
+lieutenants.js:			[*] | sort_by(sort_by(sort_by(@,&name),&act),&expansion)
+map-tiles.js:			[*] | sort_by(sort_by(@,&name),&expansion)
+monster-activations.js:	[*] | sort_by(sort_by(sort_by(@,&cardno),&name),&expansion)
+monsters.js:			[*] | sort_by(sort_by(sort_by(@,&name),&act),&expansion)
+overlord-decks.js:		[*] | sort_by(sort_by(sort_by(@,&name),&deck),&expansion)
+perils.js				[*] | sort_by(sort_by(@,&name),&expansion)
+plot-decks.js:			[*] | sort_by(sort_by(sort_by(@,&name),&deck),&expansion)
 
 
 DATA EXTRACTION:
 
-advanced-quests-js:		[*].{name: name, act: act, travel: travel, rule: rule, description: description, "overlord reward": "overlord reward", "hero reward": "hero reward"}
+advanced-quests.js:		[*].{name: name, act: act, travel: travel, rule: rule, description: description, "overlord reward": "overlord reward", "hero reward": "hero reward"}
 agendas.js:				[*].{name: name, cardno: cardno}
 agents.js:				[*].{name: name, act: act, attack: attack, abilities: abilities, characteristics: characteristics, "ability rules": "ability rules", deck: deck, card: card}
 allies.js:				[*].{name: name, act: act, attack: attack, might: might, knowledge: knowledge, willpower: willpower, awareness: awareness, abilities: abilities, characteristics: characteristics, "ability rules": "ability rules"}
@@ -27,8 +37,45 @@ ally-skills.js:			[*].{name: name, ally: ally, rules: rules}
 city-event-decks.js:	[*].{name: name, travel: travel, card: card}
 class-familiars.js:		[*].{name: name, archetype: archetype, class: class, speed: speed, health: health, defense: defense, attack: attack, dice: dice, rules: rules}
 class-items.js:			[*].{name: name, archetype: archetype, class: class, traits: traits, attack: attack, equip: equip, dice: dice, rules: rules}
-class-skills-js:		[*].{name: name, archetype: archetype, class: class, "xp cost": "xp cost", rules: rules, "fatigue cost": "fatigue cost"}
+class-skills.js:		[*].{name: name, archetype: archetype, class: class, "xp cost": "xp cost", rules: rules, "fatigue cost": "fatigue cost"}
 conditions.js:			[*].{name: name, count: count, traits: traits}
 corrupt-citizens.js:	[*].{name: name, timing: timing, traits: traits, description: description}
 expansions.js:			[*].{name: name, type: type}
-expplorations-js:		[*].{name: name, icon: icon, rules: rules, "after setup rules": "after setup rules", "overlord flavor": "overlord flavor", "overlord effects": "overlord effects", "timer flavor": "timer flavor", timer: timer, "timer effects": "timer effects"}
+explorations.js:		[*].{name: name, icon: icon, rules: rules, "after setup rules": "after setup rules", "overlord flavor": "overlord flavor", "overlord effects": "overlord effects", "timer flavor": "timer flavor", timer: timer, "timer effects": "timer effects"}
+familiars.js:			[*].{name: name, speed: speed, health: health, defense: defense, attack: attack, type: type, traits: traits}
+heroes.js:				[*].{name: name, archetype: archetype, speed: speed, health: health, stamina: stamina, defense: defense, willpower: willpower, might: might, knowledge: knowledge, awareness: awareness, ability: ability, feat: feat, quote: quote}
+hybrid-class-skills.js:	[*].{name: name, archetype: archetype, class: class, "xp cost": "xp cost", rules: rules, "fatigue cost": "fatigue cost"}
+lieutenants.js:			[*].{name: name, act: act, attack: attack, might: might, knowledge: knowledge, willpower: willpower, awareness: awareness, abilities: abilities, characteristics: characteristics, "ability rules": "ability rules"}
+map-tiles.js:			None
+monster-activations.js:	[*].{name: name, cardno: cardno}
+monsters.js:			[*].{name: name, act: act, attack: attack, characteristics: characteristics, traits: traits, "ability rules": "ability rules", "group size": "group size"}
+overlord-decks.js:		[*].{name: name, deck: deck, count: count, type: type, ability: ability, "xp cost": "xp cost"}
+perils.js				None
+plot-decks.js:			[*].{name: name, agent: agent, deck: deck, assetno: assetno, "threat cost": "threat cost", ability: ability, "trigger cost": "trigger cost"}
+
+
+COMBINED SORT and DATA EXTRACTION
+
+advanced-quests.js:		sort_by(sort_by(@,&name),&expansion)[*].{name: name, act: act, travel: travel, rule: rule, description: description, "overlord reward": "overlord reward", "hero reward": "hero reward"}
+agendas.js:				sort_by(sort_by(sort_by(@,&cardno),&name),&expansion)[*].{name: name, cardno: cardno}
+agents.js:				sort_by(sort_by(sort_by(@,&name),&act),&expansion)[*].{name: name, act: act, attack: attack, abilities: abilities, characteristics: characteristics, "ability rules": "ability rules", deck: deck, card: card}
+allies.js:				sort_by(sort_by(@,&name),&expansion)[*].{name: name, act: act, attack: attack, might: might, knowledge: knowledge, willpower: willpower, awareness: awareness, abilities: abilities, characteristics: characteristics, "ability rules": "ability rules"}
+ally-skills.js:			sort_by(sort_by(sort_by(@,&name),&ally),&expansion)[*].{name: name, ally: ally, rules: rules}
+city-event-decks.js:	sort_by(sort_by(@,&name),&expansion)[*].{name: name, travel: travel, card: card}
+class-familiars.js:		sort_by(sort_by(sort_by(sort_by(@,&name),&class),&archetype),&expansion)[*].{name: name, archetype: archetype, class: class, speed: speed, health: health, defense: defense, attack: attack, dice: dice, rules: rules}
+class-items.js:			sort_by(sort_by(sort_by(sort_by(@,&name),&class),&archetype),&expansion)[*].{name: name, archetype: archetype, class: class, traits: traits, attack: attack, equip: equip, dice: dice, rules: rules}
+class-skills.js:		sort_by(sort_by(sort_by(sort_by(@,&name),&class),&archetype),&expansion)[*].{name: name, archetype: archetype, class: class, "xp cost": "xp cost", rules: rules, "fatigue cost": "fatigue cost"}
+conditions.js:			sort_by(sort_by(@,&name),&expansion)[*].{name: name, count: count, traits: traits}
+corrupt-citizens.js:	sort_by(sort_by(@,&name),&expansion)[*].{name: name, timing: timing, traits: traits, description: description}
+expansions.js:			sort_by(sort_by(sort_by(@,&name),&type),&expansion)[*].{name: name, type: type}
+explorations.js:		None because Sort is Manual based on Manual based on name <-- icon <-- expansion
+familiars.js:			sort_by(sort_by(@,&name),&expansion)[*].{name: name, speed: speed, health: health, defense: defense, attack: attack, type: type, traits: traits}
+heroes.js				sort_by(sort_by(sort_by(@,&name),&archetype),&expansion)[*].{name: name, archetype: archetype, speed: speed, health: health, stamina: stamina, defense: defense, willpower: willpower, might: might, knowledge: knowledge, awareness: awareness, ability: ability, feat: feat}
+hybrid-class-skills.js:	sort_by(sort_by(sort_by(sort_by(@,&name),&class),&archetype),&expansion)[*].{name: name, archetype: archetype, class: class, "xp cost": "xp cost", rules: rules, "fatigue cost": "fatigue cost"}
+lieutenants.js:			sort_by(sort_by(sort_by(@,&name),&act),&expansion)[*].{name: name, act: act, attack: attack, might: might, knowledge: knowledge, willpower: willpower, awareness: awareness, abilities: abilities, characteristics: characteristics, "ability rules": "ability rules"}
+map-tiles.js:			sort_by(sort_by(@,&name),&expansion)[*].{name: name}
+monster-activations.js:	sort_by(sort_by(sort_by(@,&cardno),&name),&expansion)[*].{name: name, cardno: cardno}
+monsters.js:			sort_by(sort_by(sort_by(@,&name),&act),&expansion)[*].{name: name, act: act, attack: attack, characteristics: characteristics, traits: traits, "ability rules": "ability rules", "group size": "group size"}
+overlord-decks.js:		sort_by(sort_by(sort_by(@,&name),&deck),&expansion)[*].{name: name, deck: deck, count: count, type: type, ability: ability, "xp cost": "xp cost"}
+perils.js:				sort_by(sort_by(@,&name),&expansion)[*].{name: name}
+plot-decks.js:			sort_by(sort_by(sort_by(@,&name),&deck),&expansion)[*].{name: name, agent: agent, deck: deck, assetno: assetno, "threat cost": "threat cost", ability: ability, "trigger cost": "trigger cost"}
