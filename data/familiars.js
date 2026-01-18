@@ -2,6 +2,11 @@
   {
     "name": "brightblaze",
     "points": 0,
+    "speed": "5",
+    "health": "6",
+    "defense": "Gray",
+    "attack": "Melee",
+    "traits": "This familiar is treated as a figure. It may perform 1 Melee attack during its activation using the dice and abilities of a Magic weapon you have equipped.",
     "expansion": "bonds of the wild",
     "image": "familiars/d2e/bonds-of-the-wild/bw-brightblaze.png",
     "xws": "brightblaze"
@@ -9,6 +14,11 @@
   {
     "name": "brightblaze",
     "points": 1,
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
     "expansion": "bonds of the wild",
     "image": "familiars/d2e/bonds-of-the-wild/bw-brightblaze-back.png",
     "xws": "brightblaze"
@@ -16,6 +26,11 @@
   {
     "name": "pico",
     "points": 2,
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": "During another hero's turn, if that hero is adjacent to Pico, he may search a search token in the space containing Pico (this does not require an action). If Pico is in a space that does not contact a search token, place Pico on your Hero sheet.",
     "expansion": "bonds of the wild",
     "image": "familiars/d2e/bonds-of-the-wild/bw-pico.png",
     "xws": "pico"
@@ -23,6 +38,11 @@
   {
     "name": "pico",
     "points": 3,
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
     "expansion": "bonds of the wild",
     "image": "familiars/d2e/bonds-of-the-wild/bw-pico-back.png",
     "xws": "pico"
@@ -30,6 +50,11 @@
   {
     "name": "skye",
     "points": 4,
+    "speed": "5",
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": "Skye ignores the effects of terrain. Each time a hero performs a Ranged attack that targets a monster adjacent to Skye, that attack gains +2 Range. After dice are rolled, you may discard Skye. If you do, that attack gains +1 Heart.",
     "expansion": "bonds of the wild",
     "image": "familiars/d2e/bonds-of-the-wild/bw-skye.png",
     "xws": "skye"
@@ -37,6 +62,11 @@
   {
     "name": "skye",
     "points": 5,
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
     "expansion": "bonds of the wild",
     "image": "familiars/d2e/bonds-of-the-wild/bw-skye-back.png",
     "xws": "skye"
@@ -44,6 +74,11 @@
   {
     "name": "brightblaze",
     "points": 6,
+    "speed": "4",
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": "Each attack targeting a monster adjacent to Brightblaze gains Pierce 1.",
     "expansion": "conversion kit",
     "image": "familiars/d2e/conversion-kit/ck-brightblaze.png",
     "xws": "brightblaze"
@@ -51,6 +86,11 @@
   {
     "name": "brightblaze",
     "points": 7,
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
     "expansion": "conversion kit",
     "image": "familiars/d2e/conversion-kit/ck-brightblaze-back.png",
     "xws": "brightblaze"
@@ -58,6 +98,11 @@
   {
     "name": "pico",
     "points": 8,
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": "Pico is never placed on the map. Heroes carry Pico by placing his token on their Hero sheet. A monster may only target a hero carrying Pico for an attack if there are no other heroes closer to that monster and in its line of sight.",
     "expansion": "conversion kit",
     "image": "familiars/d2e/conversion-kit/ck-pico.png",
     "xws": "pico"
@@ -65,6 +110,11 @@
   {
     "name": "pico",
     "points": 9,
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
     "expansion": "conversion kit",
     "image": "familiars/d2e/conversion-kit/ck-pico-back.png",
     "xws": "pico"
@@ -72,6 +122,11 @@
   {
     "name": "skye",
     "points": 10,
+    "speed": "5",
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": "When moving, Skye ignores all figures and terrain. You may force a single monster adjacent to Skye to reroll 1 defense die or 1 attack die. If you do, remove Skye from the map.",
     "expansion": "conversion kit",
     "image": "familiars/d2e/conversion-kit/ck-skye.png",
     "xws": "skye"
@@ -79,6 +134,11 @@
   {
     "name": "skye",
     "points": 11,
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
     "expansion": "conversion kit",
     "image": "familiars/d2e/conversion-kit/ck-skye-back.png",
     "xws": "skye"
@@ -86,6 +146,11 @@
   {
     "name": "drakon",
     "points": 12,
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": "While your hero figure is replaced with the Drakon figure, add 1 additional gray die to your defense pool, 1 additional green power die to your attack pool, your speed is limited to 3 and you cannot gain movement points from items or suffering Fatigue.",
     "expansion": "maze of the drakon",
     "image": "familiars/motd/maze-of-the-drakon/motd-drakon.png",
     "xws": "drakon"
@@ -93,6 +158,11 @@
   {
     "name": "drakon",
     "points": 13,
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
     "expansion": "maze of the drakon",
     "image": "familiars/motd/maze-of-the-drakon/motd-drakon-back.png",
     "xws": "drakon"
@@ -100,6 +170,11 @@
   {
     "name": "roots of protection",
     "points": 14,
+    "speed": "0",
+    "health": "10",
+    "defense": "Black",
+    "attack": null,
+    "traits": "Each time any figure in a space containing Roots of Protection is affected by a Melee attack, add 1 additional black die to its defense pool. After the attack is resolved, Roots of Protection suffers Hearts equal to the Shields rolled on that die.",
     "expansion": "maze of the drakon",
     "image": "familiars/motd/maze-of-the-drakon/motd-roots-of-protection.png",
     "xws": "rootsofprotection"
@@ -107,6 +182,11 @@
   {
     "name": "roots of protection",
     "points": 15,
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
     "expansion": "maze of the drakon",
     "image": "familiars/motd/maze-of-the-drakon/motd-roots-of-protection-back.png",
     "xws": "rootsofprotection"
@@ -114,6 +194,11 @@
   {
     "name": "spring of life",
     "points": 16,
+    "speed": "0",
+    "health": "10",
+    "defense": "Red",
+    "attack": null,
+    "traits": "Any figure that ends its turn in a space containing Spring of Life immediately rolls 1 red power die and recovers Hearts equal to the Hearts rolled and Fatigue equal to the Surges rolled. Then Spring of Life suffers Hearts equal to the Hearts and Surges rolled.",
     "expansion": "maze of the drakon",
     "image": "familiars/motd/maze-of-the-drakon/motd-spring-of-life.png",
     "xws": "springoflife"
@@ -121,6 +206,11 @@
   {
     "name": "spring of life",
     "points": 17,
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
     "expansion": "maze of the drakon",
     "image": "familiars/motd/maze-of-the-drakon/motd-spring-of-life-back.png",
     "xws": "springoflife"
@@ -128,6 +218,11 @@
   {
     "name": "desmond",
     "points": 18,
+    "speed": "4",
+    "health": "10",
+    "defense": "Gray",
+    "attack": null,
+    "traits": "Action: Choose 1 hero within 2 spaces of you. That hero recovers 1 Heart. During Act II, add 1 additional gray defense die to Desmond's defense pool.",
     "expansion": "nature's ire",
     "image": "familiars/d2e/natures-ire/ni-desmond.png",
     "xws": "desmond"
@@ -135,6 +230,11 @@
   {
     "name": "desmond",
     "points": 19,
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
     "expansion": "nature's ire",
     "image": "familiars/d2e/natures-ire/ni-desmond-back.png",
     "xws": "desmond"

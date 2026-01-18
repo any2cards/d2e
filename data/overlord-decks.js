@@ -2,6 +2,11 @@
   {
     "name": "critical blow",
     "points": 0,
+    "deck": "Basic",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a monster attacks a hero, after rolling dice. The attack gains: Surge: +3 Hearts",
+    "xp cost": "0",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/basic/bg-critical-blow.png",
     "xws": "criticalblow"
@@ -9,6 +14,11 @@
   {
     "name": "dark charm",
     "points": 1,
+    "deck": "Basic",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card on a hero at the start of your turn. The hero tests Willpower. If he passes, draw 1 Overlord card. If he fails, you may perform a move or attack action with that hero as if he were one of your monsters this turn. You cannot force him to suffer Fatigue or use a Potion, but you may force him to attack himself.",
+    "xp cost": "0",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/basic/bg-dark-charm.png",
     "xws": "darkcharm"
@@ -16,6 +26,11 @@
   {
     "name": "dark fortune",
     "points": 2,
+    "deck": "Basic",
+    "count": 2,
+    "type": "Event",
+    "ability": "Play this card after you roll dice. You may reroll 1 die.",
+    "xp cost": "0",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/basic/bg-dark-fortune.png",
     "xws": "darkfortune"
@@ -23,6 +38,11 @@
   {
     "name": "dark might",
     "points": 3,
+    "deck": "Basic",
+    "count": 2,
+    "type": "Magic",
+    "ability": "Play this card after you roll dice for an attack. Add 1 Surge to the results.",
+    "xp cost": "0",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/basic/bg-dark-might.png",
     "xws": "darkmight"
@@ -30,6 +50,11 @@
   {
     "name": "dash",
     "points": 4,
+    "deck": "Basic",
+    "count": 2,
+    "type": "Event",
+    "ability": "Play this card when activating a monster during your turn. That monster may perform an additional move action this turn in addition to its normal 2 actions.",
+    "xp cost": "0",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/basic/bg-dash.png",
     "xws": "dash"
@@ -37,6 +62,11 @@
   {
     "name": "frenzy",
     "points": 5,
+    "deck": "Basic",
+    "count": 2,
+    "type": "Event",
+    "ability": "Play this card when activating a monster during your turn. That monster may perform an additional attack action this turn in addition to its normal 2 actions.",
+    "xp cost": "0",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/basic/bg-frenzy.png",
     "xws": "frenzy"
@@ -44,6 +74,11 @@
   {
     "name": "overlord-decks-back",
     "points": 6,
+    "deck": "Basic",
+    "count": null,
+    "type": null,
+    "ability": null,
+    "xp cost": null,
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/basic/bg-overlord-decks-back.png",
     "xws": "overlorddecksback"
@@ -51,6 +86,11 @@
   {
     "name": "pit trap",
     "points": 7,
+    "deck": "Basic",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card when a hero enters an empty space. He tests Awareness. If he fails, he suffers 1 Heart and loses 1 movement point. If he has no movement points to lose (such as if he suffered fatigue to move), he is Stunned.",
+    "xp cost": "0",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/basic/bg-pit-trap.png",
     "xws": "pittrap"
@@ -58,6 +98,11 @@
   {
     "name": "poison dart",
     "points": 8,
+    "deck": "Basic",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card when a hero opens a door or searches. He tests Awareness or Might (your choice). If he passes, draw 1 Overlord card. If he fails, he suffers 1 Heart, 1 Fatigue, and he is Poisoned.",
+    "xp cost": "0",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/basic/bg-poison-dart.png",
     "xws": "poisondart"
@@ -65,6 +110,11 @@
   {
     "name": "tripwire",
     "points": 9,
+    "deck": "Basic",
+    "count": 2,
+    "type": "Trap",
+    "ability": "Play this card when a hero enters an empty space during a move action. He tests Awareness. If he fails, he must end his move action (he can still suffer Fatigue to move further, or perform a second move action if this was his first action).",
+    "xp cost": "0",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/basic/bg-tripwire.png",
     "xws": "tripwire"
@@ -72,6 +122,11 @@
   {
     "name": "word of misery",
     "points": 10,
+    "deck": "Basic",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card at the start of your turn. During this turn, each time a hero suffers any Hearts, he also suffers 1 Fatigue in addition to the Hearts suffered.",
+    "xp cost": "0",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/basic/bg-word-of-misery.png",
     "xws": "wordofmisery"
@@ -79,6 +134,11 @@
   {
     "name": "diabolic power",
     "points": 11,
+    "deck": "Magus",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card during your turn. Search your deck and discard pile for the card of your choice, reveal it, and place it in your hand, then shuffle your deck. If the chosen card is an Event, every hero tests Willpower. If it is a Trap, every hero tests Awareness. If it is Magic, every hero tests Knowledge. Each hero who fails suffers 2 Hearts.",
+    "xp cost": "3",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/magus/bg-diabolic-power.png",
     "xws": "diabolicpower"
@@ -86,6 +146,11 @@
   {
     "name": "rise again",
     "points": 12,
+    "deck": "Magus",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card when a minion or master monster is defeated to place a fatigue token on the map in that monster's space. At the start of your next turn, place that monster on the map within 5 spaces of where it was defeated. At the end of your next turn, remove that monster (and the token) from the map.",
+    "xp cost": "2",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/magus/bg-rise-again.png",
     "xws": "riseagain"
@@ -93,6 +158,11 @@
   {
     "name": "unholy ritual",
     "points": 13,
+    "deck": "Magus",
+    "count": 2,
+    "type": "Magic",
+    "ability": "Play this card at the start of your turn. Choose one of your monster groups and draw Overlord cards equal to the number of figures from that group on the map. Choose and keep 1 card per hero and discard the rest. Each monster in that group performs 1 less action during this turn.",
+    "xp cost": "1",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/magus/bg-unholy-ritual.png",
     "xws": "unholyritual"
@@ -100,6 +170,11 @@
   {
     "name": "unholy ritual errata",
     "points": 14,
+    "deck": "Magus",
+    "count": 2,
+    "type": "Magic",
+    "ability": "Play this card at the start of your turn. Choose one of your monster groups and draw Overlord cards equal to the number of figures from that group on the map. Choose and keep 2 cards and discard the rest. Each monster in that group performs 1 less action during this turn.",
+    "xp cost": "1",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/magus/bg-unholy-ritual-errata.png",
     "xws": "unholyritualerrata"
@@ -107,6 +182,11 @@
   {
     "name": "word of despair",
     "points": 15,
+    "deck": "Magus",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card at the end of your turn. Each hero tests Willpower. Each hero who fails suffers 1 Fatigue each time he performs an action during his next turn. This Fatigue is suffered after the hero completely resolves the action. (He may perform actions even if his Fatigue equals his Stamina; excess Fatigue is converted to Hearts as usual).",
+    "xp cost": "2",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/magus/bg-word-of-despair.png",
     "xws": "wordofdespair"
@@ -114,6 +194,11 @@
   {
     "name": "word of pain",
     "points": 16,
+    "deck": "Magus",
+    "count": 2,
+    "type": "Magic",
+    "ability": "Play this card at the end of your turn. Each hero tests Might. Each hero who fails suffers 1 Heart.",
+    "xp cost": "1",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/magus/bg-word-of-pain.png",
     "xws": "wordofpain"
@@ -121,6 +206,11 @@
   {
     "name": "curse of the monkey god",
     "points": 17,
+    "deck": "Saboteur",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card after a hero searches. That hero tests Knowledge. If he passes, draw 1 Overlord card. If he fails, he becomes a monkey until the end of his next turn. Take 1 of his hero tokens as a reminder. Monkeys cannot roll defense dice (except to test an attribute), have a Speed of 5, and cannot attack for any reason.",
+    "xp cost": "2",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/saboteur/bg-curse-of-the-monkey-god.png",
     "xws": "curseofthemonkeygod"
@@ -128,6 +218,11 @@
   {
     "name": "explosive runes",
     "points": 18,
+    "deck": "Saboteur",
+    "count": 2,
+    "type": "Trap",
+    "ability": "Play this card after a hero opens a door or searches. That hero, and each hero within 2 spaces of him tests Awareness. Each hero who fails suffers 1 Heart for each Shield rolled in excess of his Awareness.",
+    "xp cost": "1",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/saboteur/bg-explosive-runes.png",
     "xws": "explosiverunes"
@@ -135,6 +230,11 @@
   {
     "name": "uthuk demon trap",
     "points": 19,
+    "deck": "Saboteur",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card after a hero opens a door or searches. He tests Awareness or Might (his choice). If he passes, he suffers Hearts equal to the attribute tested. If he fails, he is defeated.",
+    "xp cost": "3",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/saboteur/bg-uthuk-demon-trap.png",
     "xws": "uthukdemontrap"
@@ -142,6 +242,11 @@
   {
     "name": "web trap",
     "points": 20,
+    "deck": "Saboteur",
+    "count": 2,
+    "type": "Trap",
+    "ability": "Play this card when a hero enters an empty space. That hero and each hero adjacent to him tests Might. Each hero who fails is Immobilized.",
+    "xp cost": "1",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/saboteur/bg-web-trap.png",
     "xws": "webtrap"
@@ -149,6 +254,11 @@
   {
     "name": "wicked laughter",
     "points": 21,
+    "deck": "Saboteur",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a hero passes an attribute test. The hero must take the test again, this time treating his attribute as if it were 1 lower. If the hero passes this new attribute test, draw 1 Overlord card.",
+    "xp cost": "2",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/saboteur/bg-wicked-laughter.png",
     "xws": "wickedlaughter"
@@ -156,6 +266,11 @@
   {
     "name": "dark resilience",
     "points": 22,
+    "deck": "Universal",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card on a monster during your turn. Roll 2 red dice. The monster recovers Hearts equal to the Hearts rolled.",
+    "xp cost": "1",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/universal/bg-dark-resilience.png",
     "xws": "darkresilience"
@@ -163,6 +278,11 @@
   {
     "name": "plan ahead",
     "points": 23,
+    "deck": "Universal",
+    "count": 2,
+    "type": "Event",
+    "ability": "Play this card on your turn. Look at the top 5 cards of the Overlord deck and place them on top of the deck in the order of your choice.",
+    "xp cost": "1",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/universal/bg-plan-ahead.png",
     "xws": "planahead"
@@ -170,6 +290,11 @@
   {
     "name": "schemes",
     "points": 24,
+    "deck": "Universal",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card on your turn. Choose Event, Magic, or Trap. Reveal cards from the top of the Overlord deck until you find a card with the chosen trait or until you run out of cards in your deck. Add the card with the chosen trait (if possible) to your hand and discard all other cards revealed.",
+    "xp cost": "1",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/universal/bg-schemes.png",
     "xws": "schemes"
@@ -177,6 +302,11 @@
   {
     "name": "bloodlust",
     "points": 25,
+    "deck": "Warlord",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a hero is defeated. Draw 1 Overlord card per hero in the game. This is in addition to your normal 1 Overlord card drawn for defeating a hero.",
+    "xp cost": "2",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/warlord/bg-bloodlust.png",
     "xws": "bloodlust"
@@ -184,6 +314,11 @@
   {
     "name": "bloodlust errata",
     "points": 26,
+    "deck": "Warlord",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a hero is knocked out. Draw 2 Overlord cards. This is in addition to your normal 1 Overlord card (or threat token) drawn for defeating a hero.",
+    "xp cost": "2",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/warlord/bg-bloodlust-errata.png",
     "xws": "bloodlusterrata"
@@ -191,6 +326,11 @@
   {
     "name": "blood rage",
     "points": 27,
+    "deck": "Warlord",
+    "count": 2,
+    "type": "Event",
+    "ability": "Play this card at the end of your turn and choose a monster. That monster immediately performs 2 attack actions, and is then defeated.",
+    "xp cost": "1",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/warlord/bg-blood-rage.png",
     "xws": "bloodrage"
@@ -198,6 +338,11 @@
   {
     "name": "dark fortitude",
     "points": 28,
+    "deck": "Warlord",
+    "count": 2,
+    "type": "Event",
+    "ability": "Play this card after rolling defense dice. Add 2 Shields to the results.",
+    "xp cost": "1",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/warlord/bg-dark-fortitude.png",
     "xws": "darkfortitude"
@@ -205,6 +350,11 @@
   {
     "name": "expert blow",
     "points": 29,
+    "deck": "Warlord",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a monster attacks a hero, before rolling dice. The attack gains +2 Hearts and: Surge: Return this card to your hand.",
+    "xp cost": "2",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/warlord/bg-expert-blow.png",
     "xws": "expertblow"
@@ -212,6 +362,11 @@
   {
     "name": "reinforce",
     "points": 30,
+    "deck": "Warlord",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card at the start of your turn and choose one of your monster groups in this quest (except for a lieutenant). You may place monster figures on the map up to the group limit for that monster. These monsters may not be placed within 3 spaces of any hero, but may otherwise be placed in any empty space.",
+    "xp cost": "3",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/warlord/bg-reinforce.png",
     "xws": "reinforce"
@@ -219,6 +374,11 @@
   {
     "name": "reinforce errata",
     "points": 31,
+    "deck": "Warlord",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card at the end of your turn and choose a master monster on the map. Place minion monsters of that monster's group in empty spaces adjacent to that monster up to the group limit. These monsters may not be placed within 3 spaces of any hero, but may otherwise be placed in any empty space.",
+    "xp cost": "3",
     "expansion": "base game",
     "image": "overlord-decks/d2e/base-game/warlord/bg-reinforce-errata.png",
     "xws": "reinforceerrata"
@@ -226,6 +386,11 @@
   {
     "name": "hunk of junk",
     "points": 32,
+    "deck": "Overlord Reward",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card when a hero uses a Potion or Item Search card, before its effect is resolved. That hero tests Knowledge. If he passes, draw 1 Overlord card. If he fails, flip that Search card facedown without resolving its effect.",
+    "xp cost": "-",
     "expansion": "bonds of the wild",
     "image": "overlord-decks/d2e/bonds-of-the-wild/overlord-reward/bw-hunk-of-junk.png",
     "xws": "hunkofjunk"
@@ -233,6 +398,11 @@
   {
     "name": "fire gems",
     "points": 33,
+    "deck": "Overlord Reward",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card when a hero enters an empty space. He tests Awareness. If he fails, roll 1 red power die. That hero and each figure adjacent to him suffers Hearts equal to the Hearts rolled.",
+    "xp cost": "-",
     "expansion": "crown of destiny",
     "image": "overlord-decks/d2e/crown-of-destiny/overlord-reward/cd-fire-gems.png",
     "xws": "firegems"
@@ -240,6 +410,11 @@
   {
     "name": "forgotten sorcery",
     "points": 34,
+    "deck": "Overlord Reward",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card when you activate a monster group with the Ranged attack type. Until the end of the round, each monster in that group gains: Sorcery 2: After making an attack roll, this monster may convert up to 2 range to Hearts, or up to 2 Hearts to range.",
+    "xp cost": "-",
     "expansion": "crusade of the forgotten",
     "image": "overlord-decks/d2e/crusade-of-the-forgotten/overlord-reward/cf-forgotten-sorcery.png",
     "xws": "forgottensorcery"
@@ -247,6 +422,11 @@
   {
     "name": "power in numbers",
     "points": 35,
+    "deck": "Overlord Reward",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card during your turn and choose a map tile. If there are more monsters on that map tile than heroes, each hero on that tile suffers 1 Heart and 2 Fatigue, and each monster on that tile recovers 2 Hearts.",
+    "xp cost": "-",
     "expansion": "guardians of deephall",
     "image": "overlord-decks/d2e/guardians-of-deephall/overlord-reward/gd-power-in-numbers.png",
     "xws": "powerinnumbers"
@@ -254,6 +434,11 @@
   {
     "name": "befuddle",
     "points": 36,
+    "deck": "Basic II",
+    "count": 2,
+    "type": "Magic",
+    "ability": "Play this card immediately after a hero passes an attribute test. The hero must reroll the test and add 1 Shield to the results. Scout: The hero also suffers 1 Fatigue.",
+    "xp cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "overlord-decks/d2e/labyrinth-of-ruin/basic2/lr-befuddle.png",
     "xws": "befuddle"
@@ -261,6 +446,11 @@
   {
     "name": "blinding speed",
     "points": 37,
+    "deck": "Basic II",
+    "count": 2,
+    "type": "Magic",
+    "ability": "Play this card when activating a monster. Choose a hero to test both Knowledge and Awareness. If he passes both tests, draw 1 Overlord card. If he fails at least one test, the monster gains 2 movement points. Warrior: If he fails both tests, the monster gains 4 movement points.",
+    "xp cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "overlord-decks/d2e/labyrinth-of-ruin/basic2/lr-blinding-speed.png",
     "xws": "blindingspeed"
@@ -268,6 +458,11 @@
   {
     "name": "dirty fighting",
     "points": 38,
+    "deck": "Basic II",
+    "count": 2,
+    "type": "Event",
+    "ability": "Play this card when a monster attacks a hero, after rolling dice. Add 1 Surge to the results. Healer: This attack gains Pierce 1.",
+    "xp cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "overlord-decks/d2e/labyrinth-of-ruin/basic2/lr-dirty-fighting.png",
     "xws": "dirtyfighting"
@@ -275,6 +470,11 @@
   {
     "name": "flurry",
     "points": 39,
+    "deck": "Basic II",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a monster attacks a hero, after rolling dice. This attack gains: Surge: Perform an additional attack after resolving this attack. Add 1 additional green power die to the monster's attack pool.",
+    "xp cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "overlord-decks/d2e/labyrinth-of-ruin/basic2/lr-flurry.png",
     "xws": "flurry"
@@ -282,6 +482,11 @@
   {
     "name": "grease trap",
     "points": 40,
+    "deck": "Basic II",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card when a hero enters an empty space from an adjacent space. He tests Awareness. If he passes, he suffers 1 Fatigue. If he fails, move the hero 3 spaces in a straight line in the same direction he last moved. For each space he cannot move, he suffers 1 Heart or 1 Fatigue (your choice). Mage: If he fails, the hero is also Stunned.",
+    "xp cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "overlord-decks/d2e/labyrinth-of-ruin/basic2/lr-grease-trap.png",
     "xws": "greasetrap"
@@ -289,6 +494,11 @@
   {
     "name": "mental error",
     "points": 41,
+    "deck": "Basic II",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a monster attacks a hero, after rolling dice. The hero tests Knowledge. If he passes, the hero suffers 1 Fatigue. If he fails, the attack gains +2 Hearts. Warrior: If he fails, the attack also gains 1 Surge.",
+    "xp cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "overlord-decks/d2e/labyrinth-of-ruin/basic2/lr-mental-error.png",
     "xws": "mentalerror"
@@ -296,6 +506,11 @@
   {
     "name": "mimic",
     "points": 42,
+    "deck": "Basic II",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card when a hero searches, before revealing the search token. Place a fatigue token on the search token. The search token is now treated as a minion Volucrix Reaver. Once defeated, the search token is immediately revealed and is considered searched by the closest hero. Scout: The Volucrix Reaver may perform an immediate Skirmish action.",
+    "xp cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "overlord-decks/d2e/labyrinth-of-ruin/basic2/lr-mimic.png",
     "xws": "mimic"
@@ -303,6 +518,11 @@
   {
     "name": "overwhelm",
     "points": 43,
+    "deck": "Basic II",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card during your turn on a hero adjacent to 4 or more monsters. He tests Willpower. If he passes, immediately perform an attack with 1 adjacent monster or your choice. If he fails, the hero is Stunned and Immobilized.",
+    "xp cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "overlord-decks/d2e/labyrinth-of-ruin/basic2/lr-overwhelm.png",
     "xws": "overwhelm"
@@ -310,6 +530,11 @@
   {
     "name": "reflective ward",
     "points": 44,
+    "deck": "Basic II",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card when a hero attacks a monster, before rolling dice. The attacking hero may choose to suffer 2 Fatigue. If he cannot suffer the Fatigue, or chooses not to, he will be dealt Hearts equal to the Hearts dealt to the monster.",
+    "xp cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "overlord-decks/d2e/labyrinth-of-ruin/basic2/lr-reflective-ward.png",
     "xws": "reflectiveward"
@@ -317,6 +542,11 @@
   {
     "name": "sign of weakness",
     "points": 45,
+    "deck": "Basic II",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card when a hero performs a rest action. He tests Awareness. If he passes, draw 1 Overlord card. If he fails, each monster in that hero's line of sight may move 1 space. Healer: If he fails, the hero is also Cursed.",
+    "xp cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "overlord-decks/d2e/labyrinth-of-ruin/basic2/lr-sign-of-weakness.png",
     "xws": "signofweakness"
@@ -324,6 +554,11 @@
   {
     "name": "uncontrolled power",
     "points": 46,
+    "deck": "Basic II",
+    "count": 2,
+    "type": "Magic",
+    "ability": "Play this card when a hero attacks a monster, after rolling dice. He tests Willpower. If he fails, you choose how he spends his Surge results. You must spend as many Surge results as possible and the attack gains: Surge: Suffer 1 Fatigue. Mage: If he fails, the attack also gains: Surge: Suffer 1 Heart and 1 Fatigue",
+    "xp cost": "0",
     "expansion": "labyrinth of ruin",
     "image": "overlord-decks/d2e/labyrinth-of-ruin/basic2/lr-uncontrolled-power.png",
     "xws": "uncontrolledpower"
@@ -331,6 +566,11 @@
   {
     "name": "splig's revenge",
     "points": 47,
+    "deck": "Quest Reward",
+    "count": 1,
+    "type": "Event",
+    "ability": "Return this card to the game box at the start of your turn. Replace a figure with goblin in its name with Splig. Splig cannot wield a relic. At the end of the quest, if Splig was not defeated, regain this card from the game box.",
+    "xp cost": "-",
     "expansion": "labyrinth of ruin",
     "image": "overlord-decks/d2e/labyrinth-of-ruin/quest-reward/lr-spligs-revenge.png",
     "xws": "spligsrevenge"
@@ -338,6 +578,11 @@
   {
     "name": "twin souls",
     "points": 48,
+    "deck": "Quest Reward",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card when activating Lord Merick Farrow. Immediately remove Lord Merick Farrow from the map and replace him with Sir Alric Farrow. Sir Alric Farrow cannon wield a relic.",
+    "xp cost": "-",
     "expansion": "labyrinth of ruin",
     "image": "overlord-decks/d2e/labyrinth-of-ruin/quest-reward/lr-twin-souls.png",
     "xws": "twinsouls"
@@ -345,6 +590,11 @@
   {
     "name": "dark remedy",
     "points": 49,
+    "deck": "Universal",
+    "count": 2,
+    "type": "Magic",
+    "ability": "Play this card on a monster group during your turn and choose 1 condition. Each monster in that group may discard 1 token corresponding to the chosen condition.",
+    "xp cost": "1",
     "expansion": "labyrinth of ruin",
     "image": "overlord-decks/d2e/labyrinth-of-ruin/universal/lr-dark-remedy.png",
     "xws": "darkremedy"
@@ -352,6 +602,11 @@
   {
     "name": "blood bargaining",
     "points": 50,
+    "deck": "Punisher",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card at the start of a hero's turn. Take 1 hero token from each hero and choose an equal number of monsters in play. Assign 1 token to each chosen monster. Until the end of this round, each time a monster suffers Hearts, the hero whose token is assigned to that monster suffers an equal amount of Hearts.",
+    "xp cost": "3",
     "expansion": "lair of the wyrm",
     "image": "overlord-decks/d2e/lair-of-the-wyrm/punisher/lw-blood-bargaining.png",
     "xws": "bloodbargaining"
@@ -359,6 +614,11 @@
   {
     "name": "exploit weakness",
     "points": 51,
+    "deck": "Punisher",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card after a hero ends his turn with an amount of Fatigue on his Hero sheet equal to his Stamina. Immediately move a monster up to its Speed toward that hero. Then perform an attack with that monster against that hero, if able.",
+    "xp cost": "2",
     "expansion": "lair of the wyrm",
     "image": "overlord-decks/d2e/lair-of-the-wyrm/punisher/lw-exploit-weakness.png",
     "xws": "exploitweakness"
@@ -366,6 +626,11 @@
   {
     "name": "no rest for the wicked",
     "points": 52,
+    "deck": "Punisher",
+    "count": 2,
+    "type": "Event",
+    "ability": "Play this card when a hero suffers 1 Fatigue to gain an additional movement point. Choose 1 monster to move 1 space immediately after the hero spends that movement point. Until the start of your turn, you may trigger this ability each time a hero suffers 1 Fatigue to gain an additional movement point.",
+    "xp cost": "1",
     "expansion": "lair of the wyrm",
     "image": "overlord-decks/d2e/lair-of-the-wyrm/punisher/lw-no-rest-for-the-wicked.png",
     "xws": "norestforthewicked"
@@ -373,6 +638,11 @@
   {
     "name": "price of prevention",
     "points": 53,
+    "deck": "Punisher",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card on a hero at the start of your turn. The hero may suffer Hearts equal to an attribute of his choice to test that attribute. If he passes, discard this card. If he fails, or chooses not to test an attribute, you may search your discard pile for 1 Event or Trap card and add it to your hand.",
+    "xp cost": "2",
     "expansion": "lair of the wyrm",
     "image": "overlord-decks/d2e/lair-of-the-wyrm/punisher/lw-price-of-prevention.png",
     "xws": "priceofprevention"
@@ -380,6 +650,11 @@
   {
     "name": "trading pains",
     "points": 54,
+    "deck": "Punisher",
+    "count": 2,
+    "type": "Event",
+    "ability": "Play this card on a hero when he would recover any amount of Hearts. In response to this card, the hero may choose to reduce the amount of Hearts he recovers. Another hero of your choice within 3 spaces of that hero suffers Hearts equal to half (rounded up) the Hearts recovered.",
+    "xp cost": "1",
     "expansion": "lair of the wyrm",
     "image": "overlord-decks/d2e/lair-of-the-wyrm/punisher/lw-trading-pains.png",
     "xws": "tradingpains"
@@ -387,6 +662,11 @@
   {
     "name": "the wyrm queen's favor",
     "points": 55,
+    "deck": "Rumor Reward",
+    "count": 1,
+    "type": "Special",
+    "ability": "Play this card at the start of your turn. Each hero tests Awareness. If all heroes pass, shuffle this card back into your deck. If a hero fails, choose 1 hero that failed his test and place 1 master hybrid sentinel within 3 spaces of that hero, respecting group limits. You may play this card even when hybrid sentinels are not 1 of your monster groups.",
+    "xp cost": "-",
     "expansion": "lair of the wyrm",
     "image": "overlord-decks/d2e/lair-of-the-wyrm/rumor-reward/lw-the-wyrm-queens-favor.png",
     "xws": "thewyrmqueensfavor"
@@ -394,6 +674,11 @@
   {
     "name": "dragonbone pendant",
     "points": 56,
+    "deck": "Enchanter",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card during on 1 monster group during your turn and keep it in your play area. Each attack performed by a monster in this group gains +1 Heart. Discard this card if a monster in this group defeats a hero.",
+    "xp cost": "1",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/enchanter/mr-dragonbone-pendant.png",
     "xws": "dragonbonependant"
@@ -401,6 +686,11 @@
   {
     "name": "elixir of stone",
     "points": 57,
+    "deck": "Enchanter",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card on 1 monster group during your turn and keep it in your play area. Each time a monster in this group is attacked, add 1 Shield to the results. Each attack that targets a monster in this group gains: Surge Surge: Discard \"Elixir of Stone.\"",
+    "xp cost": "1",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/enchanter/mr-elixir-of-stone.png",
     "xws": "elixirofstone"
@@ -408,6 +698,11 @@
   {
     "name": "rings of zhol'alam",
     "points": 58,
+    "deck": "Enchanter",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card on 1 monster group during your turn and keep it in your play area. Each time a monster in this group is defeated, each hero within 2 spaces of that monster suffers 1 Heart. Discard this card if there are no monsters in this group on the map.",
+    "xp cost": "1",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/enchanter/mr-rings-of-zholalam.png",
     "xws": "ringsofzholalam"
@@ -415,6 +710,11 @@
   {
     "name": "rune of the phoenix",
     "points": 59,
+    "deck": "Enchanter",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card on 1 monster group during your turn and keep it in your play area. Discard this card when a monster in this group suffers Hearts equal to its Health. That monster immediately recovers 5 Hearts.",
+    "xp cost": "2",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/enchanter/mr-rune-of-the-phoenix.png",
     "xws": "runeofthephoenix"
@@ -422,6 +722,11 @@
   {
     "name": "sign of the last zenith",
     "points": 60,
+    "deck": "Enchanter",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card on 1 monster group during your turn and keep it in your play area. Each time an Enchanter Overlord card is discarded from another monster group, play that card on this monster group and keep it in your play area. Then, draw an Overlord card.",
+    "xp cost": "3",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/enchanter/mr-sign-of-the-last-zenith.png",
     "xws": "signofthelastzenith"
@@ -429,6 +734,11 @@
   {
     "name": "ward of peace",
     "points": 61,
+    "deck": "Enchanter",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card on 1 monster group during your turn and keep it in your play area. Discard all conditions from this monster group. Each monster in this group is immune to all conditions. Discard this card if a monster in this group spends a Surge result during an attack.",
+    "xp cost": "2",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/enchanter/mr-ward-of-peace.png",
     "xws": "wardofpeace"
@@ -436,6 +746,11 @@
   {
     "name": "wristlet of wind",
     "points": 62,
+    "deck": "Enchanter",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card on 1 monster group during your turn and keep it in your play area. After a monster in this group performs an attack, it may move 1 space. Discard this card immediately if a monster in this group does not move 1 or more spaces during its activation.",
+    "xp cost": "1",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/enchanter/mr-wristlet-of-wind.png",
     "xws": "wristletofwind"
@@ -443,6 +758,11 @@
   {
     "name": "down and out",
     "points": 63,
+    "deck": "Overlord Reward",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a hero performs a revive action, before dice are rolled. That hero or the knocked-out hero immediately tests Might, the heroes' choice. If the chosen hero fails, the knocked-out hero does not recover any Hearts and remains knocked-out. If the chosen hero passes, draw 1 Overlord card.",
+    "xp cost": "-",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/overlord-reward/mr-down-and-out.png",
     "xws": "downandout"
@@ -450,6 +770,11 @@
   {
     "name": "endless supply",
     "points": 64,
+    "deck": "Overlord Reward",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card at the start of your turn. If you started this quest with 20 or more cards in your Overlord deck, draw 4 Overlord cards.",
+    "xp cost": "-",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/overlord-reward/mr-endless-supply.png",
     "xws": "endlesssupply"
@@ -457,6 +782,11 @@
   {
     "name": "unbroken",
     "points": 65,
+    "deck": "Overlord Reward",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card on 1 monster at the end of your turn. Until the start of your next turn, each time that monster suffers 3 or more Hearts, it suffers 2 Hearts instead.",
+    "xp cost": "-",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/overlord-reward/mr-unbroken.png",
     "xws": "unbroken"
@@ -464,6 +794,11 @@
   {
     "name": "beneath the shadow",
     "points": 66,
+    "deck": "Unkindness",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card on 1 servant at the end of your turn and keep this card in your play area. This servant gains: Shadow: A hero adjacent to this monster that declares an attack must spend 1 Surge or that attack is a miss. DIscard this card if this servant is defeated.",
+    "xp cost": "1",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/unkindness/mr-beneath-the-shadow.png",
     "xws": "beneaththeshadow"
@@ -471,6 +806,11 @@
   {
     "name": "beware",
     "points": 67,
+    "deck": "Unkindness",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card on 1 servant at the end of your turn and keep this card in your play area. This servant gains: Skittish: Each time a hero within 3 spaces of this figure suffers 1 Fatigue to gain 1 movement point, this monster may move 1 space. Discard this card if this servant is defeated.",
+    "xp cost": "1",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/unkindness/mr-beware.png",
     "xws": "beware"
@@ -478,6 +818,11 @@
   {
     "name": "call of the ravens",
     "points": 68,
+    "deck": "Unkindness",
+    "count": 1,
+    "type": "Event",
+    "ability": "When purchased, place this card in your play area. This card cannot be discarded or shuffled into your deck. Exhaust this card at the start of your turn and choose 1 monster. Place 1 Raven Flock Servant token in a space adjacent to that monster. Then, that monster suffers 4 Hearts.",
+    "xp cost": "1",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/unkindness/mr-call-of-the-ravens.png",
     "xws": "calloftheravens"
@@ -485,6 +830,11 @@
   {
     "name": "envelop",
     "points": 69,
+    "deck": "Unkindness",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when 1 servant resolves an attack that defeats a hero. Remove his hero token from the map and place it on this card. If the servant is defeated (or of it is removed from the map for any reason), place the hero token in its space and discard this card. The hero cannot recover Hearts for any reason until this card is discarded.",
+    "xp cost": "3",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/unkindness/mr-envelop.png",
     "xws": "envelop"
@@ -492,6 +842,11 @@
   {
     "name": "feast",
     "points": 70,
+    "deck": "Unkindness",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a hero is defeated within 5 spaces of a servant and keep this card in your play area. That servant recovers all Hearts. That servant applies +3 to its Health while this card is in your play area. Discard this card if that servant is defeated.",
+    "xp cost": "1",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/unkindness/mr-feast.png",
     "xws": "feast"
@@ -499,6 +854,11 @@
   {
     "name": "ill omen",
     "points": 71,
+    "deck": "Unkindness",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card on 1 servant at the end of your turn and keep this card in your play area. This servant gains: Ominous: Each time a hero starts his turn within 3 spaces of this figure, he tests Willpower. If he fails, he is Doomed. Discard this card if this servant is defeated.",
+    "xp cost": "1",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/unkindness/mr-ill-omen.png",
     "xws": "illomen"
@@ -506,6 +866,11 @@
   {
     "name": "imitation",
     "points": 72,
+    "deck": "Unkindness",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card on 1 servant when a hero declares an attack that targets that servant. Immediately perform an attack that targets that hero, using the same attack type, special abilities, and dice of the weapon the hero declared for his attack. After this attack is resolved, if the hero was not defeated, he continues his attack.",
+    "xp cost": "2",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/unkindness/mr-imitation.png",
     "xws": "imitation"
@@ -513,6 +878,11 @@
   {
     "name": "sudden flurry",
     "points": 73,
+    "deck": "Unkindness",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when you activate a servant during your turn. Perform 1 additional attack with that servant. This attack affects each hero within 2 spaces of the servant.",
+    "xp cost": "2",
     "expansion": "manor of ravens",
     "image": "overlord-decks/d2e/manor-of-ravens/unkindness/mr-sudden-flurry.png",
     "xws": "suddenflurry"
@@ -520,6 +890,11 @@
   {
     "name": "unseen wings",
     "points": 74,
+    "deck": "Overlord Reward",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card during your turn and choose 1 monster group. Move up to 3 monsters in that group up to 3 spaces.",
+    "xp cost": "-",
     "expansion": "oath of the outcast",
     "image": "overlord-decks/d2e/oath-of-the-outcast/overlord-reward/oo-unseen-wings.png",
     "xws": "unseenwings"
@@ -527,6 +902,11 @@
   {
     "name": "black out",
     "points": 75,
+    "deck": "Shadowmancer",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card at the end of your turn. Until the start of your next turn, monsters cannot be targeted by an attack unless the attacking hero is within 2 spaces of them.",
+    "xp cost": "2",
     "expansion": "shadow of nerekhall",
     "image": "overlord-decks/d2e/shadow-of-nerekhall/shadowmancer/sn-black-out.png",
     "xws": "blackout"
@@ -534,6 +914,11 @@
   {
     "name": "imploding rift",
     "points": 76,
+    "deck": "Shadowmancer",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card when a hero enters an empty space. That hero and each hero adjacent to him tests Willpower. Each hero who fails suffers Fatigue up to his Stamina.",
+    "xp cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "overlord-decks/d2e/shadow-of-nerekhall/shadowmancer/sn-imploding-rift.png",
     "xws": "implodingrift"
@@ -541,6 +926,11 @@
   {
     "name": "mistrust",
     "points": 77,
+    "deck": "Shadowmancer",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card at the end of your turn. Until the start of your next turn, each time a hero enters a space adjacent to another hero, the first hero suffers 1 Fatigue.",
+    "xp cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "overlord-decks/d2e/shadow-of-nerekhall/shadowmancer/sn-mistrust.png",
     "xws": "mistrust"
@@ -548,6 +938,11 @@
   {
     "name": "out of darkness",
     "points": 78,
+    "deck": "Shadowmancer",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a hero is revived. Immediately perform an attack with that hero as if he were one of your monsters. This attack must target another hero.",
+    "xp cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "overlord-decks/d2e/shadow-of-nerekhall/shadowmancer/sn-out-of-darkness.png",
     "xws": "outofdarkness"
@@ -555,6 +950,11 @@
   {
     "name": "shadow of doubt",
     "points": 79,
+    "deck": "Shadowmancer",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card at the end of your turn and choose 1 hero. Next round, that hero takes his turn after all other heroes have taken their turns.",
+    "xp cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "overlord-decks/d2e/shadow-of-nerekhall/shadowmancer/sn-shadow-of-doubt.png",
     "xws": "shadowofdoubt"
@@ -562,6 +962,11 @@
   {
     "name": "shadow walk",
     "points": 80,
+    "deck": "Shadowmancer",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card when you activate a monster. During this activation, that monster gains: Fly: This figure may ignore enemy figures and the effects of terrain while moving. It must end its movement in an empty space following normal movement rules.",
+    "xp cost": "2",
     "expansion": "shadow of nerekhall",
     "image": "overlord-decks/d2e/shadow-of-nerekhall/shadowmancer/sn-shadow-walk.png",
     "xws": "shadowwalk"
@@ -569,6 +974,11 @@
   {
     "name": "treacherous shadows",
     "points": 81,
+    "deck": "Shadowmancer",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card at the start of your turn. Each hero tests Willpower. For each hero who fails, you may perform an attack with that hero as if he were one of your monsters. You can force him to attack himself.",
+    "xp cost": "3",
     "expansion": "shadow of nerekhall",
     "image": "overlord-decks/d2e/shadow-of-nerekhall/shadowmancer/sn-treacherous-shadows.png",
     "xws": "treacherousshadows"
@@ -576,6 +986,11 @@
   {
     "name": "diverse means",
     "points": 82,
+    "deck": "Universal",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a monster is attacked, defense dice are rolled. Reveal any number of Overlord cards from your hand. That monster recovers 1 Heart and adds 1 Shield to his defense results for each non-Basic Overlord card you reveal.",
+    "xp cost": "2",
     "expansion": "shadow of nerekhall",
     "image": "overlord-decks/d2e/shadow-of-nerekhall/universal/sn-diverse-means.png",
     "xws": "diversemeans"
@@ -583,6 +998,11 @@
   {
     "name": "diverse means errata",
     "points": 83,
+    "deck": "Universal",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a monster is attacked, after dice are rolled. Reveal any number of Overlord cards from your hand. That monster recovers 1 Heart and adds 1 Shield to his defense results for each non-Basic Overlord card you reveal.",
+    "xp cost": "2",
     "expansion": "shadow of nerekhall",
     "image": "overlord-decks/d2e/shadow-of-nerekhall/universal/sn-diverse-means-errata.png",
     "xws": "diversemeanserrata"
@@ -590,6 +1010,11 @@
   {
     "name": "placebo",
     "points": 84,
+    "deck": "Universal",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card at the start of any turn and choose a faceup Search card in a hero's play area. Flip that Search card facedown.",
+    "xp cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "overlord-decks/d2e/shadow-of-nerekhall/universal/sn-placebo.png",
     "xws": "placebo"
@@ -597,6 +1022,11 @@
   {
     "name": "refresh",
     "points": 85,
+    "deck": "Universal",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card during your turn to shuffle the Overlord discard pile into the Overlord deck. Then, draw 1 Overlord card.",
+    "xp cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "overlord-decks/d2e/shadow-of-nerekhall/universal/sn-refresh.png",
     "xws": "refresh"
@@ -604,6 +1034,11 @@
   {
     "name": "solidarity",
     "points": 86,
+    "deck": "Universal",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card at the start of your turn and choose 1 Hero sheet. Until the start of your next turn, each time any hero tests an attribute, he must use the attribute value on that Hero sheet.",
+    "xp cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "overlord-decks/d2e/shadow-of-nerekhall/universal/sn-solidarity.png",
     "xws": "solidarity"
@@ -611,6 +1046,11 @@
   {
     "name": "upgrade",
     "points": 87,
+    "deck": "Universal",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card during your turn and discard any 1 card from your hand. Search your Overlord deck for 1 card of your choice with the same trait (Event, Magic, Trap) as the discarded card. Reveal the chosen card and place it in your hand. Then shuffle your Overlord deck.",
+    "xp cost": "1",
     "expansion": "shadow of nerekhall",
     "image": "overlord-decks/d2e/shadow-of-nerekhall/universal/sn-upgrade.png",
     "xws": "upgrade"
@@ -618,6 +1058,11 @@
   {
     "name": "mockery",
     "points": 88,
+    "deck": "Overlord Reward",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a hero fails a Willpower test. Place this card in that hero's play area. Each time that hero tests any attribute, he rolls 1 additional gray die. If this card is in a hero's play area at the end of an encounter, the overlord may either discard it or return it to his hand.",
+    "xp cost": "-",
     "expansion": "shards of everdark",
     "image": "overlord-decks/d2e/shards-of-everdark/overlord-reward/se-mockery.png",
     "xws": "mockery"
@@ -625,6 +1070,11 @@
   {
     "name": "splice",
     "points": 89,
+    "deck": "Overlord Reward",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card on 1 monster group during your turn and keep it in your play area. Each time a monster in this group performs an attack, that attack gains: Surge: +2 Hearts and a monster within 3 spaces of this monster suffers 2 Hearts.",
+    "xp cost": "-",
     "expansion": "stewards of the secret",
     "image": "overlord-decks/d2e/stewards-of-the-secret/overlord-reward/ss-splice.png",
     "xws": "splice"
@@ -632,6 +1082,11 @@
   {
     "name": "danse macabre",
     "points": 90,
+    "deck": "Soulbinder",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card at the start of a servant's activation. Trace a path of 4 spaces starting in a space adjacent to that servant. Each hero on that path suffers Fatigue up to his Stamina. Then, move that servant and each of those heroes up to 3 spaces.",
+    "xp cost": "3",
     "expansion": "the chains that rust",
     "image": "overlord-decks/d2e/the-chains-that-rust/soulbinder/cr-danse-macabre.png",
     "xws": "dansemacabre"
@@ -639,6 +1094,11 @@
   {
     "name": "dark silhouette",
     "points": 91,
+    "deck": "Soulbinder",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card when a hero declares an attack that targets another non-large monster within 3 spaces of a servant. Place that monster in the servant's space and that servant in the target space. That servant is now the target of this attack.",
+    "xp cost": "1",
     "expansion": "the chains that rust",
     "image": "overlord-decks/d2e/the-chains-that-rust/soulbinder/cr-dark-silhouette.png",
     "xws": "darksilhouette"
@@ -646,6 +1106,11 @@
   {
     "name": "grotesque",
     "points": 92,
+    "deck": "Soulbinder",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card when a hero adjacent to a servant declares an attack. That hero tests Willpower. If he passes, he suffers 2 Fatigue. If he fails, he is Terrified.",
+    "xp cost": "1",
     "expansion": "the chains that rust",
     "image": "overlord-decks/d2e/the-chains-that-rust/soulbinder/cr-grotesque.png",
     "xws": "grotesque"
@@ -653,6 +1118,11 @@
   {
     "name": "haunted steps",
     "points": 93,
+    "deck": "Soulbinder",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card on 1 servant when a hero adjacent to that servant exists its current space. Move that servant 1 space, and keep this card in your play area. Each time a hero adjacent to this servant exists a space, you may move this servant 1 space. Discard this card if this servant is defeated.",
+    "xp cost": "2",
     "expansion": "the chains that rust",
     "image": "overlord-decks/d2e/the-chains-that-rust/soulbinder/cr-haunted-steps.png",
     "xws": "hauntedsteps"
@@ -660,6 +1130,11 @@
   {
     "name": "possessive",
     "points": 94,
+    "deck": "Soulbinder",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card when a hero defeats a servant. That hero suffers 2 Hearts. Then, if that hero was not defeated, perform an attack with that hero as if he were one of your monsters.",
+    "xp cost": "1",
     "expansion": "the chains that rust",
     "image": "overlord-decks/d2e/the-chains-that-rust/soulbinder/cr-possessive.png",
     "xws": "possessive"
@@ -667,6 +1142,11 @@
   {
     "name": "restless spirit",
     "points": 95,
+    "deck": "Soulbinder",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card on 1 servant at the end of your turn and keep this card in your play area. This servant applies +2 to its Speed while this card is in your play area. Discard this card if this servant is defeated.",
+    "xp cost": "1",
     "expansion": "the chains that rust",
     "image": "overlord-decks/d2e/the-chains-that-rust/soulbinder/cr-restless-spirit.png",
     "xws": "restlessspirit"
@@ -674,6 +1154,11 @@
   {
     "name": "ties that bind",
     "points": 96,
+    "deck": "Soulbinder",
+    "count": 1,
+    "type": "Event",
+    "ability": "When purchased, place this card in your play area. This card cannot be discarded or shuffled into your deck. Exhaust this card when a non-servant monster is defeated. Place 1 Scourge Servant token in that monster's space.",
+    "xp cost": "1",
     "expansion": "the chains that rust",
     "image": "overlord-decks/d2e/the-chains-that-rust/soulbinder/cr-ties-that-bind.png",
     "xws": "tiesthatbind"
@@ -681,6 +1166,11 @@
   {
     "name": "unblinking",
     "points": 97,
+    "deck": "Soulbinder",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card at the end of a servant's activation. Each hero in line of sight of that servant may choose to suffer either 2 Fatigue or 4 Hearts. For each hero who does not or cannot suffer either 2 Fatigue or 4 Hearts, draw 1 Overlord card.",
+    "xp cost": "2",
     "expansion": "the chains that rust",
     "image": "overlord-decks/d2e/the-chains-that-rust/soulbinder/cr-unblinking.png",
     "xws": "unblinking"
@@ -688,6 +1178,11 @@
   {
     "name": "adaptive contagion",
     "points": 98,
+    "deck": "Infector",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card during your turn and keep it in your play area. During this quest, when a hero would be Poisoned or Diseased, you may instead place 1 infection token in his play area. Additionally, when an infected hero performs an attribute test, you may discard 1 infection token from that hero before rolling dice to add 1 Shield to his results.",
+    "xp cost": "1",
     "expansion": "the trollfens",
     "image": "overlord-decks/d2e/the-trollfens/infector/tf-adaptive-contagion.png",
     "xws": "adaptivecontagion"
@@ -695,6 +1190,11 @@
   {
     "name": "airborne",
     "points": 99,
+    "deck": "Infector",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card during your turn and keep it in your play area. During this quest, each time a monster misses or deals no Hearts on an attack, the targeted hero gains 1 infection token. Additionally, when an infected hero performs an attack, you may discard 1 infection token from that hero after rolling dice to add 1 Shield to the defense results.",
+    "xp cost": "1",
     "expansion": "the trollfens",
     "image": "overlord-decks/d2e/the-trollfens/infector/tf-airborne.png",
     "xws": "airborne"
@@ -702,6 +1202,11 @@
   {
     "name": "contaminated",
     "points": 100,
+    "deck": "Infector",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card during your turn and keep it in your play area. During this quest, each of your monsters gains: Surge: Infect your target. Additionally, each time a monster performs an attack targeting an infected hero, you may discard 1 infection token from that hero after rolling dice to gain +1 Heart on the attack.",
+    "xp cost": "1",
     "expansion": "the trollfens",
     "image": "overlord-decks/d2e/the-trollfens/infector/tf-contaminated.png",
     "xws": "contaminated"
@@ -709,6 +1214,11 @@
   {
     "name": "dark host",
     "points": 101,
+    "deck": "Infector",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card at the start of your turn and discard 3 infection tokens from 1 infected hero. During this turn, you may perform 1 move action and 1 attack action with this hero, treating him as a monster in his own monster group.",
+    "xp cost": "3",
     "expansion": "the trollfens",
     "image": "overlord-decks/d2e/the-trollfens/infector/tf-dark-host.png",
     "xws": "darkhost"
@@ -716,6 +1226,11 @@
   {
     "name": "outbreak",
     "points": 102,
+    "deck": "Infector",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card at the start of an infected hero's turn. Each hero within 3 spaces of that hero must test Might. Each hero that fails gains 1 infection token and then suffers Hearts equal to the number of infection tokens he has in his play area.",
+    "xp cost": "2",
     "expansion": "the trollfens",
     "image": "overlord-decks/d2e/the-trollfens/infector/tf-outbreak.png",
     "xws": "outbreak"
@@ -723,6 +1238,11 @@
   {
     "name": "tainted blow",
     "points": 103,
+    "deck": "Infector",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a monster attacks a hero, before rolling dice. This attack gains 1 Surge and +1 Heart. Discard 2 infection tokens from the target hero to return this card to your hand.",
+    "xp cost": "2",
     "expansion": "the trollfens",
     "image": "overlord-decks/d2e/the-trollfens/infector/tf-tainted-blow.png",
     "xws": "taintedblow"
@@ -730,6 +1250,11 @@
   {
     "name": "virulent infection",
     "points": 104,
+    "deck": "Infector",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card at the start of your turn. During this turn, each time a hero gains an infection token, he gains 1 additional infection token.",
+    "xp cost": "1",
     "expansion": "the trollfens",
     "image": "overlord-decks/d2e/the-trollfens/infector/tf-virulent-infection.png",
     "xws": "virulentinfection"
@@ -737,6 +1262,11 @@
   {
     "name": "offertory affliction",
     "points": 105,
+    "deck": "Overlord Reward",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when activating a monster with a condition token during your turn. Choose a hero adjacent to that monster. Discard the condition token from the monster, and the chosen hero gains the corresponding Condition card.",
+    "xp cost": "-",
     "expansion": "the trollfens",
     "image": "overlord-decks/d2e/the-trollfens/overlord-reward/tf-offertory-affliction.png",
     "xws": "offertoryaffliction"
@@ -744,6 +1274,11 @@
   {
     "name": "secrets of flesh",
     "points": 106,
+    "deck": "Overlord Reward",
+    "count": 1,
+    "type": "Magic",
+    "ability": "Play this card at the start of your turn and roll 1 red power die. Each of your monsters recovers Hearts equal to the Hearts rolled.",
+    "xp cost": "-",
     "expansion": "the trollfens",
     "image": "overlord-decks/d2e/the-trollfens/overlord-reward/tf-secrets-of-flesh.png",
     "xws": "secretsofflesh"
@@ -751,6 +1286,11 @@
   {
     "name": "toxic reprisal",
     "points": 107,
+    "deck": "Overlord Reward",
+    "count": 1,
+    "type": "Trap",
+    "ability": "Play this card when a monster is defeated. A hero of your choice within 3 spaces of that monster is Diseased and Weakened.",
+    "xp cost": "-",
     "expansion": "the trollfens",
     "image": "overlord-decks/d2e/the-trollfens/overlord-reward/tf-toxic-reprisal.png",
     "xws": "toxicreprisal"
@@ -758,6 +1298,11 @@
   {
     "name": "hag's hunger",
     "points": 108,
+    "deck": "Overlord Reward",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a hero is defeated. Each hero within 3 spaces of that hero suffers 2 Fatigue.",
+    "xp cost": "-",
     "expansion": "treaty of champions",
     "image": "overlord-decks/d2e/treaty-of-champions/overlord-reward/tc-hags-hunger.png",
     "xws": "hagshunger"
@@ -765,6 +1310,11 @@
   {
     "name": "hard knocks",
     "points": 109,
+    "deck": "Overlord Reward",
+    "count": 1,
+    "type": "Event",
+    "ability": "Play this card when a monster attacks a hero, after rolling dice. This attack gains: Surge: Remove the target from the map, then place him on any empty space within 3 spaces of his original space. He counts as entering that space and is Stunned.",
+    "xp cost": "-",
     "expansion": "visions of dawn",
     "image": "overlord-decks/d2e/visions-of-dawn/overlord-reward/vd-hard-knocks.png",
     "xws": "hardknocks"
