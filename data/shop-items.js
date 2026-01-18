@@ -2,6 +2,14 @@
   {
     "name": "chainmail",
     "points": 0,
+    "act": "I",
+    "count": 1,
+    "cost": 150,
+    "traits": "Heavy Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Gray",
+    "rules": "You cannot equip Runes. Your Speed is reduced to 4 and cannot be increased above 4.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-chainmail.png",
     "xws": "chainmail"
@@ -9,6 +17,14 @@
   {
     "name": "crossbow",
     "points": 1,
+    "act": "I",
+    "count": 1,
+    "cost": 175,
+    "traits": "Bow, Exotic",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "Pierce 1. Surge: +2 Hearts. Surge: +1 Heart and move the target 1 space.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-crossbow.png",
     "xws": "crossbow"
@@ -16,6 +32,14 @@
   {
     "name": "elm greatbow",
     "points": 2,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Bow",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "Adjacent figures do not block your line of sight. Surge: +2 Hearts. Surge: +2 Range.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-elm-greatbow.png",
     "xws": "elmgreatbow"
@@ -23,6 +47,14 @@
   {
     "name": "heavy cloak",
     "points": 3,
+    "act": "I",
+    "count": 1,
+    "cost": 75,
+    "traits": "Cloak",
+    "attack": null,
+    "equip": "Armor",
+    "dice": null,
+    "rules": "Exhaust this card after the dice are rolled to cancel 1 Surge on an attack that targets you.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-heavy-cloak.png",
     "xws": "heavycloak"
@@ -30,6 +62,14 @@
   {
     "name": "immolation",
     "points": 4,
+    "act": "I",
+    "count": 1,
+    "cost": 150,
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red",
+    "rules": "Pierce 1. Surge: +1 Heart. Surge: +1 Range.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-immolation.png",
     "xws": "immolation"
@@ -37,6 +77,14 @@
   {
     "name": "iron battleaxe",
     "points": 5,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Axe",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red",
+    "rules": "Pierce 1. Surge: +2 Hearts. Surge: Pierce 1.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-iron-battleaxe.png",
     "xws": "ironbattleaxe"
@@ -44,6 +92,14 @@
   {
     "name": "iron shield",
     "points": 6,
+    "act": "I",
+    "count": 2,
+    "cost": 50,
+    "traits": "Shield",
+    "attack": null,
+    "equip": "One Hand",
+    "dice": null,
+    "rules": "Exhaust this card after rolling defense dice to either reroll 1 die or add 1 Shield to the results.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-iron-shield.png",
     "xws": "ironshield"
@@ -51,6 +107,14 @@
   {
     "name": "iron spear",
     "points": 7,
+    "act": "I",
+    "count": 1,
+    "cost": 75,
+    "traits": "Exotic",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "Reach. Surge: +1 Heart. Surge: Pierce 1.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-iron-spear.png",
     "xws": "ironspear"
@@ -58,6 +122,14 @@
   {
     "name": "leather armor",
     "points": 8,
+    "act": "I",
+    "count": 2,
+    "cost": 75,
+    "traits": "Light Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Brown",
+    "rules": "You gain +1 Health.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-leather-armor.png",
     "xws": "leatherarmor"
@@ -65,6 +137,14 @@
   {
     "name": "light hammer",
     "points": 9,
+    "act": "I",
+    "count": 1,
+    "cost": 75,
+    "traits": "Hammer",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "Surge: +2 Hearts. Surge: Stun",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-light-hammer.png",
     "xws": "lighthammer"
@@ -72,6 +152,14 @@
   {
     "name": "lucky charm",
     "points": 10,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card to reroll an attribute test. You must keep the new results.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-lucky-charm.png",
     "xws": "luckycharm"
@@ -79,6 +167,14 @@
   {
     "name": "magic staff",
     "points": 11,
+    "act": "I",
+    "count": 1,
+    "cost": 150,
+    "traits": "Magic, Staff",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red",
+    "rules": "Surge: Deal 1 Heart to another monster within 3 spaces of the target. Surge: +1 Range.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-magic-staff.png",
     "xws": "magicstaff"
@@ -86,6 +182,14 @@
   {
     "name": "mana weave",
     "points": 12,
+    "act": "I",
+    "count": 1,
+    "cost": 125,
+    "traits": "Rune",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "After rolling attack dice, exhaust this card to add 1 Surge to the results.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-mana-weave.png",
     "xws": "manaweave"
@@ -93,6 +197,14 @@
   {
     "name": "ring of power",
     "points": 13,
+    "act": "I",
+    "count": 1,
+    "cost": 150,
+    "traits": "Ring",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "You gain +1 Stamina.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-ring-of-power.png",
     "xws": "ringofpower"
@@ -100,6 +212,14 @@
   {
     "name": "scorpion helm",
     "points": 14,
+    "act": "I",
+    "count": 1,
+    "cost": 75,
+    "traits": "Helmet",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Your Ranged attacks gain +1 Range. Limit 1 Helmet equipped at a time.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-scorpion-helm.png",
     "xws": "scorpionhelm"
@@ -107,6 +227,14 @@
   {
     "name": "shop-items-act1-back",
     "points": 15,
+    "act": "I",
+    "count": null,
+    "cost": null,
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-shop-items-act1-back.png",
     "xws": "shopitemsact1back"
@@ -114,6 +242,14 @@
   {
     "name": "sling",
     "points": 16,
+    "act": "I",
+    "count": 1,
+    "cost": 75,
+    "traits": "Exotic",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "Surge: +1 Range, +1 Heart. Surge: Stun",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-sling.png",
     "xws": "sling"
@@ -121,6 +257,14 @@
   {
     "name": "steel broadsword",
     "points": 17,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red",
+    "rules": "Once per attack roll, you may reroll 1 red power die. Surge: +1 Heart.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-steel-broadsword.png",
     "xws": "steelbroadsword"
@@ -128,6 +272,14 @@
   {
     "name": "sunburst",
     "points": 18,
+    "act": "I",
+    "count": 1,
+    "cost": 125,
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "Surge: Stun. Surge: +2 Hearts.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act1/bg-sunburst.png",
     "xws": "sunburst"
@@ -135,6 +287,14 @@
   {
     "name": "demonhide leather",
     "points": 19,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Light Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Gray",
+    "rules": "When you perform 2 move actions on your turn, suffer 1 Fatigue at the end of your turn.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act2/bg-demonhide-leather.png",
     "xws": "demonhideleather"
@@ -142,6 +302,14 @@
   {
     "name": "dragontooth hammer",
     "points": 20,
+    "act": "II",
+    "count": 1,
+    "cost": 250,
+    "traits": "Hammer",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red Red",
+    "rules": "Pierce 1. If your other hand is empty, your attacks gain +1 Heart. Surge: Pierce 2.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act2/bg-dragontooth-hammer.png",
     "xws": "dragontoothhammer"
@@ -149,6 +317,14 @@
   {
     "name": "dwarven firebomb",
     "points": 21,
+    "act": "II",
+    "count": 1,
+    "cost": 175,
+    "traits": "Exotic",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Red Yellow",
+    "rules": "Surge: +1 Range, +1 Heart. Surge: Blast. Surge: Stun.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act2/bg-dwarven-firebomb.png",
     "xws": "dwarvenfirebomb"
@@ -156,6 +332,14 @@
   {
     "name": "elven cloak",
     "points": 22,
+    "act": "II",
+    "count": 1,
+    "cost": 225,
+    "traits": "Cloak",
+    "attack": null,
+    "equip": "Armor",
+    "dice": null,
+    "rules": "Exhaust this card after rolling defense dice to replace the results with a number of Shields equal to your Awareness.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act2/bg-elven-cloak.png",
     "xws": "elvencloak"
@@ -163,6 +347,14 @@
   {
     "name": "grinding axe",
     "points": 23,
+    "act": "II",
+    "count": 1,
+    "cost": 175,
+    "traits": "Axe",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red Red",
+    "rules": "Surge: +1 Heart. Surge Surge: +5 Hearts.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act2/bg-grinding-axe.png",
     "xws": "grindingaxe"
@@ -170,6 +362,14 @@
   {
     "name": "heavy steel shield",
     "points": 24,
+    "act": "II",
+    "count": 1,
+    "cost": 100,
+    "traits": "Shield",
+    "attack": null,
+    "equip": "One Hand",
+    "dice": null,
+    "rules": "Exhaust this card after rolling defense dice to reroll 1 defense die and add 1 Shield to the results.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act2/bg-heavy-steel-shield.png",
     "xws": "heavysteelshield"
@@ -177,6 +377,14 @@
   {
     "name": "ice storm",
     "points": 25,
+    "act": "II",
+    "count": 1,
+    "cost": 150,
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow Yellow",
+    "rules": "Surge: Immobilize. Surge: +2 Hearts.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act2/bg-ice-storm.png",
     "xws": "icestorm"
@@ -184,6 +392,14 @@
   {
     "name": "iron-bound ring",
     "points": 26,
+    "act": "II",
+    "count": 1,
+    "cost": 150,
+    "traits": "Ring",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "You gain +2 Health. If you roll one or more blanks when rolling defense dice, add 1 Shield to your results.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act2/bg-iron-bound-ring.png",
     "xws": "ironboundring"
@@ -191,6 +407,14 @@
   {
     "name": "latari longbow",
     "points": 27,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Bow",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow Yellow",
+    "rules": "Pierce 1. Surge: +2 Range. Surge: +2 Hearts.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act2/bg-latari-longbow.png",
     "xws": "latarilongbow"
@@ -198,6 +422,14 @@
   {
     "name": "lightning strike",
     "points": 28,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow Yellow",
+    "rules": "Surge: Blast. Surge: +2 Hearts. Surge: +2 Hearts.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act2/bg-lightning-strike.png",
     "xws": "lightningstrike"
@@ -205,6 +437,14 @@
   {
     "name": "mace of kellos",
     "points": 29,
+    "act": "II",
+    "count": 1,
+    "cost": 175,
+    "traits": "Hammer",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red Yellow",
+    "rules": "Surge: Each monster adjacent to you suffers 1 Heart. Surge: Recover 1 Heart.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act2/bg-mace-of-kellos.png",
     "xws": "maceofkellos"
@@ -212,6 +452,14 @@
   {
     "name": "platemail",
     "points": 30,
+    "act": "II",
+    "count": 1,
+    "cost": 250,
+    "traits": "Heavy Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Black",
+    "rules": "You cannot equip Runes. Your Speed is reduced to 3 and cannot be increased above 3.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act2/bg-platemail.png",
     "xws": "platemail"
@@ -219,6 +467,14 @@
   {
     "name": "shop-items-act2-back",
     "points": 31,
+    "act": "II",
+    "count": null,
+    "cost": null,
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act2/bg-shop-items-act2-back.png",
     "xws": "shopitemsact2back"
@@ -226,6 +482,14 @@
   {
     "name": "steel greatsword",
     "points": 32,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red Yellow",
+    "rules": "Once per attack, you may reroll 1 power die. Surge: Pierce 2. Surge: +1 Heart",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act2/bg-steel-greatsword.png",
     "xws": "steelgreatsword"
@@ -233,6 +497,14 @@
   {
     "name": "tival crystal",
     "points": 33,
+    "act": "II",
+    "count": 1,
+    "cost": 175,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Action: Exhaust this card to roll 1 red power die. You recover Hearts equal to the Hearts rolled.",
     "expansion": "base game",
     "image": "shop-items/d2e/base-game/act2/bg-tival-crystal.png",
     "xws": "tivalcrystal"
@@ -240,6 +512,14 @@
   {
     "name": "bearded axe",
     "points": 34,
+    "act": "I",
+    "count": 1,
+    "cost": 175,
+    "traits": "Axe",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red",
+    "rules": "Pierce 1. If, after resolving Pierce, the target has no Shields on its defense roll, this attack gains +2 Hearts. Surge: Pierce 2.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act1/lr-bearded-axe.png",
     "xws": "beardedaxe"
@@ -247,6 +527,14 @@
   {
     "name": "bow of bone",
     "points": 35,
+    "act": "I",
+    "count": 1,
+    "cost": 125,
+    "traits": "Bow",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "If you have not moved this turn, add 1 additional green power die to your attack pool. Surge: +2 Range, +1 Heart. Surge Surge: +3 Hearts.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act1/lr-bow-of-bone.png",
     "xws": "bowofbone"
@@ -254,6 +542,14 @@
   {
     "name": "elven boots",
     "points": 36,
+    "act": "I",
+    "count": 1,
+    "cost": 50,
+    "traits": "Boots",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "You gain 1 movement point at the start of your turn. Limit 1 Boots equipped at a time.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act1/lr-elven-boots.png",
     "xws": "elvenboots"
@@ -261,6 +557,14 @@
   {
     "name": "jinn's lamp",
     "points": 37,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Action: Exhaust this card to draw 1 card from the Act I Shop Item deck. Either equip it or shuffle it back into the deck. If you equip it, return this card to the game box.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act1/lr-jinns-lamp.png",
     "xws": "jinnslamp"
@@ -268,6 +572,14 @@
   {
     "name": "mace of aver",
     "points": 38,
+    "act": "I",
+    "count": 1,
+    "cost": 150,
+    "traits": "Hammer",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Green Green",
+    "rules": "Surge: +2 Hearts. Sure Surge: +2 Hearts, Stun.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act1/lr-mace-of-aver.png",
     "xws": "maceofaver"
@@ -275,6 +587,14 @@
   {
     "name": "poisoned blowgun",
     "points": 39,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Exotic",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Green",
+    "rules": "Pierce 1. Surge: +1 Heart, Poison. Surge: +1 Range, +1 Heart.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act1/lr-poisoned-blowgun.png",
     "xws": "poisonedblowgun"
@@ -282,6 +602,14 @@
   {
     "name": "rune plate",
     "points": 40,
+    "act": "I",
+    "count": 1,
+    "cost": 175,
+    "traits": "Heavy Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Gray",
+    "rules": "If your Knowledge is 4 or higher, gain +2 Health. If you have a Rune equipped, replace this card's gray defense die with a black defense die.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act1/lr-rune-plate.png",
     "xws": "runeplate"
@@ -289,6 +617,14 @@
   {
     "name": "serpent dagger",
     "points": 41,
+    "act": "I",
+    "count": 1,
+    "cost": 125,
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Green",
+    "rules": "If the target is Poisoned, this attack gains +2 Hearts. Surge Surge: The target is Poisoned (even if you didn't deal any Hearts). Surge: Pierce 2.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act1/lr-serpent-dagger.png",
     "xws": "serpentdagger"
@@ -296,6 +632,14 @@
   {
     "name": "shield of light",
     "points": 42,
+    "act": "I",
+    "count": 1,
+    "cost": 75,
+    "traits": "Shield",
+    "attack": null,
+    "equip": "One Hand",
+    "dice": null,
+    "rules": "Exhaust this card after rolling defense dice to either reroll 1 die or add 1 Shield to the results. If you suffer no Hearts from this attack, recover 1 Heart.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act1/lr-shield-of-light.png",
     "xws": "shieldoflight"
@@ -303,6 +647,14 @@
   {
     "name": "teleportation rune",
     "points": 43,
+    "act": "I",
+    "count": 1,
+    "cost": 125,
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "Surge: +1 Range, +1 Heart. Surge: After resolving this attack, you may choose an empty space within 2 spaces of you and place your figure in the chosen space.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act1/lr-teleportation-rune.png",
     "xws": "teleportationrune"
@@ -310,6 +662,14 @@
   {
     "name": "thief's vest",
     "points": 44,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Light Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Brown",
+    "rules": "You gain +1 Might and +1 Awareness up to a maximum of 6.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act1/lr-thiefs-vest.png",
     "xws": "thiefsvest"
@@ -317,6 +677,14 @@
   {
     "name": "black iron helm",
     "points": 45,
+    "act": "II",
+    "count": 1,
+    "cost": 150,
+    "traits": "Helmet",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "You gain +2 Health. Add 1 Shield to your defense pool results. Limit 1 Helmet equipped at a time.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act2/lr-black-iron-helm.png",
     "xws": "blackironhelm"
@@ -324,6 +692,14 @@
   {
     "name": "bow of the eclipse",
     "points": 46,
+    "act": "II",
+    "count": 1,
+    "cost": 250,
+    "traits": "Bow, Exotic",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red Green",
+    "rules": "Pierce 2. Surge Surge: +1 Range, +3 Hearts. Surge: +1 Range, +1 Heart.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act2/lr-bow-of-the-eclipse.png",
     "xws": "bowoftheeclipse"
@@ -331,6 +707,14 @@
   {
     "name": "cloak of deception",
     "points": 47,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Cloak",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Gray",
+    "rules": "If you roll a blank on any of your defense dice, you may exhaust this card to test Awareness. If you pass, you are not affected by the attack.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act2/lr-cloak-of-deception.png",
     "xws": "cloakofdeception"
@@ -338,6 +722,14 @@
   {
     "name": "iron claws",
     "points": 48,
+    "act": "II",
+    "count": 1,
+    "cost": 175,
+    "traits": "Blade, Exotic",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Yellow Yellow",
+    "rules": "If your other hand is empty, add 1 additional green power die to your attack pool. Surge Surge Surge: +5 Hearts. Surge Surge: +2 Hearts.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act2/lr-iron-claws.png",
     "xws": "ironclaws"
@@ -345,6 +737,14 @@
   {
     "name": "obsidian greataxe",
     "points": 49,
+    "act": "II",
+    "count": 1,
+    "cost": 225,
+    "traits": "Axe",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red Red",
+    "rules": "Each time you defeat a monster with this weapon, recover 1 Fatigue. Surge: +2 Hearts.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act2/lr-obsidian-greataxe.png",
     "xws": "obsidiangreataxe"
@@ -352,6 +752,14 @@
   {
     "name": "obsidian scalemail",
     "points": 50,
+    "act": "II",
+    "count": 1,
+    "cost": 275,
+    "traits": "Heavy Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Black",
+    "rules": "You cannot be Cursed. Each time you are attacked and suffer no Hearts, recover 2 Fatigue. You may perform only 1 Action skill or ability per turn.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act2/lr-obsidian-scalemail.png",
     "xws": "obsidianscalemail"
@@ -359,6 +767,14 @@
   {
     "name": "rage blade",
     "points": 51,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red Yellow",
+    "rules": "If you have already attacked this turn, add 1 additional green power die to your attack pool. Surge: Pierce 1, +1 Heart. Surge Surge: +3 Hearts.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act2/lr-rage-blade.png",
     "xws": "rageblade"
@@ -366,6 +782,14 @@
   {
     "name": "rune of misery",
     "points": 52,
+    "act": "II",
+    "count": 1,
+    "cost": 250,
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red Green",
+    "rules": "Surge: Curse. Surge: +1 Range, +1 Heart. Surge Surge: +4 Hearts.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act2/lr-rune-of-misery.png",
     "xws": "runeofmisery"
@@ -373,6 +797,14 @@
   {
     "name": "shroud of dusk",
     "points": 53,
+    "act": "II",
+    "count": 1,
+    "cost": 150,
+    "traits": "Helmet",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "You gain +1 Might, +1 Willpower, +1 Knowledge, and +1 Awareness up to a maximum of 6. Limit 1 Helmet equipped at a time.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act2/lr-shroud-of-dusk.png",
     "xws": "shroudofdusk"
@@ -380,6 +812,14 @@
   {
     "name": "staff of the wild",
     "points": 54,
+    "act": "II",
+    "count": 1,
+    "cost": 175,
+    "traits": "Magic, Staff",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow Green Green",
+    "rules": "Surge: Surge, Disease, Poison, or Stun. Surge: +1 Range, +2 Hearts. Surge: +1 Heart and recover 1 Fatigue.",
     "expansion": "labyrinth of ruin",
     "image": "shop-items/d2e/labyrinth-of-ruin/act2/lr-staff-of-the-wild.png",
     "xws": "staffofthewild"
@@ -387,6 +827,14 @@
   {
     "name": "flash powder",
     "points": 55,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Action: Test Awareness. If you pass, 1 monster adjacent to you (your choice) is Stunned and you may move up to your Speed.",
     "expansion": "lair of the wyrm",
     "image": "shop-items/d2e/lair-of-the-wyrm/act1/lw-flash-powder.png",
     "xws": "flashpowder"
@@ -394,6 +842,14 @@
   {
     "name": "halberd",
     "points": 56,
+    "act": "I",
+    "count": 1,
+    "cost": 125,
+    "traits": "Blade, Staff",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red",
+    "rules": "After rolling attack dice, you may suffer 1 Fatigue to reroll 1 power die. Reach. Surge: +2 Hearts.",
     "expansion": "lair of the wyrm",
     "image": "shop-items/d2e/lair-of-the-wyrm/act1/lw-halberd.png",
     "xws": "halberd"
@@ -401,6 +857,14 @@
   {
     "name": "handbow",
     "points": 57,
+    "act": "I",
+    "count": 1,
+    "cost": 150,
+    "traits": "Bow, Exotic",
+    "attack": "Range",
+    "equip": "Other",
+    "dice": "Blue Yellow",
+    "rules": "You may only perform 1 attack with this weapon each turn. Surge: Pierce 1.",
     "expansion": "lair of the wyrm",
     "image": "shop-items/d2e/lair-of-the-wyrm/act1/lw-handbow.png",
     "xws": "handbow"
@@ -408,6 +872,14 @@
   {
     "name": "magma blast",
     "points": 58,
+    "act": "I",
+    "count": 1,
+    "cost": 150,
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red",
+    "rules": "Surge: Blast. Surge: Stun.",
     "expansion": "lair of the wyrm",
     "image": "shop-items/d2e/lair-of-the-wyrm/act1/lw-magma-blast.png",
     "xws": "magmablast"
@@ -415,6 +887,14 @@
   {
     "name": "bow of the sky",
     "points": 59,
+    "act": "II",
+    "count": 1,
+    "cost": 225,
+    "traits": "Bow",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red Yellow",
+    "rules": "+1 Range. Surge: Stun. Surge Surge: +3 Hearts.",
     "expansion": "lair of the wyrm",
     "image": "shop-items/d2e/lair-of-the-wyrm/act2/lw-bow-of-the-sky.png",
     "xws": "bowofthesky"
@@ -422,6 +902,14 @@
   {
     "name": "inscribed robes",
     "points": 60,
+    "act": "II",
+    "count": 1,
+    "cost": 225,
+    "traits": "Cloak",
+    "attack": null,
+    "equip": "Armor",
+    "dice": null,
+    "rules": "Exhaust this card after rolling defense dice to replace the results with a number of Shields equal to your Knowledge.",
     "expansion": "lair of the wyrm",
     "image": "shop-items/d2e/lair-of-the-wyrm/act2/lw-inscribed-robes.png",
     "xws": "inscribedrobes"
@@ -429,6 +917,14 @@
   {
     "name": "merciful boots",
     "points": 61,
+    "act": "II",
+    "count": 1,
+    "cost": 100,
+    "traits": "Boots",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "After reviving a hero, you gain 2 movement points and the revived hero recovers 2 Fatigue. Limit 1 Boots equipped at a time.",
     "expansion": "lair of the wyrm",
     "image": "shop-items/d2e/lair-of-the-wyrm/act2/lw-merciful-boots.png",
     "xws": "mercifulboots"
@@ -436,6 +932,14 @@
   {
     "name": "scalemail",
     "points": 62,
+    "act": "II",
+    "count": 1,
+    "cost": 225,
+    "traits": "Heavy Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Gray",
+    "rules": "You cannot equip Runes. Before rolling defense dice, you may suffer 1 Fatigue to add 1 additional brown die to your defense pool.",
     "expansion": "lair of the wyrm",
     "image": "shop-items/d2e/lair-of-the-wyrm/act2/lw-scalemail.png",
     "xws": "scalemail"
@@ -443,6 +947,14 @@
   {
     "name": "staff of kellos",
     "points": 63,
+    "act": "II",
+    "count": 1,
+    "cost": 175,
+    "traits": "Magic, Staff",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red Yellow",
+    "rules": "Surge: +2 Range. Surge: +2 Hearts. Surge: Burn.",
     "expansion": "lair of the wyrm",
     "image": "shop-items/d2e/lair-of-the-wyrm/act2/lw-staff-of-kellos.png",
     "xws": "staffofkellos"
@@ -450,6 +962,14 @@
   {
     "name": "blessed shield",
     "points": 64,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Shield",
+    "attack": null,
+    "equip": "One Hand",
+    "dice": null,
+    "rules": "Exhaust this card after rolling defense dice to add 1 Shield to the results. If you receive a Condition card as the result of that attack, discard that card instead.",
     "expansion": "manor of ravens",
     "image": "shop-items/d2e/manor-of-ravens/act1/mr-blessed-shield.png",
     "xws": "blessedshield"
@@ -457,6 +977,14 @@
   {
     "name": "shadow bracers",
     "points": 65,
+    "act": "I",
+    "count": 1,
+    "cost": 125,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card during an attack that targets you, after dice are rolled. Cancel 1 Surge. Each of your attacks gains: Surge: Doom",
     "expansion": "manor of ravens",
     "image": "shop-items/d2e/manor-of-ravens/act1/mr-shadow-bracers.png",
     "xws": "shadowbracers"
@@ -464,6 +992,14 @@
   {
     "name": "staff of greyhaven",
     "points": 66,
+    "act": "I",
+    "count": 1,
+    "cost": 150,
+    "traits": "Magic, Staff",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "After making an attack roll, you may convert up to 3 range to Hearts, or up to 3 Hearts to range. Surge: +2 Range.",
     "expansion": "manor of ravens",
     "image": "shop-items/d2e/manor-of-ravens/act1/mr-staff-of-greyhaven.png",
     "xws": "staffofgreyhaven"
@@ -471,6 +1007,14 @@
   {
     "name": "undying skull",
     "points": 67,
+    "act": "I",
+    "count": 1,
+    "cost": 75,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Apply +1 to your Stamina. You cannot spend Surges to recover Fatigue.",
     "expansion": "manor of ravens",
     "image": "shop-items/d2e/manor-of-ravens/act1/mr-undying-skull.png",
     "xws": "undyingskull"
@@ -478,6 +1022,14 @@
   {
     "name": "white wolf cloak",
     "points": 68,
+    "act": "I",
+    "count": 1,
+    "cost": 150,
+    "traits": "Cloak",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Brown",
+    "rules": "Exhaust this card to reroll 1 attribute test.",
     "expansion": "manor of ravens",
     "image": "shop-items/d2e/manor-of-ravens/act1/mr-white-wolf-cloak.png",
     "xws": "whitewolfcloak"
@@ -485,6 +1037,14 @@
   {
     "name": "hammer of doom",
     "points": 69,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Hammer, Magic",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red Red",
+    "rules": "Reach. Surge: Doom. Surge Surge: +4 Hearts.",
     "expansion": "manor of ravens",
     "image": "shop-items/d2e/manor-of-ravens/act2/mr-hammer-of-doom.png",
     "xws": "hammerofdoom"
@@ -492,6 +1052,14 @@
   {
     "name": "heart seeker",
     "points": 70,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Bow, Magic",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow Yellow",
+    "rules": "You do not need line of sight to perform an attack with this weapon. Surge Surge: +4 Hearts.",
     "expansion": "manor of ravens",
     "image": "shop-items/d2e/manor-of-ravens/act2/mr-heart-seeker.png",
     "xws": "heartseeker"
@@ -499,6 +1067,14 @@
   {
     "name": "rune of fate",
     "points": 71,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow Yellow",
+    "rules": "Surge: Blast. Surge: Doom. Surge: +2 Hearts.",
     "expansion": "manor of ravens",
     "image": "shop-items/d2e/manor-of-ravens/act2/mr-rune-of-fate.png",
     "xws": "runeoffate"
@@ -506,6 +1082,14 @@
   {
     "name": "winged blade",
     "points": 72,
+    "act": "II",
+    "count": 1,
+    "cost": 175,
+    "traits": "Blade, Exotic",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red Yellow",
+    "rules": "Each time you perform an attack, you may change the result of 1 defense die to the result of your choice. Surge: +2 Hearts.",
     "expansion": "manor of ravens",
     "image": "shop-items/d2e/manor-of-ravens/act2/mr-winged-blade.png",
     "xws": "wingedblade"
@@ -513,6 +1097,14 @@
   {
     "name": "battle tome",
     "points": 73,
+    "act": "I",
+    "count": 1,
+    "cost": 125,
+    "traits": "Book, Magic",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "Surge: +1 Range, +1 Heart. Surge Surge: +X Hearts, where X is equal to your Knowledge. After this attack resolves unequip this weapon.",
     "expansion": "mists of bilehall",
     "image": "shop-items/d2e/mists-of-bilehall/act1/mb-battle-tome.png",
     "xws": "battletome"
@@ -520,6 +1112,14 @@
   {
     "name": "bloodscript ring",
     "points": 74,
+    "act": "I",
+    "count": 1,
+    "cost": 75,
+    "traits": "Ring",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Apply -1 to your Willpower (to a minimum of 1) and +2 to your Health. Each of your attacks gains: Surge: Terrify.",
     "expansion": "mists of bilehall",
     "image": "shop-items/d2e/mists-of-bilehall/act1/mb-bloodscript-ring.png",
     "xws": "bloodscriptring"
@@ -527,6 +1127,14 @@
   {
     "name": "corpsebug brooch",
     "points": 75,
+    "act": "I",
+    "count": 1,
+    "cost": 75,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Apply +2 to your Health. If you end your turn in a hazard space, you are not defeated.",
     "expansion": "mists of bilehall",
     "image": "shop-items/d2e/mists-of-bilehall/act1/mb-corpsebug-brooch.png",
     "xws": "corpsebugbrooch"
@@ -534,6 +1142,14 @@
   {
     "name": "marsh cloak",
     "points": 76,
+    "act": "I",
+    "count": 1,
+    "cost": 150,
+    "traits": "Cloak",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Brown",
+    "rules": "Apply +1 to your Health. You treat water and sludge spaces as normal spaces.",
     "expansion": "mists of bilehall",
     "image": "shop-items/d2e/mists-of-bilehall/act1/mb-marsh-cloak.png",
     "xws": "marshcloak"
@@ -541,6 +1157,14 @@
   {
     "name": "mistbane",
     "points": 77,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red",
+    "rules": "Each time you defeat a monster, you may suffer 1 Heart to recover 1 Fatigue. Surge: +2 Hearts.",
     "expansion": "mists of bilehall",
     "image": "shop-items/d2e/mists-of-bilehall/act1/mb-mistbane.png",
     "xws": "mistbane"
@@ -548,6 +1172,14 @@
   {
     "name": "soulbound sword",
     "points": 78,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "At the start of each of your turns, test Willpower. If you fail, you are Terrified. Surge: +2 Hearts. Surge: Pierce 4. Surge: Terrify.",
     "expansion": "mists of bilehall",
     "image": "shop-items/d2e/mists-of-bilehall/act1/mb-soulbound-sword.png",
     "xws": "soulboundsword"
@@ -555,6 +1187,14 @@
   {
     "name": "soulstone",
     "points": 79,
+    "act": "I",
+    "count": 1,
+    "cost": 125,
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red",
+    "rules": "Each time you defeat a monster, place 1 Heart on this card. Each time you recover Hearts, discard 1 Heart from this card. Surge: Pierce X, where X is the Hearts on this card.",
     "expansion": "mists of bilehall",
     "image": "shop-items/d2e/mists-of-bilehall/act1/mb-soulstone.png",
     "xws": "soulstone"
@@ -562,6 +1202,14 @@
   {
     "name": "witch hazel bow",
     "points": 80,
+    "act": "I",
+    "count": 1,
+    "cost": 125,
+    "traits": "Bow, Magic",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "+2 Range. Surge: +1 Heart. Surge: Terrify.",
     "expansion": "mists of bilehall",
     "image": "shop-items/d2e/mists-of-bilehall/act1/mb-witch-hazel-bow.png",
     "xws": "witchhazelbow"
@@ -569,6 +1217,14 @@
   {
     "name": "bag of tricks",
     "points": 81,
+    "act": "I",
+    "count": 1,
+    "cost": 125,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Action: Test Awareness. If you pass, 1 monster within 3 spaces of you is either Blinded or Poisoned and you may move up to your Speed.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act1/sotp-bag-of-tricks.png",
     "xws": "bagoftricks"
@@ -576,6 +1232,14 @@
   {
     "name": "crystal of mirages",
     "points": 82,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card during your turn to flip 1 of your facedown Potion or Item Search cards faceup. Limit once per encounter.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act1/sotp-crystal-of-mirages.png",
     "xws": "crystalofmirages"
@@ -583,6 +1247,14 @@
   {
     "name": "golden orb mace",
     "points": 83,
+    "act": "I",
+    "count": 1,
+    "cost": 75,
+    "traits": "Hammer, Magic",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "If this attack misses or deals no Hearts the target is Blinded. Surge: +1 Heart. Surge: 1 hero adjacent to you recovers 1 Heart.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act1/sotp-golden-orb-mace.png",
     "xws": "goldenorbmace"
@@ -590,6 +1262,14 @@
   {
     "name": "piercing arrows",
     "points": 84,
+    "act": "I",
+    "count": 1,
+    "cost": 75,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card when you perform an attack with a Bow, before dice are rolled. This attack gains Pierce 2.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act1/sotp-piercing-arrows.png",
     "xws": "piercingarrows"
@@ -597,6 +1277,14 @@
   {
     "name": "scar pit greaves",
     "points": 85,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Boots",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Add 1 Shield to your defense pool results. You may ignore any game effect that would force you to move. Limit 1 Boots equipped at a time.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act1/sotp-scar-pit-greaves.png",
     "xws": "scarpitgreaves"
@@ -604,6 +1292,14 @@
   {
     "name": "sun-blessed rune",
     "points": 86,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "+1 Range. Surge: Blind. Surge: +2 Range, +1 Heart.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act1/sotp-sun-blessed-rune.png",
     "xws": "sunblessedrune"
@@ -611,6 +1307,14 @@
   {
     "name": "sunspear",
     "points": 87,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Exotic",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "This attack effects 1 additional figure adjacent to your target. Surge: +1 Heart.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act1/sotp-sunspear.png",
     "xws": "sunspear"
@@ -618,6 +1322,14 @@
   {
     "name": "vizier's garment",
     "points": 88,
+    "act": "I",
+    "count": 1,
+    "cost": 125,
+    "traits": "Cloak",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Brown",
+    "rules": "You are not restricted to 2 Other items equipped at a time.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act1/sotp-viziers-garment.png",
     "xws": "viziersgarment"
@@ -625,6 +1337,14 @@
   {
     "name": "chain-sickle",
     "points": 89,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Blade, Exotic",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow Yellow",
+    "rules": "Action: Move a minion monster within 3 spaces of you up to 2 spaces towards you. Reach. Surge: +3 Hearts. Surge: Pierce 2.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act2/sotp-chain-sickle.png",
     "xws": "chainsickle"
@@ -632,6 +1352,14 @@
   {
     "name": "eye of the night",
     "points": 90,
+    "act": "II",
+    "count": 1,
+    "cost": 75,
+    "traits": "Ring",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Once per attack, after rolling dice, you may remove 1 power die from your roll to change the blue attack die to a different result of your choice.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act2/sotp-eye-of-the-night.png",
     "xws": "eyeofthenight"
@@ -639,6 +1367,14 @@
   {
     "name": "ibis bow",
     "points": 91,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Bow",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow Yellow",
+    "rules": "After making an attack roll, you may convert up to 3 range to an equal amount of movement points. Surge: +1 Range, +1 Heart. Surge: +2 Hearts.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act2/sotp-ibis-bow.png",
     "xws": "ibisbow"
@@ -646,6 +1382,14 @@
   {
     "name": "lost caliph's crook",
     "points": 92,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Magic, Staff",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red Yellow",
+    "rules": "Surge: +1 Heart, Curse. Surge: Each figure within 2 spaces of the target suffers 1 Fatigue.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act2/sotp-lost-caliphs-crook.png",
     "xws": "lostcaliphscrook"
@@ -653,6 +1397,14 @@
   {
     "name": "scarab amulet",
     "points": 93,
+    "act": "II",
+    "count": 1,
+    "cost": 100,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "You are immune to Poison and Disease.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act2/sotp-scarab-amulet.png",
     "xws": "scarabamulet"
@@ -660,6 +1412,14 @@
   {
     "name": "shimmering shield",
     "points": 94,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Shield",
+    "attack": null,
+    "equip": "One Hand",
+    "dice": "Gray",
+    "rules": "Each time you are attacked and suffer no Hearts, the attacking figure is Blinded.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act2/sotp-shimmering-shield.png",
     "xws": "shimmeringshield"
@@ -667,6 +1427,14 @@
   {
     "name": "starmetal khopesh",
     "points": 95,
+    "act": "II",
+    "count": 1,
+    "cost": 150,
+    "traits": "Blade, Exotic",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red Yellow",
+    "rules": "When attacking, you may ignore results from brown defense dice. Surge: +2 Hearts. If you have no Light Armore nor Heavy Armor equipped: Surge: +3 Hearts.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act2/sotp-starmetal-khopesh.png",
     "xws": "starmetalkhopesh"
@@ -674,6 +1442,14 @@
   {
     "name": "star of atar",
     "points": 96,
+    "act": "II",
+    "count": 1,
+    "cost": 100,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "If you have not moved this turn, place your hero token on this card at the end of your turn (to a maximum of 1). After rolling defense dice, you may discard your hero token to add 2 Shields to the results.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act2/sotp-star-of-atar.png",
     "xws": "starofatar"
@@ -681,6 +1457,14 @@
   {
     "name": "sunlight ward",
     "points": 97,
+    "act": "II",
+    "count": 1,
+    "cost": 150,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card when you are targeted by a Melee attack, after dice are rolled. If the range result on the attack die is exactly 2, the attack is considered a miss.",
     "expansion": "sands of the past",
     "image": "shop-items/sotp/sands-of-the-past/act2/sotp-sunlight-ward.png",
     "xws": "sunlightward"
@@ -688,6 +1472,14 @@
   {
     "name": "archaic scroll",
     "points": 98,
+    "act": "I",
+    "count": 1,
+    "cost": 25,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Action: Return this card to the game box and return up to 2 of your Class cards to your Class deck. You gain XP equal to the XP cost of those cards.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act1/sn-archaic-scroll.png",
     "xws": "archaicscroll"
@@ -695,6 +1487,14 @@
   {
     "name": "baron's cloak",
     "points": 99,
+    "act": "I",
+    "count": 1,
+    "cost": 125,
+    "traits": "Cloak",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Brown",
+    "rules": "Apply +1 to your Health. You are immune to Pierce.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act1/sn-barons-cloak.png",
     "xws": "baronscloak"
@@ -702,6 +1502,14 @@
   {
     "name": "bloody dagger",
     "points": 100,
+    "act": "I",
+    "count": 1,
+    "cost": 75,
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Green",
+    "rules": "During your turn, you may suffer 1 Fatigue to become Bleeding. If you are Bleeding, each of your attacks gains: Surge: +4 Hearts.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act1/sn-bloody-dagger.png",
     "xws": "bloodydagger"
@@ -709,6 +1517,14 @@
   {
     "name": "bone blade",
     "points": 101,
+    "act": "I",
+    "count": 1,
+    "cost": 125,
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red",
+    "rules": "Pierce 1. Surge: +2 Hearts. Surge: Bleed.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act1/sn-bone-blade.png",
     "xws": "boneblade"
@@ -716,6 +1532,14 @@
   {
     "name": "boots of iron",
     "points": 102,
+    "act": "I",
+    "count": 1,
+    "cost": 50,
+    "traits": "Boots",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "You treat hazard spaces as normal spaces. Limit 1 Boots equipped at a time.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act1/sn-boots-of-iron.png",
     "xws": "bootsofiron"
@@ -723,6 +1547,14 @@
   {
     "name": "city guard's bow",
     "points": 103,
+    "act": "I",
+    "count": 1,
+    "cost": 75,
+    "traits": "Bow",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "Surge: +2 Hearts. Surge: +3 Range.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act1/sn-city-guards-bow.png",
     "xws": "cityguardsbow"
@@ -730,6 +1562,14 @@
   {
     "name": "cloak of mists",
     "points": 104,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Cloak",
+    "attack": null,
+    "equip": "Armor",
+    "dice": null,
+    "rules": "When you suffer any amount of Hearts, you may choose to suffer some or all of that amount as Fatigue instead; you cannot suffer Fatigue in excess of your Stamina.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act1/sn-cloak-of-mists.png",
     "xws": "cloakofmists"
@@ -737,6 +1577,14 @@
   {
     "name": "incendiary arrows",
     "points": 105,
+    "act": "I",
+    "count": 1,
+    "cost": 75,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card when you perform an attack with a Bow, before dice are rolled. If this attack does not miss, each figure adjacent to the target suffers 1 Heart.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act1/sn-incendiary-arrows.png",
     "xws": "incendiaryarrows"
@@ -744,6 +1592,14 @@
   {
     "name": "ironbound rune",
     "points": 106,
+    "act": "I",
+    "count": 1,
+    "cost": 175,
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red",
+    "rules": "Exhaust this card, after you roll defense dice, to add 1 Shield to the results. Surge: +1 Range, +1 Heart. Surge: +1 Heart.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act1/sn-ironbound-rune.png",
     "xws": "ironboundrune"
@@ -751,6 +1607,14 @@
   {
     "name": "jeweled mace",
     "points": 107,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Hammer",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Green",
+    "rules": "Surge: +2 Hearts. Surge: +2 Hearts.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act1/sn-jeweled-mace.png",
     "xws": "jeweledmace"
@@ -758,6 +1622,14 @@
   {
     "name": "phoenix pendant",
     "points": 108,
+    "act": "I",
+    "count": 1,
+    "cost": 50,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Each time you stand up or are revived by another hero, you recover 3 additional Hearts.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act1/sn-phoenix-pendant.png",
     "xws": "phoenixpendant"
@@ -765,6 +1637,14 @@
   {
     "name": "golden mask",
     "points": 109,
+    "act": "II",
+    "count": 1,
+    "cost": 75,
+    "traits": "Helmet",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Each time you perform an attack, all X results are treated as blank results. Limit 1 Helmet equipped at a time.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act2/sn-golden-mask.png",
     "xws": "goldenmask"
@@ -772,6 +1652,14 @@
   {
     "name": "ironbound glaive",
     "points": 110,
+    "act": "II",
+    "count": 1,
+    "cost": 175,
+    "traits": "Blade, Staff",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red Yellow",
+    "rules": "Reach. Surge: +3 Hearts. Surge: Pierce 3.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act2/sn-ironbound-glaive.png",
     "xws": "ironboundglaive"
@@ -779,6 +1667,14 @@
   {
     "name": "ironbound shield",
     "points": 111,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Shield",
+    "attack": null,
+    "equip": "One Hand",
+    "dice": "Gray",
+    "rules": "Exhaust this card, after you roll defense dice, to reroll 1 defense die. Your Speed is reduced to 4 and cannot be increased above 4.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act2/sn-ironbound-shield.png",
     "xws": "ironboundshield"
@@ -786,6 +1682,14 @@
   {
     "name": "nerekhall plate",
     "points": 112,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Heavy Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Gray",
+    "rules": "Apply +2 to your Health. You cannot equip Runes.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act2/sn-nerekhall-plate.png",
     "xws": "nerekhallplate"
@@ -793,6 +1697,14 @@
   {
     "name": "rat-tooth dagger",
     "points": 113,
+    "act": "II",
+    "count": 1,
+    "cost": 175,
+    "traits": "Blade, Exotic",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Yellow Yellow",
+    "rules": "Pierce 1. Surge: +2 Hearts. Surge: Bleed. Surge: Disease.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act2/sn-rat-tooth-dagger.png",
     "xws": "rattoothdagger"
@@ -800,6 +1712,14 @@
   {
     "name": "repeating crossbow",
     "points": 114,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Bow, Exotic",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red Yellow",
+    "rules": "Surge: This attack affects 1 additional figure adjacent to your target. Surge: +3 Hearts.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act2/sn-repeating-crossbow.png",
     "xws": "repeatingcrossbow"
@@ -807,6 +1727,14 @@
   {
     "name": "rune of blades",
     "points": 115,
+    "act": "II",
+    "count": 1,
+    "cost": 150,
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow Green",
+    "rules": "Pierce 2. Surge: +2 Hearts. Surge: Pierce 2. Surge: Bleed.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act2/sn-rune-of-blades.png",
     "xws": "runeofblades"
@@ -814,6 +1742,14 @@
   {
     "name": "shadow tome",
     "points": 116,
+    "act": "II",
+    "count": 1,
+    "cost": 75,
+    "traits": "Book",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card and suffer 1 Heart. While this card is exhausted, each time a monster enters a space adjacent to your figure, this monster suffers 2 Hearts.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act2/sn-shadow-tome.png",
     "xws": "shadowtome"
@@ -821,6 +1757,14 @@
   {
     "name": "star of kellos",
     "points": 117,
+    "act": "II",
+    "count": 1,
+    "cost": 175,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Add 1 additional green power die to your attack pool.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act2/sn-star-of-kellos.png",
     "xws": "starofkellos"
@@ -828,6 +1772,14 @@
   {
     "name": "vestments of kellos",
     "points": 118,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Light Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Brown",
+    "rules": "Apply +2 to your Health. Exhaust this card, before you roll defense dice, and suffer 1 Fatigue. Add 1 additional gray defense die to your defense pool.",
     "expansion": "shadow of nerekhall",
     "image": "shop-items/d2e/shadow-of-nerekhall/act2/sn-vestments-of-kellos.png",
     "xws": "vestmentsofkellos"
@@ -835,6 +1787,14 @@
   {
     "name": "blessed armor",
     "points": 119,
+    "act": "II",
+    "count": 1,
+    "cost": 250,
+    "traits": "Heavy Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Gray",
+    "rules": "You cannot equip Runes. Each time you perform an attribute test, roll 2 gray defense dice instead of 1 gray and 1 black defense die.",
     "expansion": "the chains that rust",
     "image": "shop-items/d2e/the-chains-that-rust/act2/cr-blessed-armor.png",
     "xws": "blessedarmor"
@@ -842,6 +1802,14 @@
   {
     "name": "bloodthirsty bracers",
     "points": 120,
+    "act": "II",
+    "count": 1,
+    "cost": 125,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card when you perform an attack, after dice are rolled. Reroll any or all of your attack and power dice. If this attack does not defeat a monster, suffer 2 Hearts.",
     "expansion": "the chains that rust",
     "image": "shop-items/d2e/the-chains-that-rust/act2/cr-bloodthirsty-bracers.png",
     "xws": "bloodthirstybracers"
@@ -849,6 +1817,14 @@
   {
     "name": "bone wand",
     "points": 121,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Magic, Wand",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Yellow Yellow",
+    "rules": "When a hero within 3 spaces of you is defeated, 1 other hero within 3 spaces of you recovers 1 Fatigue. Surge: +2 Range, +1 Heart. Surge: +2 Hearts.",
     "expansion": "the chains that rust",
     "image": "shop-items/d2e/the-chains-that-rust/act2/cr-bone-wand.png",
     "xws": "bonewand"
@@ -856,6 +1832,14 @@
   {
     "name": "fists of iron",
     "points": 122,
+    "act": "II",
+    "count": 1,
+    "cost": 125,
+    "traits": "Exotic",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow Yellow",
+    "rules": "Once during each of your turns, you may perform 1 attack that does not require an action. Surge: +1 Heart. Surge: +1 Heart.",
     "expansion": "the chains that rust",
     "image": "shop-items/d2e/the-chains-that-rust/act2/cr-fists-of-iron.png",
     "xws": "fistsofiron"
@@ -863,6 +1847,14 @@
   {
     "name": "horned shield",
     "points": 123,
+    "act": "II",
+    "count": 1,
+    "cost": 150,
+    "traits": "Shield",
+    "attack": null,
+    "equip": "One Hand",
+    "dice": "Gray",
+    "rules": "Each time a figure adjacent to you performs an attack that targets you, before dice are rolled, that figure may suffer 2 Hearts to remove 1 gray defense die from your defense pool.",
     "expansion": "the chains that rust",
     "image": "shop-items/d2e/the-chains-that-rust/act2/cr-horned-shield.png",
     "xws": "hornedshield"
@@ -870,6 +1862,14 @@
   {
     "name": "lightning javelin",
     "points": 124,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Exotic, Magic",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Yellow Yellow",
+    "rules": "Each of your attacks gain +X Range, where X is equal to your Might. Surge: Stun. Surge: +2 Hearts.",
     "expansion": "the chains that rust",
     "image": "shop-items/d2e/the-chains-that-rust/act2/cr-lightning-javelin.png",
     "xws": "lightningjavelin"
@@ -877,6 +1877,14 @@
   {
     "name": "mask of horrors",
     "points": 125,
+    "act": "II",
+    "count": 1,
+    "cost": 75,
+    "traits": "Helmet",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card when you are dealt Hearts from an attack. The figure performing the attack is Terrified. Limit 1 Helmet equipped at a time.",
     "expansion": "the chains that rust",
     "image": "shop-items/d2e/the-chains-that-rust/act2/cr-mask-of-horrors.png",
     "xws": "maskofhorrors"
@@ -884,6 +1892,14 @@
   {
     "name": "rune-touched leather",
     "points": 126,
+    "act": "II",
+    "count": 1,
+    "cost": 150,
+    "traits": "Light Armor, Rune",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Brown",
+    "rules": "If you have 2 Runes equipped, replace this card's brown defense die with a gray defense die. If you have 3 or more Runes equipped, replace it with a black defense die.",
     "expansion": "the chains that rust",
     "image": "shop-items/d2e/the-chains-that-rust/act2/cr-rune-touched-leather.png",
     "xws": "runetouchedleather"
@@ -891,6 +1907,14 @@
   {
     "name": "sash of the slayer",
     "points": 127,
+    "act": "II",
+    "count": 1,
+    "cost": 75,
+    "traits": "Belt",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card when you defeat a monster. Choose 1 monster adjacent to you. That monster is Terrified. Limit 1 Belt equipped at a time.",
     "expansion": "the chains that rust",
     "image": "shop-items/d2e/the-chains-that-rust/act2/cr-sash-of-the-slayer.png",
     "xws": "sashoftheslayer"
@@ -898,6 +1922,14 @@
   {
     "name": "belt of alchemy",
     "points": 128,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Belt",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Action: Exhaust this card. You or an adjacent hero may discard a Condition card of infection token. Limit 1 Belt equipped at a time.",
     "expansion": "the trollfens",
     "image": "shop-items/d2e/the-trollfens/act1/tf-belt-of-alchemy.png",
     "xws": "beltofalchemy"
@@ -905,6 +1937,14 @@
   {
     "name": "belt of waterwalking",
     "points": 129,
+    "act": "I",
+    "count": 1,
+    "cost": 50,
+    "traits": "Belt",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "You gain +1 Willpower up to a maximum of 6. In addition, you treat water spaces as normal spaces. Limit 1 Belt equipped at a time.",
     "expansion": "the trollfens",
     "image": "shop-items/d2e/the-trollfens/act1/tf-belt-of-waterwalking.png",
     "xws": "beltofwaterwalking"
@@ -912,6 +1952,14 @@
   {
     "name": "deflecting shield",
     "points": 130,
+    "act": "I",
+    "count": 1,
+    "cost": 50,
+    "traits": "Shield",
+    "attack": null,
+    "equip": "One Hand",
+    "dice": null,
+    "rules": "Exhaust this card after rolling defense dice to add 1 Shield to the results. Then choose an adjacent figure. That figure suffers 1 Heart.",
     "expansion": "the trollfens",
     "image": "shop-items/d2e/the-trollfens/act1/tf-deflecting-shield.png",
     "xws": "deflectingshield"
@@ -919,6 +1967,14 @@
   {
     "name": "dire flail",
     "points": 131,
+    "act": "I",
+    "count": 1,
+    "cost": 150,
+    "traits": "Hammer, Exotic",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow Green",
+    "rules": "Reach. If this attack misses or deals no Hearts, you suffer 1 Heart. Surge Surge: +3 Hearts.",
     "expansion": "the trollfens",
     "image": "shop-items/d2e/the-trollfens/act1/tf-dire-flail.png",
     "xws": "direflail"
@@ -926,6 +1982,14 @@
   {
     "name": "guardian axe",
     "points": 132,
+    "act": "I",
+    "count": 1,
+    "cost": 175,
+    "traits": "Axe",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red",
+    "rules": "When you defeat a monster, you may unequip this weapon to gain 2 Shields to your defense results until the start of your next turn. Surge: +2 Hearts.",
     "expansion": "the trollfens",
     "image": "shop-items/d2e/the-trollfens/act1/tf-guardian-axe.png",
     "xws": "guardianaxe"
@@ -933,6 +1997,14 @@
   {
     "name": "lifedrain scepter",
     "points": 133,
+    "act": "I",
+    "count": 1,
+    "cost": 100,
+    "traits": "Magic, Wand",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Green",
+    "rules": "If this attack deals at least 1 Heart, recover 1 Heart. Surge: +2 Hearts. Surge: Weaken.",
     "expansion": "the trollfens",
     "image": "shop-items/d2e/the-trollfens/act1/tf-lifedrain-scepter.png",
     "xws": "lifedrainscepter"
@@ -940,6 +2012,14 @@
   {
     "name": "mapstone",
     "points": 134,
+    "act": "I",
+    "count": 1,
+    "cost": 50,
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Once during each Travel step of the Campaign phase, you may choose not to draw a Travel Event card for a travel icon you stop at.",
     "expansion": "the trollfens",
     "image": "shop-items/d2e/the-trollfens/act1/tf-mapstone.png",
     "xws": "mapstone"
@@ -947,6 +2027,14 @@
   {
     "name": "trident",
     "points": 135,
+    "act": "I",
+    "count": 1,
+    "cost": 125,
+    "traits": "Exotic",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red",
+    "rules": "Reach. Surge: +2 Hearts. Surge: Gain 2 movement points.",
     "expansion": "the trollfens",
     "image": "shop-items/d2e/the-trollfens/act1/tf-trident.png",
     "xws": "trident"
@@ -954,6 +2042,14 @@
   {
     "name": "belt of strength",
     "points": 136,
+    "act": "II",
+    "count": 1,
+    "cost": 125,
+    "traits": "Belt",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Action: Exhaust this card and test Might. If you pass, choose an adjacent monster and move it 2 spaces. Limit 1 Belt equipped at a time.",
     "expansion": "the trollfens",
     "image": "shop-items/d2e/the-trollfens/act2/tf-belt-of-strength.png",
     "xws": "beltofstrength"
@@ -961,6 +2057,14 @@
   {
     "name": "blasting rune",
     "points": 137,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red Green",
+    "rules": "When a monster is defeated during an attack with this weapon, each figure adjacent to the defeated monster suffers 2 Hearts. Surge Surge: +4 Hearts.",
     "expansion": "the trollfens",
     "image": "shop-items/d2e/the-trollfens/act2/tf-blasting-rune.png",
     "xws": "blastingrune"
@@ -968,6 +2072,14 @@
   {
     "name": "boomerang",
     "points": 138,
+    "act": "II",
+    "count": 1,
+    "cost": 200,
+    "traits": "Exotic",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Yellow Yellow Green",
+    "rules": "If an attack with this weapon deals at least 1 Heart, unequip this weapon. Surge: +2 Range, +1 Heart. Surge Surge: Weaken.",
     "expansion": "the trollfens",
     "image": "shop-items/d2e/the-trollfens/act2/tf-boomerang.png",
     "xws": "boomerang"
@@ -975,6 +2087,14 @@
   {
     "name": "glaive",
     "points": 139,
+    "act": "II",
+    "count": 1,
+    "cost": 175,
+    "traits": "Exotic, Blade",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red Green",
+    "rules": "Reach. When attacking a non-adjacent target, add 1 additional red power die to your attack pool. Surge: Pierce 2.",
     "expansion": "the trollfens",
     "image": "shop-items/d2e/the-trollfens/act2/tf-glaive.png",
     "xws": "glaive"
@@ -982,6 +2102,14 @@
   {
     "name": "stone armor",
     "points": 140,
+    "act": "II",
+    "count": 1,
+    "cost": 225,
+    "traits": "Heavy Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Black Black",
+    "rules": "Your speed is reduced to 3 and cannot be increased above 3. You cannot suffer Fatigue to gain movement points.",
     "expansion": "the trollfens",
     "image": "shop-items/d2e/the-trollfens/act2/tf-stone-armor.png",
     "xws": "stonearmor"

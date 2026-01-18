@@ -1,4 +1,5 @@
 The following are the JMESPATH commands given for each asset type to: https://jsonformatter.org/
+for the files in GitHub - Deprecated\d2e\d2e-data-full-json
 
 SORT:
 
@@ -25,6 +26,20 @@ monsters.js:			[*] | sort_by(sort_by(sort_by(@,&name),&act),&expansion)
 overlord-decks.js:		[*] | sort_by(sort_by(sort_by(@,&name),&deck),&expansion)
 perils.js				[*] | sort_by(sort_by(@,&name),&expansion)
 plot-decks.js:			[*] | sort_by(sort_by(sort_by(@,&name),&deck),&expansion)
+references.js			[*] | sort_by(sort_by(@,&name),&expansion)
+relics.js:				[*] | sort_by(sort_by(@,&name),&expansion)
+round-summary.js:		[*] | sort_by(sort_by(@,&name),&expansion)
+rumors.js:				[*] | sort_by(sort_by(sort_by(@,&name),&act),&expansion)
+search-deck.js:			[*] | sort_by(sort_by(@,&name),&expansion)
+secret-rooms.js:		[*] | sort_by(sort_by(@,&name),&expansion)
+servants.js:			[*] | sort_by(sort_by(@,&name),&expansion)
+shop-items.js:			[*] | sort_by(sort_by(sort_by(@,&name),&act),&expansion)
+statuses.js:			[*] | sort_by(sort_by(@,&name),&expansion)
+tainted.js:				[*] | sort_by(sort_by(@,&name),&expansion)
+tokens.js:				[*] | sort_by(sort_by(@,&name),&expansion)
+traps.js:				[*] | sort_by(sort_by(@,&name),&expansion)
+travel-event-decks.js:	[*] | sort_by(sort_by(sort_by(@,&card),&name),&expansion)
+turn-summary.js:		[*] | sort_by(sort_by(@,&name),&expansion)
 
 
 DATA EXTRACTION:
@@ -46,12 +61,26 @@ familiars.js:			[*].{name: name, speed: speed, health: health, defense: defense,
 heroes.js:				[*].{name: name, archetype: archetype, speed: speed, health: health, stamina: stamina, defense: defense, willpower: willpower, might: might, knowledge: knowledge, awareness: awareness, ability: ability, feat: feat, quote: quote}
 hybrid-class-skills.js:	[*].{name: name, archetype: archetype, class: class, "xp cost": "xp cost", rules: rules, "fatigue cost": "fatigue cost"}
 lieutenants.js:			[*].{name: name, act: act, attack: attack, might: might, knowledge: knowledge, willpower: willpower, awareness: awareness, abilities: abilities, characteristics: characteristics, "ability rules": "ability rules"}
-map-tiles.js:			None
+map-tiles.js:			[*].{name: name}
 monster-activations.js:	[*].{name: name, cardno: cardno}
 monsters.js:			[*].{name: name, act: act, attack: attack, characteristics: characteristics, traits: traits, "ability rules": "ability rules", "group size": "group size"}
 overlord-decks.js:		[*].{name: name, deck: deck, count: count, type: type, ability: ability, "xp cost": "xp cost"}
-perils.js				None
+perils.js				[*].{name: name}
 plot-decks.js:			[*].{name: name, agent: agent, deck: deck, assetno: assetno, "threat cost": "threat cost", ability: ability, "trigger cost": "trigger cost"}
+references.js			[*].{name: name}
+relics.js:				[*].{name: name, traits: traits, attack: attack, equip: equip, dice: dice, rules: rules}
+round-summary.js		[*].{name: name}
+rumors.js:				[*].{name: name, act: act, travel: travel, rules: rules, timing: timing, description: description, ability: ability}
+search-deck.js:			[*].{name: name, count: count, trait: trait, ability: ability, gold: gold}
+secret-rooms.js:		[*].{name: name, rule: rule, description: description, "special rules": "special rules", reward: reward}
+servants.js:			[*].{name: name, speed: speed, health: health, defense: defense, attack: attack, type: type, traits: traits}
+shop-items.js:			[*].{name: name, count: count, act: act, cost: cost, traits: traits, attack: attack, equip: equip, dice: dice, rules: rules}
+statuses.js				[*].{name: name}
+tainted.js				[*].{name: name, description: description, rules: rules, health: health}
+tokens.js				[*].{name: name}
+traps.js				[*].{name: name, cardno: cardno}
+travel-event-decks.js	[*].{name: name, card: card, travel: travel)
+turn-summary.js			[*].{name: name}
 
 
 COMBINED SORT and DATA EXTRACTION
@@ -79,3 +108,17 @@ monsters.js:			sort_by(sort_by(sort_by(@,&name),&act),&expansion)[*].{name: name
 overlord-decks.js:		sort_by(sort_by(sort_by(@,&name),&deck),&expansion)[*].{name: name, deck: deck, count: count, type: type, ability: ability, "xp cost": "xp cost"}
 perils.js:				sort_by(sort_by(@,&name),&expansion)[*].{name: name}
 plot-decks.js:			sort_by(sort_by(sort_by(@,&name),&deck),&expansion)[*].{name: name, agent: agent, deck: deck, assetno: assetno, "threat cost": "threat cost", ability: ability, "trigger cost": "trigger cost"}
+references.js:			sort_by(sort_by(@,&name),&expansion)[*].{name: name}
+relics.js:				sort_by(sort_by(@,&name),&expansion)[*].{name: name, traits: traits, attack: attack, equip: equip, dice: dice, rules: rules}
+round-summary.js:		sort_by(sort_by(@,&name),&expansion)[*].{name: name}
+rumors.js:				sort_by(sort_by(sort_by(@,&name),&act),&expansion)[*].{name: name, act: act, travel: travel, rules: rules, timing: timing, description: description, ability: ability}
+search-deck.js:			sort_by(sort_by(@,&name),&expansion)[*].{name: name, count: count, trait: trait, ability: ability, gold: gold}
+secret-rooms.js:		sort_by(sort_by(@,&name),&expansion)[*].{name: name, rule: rule, description: description, "special rules": "special rules", reward: reward}
+servants.js:			sort_by(sort_by(@,&name),&expansion)[*].{name: name, speed: speed, health: health, defense: defense, attack: attack, type: type, traits: traits}
+shop-items.js:			sort_by(sort_by(sort_by(@,&name),&act),&expansion)[*].{name: name, count: count, act: act, cost: cost, traits: traits, attack: attack, equip: equip, dice: dice, rules: rules}
+statuses.js:			sort_by(sort_by(@,&name),&expansion)[*].{name: name}
+tainted.js:				sort_by(sort_by(@,&name),&expansion)[*].{name: name, description: description, rules: rules, health: health}
+tokens.js:				sort_by(sort_by(@,&name),&expansion)[*].{name: name}
+traps.js:				sort_by(sort_by(@,&name),&expansion)[*].{name: name, cardno: cardno}
+travel-event-decks.js:	sort_by(sort_by(sort_by(@,&card),&name),&expansion)[*].{name: name, card: card, travel: travel}
+turn-summary.js:		sort_by(sort_by(@,&name),&expansion)[*].{name: name}

@@ -2,233 +2,320 @@
   {
     "name": "aeons' voice",
     "points": 0,
+    "assetno": 28,
+    "flavor": "Something whispers dark incantations in an old language into your thoughts.",
+    "effects": "Test Knowledge. If you fail, you are Terrified.",
+    "icons": "Sands Of The Past, Mists of Bilehall, The Chains That Rust",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-aeons-voice.png",
-    "xws": "aeonsvoice",
-    "assetno": "28"
+    "xws": "aeonsvoice"
   },
   {
     "name": "alchemical vapors",
     "points": 1,
+    "assetno": 10,
+    "flavor": "An unrecognizable alchemical substance is being sprayed on you.",
+    "effects": "Test an attribute of your choice. If you fail, you suffer 2 random conditions.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-alchemical-vapors.png",
-    "xws": "alchemicalvapors",
-    "assetno": "10"
+    "xws": "alchemicalvapors"
   },
   {
     "name": "animated vines",
     "points": 2,
+    "assetno": 5,
+    "flavor": "A whip-like tendril erupts out of an opening and lashes at your feet!",
+    "effects": "Test Awareness. If you fail, you are Immobilized.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-animated-vines.png",
-    "xws": "animatedvines",
-    "assetno": "5"
+    "xws": "animatedvines"
   },
   {
     "name": "bear trap",
     "points": 3,
+    "assetno": 26,
+    "flavor": "Sharp teeth extend on each side of the wooden frame before they snap shut on your hand!",
+    "effects": "Test Awareness. If you fail, you are Bleeding.",
+    "icons": "Sands Of The Past, Shadow Of Nerekhall",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-bear-trap.png",
-    "xws": "beartrap",
-    "assetno": "26"
+    "xws": "beartrap"
   },
   {
     "name": "black spider",
     "points": 4,
+    "assetno": 4,
+    "flavor": "A tiny spider crawls out from a crack in the wall and onto your arm.",
+    "effects": "Test Knowledge. If you fail, your are Poisoned.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-black-spider.png",
-    "xws": "blackspider",
-    "assetno": "4"
+    "xws": "blackspider"
   },
   {
     "name": "blood bargain",
     "points": 5,
+    "assetno": 11,
+    "flavor": "An ynfernal soul manifests and offers you a bargain.",
+    "effects": "Each hero tests an attribute of his choice. Each hero who fails suffers 2 Hearts. Each hero who passes recovers 1 Heart. If all heroes pass, you suffer 3 Hearts and 3 Fatigue.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-blood-bargain.png",
-    "xws": "bloodbargain",
-    "assetno": "11"
+    "xws": "bloodbargain"
   },
   {
     "name": "broken trap",
     "points": 6,
+    "assetno": 1,
+    "flavor": "You do not know if it was just your dumb luck or if the mechanism if worn-down by time. The trap does not trigger!",
+    "effects": "No effect.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-broken-trap.png",
-    "xws": "brokentrap",
-    "assetno": "1"
+    "xws": "brokentrap"
   },
   {
     "name": "death's reproach",
     "points": 7,
+    "assetno": 27,
+    "flavor": "A booming voice resounds, \"You should not have come here.\" A heavy weight settles about your shoulders.",
+    "effects": "Test Willpower. If you fail, you are Doomed.",
+    "icons": "Sands Of The Past, Manor Of Ravens",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-deaths-reproach.png",
-    "xws": "deathsreproach",
-    "assetno": "27"
+    "xws": "deathsreproach"
   },
   {
     "name": "dimensional sling",
     "points": 8,
+    "assetno": 19,
+    "flavor": "An invisible glyph suddenly flashes before your eyes as you are teleported away.",
+    "effects": "Resolve the action that made you roll this trap test. Then the hero with the least Health remaining (other than you) switches places with you.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-dimensional-sling.png",
-    "xws": "dimensionalsling",
-    "assetno": "19"
+    "xws": "dimensionalsling"
   },
   {
     "name": "force missle",
     "points": 9,
+    "assetno": 21,
+    "flavor": "A bolt of crackling energy erupts from a hidden opening, striking you in the chest!",
+    "effects": "Test Might. If you fail, you are Stunned.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-force-missle.png",
-    "xws": "forcemissle",
-    "assetno": "21"
+    "xws": "forcemissle"
   },
   {
     "name": "giant vermin",
     "points": 10,
+    "assetno": 13,
+    "flavor": "You trigger an accelerated growth spell. Maybe you can squish the spider before it reaches the size of a sheep.",
+    "effects": "Test Awareness or Might, your choice. If you fail, place a minion cave spider adjacent to you, ignoring group limits.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-giant-vermin.png",
-    "xws": "giantvermin",
-    "assetno": "13"
+    "xws": "giantvermin"
   },
   {
     "name": "glyph of summoning",
     "points": 11,
+    "assetno": 23,
+    "flavor": "You trigger a conjuring glyph. Maybe you can counter its magic before the summoning completes.",
+    "effects": "Test Knowledge or Willpower, your choice. If you fail, place a minion volucrix reaver adjacent to you, ignoring group limits.",
+    "icons": "Sands Of The Past, Labyrinth Of Ruin",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-glyph-of-summoning.png",
-    "xws": "glyphofsummoning",
-    "assetno": "23"
+    "xws": "glyphofsummoning"
   },
   {
     "name": "induced detonation",
     "points": 12,
+    "assetno": 12,
+    "flavor": "One of the items in your possession starts humming with an ever-increasing pitch.",
+    "effects": "At the end of the current turn or activation, you may flip over a faceup Search card in your play area. If you cannot, or choose not to, each hero within 3 spaces of you suffers 2 Hearts.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-induced-detonation.png",
-    "xws": "induceddetonation",
-    "assetno": "12"
+    "xws": "induceddetonation"
   },
   {
     "name": "insulation field",
     "points": 13,
+    "assetno": 7,
+    "flavor": "A hidden ward spell washes over your figure, dampening all the magical power of your equipment.",
+    "effects": "Test Knowledge. If you fail, unequip all your equipped items.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-insulation-field.png",
-    "xws": "insulationfield",
-    "assetno": "7"
+    "xws": "insulationfield"
   },
   {
     "name": "intellect wail",
     "points": 14,
+    "assetno": 9,
+    "flavor": "A psychic scream echoes in your brain before you can find shelter in your mental bastion.",
+    "effects": "Choose a hero within 3 spaces of you to test Willpower. If he fails, all heroes within 3 spaces of you suffer 1 Fatigue for each Shield rolled in excess of his Willpower.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-intellect-wail.png",
-    "xws": "intellectwail",
-    "assetno": "9"
+    "xws": "intellectwail"
   },
   {
     "name": "lightning mesh",
     "points": 15,
+    "assetno": 8,
+    "flavor": "An electrical discharge zaps you and your friends within unerring accuracy.",
+    "effects": "Each hero within 3 spaces of you tests Awareness. Each hero who fails suffers 1 Heart.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-lightning-mesh.png",
-    "xws": "lightningmesh",
-    "assetno": "8"
+    "xws": "lightningmesh"
   },
   {
     "name": "manifested weakness",
     "points": 16,
+    "assetno": 18,
+    "flavor": "Monsters are alerted by your noise, and see you as easy prey.",
+    "effects": "Test Might. If you fail, activate the monster group closest to you using this activation list: Action: Engage/spot you. Action: Attack you. Then retreat.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-manifested-weakness.png",
-    "xws": "manifestedweakness",
-    "assetno": "18"
+    "xws": "manifestedweakness"
   },
   {
     "name": "mischievous imp",
     "points": 17,
+    "assetno": 24,
+    "flavor": "\"Have you come here to play or to die?\" A high-pitched voice cries out from somewhere. \"Hex you!\"",
+    "effects": "Test Willpower. If you fail, you are Cursed.",
+    "icons": "Sands Of The Past, Labyrinth Of Ruin",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-mischievous-imp.png",
-    "xws": "mischievousimp",
-    "assetno": "24"
+    "xws": "mischievousimp"
   },
   {
     "name": "phantasm of beastiality",
     "points": 18,
+    "assetno": 17,
+    "flavor": "A blind rage fills your body and mind.",
+    "effects": "Suffer 1 Heart. Mage: Also, treat all text on your Class cards as blank until you perform an attack with your bare hands. Place this card in your play area as a reminder.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-phantasm-of-beastiality.png",
-    "xws": "phantasmofbeastiality",
-    "assetno": "17"
+    "xws": "phantasmofbeastiality"
   },
   {
     "name": "phantasm of doubt",
     "points": 19,
+    "assetno": 15,
+    "flavor": "A deep insecurity freezes you in place.",
+    "effects": "Suffer 1 Heart. Warrior: You are also Immobilized.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-phantasm-of-doubt.png",
-    "xws": "phantasmofdoubt",
-    "assetno": "15"
+    "xws": "phantasmofdoubt"
   },
   {
     "name": "phantasm of foolishness",
     "points": 20,
+    "assetno": 16,
+    "flavor": "Your heart beats faster with curiosity and recklessness.",
+    "effects": "Suffer 1 Heart. Scout: Also draw another Trap card. You apply -1 to your Might, Willpower, Knowledge, and Awareness (to a minimum of 1) for attribute tests in that Trap card.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-phantasm-of-foolishness.png",
-    "xws": "phantasmoffoolishness",
-    "assetno": "16"
+    "xws": "phantasmoffoolishness"
   },
   {
     "name": "phantasm of hate",
     "points": 21,
+    "assetno": 14,
+    "flavor": "An unnatural hate blossoms in your soul.",
+    "effects": "Suffer 1 Heart. Healer: The hero closest to you (other than you) also suffers 2 Hearts and 1 Fatigue.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-phantasm-of-hate.png",
-    "xws": "phantasmofhate",
-    "assetno": "14"
+    "xws": "phantasmofhate"
   },
   {
     "name": "skeletal grip",
     "points": 22,
+    "assetno": 3,
+    "flavor": "A skeleton hand grips your arm tightly. Within moments, you feel a crushing exhaustion seeping through you as you try to pull away.",
+    "effects": "Test Might. If you fail, suffer Fatigue up to your Stamina.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-skeletal-grip.png",
-    "xws": "skeletalgrip",
-    "assetno": "3"
+    "xws": "skeletalgrip"
   },
   {
     "name": "soul freeze",
     "points": 23,
+    "assetno": 25,
+    "flavor": "A terrible chill sweeps down your arm and through your body.",
+    "effects": "Test Willpower. If you fail, you are Weakened.",
+    "icons": "Sands Of The Past, The Trollfens",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-soul-freeze.png",
-    "xws": "soulfreeze",
-    "assetno": "25"
+    "xws": "soulfreeze"
   },
   {
     "name": "spear trap",
     "points": 24,
+    "assetno": 6,
+    "flavor": "A barbed spear launches towards you!",
+    "effects": "Test Awareness. If you fail, suffer 4 Hearts.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-spear-trap.png",
-    "xws": "speartrap",
-    "assetno": "6"
+    "xws": "speartrap"
   },
   {
     "name": "tar curio",
     "points": 25,
+    "assetno": 22,
+    "flavor": "You pick up a small lump of black substance with a sharp odor. You hold it toward the torchlight to get a better look.",
+    "effects": "Test Knowledge. If you fail, you are Burning.",
+    "icons": "Sands Of The Past, Lair Of The Wyrm",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-tar-curio.png",
-    "xws": "tarcurio",
-    "assetno": "22"
+    "xws": "tarcurio"
   },
   {
     "name": "traps-back",
     "points": 26,
+    "assetno": null,
+    "flavor": null,
+    "effects": null,
+    "icons": null,
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-traps-back.png",
-    "xws": "trapsback",
-    "assetno": "##"
+    "xws": "trapsback"
   },
   {
     "name": "vicious trap",
     "points": 27,
+    "assetno": 2,
+    "flavor": "Your delay along the road gave the Overlord's trap maker the chance to create his masterpiece.",
+    "effects": "Immediately draw and resolve two additional Trap cards, one after the other.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-vicious-trap.png",
-    "xws": "vicioustrap",
-    "assetno": "2"
+    "xws": "vicioustrap"
   },
   {
     "name": "wellspring of plague",
     "points": 28,
+    "assetno": 20,
+    "flavor": "A large quantity of foul-smelling green liquid gushes out of an opening and splashes down your front.",
+    "effects": "Test Might. If you fail, you are Diseased.",
+    "icons": "Sands Of The Past, Base Game",
     "expansion": "sands of the past",
     "image": "traps/sotp/sands-of-the-past/sotp-wellspring-of-plague.png",
-    "xws": "wellspringofplague",
-    "assetno": "20"
+    "xws": "wellspringofplague"
   }
 ]

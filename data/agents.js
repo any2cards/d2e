@@ -16,7 +16,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "base game",
     "image": "agents/d2e/base-game/act1/bg-baron-zachareth-front.png",
     "xws": "abaronzachareth"
@@ -34,7 +34,7 @@
       "Subdue: If this attack deals at least 1 Heart, choose 1 condition. The target suffers the chosen condition."
     ],
     "deck": "Seeds Of Betrayal",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "base game",
     "image": "agents/d2e/base-game/act1/bg-baron-zachareth-back.png",
     "xws": "abaronzachareth"
@@ -56,7 +56,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "base game",
     "image": "agents/d2e/base-game/act1/bg-belthir-front.png",
     "xws": "abelthir"
@@ -74,7 +74,7 @@
       "Poison: If this attack deals at least 1 Heart (after the defense roll), the target is Poisoned."
     ],
     "deck": "Hybrid Loyalty",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "base game",
     "image": "agents/d2e/base-game/act1/bg-belthir-back.png",
     "xws": "abelthir"
@@ -96,7 +96,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "base game",
     "image": "agents/d2e/base-game/act1/bg-lady-eliza-farrow-front.png",
     "xws": "aladyelizafarrow"
@@ -114,7 +114,7 @@
       "Blood Call: Lady Eliza Farrow recovers Hearts equal to the amount of Hearts dealt with this attack (after rolling defense dice)."
     ],
     "deck": "Endless Thirst",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "base game",
     "image": "agents/d2e/base-game/act1/bg-lady-eliza-farrow-back.png",
     "xws": "aladyelizafarrow"
@@ -136,7 +136,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "base game",
     "image": "agents/d2e/base-game/act1/bg-lord-merick-farrow-front.png",
     "xws": "alordmerickfarrow"
@@ -153,7 +153,7 @@
       "Ignite: Lord Merick Farrow suffers 1 Heart to perform an attack that targets all adjacent figures. Each figure rolls defense dice separately. MErick may not perform this action if suffering the Hearts would defeat him."
     ],
     "deck": "Cursed By Power",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "base game",
     "image": "agents/d2e/base-game/act1/bg-lord-merick-farrow-back.png",
     "xws": "alordmerickfarrow"
@@ -175,7 +175,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "base game",
     "image": "agents/d2e/base-game/act1/bg-sir-alric-farrow-front.png",
     "xws": "asiralricfarrow"
@@ -192,7 +192,7 @@
       "Overrun: Sir Alric Farrow performs a move action. Each time he moves into a space adjacent to a hero, he may trade spaces with that hero and the hero suffers 1 Fatigue."
     ],
     "deck": "The Fallen Elite",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "base game",
     "image": "agents/d2e/base-game/act1/bg-sir-alric-farrow-back.png",
     "xws": "asiralricfarrow"
@@ -214,7 +214,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "base game",
     "image": "agents/d2e/base-game/act1/bg-splig-front.png",
     "xws": "asplig"
@@ -231,7 +231,7 @@
       "Knockback: Remove the target from the map, then place him on any empty space within 3 spaces of his original space. He counts as entering that space."
     ],
     "deck": "Goblin Uprising",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "base game",
     "image": "agents/d2e/base-game/act1/bg-splig-back.png",
     "xws": "asplig"
@@ -254,7 +254,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "base game",
     "image": "agents/d2e/base-game/act2/bg-baron-zachareth-front.png",
     "xws": "abaronzachareth"
@@ -273,7 +273,7 @@
       "Shadow Bolt: Zachareth performs a Ranged attack. Range: Blue Red Yellow."
     ],
     "deck": "Seeds Of Betrayal",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "base game",
     "image": "agents/d2e/base-game/act2/bg-baron-zachareth-back.png",
     "xws": "abaronzachareth"
@@ -296,7 +296,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "base game",
     "image": "agents/d2e/base-game/act2/bg-belthir-front.png",
     "xws": "abelthir"
@@ -315,7 +315,7 @@
       "Poison: If this attack deals at least 1 Heart (after the defense roll), the target is Poisoned."
     ],
     "deck": "Hybrid Loyalty",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "base game",
     "image": "agents/d2e/base-game/act2/bg-belthir-back.png",
     "xws": "abelthir"
@@ -338,7 +338,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "base game",
     "image": "agents/d2e/base-game/act2/bg-lady-eliza-farrow-front.png",
     "xws": "aladyelizafarrow"
@@ -357,7 +357,7 @@
       "Blood Call: Lady Eliza Farrow recovers Hearts equal to the amount of Hearts dealt with this attack (after rolling defense dice)."
     ],
     "deck": "Endless Thirst",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "base game",
     "image": "agents/d2e/base-game/act2/bg-lady-eliza-farrow-back.png",
     "xws": "aladyelizafarrow"
@@ -380,7 +380,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "base game",
     "image": "agents/d2e/base-game/act2/bg-lord-merick-farrow-front.png",
     "xws": "alordmerickfarrow"
@@ -398,7 +398,7 @@
       "Wither: The target suffers 1 Fatigue."
     ],
     "deck": "Cursed By Power",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "base game",
     "image": "agents/d2e/base-game/act2/bg-lord-merick-farrow-back.png",
     "xws": "alordmerickfarrow"
@@ -421,7 +421,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "base game",
     "image": "agents/d2e/base-game/act2/bg-sir-alric-farrow-front.png",
     "xws": "asiralricfarrow"
@@ -439,7 +439,7 @@
       "Overrun: Sir Alric Farrow performs a move action. Each time he moves into a space adjacent to a hero, he may trade spaces with that hero and the hero suffers 1 Fatigue."
     ],
     "deck": "The Fallen Elite",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "base game",
     "image": "agents/d2e/base-game/act2/bg-sir-alric-farrow-back.png",
     "xws": "asiralricfarrow"
@@ -462,7 +462,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "base game",
     "image": "agents/d2e/base-game/act2/bg-splig-front.png",
     "xws": "asplig"
@@ -480,7 +480,7 @@
       "Knockback: Remove the target from the map, then place him on any empty space within 3 spaces of his original space. He counts as entering that space."
     ],
     "deck": "Goblin Uprising",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "base game",
     "image": "agents/d2e/base-game/act2/bg-splig-back.png",
     "xws": "asplig"
@@ -502,7 +502,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act1/lr-ariad-front.png",
     "xws": "aariad"
@@ -519,7 +519,7 @@
       "Action: Despair: Each hero within 3 spaces of Ariad tests Willpower. Each hero that fails suffers 2 Fatigue."
     ],
     "deck": "Dark Illusions",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act1/lr-ariad-back.png",
     "xws": "aariad"
@@ -541,7 +541,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act1/lr-queen-ariad-front.png",
     "xws": "aqueenariad"
@@ -558,7 +558,7 @@
       "Pierce X: This attack ignores X Shields rolled on the defense dice."
     ],
     "deck": "Tangled Web",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act1/lr-queen-ariad-back.png",
     "xws": "aqueenariad"
@@ -580,7 +580,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act1/lr-raythen-front.png",
     "xws": "araythen"
@@ -597,7 +597,7 @@
       "Stun: If this attack deals at least 1 Heart (after the defense roll), the target is Stunned."
     ],
     "deck": "Skulduggery",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act1/lr-raythen-back.png",
     "xws": "araythen"
@@ -619,7 +619,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act1/lr-serena-front.png",
     "xws": "aserena"
@@ -636,7 +636,7 @@
       "Poison, Disease: If this attack deals at least 1 Heart (after the defense roll), the target is Poisoned and Diseased."
     ],
     "deck": "Silent Protector",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act1/lr-serena-back.png",
     "xws": "aserena"
@@ -659,7 +659,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act2/lr-ariad-front.png",
     "xws": "aariad"
@@ -677,7 +677,7 @@
       "Action: Cursed Assault: Perform an attack that targets each hero in Ariad's line of sight. If insufficient range is rolled for any one target, the entire attack is a miss."
     ],
     "deck": "Dark Illusions",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act2/lr-ariad-back.png",
     "xws": "aariad"
@@ -700,7 +700,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act2/lr-queen-ariad-front.png",
     "xws": "aqueenariad"
@@ -718,7 +718,7 @@
       "Pierce X: This attack ignores X Shields rolled on the defense dice."
     ],
     "deck": "Tangled Web",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act2/lr-queen-ariad-back.png",
     "xws": "aqueenariad"
@@ -741,7 +741,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act2/lr-raythen-front.png",
     "xws": "araythen"
@@ -759,7 +759,7 @@
       "Stun: If this attack deals at least 1 Heart (after the defense roll), the target is Stunned."
     ],
     "deck": "Skulduggery",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act2/lr-raythen-back.png",
     "xws": "araythen"
@@ -782,7 +782,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act2/lr-serena-front.png",
     "xws": "aserena"
@@ -800,7 +800,7 @@
       "Poison, Disease: If this attack deals at least 1 Heart (after the defense roll), the target is Poisoned and Diseased."
     ],
     "deck": "Silent Protector",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "labyrinth of ruin",
     "image": "agents/d2e/labyrinth-of-ruin/act2/lr-serena-back.png",
     "xws": "aserena"
@@ -822,7 +822,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "lair of the wyrm",
     "image": "agents/d2e/lair-of-the-wyrm/act1/lw-valyndra-front.png",
     "xws": "avalyndra"
@@ -840,7 +840,7 @@
       "Fire Breath: Starting with the target space, trace a path 4 spaces in any direction. All figures on this path are affected by this attack. Each figure rolls defense dice separately."
     ],
     "deck": "Dragon's Greed",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "lair of the wyrm",
     "image": "agents/d2e/lair-of-the-wyrm/act1/lw-valyndra-back.png",
     "xws": "avalyndra"
@@ -863,7 +863,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "lair of the wyrm",
     "image": "agents/d2e/lair-of-the-wyrm/act2/lw-valyndra-front.png",
     "xws": "avalyndra"
@@ -881,7 +881,7 @@
       "Fire Breath: Starting with the target space, trace a path 4 spaces in any direction. All figures on this path are affected by this attack. Each figure rolls defense dice separately."
     ],
     "deck": "Dragon's Greed",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "lair of the wyrm",
     "image": "agents/d2e/lair-of-the-wyrm/act2/lw-valyndra-back.png",
     "xws": "avalyndra"
@@ -903,7 +903,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "mists of bilehall",
     "image": "agents/d2e/mists-of-bilehall/act1/mb-ardus-ixerebus-front.png",
     "xws": "aardusixerebus"
@@ -921,7 +921,7 @@
       "Mend X: Skarn recovers X Hearts."
     ],
     "deck": "Twisted Soul",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "mists of bilehall",
     "image": "agents/d2e/mists-of-bilehall/act1/mb-ardus-ixerebus-back.png",
     "xws": "aardusixerebus"
@@ -944,7 +944,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "mists of bilehall",
     "image": "agents/d2e/mists-of-bilehall/act1/mb-kyndrithul-front.png",
     "xws": "akyndrithul"
@@ -962,7 +962,7 @@
       "Mend X: Skarn recovers X Hearts."
     ],
     "deck": "Twisted Soul",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "mists of bilehall",
     "image": "agents/d2e/mists-of-bilehall/act1/mb-kyndrithul-back.png",
     "xws": "akyndrithul"
@@ -984,7 +984,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "mists of bilehall",
     "image": "agents/d2e/mists-of-bilehall/act1/mb-zarihell-front.png",
     "xws": "azarihell"
@@ -1002,7 +1002,7 @@
       "Pierce X: This attack ignores X Shields rolled on the defense dice."
     ],
     "deck": "First Legion",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "mists of bilehall",
     "image": "agents/d2e/mists-of-bilehall/act1/mb-zarihell-back.png",
     "xws": "azarihell"
@@ -1024,7 +1024,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "mists of bilehall",
     "image": "agents/d2e/mists-of-bilehall/act2/mb-ardus-ixerebus-front.png",
     "xws": "aardusixerebus"
@@ -1042,7 +1042,7 @@
       "Bone Splinter: Each figure adjacent to the target suffers 2 Hearts."
     ],
     "deck": "Vital Essence",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "mists of bilehall",
     "image": "agents/d2e/mists-of-bilehall/act2/mb-ardus-ixerebus-back.png",
     "xws": "aardusixerebus"
@@ -1064,7 +1064,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "mists of bilehall",
     "image": "agents/d2e/mists-of-bilehall/act2/mb-kyndrithul-front.png",
     "xws": "akyndrithul"
@@ -1081,7 +1081,7 @@
       "Captive Soul: Each time Zarihell performs an attack that would defeat a hero, before that hero is knocked out, the overlord may perform an attack with that hero as it if were a monster. Then, that hero is defeated."
     ],
     "deck": "Eternal Agony",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "mists of bilehall",
     "image": "agents/d2e/mists-of-bilehall/act2/mb-kyndrithul-back.png",
     "xws": "akyndrithul"
@@ -1104,7 +1104,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "mists of bilehall",
     "image": "agents/d2e/mists-of-bilehall/act2/mb-zarihell-front.png",
     "xws": "azarihell"
@@ -1123,7 +1123,7 @@
       "Pierce X: This attack ignores X Shields rolled on the defense dice."
     ],
     "deck": "First Legion",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "mists of bilehall",
     "image": "agents/d2e/mists-of-bilehall/act2/mb-zarihell-back.png",
     "xws": "azarihell"
@@ -1146,7 +1146,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "manor of ravens",
     "image": "agents/d2e/manor-of-ravens/act1/mr-skarn-front.png",
     "xws": "askarn"
@@ -1165,7 +1165,7 @@
       "Bone Splinter: Each figure adjacent to the target suffers 2 Hearts."
     ],
     "deck": "Vital Essence",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "manor of ravens",
     "image": "agents/d2e/manor-of-ravens/act1/mr-skarn-back.png",
     "xws": "askarn"
@@ -1188,7 +1188,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "manor of ravens",
     "image": "agents/d2e/manor-of-ravens/act2/mr-skarn-front.png",
     "xws": "askarn"
@@ -1206,7 +1206,7 @@
       "Exploit Agony: Each time a hero resolves an attack within 3 spaces of Zarihell, that hero suffers 1 Fatigue for each Surge he did not spend."
     ],
     "deck": "Eternal Agony",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "manor of ravens",
     "image": "agents/d2e/manor-of-ravens/act2/mr-skarn-back.png",
     "xws": "askarn"
@@ -1228,7 +1228,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act1/sn-gargan-mirklace-front.png",
     "xws": "agarganmirklace"
@@ -1246,7 +1246,7 @@
       "Blast: This attack affects all figures adjacent to the target space."
     ],
     "deck": "Burning Ambition",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act1/sn-gargan-mirklace-back.png",
     "xws": "agarganmirklace"
@@ -1268,7 +1268,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act1/sn-rylan-olliven-front.png",
     "xws": "arylanolliven"
@@ -1285,7 +1285,7 @@
       "Subdue: If this attack deals at least 1 Heart, choose 1 condition. The target suffers the chosen condition."
     ],
     "deck": "Inner Corruption",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act1/sn-rylan-olliven-back.png",
     "xws": "arylanolliven"
@@ -1307,7 +1307,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act1/sn-tristayne-olliven-front.png",
     "xws": "atristayneolliven"
@@ -1324,7 +1324,7 @@
       "Chaotic Energy: Each time Tristayne Olliven performs an attack, before dice are rolled, you may suffer up to 3 Hearts. This attack deals additional Hearts equal to the Hearts suffered. Tristayne cannot do this if suffering the Hearts would defeat him."
     ],
     "deck": "Unstable Forces",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act1/sn-tristayne-olliven-back.png",
     "xws": "atristayneolliven"
@@ -1346,7 +1346,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act1/sn-verminous-front.png",
     "xws": "averminous"
@@ -1363,7 +1363,7 @@
       "Scheme: Discard 1 Overlord card from your hand to draw 1 Overlord card."
     ],
     "deck": "Unseen Legions",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act1/sn-verminous-back.png",
     "xws": "averminous"
@@ -1386,7 +1386,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act2/sn-gargan-mirklace-front.png",
     "xws": "agarganmirklace"
@@ -1405,7 +1405,7 @@
       "Blast: This attack affects all figures adjacent to the target space."
     ],
     "deck": "Burning Ambition",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act2/sn-gargan-mirklace-back.png",
     "xws": "agarganmirklace"
@@ -1428,7 +1428,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act2/sn-rylan-olliven-front.png",
     "xws": "arylanolliven"
@@ -1446,7 +1446,7 @@
       "Subdue: If this attack deals at least 1 Heart, choose 1 condition. The target suffers the chosen condition."
     ],
     "deck": "Inner Corruption",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act2/sn-rylan-olliven-back.png",
     "xws": "arylanolliven"
@@ -1469,7 +1469,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act2/sn-tristayne-olliven-front.png",
     "xws": "atristayneolliven"
@@ -1487,7 +1487,7 @@
       "Chaotic Energy: Each time Tristayne Olliven performs an attack, before dice are rolled, you may suffer up to 3 Hearts. This attack deals additional Hearts equal to the Hearts suffered. Tristayne cannot do this if suffering the Hearts would defeat him."
     ],
     "deck": "Unstable Forces",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act2/sn-tristayne-olliven-back.png",
     "xws": "atristayneolliven"
@@ -1510,7 +1510,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act2/sn-verminous-front.png",
     "xws": "averminous"
@@ -1528,7 +1528,7 @@
       "Scheme: Discard 1 Overlord card from your hand to draw 1 Overlord card."
     ],
     "deck": "Unseen Legions",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "shadow of nerekhall",
     "image": "agents/d2e/shadow-of-nerekhall/act2/sn-verminous-back.png",
     "xws": "averminous"
@@ -1550,7 +1550,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "the trollfens",
     "image": "agents/d2e/the-trollfens/act1/tf-bolgoreth-front.png",
     "xws": "abolgoreth"
@@ -1567,7 +1567,7 @@
       "Disease, Poison: If this attack deals at least 1 Heart (after the defense roll), the target is Diseased and Poisoned."
     ],
     "deck": "Raging Infection",
-    "card": "11/12",
+    "assetno": "11/12",
     "expansion": "the trollfens",
     "image": "agents/d2e/the-trollfens/act1/tf-bolgoreth-back.png",
     "xws": "abolgoreth"
@@ -1590,7 +1590,7 @@
     ],
     "ability rules": null,
     "deck": null,
-    "card": null,
+    "assetno": null,
     "expansion": "the trollfens",
     "image": "agents/d2e/the-trollfens/act2/tf-bolgoreth-front.png",
     "xws": "abolgoreth"
@@ -1608,7 +1608,7 @@
       "Disease, Poison: If this attack deals at least 1 Heart (after the defense roll), the target is Diseased and Poisoned."
     ],
     "deck": "Raging Infection",
-    "card": "12/12",
+    "assetno": "12/12",
     "expansion": "the trollfens",
     "image": "agents/d2e/the-trollfens/act2/tf-bolgoreth-back.png",
     "xws": "abolgoreth"

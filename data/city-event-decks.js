@@ -9,7 +9,7 @@
       "Sewer: No Event.",
       "Hazard: No Event."
     ],
-    "card": "1/10",
+    "assetno": "1/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-1-of-10.png",
     "xws": "sncityevent1of10"
@@ -24,7 +24,7 @@
       "Sewer: No Event.",
       "Hazard: No Event."
     ],
-    "card": "1/10",
+    "assetno": "1/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-1-of-10.png",
     "xws": "escortofguardsmen"
@@ -39,7 +39,7 @@
       "Sewer: No Event.",
       "Hazard: No Event."
     ],
-    "card": "1/10",
+    "assetno": "1/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-1-of-10.png",
     "xws": "viciousbeasts"
@@ -54,7 +54,7 @@
       "Sewer: No Event.",
       "Hazard: No Event."
     ],
-    "card": "1/10",
+    "assetno": "1/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-1-of-10.png",
     "xws": "brawl"
@@ -69,7 +69,7 @@
       "Street: No Event.",
       "Tower: No Event."
     ],
-    "card": "2/10",
+    "assetno": "2/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-2-of-10.png",
     "xws": "sncityevent2of10"
@@ -84,7 +84,7 @@
       "Street: No Event.",
       "Tower: No Event."
     ],
-    "card": "2/10",
+    "assetno": "2/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-2-of-10.png",
     "xws": "enragedynfernaelhulk"
@@ -99,7 +99,7 @@
       "Street: No Event.",
       "Tower: No Event."
     ],
-    "card": "2/10",
+    "assetno": "2/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-2-of-10.png",
     "xws": "canteen"
@@ -114,7 +114,7 @@
       "Street: No Event.",
       "Tower: No Event."
     ],
-    "card": "2/10",
+    "assetno": "2/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-2-of-10.png",
     "xws": "spy"
@@ -129,7 +129,7 @@
       "Street: No Event.",
       "Building: No Event."
     ],
-    "card": "3/10",
+    "assetno": "3/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-3-of-10.png",
     "xws": "sncityevent3of10"
@@ -144,7 +144,7 @@
       "Street: No Event.",
       "Building: No Event."
     ],
-    "card": "3/10",
+    "assetno": "3/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-3-of-10.png",
     "xws": "collapse"
@@ -159,7 +159,7 @@
       "Street: No Event.",
       "Building: No Event."
     ],
-    "card": "3/10",
+    "assetno": "3/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-3-of-10.png",
     "xws": "tendrilsofshadow"
@@ -174,7 +174,7 @@
       "Street: No Event.",
       "Building: No Event."
     ],
-    "card": "3/10",
+    "assetno": "3/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-3-of-10.png",
     "xws": "darkalley"
@@ -189,7 +189,7 @@
       "Building: No Event.",
       "Sewer: No Event."
     ],
-    "card": "4/10",
+    "assetno": "4/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-4-of-10.png",
     "xws": "sncityevent4of10"
@@ -204,7 +204,7 @@
       "Building: No Event.",
       "Sewer: No Event."
     ],
-    "card": "4/10",
+    "assetno": "4/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-4-of-10.png",
     "xws": "brokenpipe"
@@ -219,7 +219,7 @@
       "Building: No Event.",
       "Sewer: No Event."
     ],
-    "card": "4/10",
+    "assetno": "4/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-4-of-10.png",
     "xws": "streetvendor"
@@ -234,7 +234,7 @@
       "Building: No Event.",
       "Sewer: No Event."
     ],
-    "card": "4/10",
+    "assetno": "4/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-4-of-10.png",
     "xws": "demonictrap"
@@ -249,7 +249,7 @@
       "Hazard: No Event.",
       "Tower: No Event."
     ],
-    "card": "5/10",
+    "assetno": "5/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-5-of-10.png",
     "xws": "sncityevent5of10"
@@ -264,7 +264,7 @@
       "Hazard: No Event.",
       "Tower: No Event."
     ],
-    "card": "5/10",
+    "assetno": "5/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-5-of-10.png",
     "xws": "streetsarebustling"
@@ -279,7 +279,7 @@
       "Hazard: No Event.",
       "Tower: No Event."
     ],
-    "card": "5/10",
+    "assetno": "5/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-5-of-10.png",
     "xws": "lockedbox"
@@ -294,7 +294,7 @@
       "Hazard: No Event.",
       "Tower: No Event."
     ],
-    "card": "5/10",
+    "assetno": "5/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-5-of-10.png",
     "xws": "cityofficials"
@@ -309,7 +309,7 @@
       "Sewer: No Event.",
       "Tower: No Event."
     ],
-    "card": "6/10",
+    "assetno": "6/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-6-of-10.png",
     "xws": "sncityevent6of10"
@@ -324,7 +324,7 @@
       "Sewer: No Event.",
       "Tower: No Event."
     ],
-    "card": "6/10",
+    "assetno": "6/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-6-of-10.png",
     "xws": "seedydistrict"
@@ -339,7 +339,7 @@
       "Sewer: No Event.",
       "Tower: No Event."
     ],
-    "card": "6/10",
+    "assetno": "6/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-6-of-10.png",
     "xws": "stonemonolith"
@@ -354,7 +354,7 @@
       "Sewer: No Event.",
       "Tower: No Event."
     ],
-    "card": "6/10",
+    "assetno": "6/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-6-of-10.png",
     "xws": "sectionsoftheceiling"
@@ -369,7 +369,7 @@
       "Street: No Event.",
       "Hazard: No Event."
     ],
-    "card": "7/10",
+    "assetno": "7/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-7-of-10.png",
     "xws": "sncityevent7of10"
@@ -384,7 +384,7 @@
       "Street: No Event.",
       "Hazard: No Event."
     ],
-    "card": "7/10",
+    "assetno": "7/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-7-of-10.png",
     "xws": "crazedoldman"
@@ -399,7 +399,7 @@
       "Street: No Event.",
       "Hazard: No Event."
     ],
-    "card": "7/10",
+    "assetno": "7/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-7-of-10.png",
     "xws": "swarmsofrats"
@@ -414,7 +414,7 @@
       "Street: No Event.",
       "Hazard: No Event."
     ],
-    "card": "7/10",
+    "assetno": "7/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-7-of-10.png",
     "xws": "darkrunecraft"
@@ -429,7 +429,7 @@
       "Hazard: No Event.",
       "Building: No Event."
     ],
-    "card": "8/10",
+    "assetno": "8/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-8-of-10.png",
     "xws": "sncityevent8of10"
@@ -444,7 +444,7 @@
       "Hazard: No Event.",
       "Building: No Event."
     ],
-    "card": "8/10",
+    "assetno": "8/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-8-of-10.png",
     "xws": "streeturchin"
@@ -459,7 +459,7 @@
       "Hazard: No Event.",
       "Building: No Event."
     ],
-    "card": "8/10",
+    "assetno": "8/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-8-of-10.png",
     "xws": "largecarriage"
@@ -474,7 +474,7 @@
       "Hazard: No Event.",
       "Building: No Event."
     ],
-    "card": "8/10",
+    "assetno": "8/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-8-of-10.png",
     "xws": "shinytrinket"
@@ -489,7 +489,7 @@
       "Sewer: No Event.",
       "Tower: No Event."
     ],
-    "card": "9/10",
+    "assetno": "9/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-9-of-10.png",
     "xws": "sncityevent9of10"
@@ -504,7 +504,7 @@
       "Sewer: No Event.",
       "Tower: No Event."
     ],
-    "card": "9/10",
+    "assetno": "9/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-9-of-10.png",
     "xws": "burningvapor"
@@ -519,7 +519,7 @@
       "Sewer: No Event.",
       "Tower: No Event."
     ],
-    "card": "9/10",
+    "assetno": "9/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-9-of-10.png",
     "xws": "gangofthugs"
@@ -534,7 +534,7 @@
       "Sewer: No Event.",
       "Tower: No Event."
     ],
-    "card": "9/10",
+    "assetno": "9/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-9-of-10.png",
     "xws": "feraldogs"
@@ -549,7 +549,7 @@
       "Street: No Event.",
       "Building: No Event."
     ],
-    "card": "10/10",
+    "assetno": "10/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-10-of-10.png",
     "xws": "sncityevent10of10"
@@ -564,7 +564,7 @@
       "Street: No Event.",
       "Building: No Event."
     ],
-    "card": "10/10",
+    "assetno": "10/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-10-of-10.png",
     "xws": "supplydrop"
@@ -579,7 +579,7 @@
       "Street: No Event.",
       "Building: No Event."
     ],
-    "card": "10/10",
+    "assetno": "10/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-10-of-10.png",
     "xws": "ratseverywhere"
@@ -594,7 +594,7 @@
       "Street: No Event.",
       "Building: No Event."
     ],
-    "card": "10/10",
+    "assetno": "10/10",
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-10-of-10.png",
     "xws": "foulcreatures"
@@ -603,7 +603,7 @@
     "name": "city-event-decks-back",
     "points": 40,
     "travel": null,
-    "card": null,
+    "assetno": null,
     "expansion": "shadow of nerekhall",
     "image": "city-event-decks/d2e/shadow-of-nerekhall/sn-city-event-decks-back.png",
     "xws": "cityeventdecksback"

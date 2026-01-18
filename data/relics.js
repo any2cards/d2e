@@ -2,6 +2,12 @@
   {
     "name": "dawnblade",
     "points": 0,
+    "type": "heroes",
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red Yellow",
+    "rules": "Surge: +3 Hearts. Surge: This attack affects a second monster adjacent to you.",
     "expansion": "base game",
     "image": "relics/d2e/base-game/heroes/bg-dawnblade.png",
     "xws": "dawnblade"
@@ -9,6 +15,12 @@
   {
     "name": "fortuna's dice",
     "points": 1,
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card and suffer 1 Fatigue to reroll any 1 die you have just rolled.",
     "expansion": "base game",
     "image": "relics/d2e/base-game/heroes/bg-fortunas-dice.png",
     "xws": "fortunasdice"
@@ -16,6 +28,12 @@
   {
     "name": "shield of the dark god",
     "points": 2,
+    "type": "heroes",
+    "traits": "Shield",
+    "attack": null,
+    "equip": "One Hand",
+    "dice": null,
+    "rules": "Exhaust this card after rolling defense dice to reroll some or all of the defense dice. Keep the new result only if it is better.",
     "expansion": "base game",
     "image": "relics/d2e/base-game/heroes/bg-shield-of-the-dark-god.png",
     "xws": "shieldofthedarkgod"
@@ -23,6 +41,12 @@
   {
     "name": "staff of light",
     "points": 3,
+    "type": "heroes",
+    "traits": "Magic, Staff",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "Action: Each hero within 3 spaces of you recovers 1 Heart and 1 Fatigue. Surge: +2 Hearts. Surge: Recover 1 Heart.",
     "expansion": "base game",
     "image": "relics/d2e/base-game/heroes/bg-staff-of-light.png",
     "xws": "staffoflight"
@@ -30,6 +54,12 @@
   {
     "name": "the shadow rune",
     "points": 4,
+    "type": "heroes",
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow Yellow",
+    "rules": "Each time you defeat a monster with this weapon, recover 1 Fatigue. Surge: +1 Range, +1 Heart. Surge: +2 Hearts.",
     "expansion": "base game",
     "image": "relics/d2e/base-game/heroes/bg-the-shadow-rune.png",
     "xws": "theshadowrune"
@@ -37,6 +67,12 @@
   {
     "name": "trueshot",
     "points": 5,
+    "type": "heroes",
+    "traits": "Bow",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red Yellow",
+    "rules": "+3 Range. Surge: Move the target 1 space. Surge: +2 Hearts.",
     "expansion": "base game",
     "image": "relics/d2e/base-game/heroes/bg-trueshot.png",
     "xws": "trueshot"
@@ -44,6 +80,12 @@
   {
     "name": "bones of woe",
     "points": 6,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "At the start of each of your turns, roll the blue attack die. On a Surge, draw 1 Overlord card.",
     "expansion": "base game",
     "image": "relics/d2e/base-game/lieutenants/bg-bones-of-woe.png",
     "xws": "bonesofwoe"
@@ -51,6 +93,12 @@
   {
     "name": "duskblade",
     "points": 7,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "A hero that starts his turn adjacent to this lieutenant receives -1 Speed for that turn. Each of this lieutenant's attacks gains: Surge: Pierce 5",
     "expansion": "base game",
     "image": "relics/d2e/base-game/lieutenants/bg-duskblade.png",
     "xws": "duskblade"
@@ -58,6 +106,12 @@
   {
     "name": "scorpion's kiss",
     "points": 8,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "This lieutenant gains: Action: Exhaust this card and choose a hero in your line of sight. That hero tests Awareness. If he fails, he is Immobilized and Poisoned. If he passes, he only suffers 1 of those conditions of your choice.",
     "expansion": "base game",
     "image": "relics/d2e/base-game/lieutenants/bg-scorpions-kiss.png",
     "xws": "scorpionskiss"
@@ -65,6 +119,12 @@
   {
     "name": "shield of zorek's favor",
     "points": 9,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each time an attack targeting this lieutenant is resolved and he is not defeated, he tests Might. If he passes, the attacker suffers 1 Heart for each Shield rolled on this test.",
     "expansion": "base game",
     "image": "relics/d2e/base-game/lieutenants/bg-shield-of-zoreks-favor.png",
     "xws": "shieldofzoreksfavor"
@@ -72,6 +132,12 @@
   {
     "name": "staff of shadows",
     "points": 10,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card and discard 1 Overlord card from your hand to either draw 1 Overlord card or force a reroll of any 1 die. You may do this at any time, even of it's not your turn.",
     "expansion": "base game",
     "image": "relics/d2e/base-game/lieutenants/bg-staff-of-shadows.png",
     "xws": "staffofshadows"
@@ -79,6 +145,12 @@
   {
     "name": "the shadow rune",
     "points": 11,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Zachareth Only. Each of your attacks gain: Surge: +2 Hearts. Surge: +1 Range, +1 Heart. Surge: Draw 1 Overlord card.",
     "expansion": "base game",
     "image": "relics/d2e/base-game/lieutenants/bg-the-shadow-rune.png",
     "xws": "theshadowrune"
@@ -86,6 +158,12 @@
   {
     "name": "gauntlets of power",
     "points": 12,
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card to cancel 1 Surge from an attack targeting you. Then place 1 Fatigue on this card. You may discard 1 Fatigue from this card when attacking to gain 1 Surge.",
     "expansion": "labyrinth of ruin",
     "image": "relics/d2e/labyrinth-of-ruin/heroes/lr-gauntlets-of-power.png",
     "xws": "gauntletsofpower"
@@ -93,6 +171,12 @@
   {
     "name": "living heart",
     "points": 13,
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card to revive all heroes within 3 spaces of you. Each revived hero rolls 3 red power dice instead of 2. Limit once per encounter.",
     "expansion": "labyrinth of ruin",
     "image": "relics/d2e/labyrinth-of-ruin/heroes/lr-living-heart.png",
     "xws": "livingheart"
@@ -100,6 +184,12 @@
   {
     "name": "sun stone",
     "points": 14,
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Add 1 additional green power die to your attack pool. If you are defeated, place the sun stone token in your space.",
     "expansion": "labyrinth of ruin",
     "image": "relics/d2e/labyrinth-of-ruin/heroes/lr-sun-stone.png",
     "xws": "sunstone"
@@ -107,6 +197,12 @@
   {
     "name": "fallen heart",
     "points": 15,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card when a minion or master monster is defeated. Roll 1 red power die, the monster immediately recovers Hearts equal to the Hearts rolled. Limit once per encounter.",
     "expansion": "labyrinth of ruin",
     "image": "relics/d2e/labyrinth-of-ruin/lieutenants/lr-fallen-heart.png",
     "xws": "fallenheart"
@@ -114,6 +210,12 @@
   {
     "name": "gauntlets of spite",
     "points": 16,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card to cancel 1 Surge from an attack targeting this lieutenant. Then place 1 Fatigue on this card. You may discard 1 Fatigue from this card when this lieutenant is attacking to gain 1 Surge.",
     "expansion": "labyrinth of ruin",
     "image": "relics/d2e/labyrinth-of-ruin/lieutenants/lr-gauntlets-of-spite.png",
     "xws": "gauntletsofspite"
@@ -121,6 +223,12 @@
   {
     "name": "sun's fury",
     "points": 17,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Add 1 additional green power die to this lieutenant's attack pool. Return this card to the game box during any Campaign phase to gain 1 XP.",
     "expansion": "labyrinth of ruin",
     "image": "relics/d2e/labyrinth-of-ruin/lieutenants/lr-suns-fury.png",
     "xws": "sunsfury"
@@ -128,6 +236,12 @@
   {
     "name": "aurium mail",
     "points": 18,
+    "type": "heroes",
+    "traits": "Heavy Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Black",
+    "rules": "Before rolling your defense dice, exhaust this card to add 1 additional brown die to your defense pool.",
     "expansion": "lair of the wyrm",
     "image": "relics/d2e/lair-of-the-wyrm/heroes/lw-aurium-mail.png",
     "xws": "auriummail"
@@ -135,6 +249,12 @@
   {
     "name": "valyndra's bane",
     "points": 19,
+    "type": "heroes",
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red Yellow",
+    "rules": "Each time you attack a large monster, you may add 1 yellow power die to your attack roll. Surge: Pierce 3.",
     "expansion": "lair of the wyrm",
     "image": "relics/d2e/lair-of-the-wyrm/heroes/lw-valyndras-bane.png",
     "xws": "valyndrasbane"
@@ -142,6 +262,12 @@
   {
     "name": "her majesty's malice",
     "points": 20,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each of your attacks gains: Surge Surge: After resolving this attack, you may perform a second attack action against the same target (once per turn).",
     "expansion": "lair of the wyrm",
     "image": "relics/d2e/lair-of-the-wyrm/lieutenants/lw-her-majestys-malice.png",
     "xws": "hermajestysmalice"
@@ -149,6 +275,12 @@
   {
     "name": "valyndra's gift",
     "points": 21,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Before any attack roll, exhaust this card to choose this lieutenant or a figure adjacent to this lieutenant. The chosen figure adds 1 gray die to his defense pool.",
     "expansion": "lair of the wyrm",
     "image": "relics/d2e/lair-of-the-wyrm/lieutenants/lw-valyndras-gift.png",
     "xws": "valyndrasgift"
@@ -156,6 +288,12 @@
   {
     "name": "book of stars",
     "points": 22,
+    "type": "heroes",
+    "traits": "Book",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Apply +1 to your Knowledge (to a maximum of 6). Action: Test Knowledge. If you pass, discard 1 Condition card from 1 hero of your choice.",
     "expansion": "manor of ravens",
     "image": "relics/d2e/manor-of-ravens/heroes/mr-book-of-stars.png",
     "xws": "bookofstars"
@@ -163,6 +301,12 @@
   {
     "name": "shards of ithyndrus",
     "points": 23,
+    "type": "heroes",
+    "traits": "Exotic, Magic",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "Surge: Recover 2 Hearts. Surge: Recover 2 Fatigue. Surge: Pierce 2.",
     "expansion": "manor of ravens",
     "image": "relics/d2e/manor-of-ravens/heroes/mr-shards-of-ithyndrus.png",
     "xws": "shardsofithyndrus"
@@ -170,6 +314,12 @@
   {
     "name": "the manor's heart",
     "points": 24,
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card during your turn. Recover Hearts or Fatigue equal to the number of Overlord cards in the overlord's discard pile. Limit once per quest.",
     "expansion": "manor of ravens",
     "image": "relics/d2e/manor-of-ravens/heroes/mr-the-manors-heart.png",
     "xws": "themanorsheart"
@@ -177,6 +327,12 @@
   {
     "name": "wanderer's stone",
     "points": 25,
+    "type": "heroes",
+    "traits": "Rune",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Each time you declare a move action, recover 1 Fatigue.",
     "expansion": "manor of ravens",
     "image": "relics/d2e/manor-of-ravens/heroes/mr-wanderers-stone.png",
     "xws": "wanderersstone"
@@ -184,6 +340,12 @@
   {
     "name": "shards of ithyndrus",
     "points": 26,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card when a monster in this group performs an attack, after dice are rolled, to add 1 Surge to the results.",
     "expansion": "manor of ravens",
     "image": "relics/d2e/manor-of-ravens/lieutenants/mr-shards-of-ithyndrus.png",
     "xws": "shardsofithyndrus"
@@ -191,6 +353,12 @@
   {
     "name": "stone of wayward means",
     "points": 27,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each monster in this group gains: Surge: Doom",
     "expansion": "manor of ravens",
     "image": "relics/d2e/manor-of-ravens/lieutenants/mr-stone-of-wayward-means.png",
     "xws": "stoneofwaywardmeans"
@@ -198,6 +366,12 @@
   {
     "name": "the manor's heart",
     "points": 28,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each master monster of this group gains: Action: Perform an attack. Measure range and line of sight from 1 minion monster in this monster's group.",
     "expansion": "manor of ravens",
     "image": "relics/d2e/manor-of-ravens/lieutenants/mr-the-manors-heart.png",
     "xws": "themanorsheart"
@@ -205,6 +379,12 @@
   {
     "name": "tome of the five lies",
     "points": 29,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card after drawing your starting hand. Shuffle those cards back into the Overlord deck and then draw a number of cards equal to the number of heroes.",
     "expansion": "manor of ravens",
     "image": "relics/d2e/manor-of-ravens/lieutenants/mr-tome-of-the-five-lies.png",
     "xws": "tomeofthefivelies"
@@ -212,6 +392,12 @@
   {
     "name": "fear eater",
     "points": 30,
+    "type": "heroes",
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red",
+    "rules": "Surge: Terrify. Each time you declare an attack that targets a Terrified monster, that attack gains: Surge: +2 Hearts, Recover 2 Hearts.",
     "expansion": "mists of bilehall",
     "image": "relics/d2e/mists-of-bilehall/heroes/mb-fear-eater.png",
     "xws": "feareater"
@@ -219,6 +405,12 @@
   {
     "name": "the white crown",
     "points": 31,
+    "type": "heroes",
+    "traits": "Helmet",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Apply +1 to each hero's Willpower (to a maximum of 6). You may unequip this card when a hero fails a Willpower test to reroll that test. Limit 1 Helmet equipped at a time.",
     "expansion": "mists of bilehall",
     "image": "relics/d2e/mists-of-bilehall/heroes/mb-the-white-crown.png",
     "xws": "thewhitecrown"
@@ -226,6 +418,12 @@
   {
     "name": "undertaker's coat",
     "points": 32,
+    "type": "heroes",
+    "traits": "Light Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": null,
+    "rules": "Apply +2 to your Health. At the start of your turn, you may suffer 1 Fatigue to place the hero token of a knocked-out hero adjacent to you.",
     "expansion": "mists of bilehall",
     "image": "relics/d2e/mists-of-bilehall/heroes/mb-undertakers-coat.png",
     "xws": "undertakerscoat"
@@ -233,6 +431,12 @@
   {
     "name": "blade of brivala",
     "points": 33,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each attack performed by this lieutenant gains: Surge: If this attack deals at least 1 Heart, choose 1 hero within 3 spaces of the target. That hero is Terrified.",
     "expansion": "mists of bilehall",
     "image": "relics/d2e/mists-of-bilehall/lieutenants/mb-blade-of-brivala.png",
     "xws": "bladeofbrivala"
@@ -240,6 +444,12 @@
   {
     "name": "undertaker's coat",
     "points": 34,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card after this lieutenant rolls defense dice and rolls 1 or more blanks. Add a number of Shields to the results equal to this lieutenant's Knowledge.",
     "expansion": "mists of bilehall",
     "image": "relics/d2e/mists-of-bilehall/lieutenants/mb-undertakers-coat.png",
     "xws": "undertakerscoat"
@@ -247,6 +457,12 @@
   {
     "name": "waiqar's favor",
     "points": 35,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each monster in this group cannot be Terrified. Each master monster in this group gains: Surge: Recover 3 Hearts.",
     "expansion": "mists of bilehall",
     "image": "relics/d2e/mists-of-bilehall/lieutenants/mb-waiqars-favor.png",
     "xws": "waiqarsfavor"
@@ -254,6 +470,12 @@
   {
     "name": "shadow plotter",
     "points": 36,
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card during your turn. The overlord reveals his hand. This card does not refresh as normal. Refresh this card at the start of each encounter.",
     "expansion": "shadow of nerekhall",
     "image": "relics/d2e/shadow-of-nerekhall/heroes/sn-shadow-plotter.png",
     "xws": "shadowplotter"
@@ -261,6 +483,12 @@
   {
     "name": "spirited scythe",
     "points": 37,
+    "type": "heroes",
+    "traits": "Blade, Staff",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red Red",
+    "rules": "Action: Perform an attack targeting each monster adjacent to you. Each monster rolls defense dice separately. Each monster that suffers at least 1 Heart is Bleeding.",
     "expansion": "shadow of nerekhall",
     "image": "relics/d2e/shadow-of-nerekhall/heroes/sn-spirited-scythe.png",
     "xws": "spiritedscythe"
@@ -268,6 +496,12 @@
   {
     "name": "ynfernael rune",
     "points": 38,
+    "type": "heroes",
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red Green",
+    "rules": "Each time you perform an attack with this weapon, suffer 1 Heart. +3 Range. Surge Surge: +3 Hearts.",
     "expansion": "shadow of nerekhall",
     "image": "relics/d2e/shadow-of-nerekhall/heroes/sn-ynfernael-rune.png",
     "xws": "ynfernaelrune"
@@ -275,6 +509,12 @@
   {
     "name": "shadow plotter",
     "points": 39,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card during your turn to draw 3 Overlord cards. Add 1 card to your hand and discard the other 2 cards. Then, this lieutenant suffers 2 Hearts.",
     "expansion": "shadow of nerekhall",
     "image": "relics/d2e/shadow-of-nerekhall/lieutenants/sn-shadow-plotter.png",
     "xws": "shadowplotter"
@@ -282,6 +522,12 @@
   {
     "name": "soulless scythe",
     "points": 40,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card when this lieutenant enters a space adjacent to a hero. That hero is Bleeding. Each attack this lieutenant performs that targets a Bleeding hero gains Pierce 3.",
     "expansion": "shadow of nerekhall",
     "image": "relics/d2e/shadow-of-nerekhall/lieutenants/sn-soulless-scythe.png",
     "xws": "soullessscythe"
@@ -289,6 +535,12 @@
   {
     "name": "ynfernael rune",
     "points": 41,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "This lieutenant ignores the effects of hazard spaces. Each attack this lieutenant performs gains: Surge: +2 Hearts",
     "expansion": "shadow of nerekhall",
     "image": "relics/d2e/shadow-of-nerekhall/lieutenants/sn-ynfernael-rune.png",
     "xws": "ynfernaelrune"
@@ -296,6 +548,12 @@
   {
     "name": "boneborn bow",
     "points": 42,
+    "type": "heroes",
+    "traits": "Bow",
+    "attack": "Range",
+    "equip": "Two hands",
+    "dice": "Blue Yellow Yellow",
+    "rules": "You cannot be Terrified. Surge: +2 Hearts. Surge: Pierce 2. Surge: +4 Range.",
     "expansion": "the chains that rust",
     "image": "relics/d2e/the-chains-that-rust/heroes/cr-boneborn-bow.png",
     "xws": "bonebornbow"
@@ -303,6 +561,12 @@
   {
     "name": "forewarned ring",
     "points": 43,
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Each time the overlord plays an Overlord card, before that card is resolved, you may recover 1 Heart.",
     "expansion": "the chains that rust",
     "image": "relics/d2e/the-chains-that-rust/heroes/cr-forewarned-ring.png",
     "xws": "forewarnedring"
@@ -310,6 +574,12 @@
   {
     "name": "robes of the last",
     "points": 44,
+    "type": "heroes",
+    "traits": "Cloak",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Gray",
+    "rules": "While you are the target of an attack, add 1 Shield to your defense results for each Surge spent by the figure performing the attack.",
     "expansion": "the chains that rust",
     "image": "relics/d2e/the-chains-that-rust/heroes/cr-robes-of-the-last.png",
     "xws": "robesofthelast"
@@ -317,6 +587,12 @@
   {
     "name": "azathea's triumph",
     "points": 45,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "This lieutenant applies +4 to his Health (even while this card is exhausted). Action: Exhaust this card to deal 2 Hearts to a hero in this lieutenant's line of sight.",
     "expansion": "the chains that rust",
     "image": "relics/d2e/the-chains-that-rust/lieutenants/cr-azatheas-triumph.png",
     "xws": "azatheastriumph"
@@ -324,6 +600,12 @@
   {
     "name": "band of foresight",
     "points": 46,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card during your turn and name an Overlord card trait. Reveal the top card of your deck. If it has the trait you named, add it to your hand. Otherwise, discard it.",
     "expansion": "the chains that rust",
     "image": "relics/d2e/the-chains-that-rust/lieutenants/cr-band-of-foresight.png",
     "xws": "bandofforesight"
@@ -331,6 +613,12 @@
   {
     "name": "robes of the last",
     "points": 47,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each master monster in this group applies +2 to its Health. Each hero within 3 spaces of 1 or more monsters in this group applies -1 to his Knowledge (to a minimum of 1).",
     "expansion": "the chains that rust",
     "image": "relics/d2e/the-chains-that-rust/lieutenants/cr-robes-of-the-last.png",
     "xws": "robesofthelast"
@@ -338,6 +626,12 @@
   {
     "name": "immunity elixir",
     "points": 48,
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "You gain +2 Health. You cannot be Diseased. This card cannot be traded between heroes.",
     "expansion": "the trollfens",
     "image": "relics/d2e/the-trollfens/heroes/tf-immunity-elixir.png",
     "xws": "immunityelixir"
@@ -345,6 +639,12 @@
   {
     "name": "mending talisman",
     "points": 49,
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Action: Exhaust this card and choose a hero. Roll 1 red power die. The chosen hero recovers Hearts equal to the Hearts rolled and may discard 1 Condition card or infection token.",
     "expansion": "the trollfens",
     "image": "relics/d2e/the-trollfens/heroes/tf-mending-talisman.png",
     "xws": "mendingtalisman"
@@ -352,6 +652,12 @@
   {
     "name": "workman's ring",
     "points": 50,
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Each time you would suffer any amount of Fatigue, you may instead place it on this card (to a maximum of 3). Discard all Fatigue on this card at the end of each encounter.",
     "expansion": "the trollfens",
     "image": "relics/d2e/the-trollfens/heroes/tf-workmans-ring.png",
     "xws": "workmansring"
@@ -359,6 +665,12 @@
   {
     "name": "curative vial",
     "points": 51,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "This lieutenant gains: Action: Exhaust this card. This lieutenant or an adjacent monster may discard 1 Condition token.",
     "expansion": "the trollfens",
     "image": "relics/d2e/the-trollfens/lieutenants/tf-curative-vial.png",
     "xws": "curativevial"
@@ -366,6 +678,12 @@
   {
     "name": "omen of blight",
     "points": 52,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "This lieutenant gains: Surge: If this attack deals at least 1 Heart (after the defense roll), choose 1 condition. The target suffers the chosen condition.",
     "expansion": "the trollfens",
     "image": "relics/d2e/the-trollfens/lieutenants/tf-omen-of-blight.png",
     "xws": "omenofblight"
@@ -373,6 +691,12 @@
   {
     "name": "taskmaster's ring",
     "points": 53,
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each of this lieutenant's attacks gains: Surge: Gain 2 movement points.",
     "expansion": "the trollfens",
     "image": "relics/d2e/the-trollfens/lieutenants/tf-taskmasters-ring.png",
     "xws": "taskmastersring"

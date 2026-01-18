@@ -2,6 +2,10 @@
   {
     "name": "curse doll",
     "points": 0,
+    "count": 1,
+    "trait": "Item",
+    "ability": "Action: Flip this card over to discard any 1 Condition card from yourself or an adjacent hero.",
+    "gold": 50,
     "expansion": "base game",
     "image": "search-deck/d2e/base-game/bg-curse-doll.png",
     "xws": "cursedoll"
@@ -9,6 +13,10 @@
   {
     "name": "fire flask",
     "points": 1,
+    "count": 1,
+    "trait": "Item",
+    "ability": "Action: Flip this card over to make a Ranged attack with this item. Range, Blue Yellow, Surge: Blast",
+    "gold": 50,
     "expansion": "base game",
     "image": "search-deck/d2e/base-game/bg-fire-flask.png",
     "xws": "fireflask"
@@ -16,6 +24,10 @@
   {
     "name": "health potion",
     "points": 2,
+    "count": 3,
+    "trait": "Potion",
+    "ability": "Action: Flip this card over to choose your hero or an adjacent hero. The hero recovers all Hearts.",
+    "gold": 25,
     "expansion": "base game",
     "image": "search-deck/d2e/base-game/bg-health-potion.png",
     "xws": "healthpotion"
@@ -23,6 +35,10 @@
   {
     "name": "nothing",
     "points": 3,
+    "count": 1,
+    "trait": "Special",
+    "ability": "X Discard this card.",
+    "gold": 0,
     "expansion": "base game",
     "image": "search-deck/d2e/base-game/bg-nothing.png",
     "xws": "nothing"
@@ -30,6 +46,10 @@
   {
     "name": "power potion",
     "points": 4,
+    "count": 1,
+    "trait": "Potion",
+    "ability": "Flip this card over to reroll some or all of your dice after performing an attack.",
+    "gold": 50,
     "expansion": "base game",
     "image": "search-deck/d2e/base-game/bg-power-potion.png",
     "xws": "powerpotion"
@@ -37,6 +57,10 @@
   {
     "name": "search-deck-back",
     "points": 5,
+    "count": null,
+    "trait": null,
+    "ability": null,
+    "gold": null,
     "expansion": "base game",
     "image": "search-deck/d2e/base-game/bg-search-deck-back.png",
     "xws": "searchdeckback"
@@ -44,6 +68,10 @@
   {
     "name": "stamina potion",
     "points": 6,
+    "count": 3,
+    "trait": "Potion",
+    "ability": "Flip this card over during your turn to choose your hero or an adjacent hero. The hero recovers all Fatigue.",
+    "gold": 25,
     "expansion": "base game",
     "image": "search-deck/d2e/base-game/bg-stamina-potion.png",
     "xws": "staminapotion"
@@ -51,6 +79,10 @@
   {
     "name": "treasure chest",
     "points": 7,
+    "count": 1,
+    "trait": "Special",
+    "ability": "Immediately discard this card to draw 1 random Shop Item card from the current Act's deck.",
+    "gold": 0,
     "expansion": "base game",
     "image": "search-deck/d2e/base-game/bg-treasure-chest.png",
     "xws": "treasurechest"
@@ -58,6 +90,10 @@
   {
     "name": "warding talisman",
     "points": 8,
+    "count": 1,
+    "trait": "Item",
+    "ability": "Flip this card over after rolling defense dice to add 2 Shields to your results.",
+    "gold": 50,
     "expansion": "base game",
     "image": "search-deck/d2e/base-game/bg-warding-talisman.png",
     "xws": "wardingtalisman"
@@ -65,6 +101,10 @@
   {
     "name": "secret passage",
     "points": 9,
+    "count": 1,
+    "trait": "Special",
+    "ability": "Place a secret room entrance token in your space. You may immediately explore this secret room without spending a movement point. Then discard this card. If you draw this card outside of an encounter, shuffle this card back into the deck and draw a replacement.",
+    "gold": 0,
     "expansion": "lair of the wyrm",
     "image": "search-deck/d2e/lair-of-the-wyrm/lw-secret-passage.png",
     "xws": "secretpassage"
@@ -72,6 +112,10 @@
   {
     "name": "blueprint",
     "points": 10,
+    "count": 1,
+    "trait": "Special",
+    "ability": "Immediately flip this card over to draw 3 random Shop Item cards from the current Act's Shop Item deck. Choose 1 and add it to the next shopping step. Shuffle the other cards back into the deck.",
+    "gold": 50,
     "expansion": "sands of the past",
     "image": "search-deck/sotp/sands-of-the-past/sotp-blueprint.png",
     "xws": "blueprint"
@@ -79,6 +123,10 @@
   {
     "name": "curse ward",
     "points": 11,
+    "count": 1,
+    "trait": "Item",
+    "ability": "When you or an adjacent hero would receive a Condition card, you may flip this card over to discard that Condition card instead.",
+    "gold": 50,
     "expansion": "sands of the past",
     "image": "search-deck/sotp/sands-of-the-past/sotp-curse-ward.png",
     "xws": "curseward"
@@ -86,6 +134,10 @@
   {
     "name": "haste potion",
     "points": 12,
+    "count": 1,
+    "trait": "Potion",
+    "ability": "Action: Flip this card over to recover 3 Hearts and gain 5 movement points.",
+    "gold": 25,
     "expansion": "sands of the past",
     "image": "search-deck/sotp/sands-of-the-past/sotp-haste-potion.png",
     "xws": "hastepotion"
@@ -93,6 +145,10 @@
   {
     "name": "masterwork tools",
     "points": 13,
+    "count": 1,
+    "trait": "Item",
+    "ability": "Flip this card over during your turn to either search an adjacent search token or perform an open or close a door action without using an action.",
+    "gold": 50,
     "expansion": "sands of the past",
     "image": "search-deck/sotp/sands-of-the-past/sotp-masterwork-tools.png",
     "xws": "masterworktools"
@@ -100,6 +156,10 @@
   {
     "name": "protection sphere",
     "points": 14,
+    "count": 1,
+    "trait": "Item",
+    "ability": "When a hero within 1 space of you is attacked, before dice are rolled, you may flip this card over to add 1 additional black die to that hero's defense pool.",
+    "gold": 50,
     "expansion": "sands of the past",
     "image": "search-deck/sotp/sands-of-the-past/sotp-protection-sphere.png",
     "xws": "protectionsphere"
@@ -107,6 +167,10 @@
   {
     "name": "scroll of coercion",
     "points": 15,
+    "count": 1,
+    "trait": "Item",
+    "ability": "Action: Flip this card over during your turn and choose a minion monster within 3 spaces. You may perform an attack action with that monster as if it were a hero.",
+    "gold": 50,
     "expansion": "sands of the past",
     "image": "search-deck/sotp/sands-of-the-past/sotp-scroll-of-coercion.png",
     "xws": "scrollofcoercion"
@@ -114,6 +178,10 @@
   {
     "name": "timmorran shard",
     "points": 16,
+    "count": 1,
+    "trait": "Item, Potion",
+    "ability": "Place 3 Heart tokens on this card. Once during your turn, you may discard 1 Heart token from this card to recover 2 Hearts or 1 Fatigue. Flip this card over after discarding the last Heart token.",
+    "gold": 25,
     "expansion": "sands of the past",
     "image": "search-deck/sotp/sands-of-the-past/sotp-timmorran-shard.png",
     "xws": "timmorranshard"
@@ -121,6 +189,10 @@
   {
     "name": "truestrike potion",
     "points": 17,
+    "count": 1,
+    "trait": "Potion",
+    "ability": "Action: Flip this card over to perform an attack. This attack adds 1 Surge to the results and gains: +2 Range, Pierce 1.",
+    "gold": 50,
     "expansion": "sands of the past",
     "image": "search-deck/sotp/sands-of-the-past/sotp-truestrike-potion.png",
     "xws": "truestrikepotion"
@@ -128,6 +200,10 @@
   {
     "name": "secret passage",
     "points": 18,
+    "count": 1,
+    "trait": "Special",
+    "ability": "Place a secret room entrance token in your space. You may immediately explore this secret room without spending a movement point. Then, discard this card. If you draw this card outside of an encounter, shuffle this card back into the deck and draw a replacement.",
+    "gold": 0,
     "expansion": "the trollfens",
     "image": "search-deck/d2e/the-trollfens/tf-secret-passage.png",
     "xws": "secretpassage"
