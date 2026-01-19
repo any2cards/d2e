@@ -1,0 +1,231 @@
+sotp-aeons-voice.png
+BEGIN
+    "assetno": 28,
+    "flavor": "Something whispers dark incantations in an old language into your thoughts.",
+    "effects": "Test Knowledge. If you fail, you are Terrified.",
+    "icons": "Sands Of The Past, Mists of Bilehall, The Chains That Rust",
+END
+
+sotp-alchemical-vapors.png
+BEGIN
+    "assetno": 10,
+    "flavor": "An unrecognizable alchemical substance is being sprayed on you.",
+    "effects": "Test an attribute of your choice. If you fail, you suffer 2 random conditions.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-animated-vines.png
+BEGIN
+    "assetno": 5,
+    "flavor": "A whip-like tendril erupts out of an opening and lashes at your feet!",
+    "effects": "Test Awareness. If you fail, you are Immobilized.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-bear-trap.png
+BEGIN
+    "assetno": 26,
+    "flavor": "Sharp teeth extend on each side of the wooden frame before they snap shut on your hand!",
+    "effects": "Test Awareness. If you fail, you are Bleeding.",
+    "icons": "Sands Of The Past, Shadow Of Nerekhall",
+END
+
+sotp-black-spider.png
+BEGIN
+    "assetno": 4,
+    "flavor": "A tiny spider crawls out from a crack in the wall and onto your arm.",
+    "effects": "Test Knowledge. If you fail, your are Poisoned.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-blood-bargain.png
+BEGIN
+    "assetno": 11,
+    "flavor": "An ynfernal soul manifests and offers you a bargain.",
+    "effects": "Each hero tests an attribute of his choice. Each hero who fails suffers 2 Hearts. Each hero who passes recovers 1 Heart. If all heroes pass, you suffer 3 Hearts and 3 Fatigue.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-broken-trap.png
+BEGIN
+    "assetno": 1,
+    "flavor": "You do not know if it was just your dumb luck or if the mechanism if worn-down by time. The trap does not trigger!",
+    "effects": "No effect.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-deaths-reproach.png
+BEGIN
+    "assetno": 27,
+    "flavor": "A booming voice resounds, \"You should not have come here.\" A heavy weight settles about your shoulders.",
+    "effects": "Test Willpower. If you fail, you are Doomed.",
+    "icons": "Sands Of The Past, Manor Of Ravens",
+END
+
+sotp-dimensional-sling.png
+BEGIN
+    "assetno": 19,
+    "flavor": "An invisible glyph suddenly flashes before your eyes as you are teleported away.",
+    "effects": "Resolve the action that made you roll this trap test. Then the hero with the least Health remaining (other than you) switches places with you.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-force-missle.png
+BEGIN
+    "assetno": 21,
+    "flavor": "A bolt of crackling energy erupts from a hidden opening, striking you in the chest!",
+    "effects": "Test Might. If you fail, you are Stunned.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-giant-vermin.png
+BEGIN
+    "assetno": 13,
+    "flavor": "You trigger an accelerated growth spell. Maybe you can squish the spider before it reaches the size of a sheep.",
+    "effects": "Test Awareness or Might, your choice. If you fail, place a minion cave spider adjacent to you, ignoring group limits.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-glyph-of-summoning.png
+BEGIN
+    "assetno": 23,
+    "flavor": "You trigger a conjuring glyph. Maybe you can counter its magic before the summoning completes.",
+    "effects": "Test Knowledge or Willpower, your choice. If you fail, place a minion volucrix reaver adjacent to you, ignoring group limits.",
+    "icons": "Sands Of The Past, Labyrinth Of Ruin",
+END
+
+sotp-induced-detonation.png
+BEGIN
+    "assetno": 12,
+    "flavor": "One of the items in your possession starts humming with an ever-increasing pitch.",
+    "effects": "At the end of the current turn or activation, you may flip over a faceup Search card in your play area. If you cannot, or choose not to, each hero within 3 spaces of you suffers 2 Hearts.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-insulation-field.png
+BEGIN
+    "assetno": 7,
+    "flavor": "A hidden ward spell washes over your figure, dampening all the magical power of your equipment.",
+    "effects": "Test Knowledge. If you fail, unequip all your equipped items.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-intellect-wail.png
+BEGIN
+    "assetno": 9,
+    "flavor": "A psychic scream echoes in your brain before you can find shelter in your mental bastion.",
+    "effects": "Choose a hero within 3 spaces of you to test Willpower. If he fails, all heroes within 3 spaces of you suffer 1 Fatigue for each Shield rolled in excess of his Willpower.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-lightning-mesh.png
+BEGIN
+    "assetno": 8,
+    "flavor": "An electrical discharge zaps you and your friends within unerring accuracy.",
+    "effects": "Each hero within 3 spaces of you tests Awareness. Each hero who fails suffers 1 Heart.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-manifested-weakness.png
+BEGIN
+    "assetno": 18,
+    "flavor": "Monsters are alerted by your noise, and see you as easy prey.",
+    "effects": "Test Might. If you fail, activate the monster group closest to you using this activation list: Action: Engage/spot you. Action: Attack you. Then retreat.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-mischievous-imp.png
+BEGIN
+    "assetno": 24,
+    "flavor": "\"Have you come here to play or to die?\" A high-pitched voice cries out from somewhere. \"Hex you!\"",
+    "effects": "Test Willpower. If you fail, you are Cursed.",
+    "icons": "Sands Of The Past, Labyrinth Of Ruin",
+END
+
+sotp-phantasm-of-beastiality.png
+BEGIN
+    "assetno": 17,
+    "flavor": "A blind rage fills your body and mind.",
+    "effects": "Suffer 1 Heart. Mage: Also, treat all text on your Class cards as blank until you perform an attack with your bare hands. Place this card in your play area as a reminder.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-phantasm-of-doubt.png
+BEGIN
+    "assetno": 15,
+    "flavor": "A deep insecurity freezes you in place.",
+    "effects": "Suffer 1 Heart. Warrior: You are also Immobilized.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-phantasm-of-foolishness.png
+BEGIN
+    "assetno": 16,
+    "flavor": "Your heart beats faster with curiosity and recklessness.",
+    "effects": "Suffer 1 Heart. Scout: Also draw another Trap card. You apply -1 to your Might, Willpower, Knowledge, and Awareness (to a minimum of 1) for attribute tests in that Trap card.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-phantasm-of-hate.png
+BEGIN
+    "assetno": 14,
+    "flavor": "An unnatural hate blossoms in your soul.",
+    "effects": "Suffer 1 Heart. Healer: The hero closest to you (other than you) also suffers 2 Hearts and 1 Fatigue.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-skeletal-grip.png
+BEGIN
+    "assetno": 3,
+    "flavor": "A skeleton hand grips your arm tightly. Within moments, you feel a crushing exhaustion seeping through you as you try to pull away.",
+    "effects": "Test Might. If you fail, suffer Fatigue up to your Stamina.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-soul-freeze.png
+BEGIN
+    "assetno": 25,
+    "flavor": "A terrible chill sweeps down your arm and through your body.",
+    "effects": "Test Willpower. If you fail, you are Weakened.",
+    "icons": "Sands Of The Past, The Trollfens",
+END
+
+sotp-spear-trap.png
+BEGIN
+    "assetno": 6,
+    "flavor": "A barbed spear launches towards you!",
+    "effects": "Test Awareness. If you fail, suffer 4 Hearts.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-tar-curio.png
+BEGIN
+    "assetno": 22,
+    "flavor": "You pick up a small lump of black substance with a sharp odor. You hold it toward the torchlight to get a better look.",
+    "effects": "Test Knowledge. If you fail, you are Burning.",
+    "icons": "Sands Of The Past, Lair Of The Wyrm",
+END
+
+sotp-traps-back.png
+BEGIN
+    "assetno": null,
+    "flavor": null,
+    "effects": null,
+    "icons": null,
+END
+
+sotp-vicious-trap.png
+BEGIN
+    "assetno": 2,
+    "flavor": "Your delay along the road gave the Overlord's trap maker the chance to create his masterpiece.",
+    "effects": "Immediately draw and resolve two additional Trap cards, one after the other.",
+    "icons": "Sands Of The Past, Base Game",
+END
+
+sotp-wellspring-of-plague.png
+BEGIN
+    "assetno": 20,
+    "flavor": "A large quantity of foul-smelling green liquid gushes out of an opening and splashes down your front.",
+    "effects": "Test Might. If you fail, you are Diseased.",
+    "icons": "Sands Of The Past, Base Game",
+END

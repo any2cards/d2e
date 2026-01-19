@@ -1,0 +1,42 @@
+# Image Name                    Asset Name          Game   Expansion              AST1     AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description                 Asset #   Printflag
+sn-city-event-1-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sn city event 1 of 10,      xxxxx,    8
+sn-city-event-1-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   escort of guardsmen,        xxxxx,    8
+sn-city-event-1-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   vicious beasts,             xxxxx,    8
+sn-city-event-1-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   brawl,                      xxxxx,    8
+sn-city-event-2-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sn city event 2 of 10,      xxxxx,    8
+sn-city-event-2-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   enraged ynfernael hulk,     xxxxx,    8
+sn-city-event-2-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   canteen,                    xxxxx,    8
+sn-city-event-2-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   spy,                        xxxxx,    8
+sn-city-event-3-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sn city event 3 of 10,      xxxxx,    8
+sn-city-event-3-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   collapse,                   xxxxx,    8
+sn-city-event-3-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   tendrils of shadow,         xxxxx,    8
+sn-city-event-3-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dark alley,                 xxxxx,    8
+sn-city-event-4-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sn city event 4 of 10,      xxxxx,    8
+sn-city-event-4-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   broken pipe,                xxxxx,    8
+sn-city-event-4-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   street vendor,              xxxxx,    8
+sn-city-event-4-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   demonic trap,               xxxxx,    8
+sn-city-event-5-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sn city event 5 of 10,      xxxxx,    8
+sn-city-event-5-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   streets are bustling,       xxxxx,    8
+sn-city-event-5-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   locked box,                 xxxxx,    8
+sn-city-event-5-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   city officials,             xxxxx,    8
+sn-city-event-6-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sn city event 6 of 10,      xxxxx,    8
+sn-city-event-6-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   seedy district,             xxxxx,    8
+sn-city-event-6-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   stone monolith,             xxxxx,    8
+sn-city-event-6-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sections of the ceiling,    xxxxx,    8
+sn-city-event-7-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sn city event 7 of 10,      xxxxx,    8
+sn-city-event-7-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   crazed old man,             xxxxx,    8
+sn-city-event-7-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   swarms of rats,             xxxxx,    8
+sn-city-event-7-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dark runecraft,             xxxxx,    8
+sn-city-event-8-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sn city event 8 of 10,      xxxxx,    8
+sn-city-event-8-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   street urchin,              xxxxx,    8
+sn-city-event-8-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   large carriage,             xxxxx,    8
+sn-city-event-8-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shiny trinket,              xxxxx,    8
+sn-city-event-9-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sn city event 9 of 10,      xxxxx,    8
+sn-city-event-9-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   burning vapor,              xxxxx,    8
+sn-city-event-9-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   gang of thugs,              xxxxx,    8
+sn-city-event-9-of-10.png,      city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   feral dogs,                 xxxxx,    8
+sn-city-event-10-of-10.png,     city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sn city event 10 of 10,     xxxxx,    8
+sn-city-event-10-of-10.png,     city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   supply drop,                xxxxx,    8
+sn-city-event-10-of-10.png,     city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   rats everywhere,            xxxxx,    8
+sn-city-event-10-of-10.png,     city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   foul creatures,             xxxxx,    8
+sn-city-event-decks-back.png,   city-event-decks,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   city-event-decks-back,      xxxxx,    8

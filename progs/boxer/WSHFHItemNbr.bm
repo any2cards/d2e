@@ -1,0 +1,110 @@
+// WSHFHItemNbr: Frosthaven Item Numbering
+
+macro WSHFHItemNbr(void)
+{
+	int end, i, j, itemnbr, itemnbrs1, itemnbrs2, start;
+	
+	string itemcheck, linevalue;
+
+	itemnbr=882;
+	itemnbrs1=1286;
+	itemnbrs2=982;
+
+	GotoLine(1);	
+	start=LineNumber;
+	EndOfFile;
+	end=LineNumber;
+	
+	GotoLine(start);
+	StartOfLine;
+	
+    i=0;
+
+	for (j = start; j < end; j++)
+	{
+		++i;
+		GotoLine(i);
+		StartOfLine;
+		GetLineText(i,linevalue);
+		SubString(itemcheck,linevalue,6,2);
+
+		if (strstr(linevalue,"items") > 0)
+		{
+			if (strstr(linevalue,"-back.png") < 0)
+			{
+				if (strcmp(itemcheck,"a-") != 0)
+				{
+					GotoLine(i);
+					EndofLine;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					printf("%04i,     %s",itemnbr,"5");
+					itemnbr = itemnbr + 2;
+				}
+				if (strcmp(itemcheck,"a-") == 0)
+				{
+					GotoLine(i);
+					EndofLine;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					printf("%04i,     %s",itemnbrs1,"5");
+					++itemnbrs1;
+				}
+				if (strcmp(itemcheck,"b-") == 0)
+				{
+					GotoLine(i);
+					EndofLine;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					Backspace;
+					printf("%04i,     %s",itemnbrs2,"5");
+					++itemnbrs2;
+					itemnbr=itemnbrs2;
+				}
+			}
+			else if (strstr(linevalue,"-back.png") > 0)
+			{
+				GotoLine(i);
+				EndOfLine;
+				backspace;
+				printf("%s","2");
+			}
+		}
+		if (j == 365)
+		{
+			break;
+		}
+	}
+	
+	Gotoline(1);
+	StartOfLine;
+}
+
+
+

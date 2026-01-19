@@ -1,0 +1,923 @@
+bg-iron-mace.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Disciple",
+    "traits": "Hammer",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "Surge: Stun",
+END
+
+bg-iron-mace-back.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Disciple",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+bg-wooden-shield.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Disciple",
+    "traits": "Shield",
+    "attack": null,
+    "equip": "One Hand",
+    "dice": null,
+    "rules": "Exhaust this card after rolling defense dice to add 1 Shield to the results.",
+END
+
+bg-wooden-shield-back.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Disciple",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+bg-oak-staff.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Spiritspeaker",
+    "traits": "Staff",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "Reach. Surge: +1 Heart",
+END
+
+bg-oak-staff-back.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Spiritspeaker",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+bg-reapers-scythe.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "traits": "Magic, Staff",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "Each time you defeat a monster with this weapon, recover 1 Heart. Surge: +1 Range.",
+END
+
+bg-reapers-scythe-back.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+bg-arcane-bolt.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Runemaster",
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "Surge: +1 Range. Surge: Pierce 2.",
+END
+
+bg-arcane-bolt-back.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Runemaster",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+bg-lucky-charm.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Thief",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card to reroll an attribute test. You must keep the new results.",
+END
+
+bg-lucky-charm-back.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Thief",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+bg-throwing-knives.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Thief",
+    "traits": "Blade",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "When attacking an adjacent monster, gain +1 Heart. Surge: +1 Range.",
+END
+
+bg-throwing-knives-back.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Thief",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+bg-yew-shortbow.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Wildlander",
+    "traits": "Bow",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "Surge: +2 Range. Surge: +1 Heart.",
+END
+
+bg-yew-shortbow-back.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Wildlander",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+bg-chipped-greataxe.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Berserker",
+    "traits": "Axe",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red",
+    "rules": "Surge: +1 Heart. Surge: +1 Heart.",
+END
+
+bg-chipped-greataxe-back.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Berserker",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+bg-iron-longsword.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Knight",
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red",
+    "rules": "Surge: You may force the target to reroll 1 defense die.",
+END
+
+bg-iron-longsword-back.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Knight",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+bg-wooden-shield.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Knight",
+    "traits": "Shield",
+    "attack": null,
+    "equip": "One Hand",
+    "dice": null,
+    "rules": "Exhaust this card after rolling defense dice to add 1 Shield to the results.",
+END
+
+bg-wooden-shield-back.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Knight",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+lr-smoking-vials.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Apothecary",
+    "traits": "Exotic",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Green",
+    "rules": "Surge Surge: +3 Hearts. Surge: Poison.",
+END
+
+lr-smoking-vials-back.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Apothecary",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+lr-staff-of-the-grave.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Hexer",
+    "traits": "Magic, Staff",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Green",
+    "rules": "Surge: +1 Range. Surge: +1 Heart and Recover 1 Heart.",
+END
+
+lr-staff-of-the-grave-back.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Hexer",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+lr-leather-whip.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "traits": "Exotic",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "Reach. Surge: Pierce 1. Surge: Move the target 1 space.",
+END
+
+lr-leather-whip-back.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+lr-the-dead-mans-compass.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card during your turn. If you are within 3 spaces of a search token, immediately gain 1 movement point.",
+END
+
+lr-the-dead-mans-compass-back.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Treasure Hunter",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+lr-hunting-spear.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "traits": "Exotic",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red",
+    "rules": "Reach. Surge: Pierce 1.",
+END
+
+lr-hunting-spear-back.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+lr-skinning-knife.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Green",
+    "rules": "If the target has any number of damage tokens, this attack gains: Surge: +3 Hearts.",
+END
+
+lr-skinning-knife-back.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+lw-stasis-rune.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "Surge: +1 Heart. Surge Surge: Immobilize.",
+END
+
+lw-stasis-rune-back.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+lw-horn-of-courage.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Champion",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card during your turn and choose another hero within 3 spaces of you. The chosen hero gains 1 valor.",
+END
+
+lw-horn-of-courage-back.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Champion",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+lw-worn-greatsword.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Champion",
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red",
+    "rules": "Before rolling your attack dice, you may suffer 1 Fatigue to add 1 Surge to your attack results. Surge: +1 Heart.",
+END
+
+lw-worn-greatsword-back.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Champion",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+ll-harvester-scythe.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "traits": "Magic, Blade, Staff",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "After you defeat a monster with this weapon, recover 1 Heart. Surge: Pierce 1",
+END
+
+ll-harvester-scythe-back.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+ll-mirror-of-souls.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Each time you discard 1 of your Conditions, place 1 damage token on Essence Harvest.",
+END
+
+ll-mirror-of-souls-back.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Soul Reaper",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+ll-runeshard-cache.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card after you defeat a monster with a Magic weapon. While this card is exhausted, it is an exhausted Elemental card.",
+END
+
+ll-runeshard-cache-back.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+ll-spire-of-conflux.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "traits": "Magic, Staff",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "Surge: +1 Heart. Surge: If 2 or more of your Elemental cards are exhausted, +2 Hearts.",
+END
+
+ll-spire-of-conflux-back.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Elementalist",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+mr-double-crossbow.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Bounty Hunter",
+    "traits": "Bow, Exotic",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red",
+    "rules": "Surge: Pierce 1. Surge: +1 Range.",
+END
+
+mr-double-crossbow-back.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Bounty Hunter",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+mr-signet-ring.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Marshal",
+    "traits": "Ring",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card when you or an adjacent hero is attacked, before dice are rolled, to add 1 Shield to the results.",
+END
+
+mr-signet-ring-back.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Marshal",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+mr-war-hammer.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Marshal",
+    "traits": "Hammer",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red",
+    "rules": "Reach. You cannot spend Surges to recover fatigue. Surge: +2 Hearts.",
+END
+
+mr-war-hammer-back.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Marshal",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+sotp-ceremonial-staff.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "traits": "Exotic, Staff",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red",
+    "rules": "Surge: Curse. Surge: Recover 1 Fatigue.",
+END
+
+sotp-ceremonial-staff-back.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+sotp-sacred-scriptures.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "traits": "Book",
+    "attack": null,
+    "equip": "Trinket",
+    "dice": null,
+    "rules": "While you are adjacent to your Bandaged Servant, add 1 Shield to your defense results.",
+END
+
+sotp-sacred-scriptures-back.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+sotp-minds-eye-turban.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Psychic",
+    "traits": "Helmet",
+    "attack": null,
+    "equip": "Trinket",
+    "dice": null,
+    "rules": "At the end of your turn, if you have fatigue tokens equal to your Stamina, recover 1 Fatigue. Limit 1 Helmet equipped at a time.",
+END
+
+sotp-minds-eye-turban-back.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Psychic",
+    "traits": "Helmet",
+    "attack": null,
+    "equip": "Trinket",
+    "dice": null,
+    "rules": "At the end of your turn, if you have fatigue tokens equal to your Stamina, recover 1 Fatigue. Limit 1 Helmet equipped at a time.",
+END
+
+sotp-shadow-darts.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Psychic",
+    "traits": "Exotic, Magic",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Green",
+    "rules": "Pierce 1. Surge: Blind. Surge: +1 Range, +1 Heart.",
+END
+
+sotp-shadow-darts-back.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Psychic",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+sn-lute.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Bard",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card during your turn and suffer 1 Fatigue to choose a hero within 3 spaces of you. That hero recovers 1 Fatigue.",
+END
+
+sn-lute-back.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Bard",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+sn-travelers-blade.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Bard",
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "Surge: Pierce 1. Surge: Gain 1 movement point.",
+END
+
+sn-travelers-blade-back.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Bard",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+sn-prismatic-staff.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Conjurer",
+    "traits": "Magic, Staff",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Green",
+    "rules": "Surge: +1 Heart. Surge: +1 Heart. Surge: Stun.",
+END
+
+sn-prismatic-staff-back.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Conjurer",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+sn-feathered-hatchet.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "traits": "Axe, Exotic",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Red",
+    "rules": "Surge: +1 Range. Surge: Bleed.",
+END
+
+sn-feathered-hatchet-back.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+sn-tribal-cloak.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "traits": "Cloak",
+    "attack": null,
+    "equip": "Armor",
+    "dice": null,
+    "rules": "Exhaust this card when you perform a rest action. While this card is exhausted, add 1 additional brown die to your defense pool.",
+END
+
+sn-tribal-cloak-back.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+sn-jagged-handaxe.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "traits": "Axe",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "Before you roll attack dice, you may suffer 1 Fatigue to replace the yellow power die with the red power die. Surge: Pierce 1.",
+END
+
+sn-jagged-handaxe-back.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+sn-rusted-handaxe.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "traits": "Axe",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Green",
+    "rules": "After you roll attack dice, you may suffer 1 Fatigue to reroll 1 power die. Surge: +2 Hearts.",
+END
+
+sn-rusted-handaxe-back.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Skirmisher",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+tf-iron-flail.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Prophet",
+    "traits": "Hammer, Exotic",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "Reach. If your other hand is empty, you attacks gain +1 Heart.",
+END
+
+tf-iron-flail-back.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Prophet",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+tf-sages-tome.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Prophet",
+    "traits": "Book",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card before rolling dice for an attribute test to subtract 1 Shield from the results.",
+END
+
+tf-sages-tome-back.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Prophet",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+tf-black-widows-web.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Stalker",
+    "traits": "Exotic",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Green",
+    "rules": "Surge: Immobilize. Surge: +1 Heart.",
+END
+
+tf-black-widows-web-back.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Stalker",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END
+
+tf-hunting-knife.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Stalker",
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "Surge: +1 Heart. Surge: Recover 1 Fatigue.",
+END
+
+tf-hunting-knife-back.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Stalker",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": null,
+END

@@ -1,0 +1,179 @@
+bw-brightblaze.png
+BEGIN
+    "speed": "5",
+    "health": "6",
+    "defense": "Gray",
+    "attack": "Melee",
+    "traits": "This familiar is treated as a figure. It may perform 1 Melee attack during its activation using the dice and abilities of a Magic weapon you have equipped.",
+END
+
+bw-brightblaze-back.png
+BEGIN
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
+END
+
+bw-pico.png
+BEGIN
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": "During another hero's turn, if that hero is adjacent to Pico, he may search a search token in the space containing Pico (this does not require an action). If Pico is in a space that does not contact a search token, place Pico on your Hero sheet.",
+END
+
+bw-pico-back.png
+BEGIN
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
+END
+
+bw-skye.png
+BEGIN
+    "speed": "5",
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": "Skye ignores the effects of terrain. Each time a hero performs a Ranged attack that targets a monster adjacent to Skye, that attack gains +2 Range. After dice are rolled, you may discard Skye. If you do, that attack gains +1 Heart.",
+END
+
+bw-skye-back.png
+BEGIN
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
+END
+
+ck-brightblaze.png
+BEGIN
+    "speed": "4",
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": "Each attack targeting a monster adjacent to Brightblaze gains Pierce 1.",
+END
+
+ck-brightblaze-back.png
+BEGIN
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
+END
+
+ck-pico.png
+BEGIN
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": "Pico is never placed on the map. Heroes carry Pico by placing his token on their Hero sheet. A monster may only target a hero carrying Pico for an attack if there are no other heroes closer to that monster and in its line of sight.",
+END
+
+ck-pico-back.png
+BEGIN
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
+END
+
+ck-skye.png
+BEGIN
+    "speed": "5",
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": "When moving, Skye ignores all figures and terrain. You may force a single monster adjacent to Skye to reroll 1 defense die or 1 attack die. If you do, remove Skye from the map.",
+END
+
+ck-skye-back.png
+BEGIN
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
+END
+
+motd-drakon.png
+BEGIN
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": "While your hero figure is replaced with the Drakon figure, add 1 additional gray die to your defense pool, 1 additional green power die to your attack pool, your speed is limited to 3 and you cannot gain movement points from items or suffering Fatigue.",
+END
+
+motd-drakon-back.png
+BEGIN
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
+END
+
+motd-roots-of-protection.png
+BEGIN
+    "speed": "0",
+    "health": "10",
+    "defense": "Black",
+    "attack": null,
+    "traits": "Each time any figure in a space containing Roots of Protection is affected by a Melee attack, add 1 additional black die to its defense pool. After the attack is resolved, Roots of Protection suffers Hearts equal to the Shields rolled on that die.",
+END
+
+motd-roots-of-protection-back.png
+BEGIN
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
+END
+
+motd-spring-of-life.png
+BEGIN
+    "speed": "0",
+    "health": "10",
+    "defense": "Red",
+    "attack": null,
+    "traits": "Any figure that ends its turn in a space containing Spring of Life immediately rolls 1 red power die and recovers Hearts equal to the Hearts rolled and Fatigue equal to the Surges rolled. Then Spring of Life suffers Hearts equal to the Hearts and Surges rolled.",
+END
+
+motd-spring-of-life-back.png
+BEGIN
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
+END
+
+ni-desmond.png
+BEGIN
+    "speed": "4",
+    "health": "10",
+    "defense": "Gray",
+    "attack": null,
+    "traits": "Action: Choose 1 hero within 2 spaces of you. That hero recovers 1 Heart. During Act II, add 1 additional gray defense die to Desmond's defense pool.",
+END
+
+ni-desmond-back.png
+BEGIN
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "traits": null,
+END

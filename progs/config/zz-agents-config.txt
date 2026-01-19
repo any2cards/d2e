@@ -1,0 +1,81 @@
+# Image Name                       Asset Name   Game   Expansion              AST1    AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description             Asset #   Printflag
+bg-baron-zachareth-front.png,      agents,      d2e,   base game,             act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-baron zachareth,      xxxxx,    8
+bg-baron-zachareth-back.png,       agents,      d2e,   base game,             act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-baron zachareth,      xxxxx,    8
+bg-belthir-front.png,              agents,      d2e,   base game,             act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-belthir,              xxxxx,    8
+bg-belthir-back.png,               agents,      d2e,   base game,             act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-belthir,              xxxxx,    8
+bg-lady-eliza-farrow-front.png,    agents,      d2e,   base game,             act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-lady eliza farrow,    xxxxx,    8
+bg-lady-eliza-farrow-back.png,     agents,      d2e,   base game,             act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-lady eliza farrow,    xxxxx,    8
+bg-lord-merick-farrow-front.png,   agents,      d2e,   base game,             act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-lord merick farrow,   xxxxx,    8
+bg-lord-merick-farrow-back.png,    agents,      d2e,   base game,             act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-lord merick farrow,   xxxxx,    8
+bg-sir-alric-farrow-front.png,     agents,      d2e,   base game,             act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-sir alric farrow,     xxxxx,    8
+bg-sir-alric-farrow-back.png,      agents,      d2e,   base game,             act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-sir alric farrow,     xxxxx,    8
+bg-splig-front.png,                agents,      d2e,   base game,             act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-splig,                xxxxx,    8
+bg-splig-back.png,                 agents,      d2e,   base game,             act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-splig,                xxxxx,    8
+bg-baron-zachareth-front.png,      agents,      d2e,   base game,             act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-baron zachareth,      xxxxx,    8
+bg-baron-zachareth-back.png,       agents,      d2e,   base game,             act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-baron zachareth,      xxxxx,    8
+bg-belthir-front.png,              agents,      d2e,   base game,             act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-belthir,              xxxxx,    8
+bg-belthir-back.png,               agents,      d2e,   base game,             act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-belthir,              xxxxx,    8
+bg-lady-eliza-farrow-front.png,    agents,      d2e,   base game,             act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-lady eliza farrow,    xxxxx,    8
+bg-lady-eliza-farrow-back.png,     agents,      d2e,   base game,             act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-lady eliza farrow,    xxxxx,    8
+bg-lord-merick-farrow-front.png,   agents,      d2e,   base game,             act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-lord merick farrow,   xxxxx,    8
+bg-lord-merick-farrow-back.png,    agents,      d2e,   base game,             act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-lord merick farrow,   xxxxx,    8
+bg-sir-alric-farrow-front.png,     agents,      d2e,   base game,             act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-sir alric farrow,     xxxxx,    8
+bg-sir-alric-farrow-back.png,      agents,      d2e,   base game,             act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-sir alric farrow,     xxxxx,    8
+bg-splig-front.png,                agents,      d2e,   base game,             act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-splig,                xxxxx,    8
+bg-splig-back.png,                 agents,      d2e,   base game,             act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-splig,                xxxxx,    8
+lr-ariad-front.png,                agents,      d2e,   labyrinth of ruin,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-ariad,                xxxxx,    8
+lr-ariad-back.png,                 agents,      d2e,   labyrinth of ruin,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-ariad,                xxxxx,    8
+lr-queen-ariad-front.png,          agents,      d2e,   labyrinth of ruin,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-queen ariad,          xxxxx,    8
+lr-queen-ariad-back.png,           agents,      d2e,   labyrinth of ruin,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-queen ariad,          xxxxx,    8
+lr-raythen-front.png,              agents,      d2e,   labyrinth of ruin,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-raythen,              xxxxx,    8
+lr-raythen-back.png,               agents,      d2e,   labyrinth of ruin,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-raythen,              xxxxx,    8
+lr-serena-front.png,               agents,      d2e,   labyrinth of ruin,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-serena,               xxxxx,    8
+lr-serena-back.png,                agents,      d2e,   labyrinth of ruin,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-serena,               xxxxx,    8
+lr-ariad-front.png,                agents,      d2e,   labyrinth of ruin,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-ariad,                xxxxx,    8
+lr-ariad-back.png,                 agents,      d2e,   labyrinth of ruin,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-ariad,                xxxxx,    8
+lr-queen-ariad-front.png,          agents,      d2e,   labyrinth of ruin,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-queen ariad,          xxxxx,    8
+lr-queen-ariad-back.png,           agents,      d2e,   labyrinth of ruin,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-queen ariad,          xxxxx,    8
+lr-raythen-front.png,              agents,      d2e,   labyrinth of ruin,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-raythen,              xxxxx,    8
+lr-raythen-back.png,               agents,      d2e,   labyrinth of ruin,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-raythen,              xxxxx,    8
+lr-serena-front.png,               agents,      d2e,   labyrinth of ruin,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-serena,               xxxxx,    8
+lr-serena-back.png,                agents,      d2e,   labyrinth of ruin,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-serena,               xxxxx,    8
+lw-valyndra-front.png,             agents,      d2e,   lair of the wyrm,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-valyndra,             xxxxx,    8
+lw-valyndra-back.png,              agents,      d2e,   lair of the wyrm,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-valyndra,             xxxxx,    8
+lw-valyndra-front.png,             agents,      d2e,   lair of the wyrm,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-valyndra,             xxxxx,    8
+lw-valyndra-back.png,              agents,      d2e,   lair of the wyrm,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-valyndra,             xxxxx,    8
+mb-ardus-ixerebus-front.png,       agents,      d2e,   mists of bilehall,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-ardus ix'erebus,      xxxxx,    8
+mb-ardus-ixerebus-back.png,        agents,      d2e,   mists of bilehall,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-ardus ix'erebus,      xxxxx,    8
+mb-kyndrithul-front.png,           agents,      d2e,   mists of bilehall,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-kyndrithul,           xxxxx,    8
+mb-kyndrithul-back.png,            agents,      d2e,   mists of bilehall,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-kyndrithul,           xxxxx,    8
+mb-zarihell-front.png,             agents,      d2e,   mists of bilehall,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-zarihell,             xxxxx,    8
+mb-zarihell-back.png,              agents,      d2e,   mists of bilehall,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-zarihell,             xxxxx,    8
+mb-ardus-ixerebus-front.png,       agents,      d2e,   mists of bilehall,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-ardus ix'erebus,      xxxxx,    8
+mb-ardus-ixerebus-back.png,        agents,      d2e,   mists of bilehall,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-ardus ix'erebus,      xxxxx,    8
+mb-kyndrithul-front.png,           agents,      d2e,   mists of bilehall,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-kyndrithul,           xxxxx,    8
+mb-kyndrithul-back.png,            agents,      d2e,   mists of bilehall,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-kyndrithul,           xxxxx,    8
+mb-zarihell-front.png,             agents,      d2e,   mists of bilehall,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-zarihell,             xxxxx,    8
+mb-zarihell-back.png,              agents,      d2e,   mists of bilehall,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-zarihell,             xxxxx,    8
+mr-skarn-front.png,                agents,      d2e,   manor of ravens,       act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-skarn,                xxxxx,    8
+mr-skarn-back.png,                 agents,      d2e,   manor of ravens,       act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-skarn,                xxxxx,    8
+mr-skarn-front.png,                agents,      d2e,   manor of ravens,       act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-skarn,                xxxxx,    8
+mr-skarn-back.png,                 agents,      d2e,   manor of ravens,       act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-skarn,                xxxxx,    8
+sn-gargan-mirklace-front.png,      agents,      d2e,   shadow of nerekhall,   act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-gargan mirklace,      xxxxx,    8
+sn-gargan-mirklace-back.png,       agents,      d2e,   shadow of nerekhall,   act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-gargan mirklace,      xxxxx,    8
+sn-rylan-olliven-front.png,        agents,      d2e,   shadow of nerekhall,   act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-rylan olliven,        xxxxx,    8
+sn-rylan-olliven-back.png,         agents,      d2e,   shadow of nerekhall,   act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-rylan olliven,        xxxxx,    8
+sn-tristayne-olliven-front.png,    agents,      d2e,   shadow of nerekhall,   act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-tristayne olliven,    xxxxx,    8
+sn-tristayne-olliven-back.png,     agents,      d2e,   shadow of nerekhall,   act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-tristayne olliven,    xxxxx,    8
+sn-verminous-front.png,            agents,      d2e,   shadow of nerekhall,   act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-verminous,            xxxxx,    8
+sn-verminous-back.png,             agents,      d2e,   shadow of nerekhall,   act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-verminous,            xxxxx,    8
+sn-gargan-mirklace-front.png,      agents,      d2e,   shadow of nerekhall,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-gargan mirklace,      xxxxx,    8
+sn-gargan-mirklace-back.png,       agents,      d2e,   shadow of nerekhall,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-gargan mirklace,      xxxxx,    8
+sn-rylan-olliven-front.png,        agents,      d2e,   shadow of nerekhall,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-rylan olliven,        xxxxx,    8
+sn-rylan-olliven-back.png,         agents,      d2e,   shadow of nerekhall,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-rylan olliven,        xxxxx,    8
+sn-tristayne-olliven-front.png,    agents,      d2e,   shadow of nerekhall,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-tristayne olliven,    xxxxx,    8
+sn-tristayne-olliven-back.png,     agents,      d2e,   shadow of nerekhall,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-tristayne olliven,    xxxxx,    8
+sn-verminous-front.png,            agents,      d2e,   shadow of nerekhall,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-verminous,            xxxxx,    8
+sn-verminous-back.png,             agents,      d2e,   shadow of nerekhall,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-verminous,            xxxxx,    8
+tf-bolgoreth-front.png,            agents,      d2e,   the trollfens,         act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-bol'goreth,           xxxxx,    8
+tf-bolgoreth-back.png,             agents,      d2e,   the trollfens,         act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-bol'goreth,           xxxxx,    8
+tf-bolgoreth-front.png,            agents,      d2e,   the trollfens,         act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-bol'goreth,           xxxxx,    8
+tf-bolgoreth-back.png,             agents,      d2e,   the trollfens,         act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   a-bol'goreth,           xxxxx,    8

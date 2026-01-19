@@ -1,0 +1,30 @@
+# Image Name                        Asset Name   Game    Expansion            AST1     AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description                Asset #   Printflag
+sotp-aeons-voice.png,               traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   aeons' voice,              xxxxx,    8
+sotp-alchemical-vapors.png,         traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   alchemical vapors,         xxxxx,    8
+sotp-animated-vines.png,            traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   animated vines,            xxxxx,    8
+sotp-bear-trap.png,                 traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bear trap,                 xxxxx,    8
+sotp-black-spider.png,              traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   black spider,              xxxxx,    8
+sotp-blood-bargain.png,             traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blood bargain,             xxxxx,    8
+sotp-broken-trap.png,               traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   broken trap,               xxxxx,    8
+sotp-deaths-reproach.png,           traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   death's reproach,          xxxxx,    8
+sotp-dimensional-sling.png,         traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dimensional sling,         xxxxx,    8
+sotp-force-missle.png,              traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   force missle,              xxxxx,    8
+sotp-giant-vermin.png,              traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   giant vermin,              xxxxx,    8
+sotp-glyph-of-summoning.png,        traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   glyph of summoning,        xxxxx,    8
+sotp-induced-detonation.png,        traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   induced detonation,        xxxxx,    8
+sotp-insulation-field.png,          traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   insulation field,          xxxxx,    8
+sotp-intellect-wail.png,            traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   intellect wail,            xxxxx,    8
+sotp-lightning-mesh.png,            traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   lightning mesh,            xxxxx,    8
+sotp-manifested-weakness.png,       traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   manifested weakness,       xxxxx,    8
+sotp-mischievous-imp.png,           traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   mischievous imp,           xxxxx,    8
+sotp-phantasm-of-beastiality.png,   traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   phantasm of beastiality,   xxxxx,    8
+sotp-phantasm-of-doubt.png,         traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   phantasm of doubt,         xxxxx,    8
+sotp-phantasm-of-foolishness.png,   traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   phantasm of foolishness,   xxxxx,    8
+sotp-phantasm-of-hate.png,          traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   phantasm of hate,          xxxxx,    8
+sotp-skeletal-grip.png,             traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   skeletal grip,             xxxxx,    8
+sotp-soul-freeze.png,               traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   soul freeze,               xxxxx,    8
+sotp-spear-trap.png,                traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   spear trap,                xxxxx,    8
+sotp-tar-curio.png,                 traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   tar curio,                 xxxxx,    8
+sotp-traps-back.png,                traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   traps-back,                xxxxx,    8
+sotp-vicious-trap.png,              traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   vicious trap,              xxxxx,    8
+sotp-wellspring-of-plague.png,      traps,       sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   wellspring of plague,      xxxxx,    8

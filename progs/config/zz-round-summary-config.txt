@@ -1,0 +1,5 @@
+# Image Name                    Asset Name       Game    Expansion            AST1     AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description      Asset #   Printflag
+sotp-round-summary-front.png,   round-summary,   sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   round summary,   xxxxx,    8
+sotp-round-summary-front.png,   round-summary,   sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   road to peril,   xxxxx,    8
+sotp-round-summary-back.png,    round-summary,   sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   round summary,   xxxxx,    8
+sotp-round-summary-back.png,    round-summary,   sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   road to peril,   xxxxx,    8

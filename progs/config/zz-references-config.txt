@@ -1,0 +1,22 @@
+# Image Name              Asset Name    Game   Expansion          AST1     AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description                   Asset #   Printflag
+de-icon-black.png,        references,   d2e,   dark elements,     xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de-icon,                      xxxxx,    1
+de-icon-white.png,        references,   d2e,   dark elements,     xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de-icon,                      xxxxx,    0
+de-rc-bottom-front.png,   references,   d2e,   dark elements,     xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de-references-bottom-front,   xxxxx,    1
+de-rc-bottom-back.png,    references,   d2e,   dark elements,     xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de-references-bottom-back,    xxxxx,    1
+de-rc-loot-track.png,     references,   d2e,   dark elements,     xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de-loot-track,                xxxxx,    1
+de-rc-top-front.png,      references,   d2e,   dark elements,     xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de-references-top-front,      xxxxx,    1
+de-rc-top-back.png,       references,   d2e,   dark elements,     xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de-references-top-back,       xxxxx,    1
+fs-icon-black.png,        references,   d2e,   forgotten souls,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs-icon,                      xxxxx,    1
+fs-icon-white.png,        references,   d2e,   forgotten souls,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs-icon,                      xxxxx,    0
+fs-rc-bottom-front.png,   references,   d2e,   forgotten souls,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs-references-bottom-front,   xxxxx,    1
+fs-rc-bottom-back.png,    references,   d2e,   forgotten souls,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs-references-bottom-back,    xxxxx,    1
+fs-rc-loot-track.png,     references,   d2e,   forgotten souls,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs-loot-track,                xxxxx,    1
+de-rc-top-front.png,      references,   d2e,   dark elements,     xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs-references-top-front,      xxxxx,    1
+fs-rc-top-back.png,       references,   d2e,   forgotten souls,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs-references-top-back,       xxxxx,    1
+ni-icon-black.png,        references,   d2e,   nature's ire,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni-icon,                      xxxxx,    1
+ni-icon-black.png,        references,   d2e,   nature's ire,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni-icon,                      xxxxx,    0
+ni-rc-bottom-front.png,   references,   d2e,   nature's ire,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni-references-bottom-front,   xxxxx,    1
+ni-rc-bottom-back.png,    references,   d2e,   nature's ire,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni-references-bottom-back,    xxxxx,    1
+ni-rc-loot-track.png,     references,   d2e,   nature's ire,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni-loot-track,                xxxxx,    1
+fs-rc-top-front.png,      references,   d2e,   forgotten souls,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni-references-top-front,      xxxxx,    1
+ni-rc-top-back.png,       references,   d2e,   nature's ire,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni-references-top-back,       xxxxx,    1

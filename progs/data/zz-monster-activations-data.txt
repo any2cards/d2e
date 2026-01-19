@@ -1,0 +1,804 @@
+de-mac-1-of-10.png
+BEGIN
+    "assetno": "1/10",
+END
+
+de-mac-2-of-10.png
+BEGIN
+    "assetno": "2/10",
+END
+
+de-mac-3-of-10.png
+BEGIN
+    "assetno": "3/10",
+END
+
+de-mac-4-of-10.png
+BEGIN
+    "assetno": "4/10",
+END
+
+de-mac-5-of-10.png
+BEGIN
+    "assetno": "5/10",
+END
+
+de-mac-6-of-10.png
+BEGIN
+    "assetno": "6/10",
+END
+
+de-mac-7-of-10.png
+BEGIN
+    "assetno": "7/10",
+END
+
+de-mac-8-of-10.png
+BEGIN
+    "assetno": "8/10",
+END
+
+de-mac-9-of-10.png
+BEGIN
+    "assetno": "9/10",
+END
+
+de-mac-10-of-10.png
+BEGIN
+    "assetno": "10/10",
+END
+
+de-mac-back.png
+BEGIN
+    "assetno": null,
+END
+
+fs-mac-1-of-10.png
+BEGIN
+    "assetno": "1/10",
+END
+
+fs-mac-2-of-10.png
+BEGIN
+    "assetno": "2/10",
+END
+
+fs-mac-3-of-10.png
+BEGIN
+    "assetno": "3/10",
+END
+
+fs-mac-4-of-10.png
+BEGIN
+    "assetno": "4/10",
+END
+
+fs-mac-5-of-10.png
+BEGIN
+    "assetno": "5/10",
+END
+
+fs-mac-6-of-10.png
+BEGIN
+    "assetno": "6/10",
+END
+
+fs-mac-7-of-10.png
+BEGIN
+    "assetno": "7/10",
+END
+
+fs-mac-8-of-10.png
+BEGIN
+    "assetno": "8/10",
+END
+
+fs-mac-9-of-10.png
+BEGIN
+    "assetno": "9/10",
+END
+
+fs-mac-10-of-10.png
+BEGIN
+    "assetno": "10/10",
+END
+
+fs-mac-back.png
+BEGIN
+    "assetno": null,
+END
+
+ni-mac-1-of-10.png
+BEGIN
+    "assetno": "1/10",
+END
+
+ni-mac-2-of-10.png
+BEGIN
+    "assetno": "2/10",
+END
+
+ni-mac-3-of-10.png
+BEGIN
+    "assetno": "3/10",
+END
+
+ni-mac-4-of-10.png
+BEGIN
+    "assetno": "4/10",
+END
+
+ni-mac-5-of-10.png
+BEGIN
+    "assetno": "5/10",
+END
+
+ni-mac-6-of-10.png
+BEGIN
+    "assetno": "6/10",
+END
+
+ni-mac-7-of-10.png
+BEGIN
+    "assetno": "7/10",
+END
+
+ni-mac-8-of-10.png
+BEGIN
+    "assetno": "8/10",
+END
+
+ni-mac-9-of-10.png
+BEGIN
+    "assetno": "9/10",
+END
+
+ni-mac-10-of-10.png
+BEGIN
+    "assetno": "10/10",
+END
+
+ni-mac-back.png
+BEGIN
+    "assetno": null,
+END
+
+sotp-mac-arachyura-front.png
+BEGIN
+    "assetno": "12A",
+END
+
+sotp-mac-arachyura-back.png
+BEGIN
+    "assetno": "12B",
+END
+
+sotp-mac-bandit-front.png
+BEGIN
+    "assetno": "22A",
+END
+
+sotp-mac-bandit-back.png
+BEGIN
+    "assetno": "22B",
+END
+
+sotp-mac-bane-spider-front.png
+BEGIN
+    "assetno": "30A",
+END
+
+sotp-mac-bane-spider-back.png
+BEGIN
+    "assetno": "30B",
+END
+
+sotp-mac-barghest-front.png
+BEGIN
+    "assetno": "1A",
+END
+
+sotp-mac-barghest-back.png
+BEGIN
+    "assetno": "1B",
+END
+
+sotp-mac-baron-zachareth-front.png
+BEGIN
+    "assetno": "63A",
+END
+
+sotp-mac-baron-zachareth-back.png
+BEGIN
+    "assetno": "63B",
+END
+
+sotp-mac-beastman-front.png
+BEGIN
+    "assetno": "31A",
+END
+
+sotp-mac-beastman-back.png
+BEGIN
+    "assetno": "31B",
+END
+
+sotp-mac-belthir-front.png
+BEGIN
+    "assetno": "62A",
+END
+
+sotp-mac-belthir-back.png
+BEGIN
+    "assetno": "62B",
+END
+
+sotp-mac-blood-ape-front.png
+BEGIN
+    "assetno": "54A",
+END
+
+sotp-mac-blood-ape-back.png
+BEGIN
+    "assetno": "54B",
+END
+
+sotp-mac-bone-horror-front.png
+BEGIN
+    "assetno": "24A",
+END
+
+sotp-mac-bone-horror-back.png
+BEGIN
+    "assetno": "24B",
+END
+
+sotp-mac-broodwalker-front.png
+BEGIN
+    "assetno": "25A",
+END
+
+sotp-mac-broodwalker-back.png
+BEGIN
+    "assetno": "25B",
+END
+
+sotp-mac-burrowing-horror-front.png
+BEGIN
+    "assetno": "57A",
+END
+
+sotp-mac-burrowing-horror-back.png
+BEGIN
+    "assetno": "57B",
+END
+
+sotp-mac-carrion-drake-front.png
+BEGIN
+    "assetno": "13A",
+END
+
+sotp-mac-carrion-drake-back.png
+BEGIN
+    "assetno": "13B",
+END
+
+sotp-mac-cave-spider-front.png
+BEGIN
+    "assetno": "2A",
+END
+
+sotp-mac-cave-spider-back.png
+BEGIN
+    "assetno": "2B",
+END
+
+sotp-mac-changeling-front.png
+BEGIN
+    "assetno": "18A",
+END
+
+sotp-mac-changeling-back.png
+BEGIN
+    "assetno": "18B",
+END
+
+sotp-mac-chaos-beast-front.png
+BEGIN
+    "assetno": "33A",
+END
+
+sotp-mac-chaos-beast-back.png
+BEGIN
+    "assetno": "33B",
+END
+
+sotp-mac-crow-hag-front.png
+BEGIN
+    "assetno": "51A",
+END
+
+sotp-mac-crow-hag-back.png
+BEGIN
+    "assetno": "51B",
+END
+
+sotp-mac-crypt-dragon-front.png
+BEGIN
+    "assetno": "39A",
+END
+
+sotp-mac-crypt-dragon-back.png
+BEGIN
+    "assetno": "39B",
+END
+
+sotp-mac-dark-minotaur-front.png
+BEGIN
+    "assetno": "48A",
+END
+
+sotp-mac-dark-minotaur-back.png
+BEGIN
+    "assetno": "48B",
+END
+
+sotp-mac-dark-priest-front.png
+BEGIN
+    "assetno": "40A",
+END
+
+sotp-mac-dark-priest-back.png
+BEGIN
+    "assetno": "40B",
+END
+
+sotp-mac-deep-elf-front.png
+BEGIN
+    "assetno": "45A",
+END
+
+sotp-mac-deep-elf-back.png
+BEGIN
+    "assetno": "45B",
+END
+
+sotp-mac-demon-lord-front.png
+BEGIN
+    "assetno": "52A",
+END
+
+sotp-mac-demon-lord-back.png
+BEGIN
+    "assetno": "52B",
+END
+
+sotp-mac-elemental-front.png
+BEGIN
+    "assetno": "3A",
+END
+
+sotp-mac-elemental-back.png
+BEGIN
+    "assetno": "3B",
+END
+
+sotp-mac-ettin-front.png
+BEGIN
+    "assetno": "4A",
+END
+
+sotp-mac-ettin-back.png
+BEGIN
+    "assetno": "4B",
+END
+
+sotp-mac-ferrox-front.png
+BEGIN
+    "assetno": "55A",
+END
+
+sotp-mac-ferrox-back.png
+BEGIN
+    "assetno": "55B",
+END
+
+sotp-mac-fire-imps-front.png
+BEGIN
+    "assetno": "10A",
+END
+
+sotp-mac-fire-imps-back.png
+BEGIN
+    "assetno": "10B",
+END
+
+sotp-mac-flesh-moulder-front.png
+BEGIN
+    "assetno": "5A",
+END
+
+sotp-mac-flesh-moulder-back.png
+BEGIN
+    "assetno": "5B",
+END
+
+sotp-mac-giant-front.png
+BEGIN
+    "assetno": "34A",
+END
+
+sotp-mac-giant-back.png
+BEGIN
+    "assetno": "34B",
+END
+
+sotp-mac-goblin-archer-front.png
+BEGIN
+    "assetno": "6A",
+END
+
+sotp-mac-goblin-archer-back.png
+BEGIN
+    "assetno": "6B",
+END
+
+sotp-mac-goblin-witcher-front.png
+BEGIN
+    "assetno": "14A",
+END
+
+sotp-mac-goblin-witcher-back.png
+BEGIN
+    "assetno": "14B",
+END
+
+sotp-mac-golem-front.png
+BEGIN
+    "assetno": "36A",
+END
+
+sotp-mac-golem-back.png
+BEGIN
+    "assetno": "36B",
+END
+
+sotp-mac-harpy-front.png
+BEGIN
+    "assetno": "16A",
+END
+
+sotp-mac-harpy-back.png
+BEGIN
+    "assetno": "16B",
+END
+
+sotp-mac-hellhound-front.png
+BEGIN
+    "assetno": "46A",
+END
+
+sotp-mac-hellhound-back.png
+BEGIN
+    "assetno": "46B",
+END
+
+sotp-mac-hybrid-sentinel-front.png
+BEGIN
+    "assetno": "11A",
+END
+
+sotp-mac-hybrid-sentinel-back.png
+BEGIN
+    "assetno": "11B",
+END
+
+sotp-mac-ice-wyrm-front.png
+BEGIN
+    "assetno": "49A",
+END
+
+sotp-mac-ice-wyrm-back.png
+BEGIN
+    "assetno": "49B",
+END
+
+sotp-mac-ironbound-front.png
+BEGIN
+    "assetno": "19A",
+END
+
+sotp-mac-ironbound-back.png
+BEGIN
+    "assetno": "19B",
+END
+
+sotp-mac-kobold-front.png
+BEGIN
+    "assetno": "47A",
+END
+
+sotp-mac-kobold-back.png
+BEGIN
+    "assetno": "47B",
+END
+
+sotp-mac-lady-eliza-farrow-front.png
+BEGIN
+    "assetno": "61A",
+END
+
+sotp-mac-lady-eliza-farrow-back.png
+BEGIN
+    "assetno": "61B",
+END
+
+sotp-mac-lava-beetle-front.png
+BEGIN
+    "assetno": "35A",
+END
+
+sotp-mac-lava-beetle-back.png
+BEGIN
+    "assetno": "35B",
+END
+
+sotp-mac-lord-merick-farrow-front.png
+BEGIN
+    "assetno": "60A",
+END
+
+sotp-mac-lord-merick-farrow-back.png
+BEGIN
+    "assetno": "60B",
+END
+
+sotp-mac-manticore-front.png
+BEGIN
+    "assetno": "42A",
+END
+
+sotp-mac-manticore-back.png
+BEGIN
+    "assetno": "42B",
+END
+
+sotp-mac-marrow-priest-front.png
+BEGIN
+    "assetno": "27A",
+END
+
+sotp-mac-marrow-priest-back.png
+BEGIN
+    "assetno": "27B",
+END
+
+sotp-mac-medusa-front.png
+BEGIN
+    "assetno": "37A",
+END
+
+sotp-mac-medusa-back.png
+BEGIN
+    "assetno": "37B",
+END
+
+sotp-mac-merriod-front.png
+BEGIN
+    "assetno": "7A",
+END
+
+sotp-mac-merriod-back.png
+BEGIN
+    "assetno": "7B",
+END
+
+sotp-mac-naga-front.png
+BEGIN
+    "assetno": "56A",
+END
+
+sotp-mac-naga-back.png
+BEGIN
+    "assetno": "56B",
+END
+
+sotp-mac-ogre-front.png
+BEGIN
+    "assetno": "43A",
+END
+
+sotp-mac-ogre-back.png
+BEGIN
+    "assetno": "43B",
+END
+
+sotp-mac-plague-worm-front.png
+BEGIN
+    "assetno": "17A",
+END
+
+sotp-mac-plague-worm-back.png
+BEGIN
+    "assetno": "17B",
+END
+
+sotp-mac-rat-swarm-front.png
+BEGIN
+    "assetno": "20A",
+END
+
+sotp-mac-rat-swarm-back.png
+BEGIN
+    "assetno": "20B",
+END
+
+sotp-mac-razorwing-front.png
+BEGIN
+    "assetno": "32A",
+END
+
+sotp-mac-razorwing-back.png
+BEGIN
+    "assetno": "32B",
+END
+
+sotp-mac-reanimate-front.png
+BEGIN
+    "assetno": "26A",
+END
+
+sotp-mac-reanimate-back.png
+BEGIN
+    "assetno": "26B",
+END
+
+sotp-mac-sarcophagus-guard-front.png
+BEGIN
+    "assetno": "58A",
+END
+
+sotp-mac-sarcophagus-guard-back.png
+BEGIN
+    "assetno": "58B",
+END
+
+sotp-mac-shade-front.png
+BEGIN
+    "assetno": "50A",
+END
+
+sotp-mac-shade-back.png
+BEGIN
+    "assetno": "50B",
+END
+
+sotp-mac-shadow-dragon-front.png
+BEGIN
+    "assetno": "8A",
+END
+
+sotp-mac-shadow-dragon-back.png
+BEGIN
+    "assetno": "8B",
+END
+
+sotp-mac-shambling-colossus-front.png
+BEGIN
+    "assetno": "28A",
+END
+
+sotp-mac-shambling-colossus-back.png
+BEGIN
+    "assetno": "28B",
+END
+
+sotp-mac-sir-alric-farrow-front.png
+BEGIN
+    "assetno": "59A",
+END
+
+sotp-mac-sir-alric-farrow-back.png
+BEGIN
+    "assetno": "59B",
+END
+
+sotp-mac-skeleton-archer-front.png
+BEGIN
+    "assetno": "53A",
+END
+
+sotp-mac-skeleton-archer-back.png
+BEGIN
+    "assetno": "53B",
+END
+
+sotp-mac-sorcerer-front.png
+BEGIN
+    "assetno": "38A",
+END
+
+sotp-mac-sorcerer-back.png
+BEGIN
+    "assetno": "38B",
+END
+
+sotp-mac-splig-front.png
+BEGIN
+    "assetno": "64A",
+END
+
+sotp-mac-splig-back.png
+BEGIN
+    "assetno": "64B",
+END
+
+sotp-mac-the-dispossessed-front.png
+BEGIN
+    "assetno": "29A",
+END
+
+sotp-mac-the-dispossessed-back.png
+BEGIN
+    "assetno": "29B",
+END
+
+sotp-mac-troll-front.png
+BEGIN
+    "assetno": "44A",
+END
+
+sotp-mac-troll-back.png
+BEGIN
+    "assetno": "44B",
+END
+
+sotp-mac-volucrix-reaver-front.png
+BEGIN
+    "assetno": "15A",
+END
+
+sotp-mac-volucrix-reaver-back.png
+BEGIN
+    "assetno": "15B",
+END
+
+sotp-mac-wendigo-front.png
+BEGIN
+    "assetno": "41A",
+END
+
+sotp-mac-wendigo-back.png
+BEGIN
+    "assetno": "41B",
+END
+
+sotp-mac-wraith-front.png
+BEGIN
+    "assetno": "23A",
+END
+
+sotp-mac-wraith-back.png
+BEGIN
+    "assetno": "23B",
+END
+
+sotp-mac-ynfernal-hulk-front.png
+BEGIN
+    "assetno": "21A",
+END
+
+sotp-mac-ynfernal-hulk-back.png
+BEGIN
+    "assetno": "21B",
+END
+
+sotp-mac-zombie-front.png
+BEGIN
+    "assetno": "9A",
+END
+
+sotp-mac-zombie-back.png
+BEGIN
+    "assetno": "9B",
+END

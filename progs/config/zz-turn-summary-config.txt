@@ -1,0 +1,7 @@
+# Image Name                           Asset Name      Game   Expansion    AST1     AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description                     Asset #   Printflag
+bg-hero-turn-summary-bronze.png,       turn-summary,   d2e,   base game,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hero turn summary bronze,       xxxxx,    8
+bg-hero-turn-summary-gold.png,         turn-summary,   d2e,   base game,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hero turn summary gold,         xxxxx,    8
+bg-hero-turn-summary-purple.png,       turn-summary,   d2e,   base game,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hero turn summary purple,       xxxxx,    8
+bg-hero-turn-summary-silver.png,       turn-summary,   d2e,   base game,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hero turn summary silver,       xxxxx,    8
+bg-overlord-turn-summary.png,          turn-summary,   d2e,   base game,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   overlord turn summary,          xxxxx,    8
+bg-overlord-turn-summary-errata.png,   turn-summary,   d2e,   base game,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   overlord turn summary errata,   xxxxx,    8

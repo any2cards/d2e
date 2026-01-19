@@ -1,0 +1,992 @@
+// WSHFHEventNbr: Frosthaven Event Numbering
+
+macro WSHFHEventNbr(void)
+{
+	int be, i, soe, sre, woe, wre;
+
+	be=562;
+	soe=721;
+	woe=786;
+	sre=620;
+	wre=672;
+	
+	for (i = 1; i <= LineCount; i++)
+	{
+		if (LineContains(i,"boat") > 0)
+		{
+			GotoLine(i);
+			EndofLine;
+			Backspace;
+			Backspace;
+			Backspace;
+			Backspace;
+			Backspace;
+			Backspace;
+			Backspace;
+			Backspace;
+			Backspace;
+			Backspace;
+			Backspace;
+			printf("%i,      %s",be,"3");
+			if (LineContains(i,"-b.png") > 0)
+			{
+				++be;
+			}
+		}
+		else if (LineContains(i,"outpost") > 0)
+		{
+			if (LineContains(i,"-soe-") > 0)
+			{
+				GotoLine(i);
+				EndofLine;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				printf("%i,      %s",soe,"3");
+				if (LineContains(i,"-b.png") > 0)
+				{
+					++soe;
+				}
+			}
+			else if (LineContains(i,"-woe-") > 0)
+			{
+				GotoLine(i);
+				EndofLine;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				printf("%i,      %s",woe,"3");
+				if (LineContains(i,"-b.png") > 0)
+				{
+					++woe;
+				}
+			}
+		}
+		else if (LineContains(i,"road") > 0)
+		{
+			if (LineContains(i,"-sre-") > 0)
+			{
+				GotoLine(i);
+				EndofLine;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				printf("%i,      %s",sre,"3");
+				if (LineContains(i,"-b.png") > 0)
+				{
+					++sre;
+				}
+			}
+			else if (LineContains(i,"-wre-") > 0)
+			{
+				GotoLine(i);
+				EndofLine;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				Backspace;
+				printf("%i,      %s",wre,"3");
+				if (LineContains(i,"-b.png") > 0)
+				{
+					++wre;
+				}
+			}
+		}
+	}
+	
+	Gotoline(1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

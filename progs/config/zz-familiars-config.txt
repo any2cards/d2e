@@ -1,0 +1,21 @@
+# Image Name                         Asset Name   Game    Expansion             AST1     AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description            Asset #   Printflag
+bw-brightblaze.png,                  familiars,   d2e,    bonds of the wild,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   brightblaze,           xxxxx,    8
+bw-brightblaze-back.png,             familiars,   d2e,    bonds of the wild,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   brightblaze,           xxxxx,    8
+bw-pico.png,                         familiars,   d2e,    bonds of the wild,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   pico,                  xxxxx,    8
+bw-pico-back.png,                    familiars,   d2e,    bonds of the wild,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   pico,                  xxxxx,    8
+bw-skye.png,                         familiars,   d2e,    bonds of the wild,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   skye,                  xxxxx,    8
+bw-skye-back.png,                    familiars,   d2e,    bonds of the wild,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   skye,                  xxxxx,    8
+ck-brightblaze.png,                  familiars,   d2e,    conversion kit,       xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   brightblaze,           xxxxx,    8
+ck-brightblaze-back.png,             familiars,   d2e,    conversion kit,       xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   brightblaze,           xxxxx,    8
+ck-pico.png,                         familiars,   d2e,    conversion kit,       xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   pico,                  xxxxx,    8
+ck-pico-back.png,                    familiars,   d2e,    conversion kit,       xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   pico,                  xxxxx,    8
+ck-skye.png,                         familiars,   d2e,    conversion kit,       xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   skye,                  xxxxx,    8
+ck-skye-back.png,                    familiars,   d2e,    conversion kit,       xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   skye,                  xxxxx,    8
+motd-drakon.png,                     familiars,   motd,   maze of the drakon,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   drakon,                xxxxx,    8
+motd-drakon-back.png,                familiars,   motd,   maze of the drakon,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   drakon,                xxxxx,    8
+motd-roots-of-protection.png,        familiars,   motd,   maze of the drakon,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   roots of protection,   xxxxx,    8
+motd-roots-of-protection-back.png,   familiars,   motd,   maze of the drakon,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   roots of protection,   xxxxx,    8
+motd-spring-of-life.png,             familiars,   motd,   maze of the drakon,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   spring of life,        xxxxx,    8
+motd-spring-of-life-back.png,        familiars,   motd,   maze of the drakon,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   spring of life,        xxxxx,    8
+ni-desmond.png,                      familiars,   d2e,    nature's ire,         xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   desmond,               xxxxx,    8
+ni-desmond-back.png,                 familiars,   d2e,    nature's ire,         xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   desmond,               xxxxx,    8

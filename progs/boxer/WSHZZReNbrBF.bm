@@ -1,0 +1,160 @@
+// WSHZZReNbrBF: Re-Number Batch File INDD File Numbers
+
+macro WSHZZReNbrBF(void)
+{
+	int i, j, k, l, newnbr, printcount, start;
+	
+	string checkvalue, keyvalue, linevalue, movevalue, nbrvalue;
+	
+	GetString("Enter Key Value: ",keyvalue,"ZZ");
+	strlwr(keyvalue);
+	
+	start=1;
+
+	j=0;
+	printcount=0;
+
+	for (i = start; i <= LineCount; i++)
+	{
+		if (LineContains(i,"MOVE") == 0)
+		{
+			continue;
+		}
+		
+		if (LineContains(i,keyvalue) > 0)
+		{
+			GotoLine(i);
+			StartofLine;
+			GetLineText(i,linevalue);
+
+			k=0;
+			for (j = 0; j < strlen(linevalue); j++)
+			{
+				SubString(checkvalue,linevalue,j,1);
+				if (strcmp(checkvalue," ") == 0)
+				{
+					++k;
+				}
+				if (k == 3)
+				{
+					break;
+				}
+			}
+			StartofLine;
+			l=0;
+			for (l = 0; l < j; l++)
+			{
+				Delete;
+			}
+			
+			if (printcount == 0)
+			{
+				strcpy(movevalue,"MOVE /Y ");
+				strcat(movevalue,keyvalue);
+				strcat(movevalue,".png");
+				printf("%s",movevalue);
+				printcount=1;
+			}
+			else
+			{
+				++printcount;
+				strcpy(movevalue,"MOVE /Y ");
+				strcat(movevalue,keyvalue);
+				printf("%s%i%s",movevalue,printcount,".png");
+			}
+			
+			StartofLine;
+		}
+	}
+	
+	Gotoline(1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+# Image Name               Asset Name    Game    Expansion               AST1     AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description    Asset #   Printflag
+bg-diseased.png,           conditions,   d2e,    base game,              xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   diseased,      xxxxx,    8
+bg-diseased-back.png,      conditions,   d2e,    base game,              xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   diseased,      xxxxx,    8
+bg-immobilized.png,        conditions,   d2e,    base game,              xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   immobilized,   xxxxx,    8
+bg-immobilized-back.png,   conditions,   d2e,    base game,              xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   immobilized,   xxxxx,    8
+bg-poisoned.png,           conditions,   d2e,    base game,              xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   poisoned,      xxxxx,    8
+bg-poisoned-back.png,      conditions,   d2e,    base game,              xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   poisoned,      xxxxx,    8
+bg-stunned.png,            conditions,   d2e,    base game,              xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   stunned,       xxxxx,    8
+bg-stunned-back.png,       conditions,   d2e,    base game,              xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   stunned,       xxxxx,    8
+lr-cursed.png,             conditions,   d2e,    labyrinth of ruin,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   cursed,        xxxxx,    8
+lr-cursed-back.png,        conditions,   d2e,    labyrinth of ruin,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   cursed,        xxxxx,    8
+lw-burning.png,            conditions,   d2e,    lair of the wyrm,       xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   burning,       xxxxx,    8
+lw-burning-back.png,       conditions,   d2e,    lair of the wyrm,       xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   burning,       xxxxx,    8
+mr-doomed.png,             conditions,   d2e,    manor of ravens,        xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   doomed,        xxxxx,    8
+mr-doomed-back.png,        conditions,   d2e,    manor of ravens,        xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   doomed,        xxxxx,    8
+mb-terrified.png,          conditions,   d2e,    mists of bilehall,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   terrified,     xxxxx,    8
+mb-terrified-back.png,     conditions,   d2e,    mists of bilehall,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   terrified,     xxxxx,    8
+sotp-blinded.png,          conditions,   sotp,   sands of the past,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blinded,       xxxxx,    8
+sotp-blinded-back.png,     conditions,   sotp,   sands of the past,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blinded,       xxxxx,    8
+sn-bleeding.png,           conditions,   d2e,    shadow of nerekhall,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bleeding,      xxxxx,    8
+sn-bleeding-back.png,      conditions,   d2e,    shadow of nerekhall,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bleeding,      xxxxx,    8
+cr-terrified.png,          conditions,   d2e,    the chains that rust,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   terrified,     xxxxx,    8
+cr-terrified-back.png,     conditions,   d2e,    the chains that rust,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   terrified,     xxxxx,    8
+tf-weakened.png,           conditions,   d2e,    the trollfens,          xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   weakened,      xxxxx,    8
+tf-weakened-back.png,      conditions,   d2e,    the trollfens,          xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   weakened,      xxxxx,    8

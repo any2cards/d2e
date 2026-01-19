@@ -1,0 +1,47 @@
+lr-back-strike.png
+BEGIN
+    "ally": "Raythen",
+    "rules": "This ally gains +4 Health. Action: This ally performs an attack. THis attack must target a monster adjacent to another hero and the attack gains +3 Hearts.",
+END
+
+lr-night-prowler.png
+BEGIN
+    "ally": "Raythen",
+    "rules": "Exhaust this card when activating this ally. This ally may only perform move actions or the Investigate action during this activation. While this card is exhausted, this ally cannot be targeted by monster attacks or Overlord cards unless he is adjacent to 3 or more monsters.",
+END
+
+lr-raythen-back.png
+BEGIN
+    "ally": "Raythen",
+    "rules": null,
+END
+
+lr-sharp-eyes.png
+BEGIN
+    "ally": "Raythen",
+    "rules": "This ally gains +1 Speed and adds 1 additional brown die to this defense pool. This ally may now use Investigate while within 3 spaces of a space containing a search token.",
+END
+
+lr-aura-of-might.png
+BEGIN
+    "ally": "Serena",
+    "rules": "This ally adds 1 additional gray die to her defense pool. After using Soothing Spirit, each monster within 3 spaces of this ally is dealt 3 Hearts. Each monster rolls defense dice separately. This is not considered an attack.",
+END
+
+lr-healing-aura.png
+BEGIN
+    "ally": "Serena",
+    "rules": "This ally gains +4 Health. Soothing Spirit now affects all heroes within 3 spaces of this ally.",
+END
+
+lr-holy-hammer.png
+BEGIN
+    "ally": "Serena",
+    "rules": "Action: This ally performs a Ranged attack rolling the dice shown below. This attack affects a second monster within 3 spaces of the target. This ally must have line of sight to the second monster. Range: Blue Red Green.",
+END
+
+lr-serena-back.png
+BEGIN
+    "ally": "Serena",
+    "rules": null,
+END

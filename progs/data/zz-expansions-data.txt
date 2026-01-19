@@ -1,0 +1,239 @@
+book-heirs-of-blood.png
+BEGIN
+    "type": "campaign books",
+END
+
+coop-dark-elements.png
+BEGIN
+    "type": "co-op adventures",
+END
+
+coop-forgotten-souls.png
+BEGIN
+    "type": "co-op adventures",
+END
+
+coop-natures-ire.png
+BEGIN
+    "type": "co-op adventures",
+END
+
+exp-base-game.png
+BEGIN
+    "type": "expansions",
+END
+
+exp-conversion-kit.png
+BEGIN
+    "type": "expansions",
+END
+
+exp-dice-pack.png
+BEGIN
+    "type": "expansions",
+END
+
+exp-labyrinth-of-ruin.png
+BEGIN
+    "type": "expansions",
+END
+
+exp-lair-of-the-wyrm.png
+BEGIN
+    "type": "expansions",
+END
+
+exp-lost-legends.png
+BEGIN
+    "type": "expansions",
+END
+
+exp-manor-of-ravens.png
+BEGIN
+    "type": "expansions",
+END
+
+exp-mists-of-bilehall.png
+BEGIN
+    "type": "expansions",
+END
+
+exp-shadow-of-nerekhall.png
+BEGIN
+    "type": "expansions",
+END
+
+exp-the-chains-that-rust.png
+BEGIN
+    "type": "expansions",
+END
+
+exp-the-trollfens.png
+BEGIN
+    "type": "expansions",
+END
+
+hm-bonds-of-the-wild.png
+BEGIN
+    "type": "hero and monster collections",
+END
+
+hm-crown-of-destiny.png
+BEGIN
+    "type": "hero and monster collections",
+END
+
+hm-crusade-of-the-forgotten.png
+BEGIN
+    "type": "hero and monster collections",
+END
+
+hm-guardians-of-deephall.png
+BEGIN
+    "type": "hero and monster collections",
+END
+
+hm-oath-of-the-outcast.png
+BEGIN
+    "type": "hero and monster collections",
+END
+
+hm-shards-of-everdark.png
+BEGIN
+    "type": "hero and monster collections",
+END
+
+hm-stewards-of-the-secret.png
+BEGIN
+    "type": "hero and monster collections",
+END
+
+hm-treaty-of-champions.png
+BEGIN
+    "type": "hero and monster collections",
+END
+
+hm-visions-of-dawn.png
+BEGIN
+    "type": "hero and monster collections",
+END
+
+lt-ardus-ixerebus.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-ariad.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-baron-zachareth.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-belthir.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-bolgoreth.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-gargan-mirklace.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-gargan-mirklace.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-kyndrithul.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-lady-eliza-farrow.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-lord-merick-farrow.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-queen-ariad.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-raythen.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-rylan-olliven.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-serena.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-sir-alric-farrow.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-skarn.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-splig.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-tristayne-olliven.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-valyndra.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-verminous.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+lt-zarihell.png
+BEGIN
+    "type": "lieutenant miniatures",
+END
+
+exp-maze-of-the-drakon.png
+BEGIN
+    "type": "expansions",
+END
+
+exp-sands-of-the-past.png
+BEGIN
+    "type": "expansions",
+END
+
+exp-user-community-missing-heroes.png
+BEGIN
+    "type": "expansions",
+END

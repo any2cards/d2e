@@ -1,0 +1,229 @@
+// WSHDecardXML: Automate Build of Decard64 XML Data
+
+macro WSHDecardXML(void)
+{
+	int end, i, j, start;
+	string backtemplate, cardsfile, cardtype, clipart, cnlong, cnshort, encoding, endstring, img, linevalue, outputfilename, paperformat, pagesize, paperstats, printstats, printtype, propotype, result, root, sizex, sizey, temp, xml;	
+
+	GetString("Enter Print Type: ",printtype,"ZZ");
+	strlwr(printtype);
+	
+	if ((strcmp(printtype,"home") != 0) && (strcmp(printtype,"prof") != 0))
+	{
+		message("Print Type Error","Must Be: home, prof !!!");
+		return;
+	}
+
+	GetString("Enter Card Type: ",cardtype,"ZZ");
+	strlwr(cardtype);
+	
+	if ((strcmp(cardtype,"am") != 0) && (strcmp(cardtype,"ca") != 0))
+	{
+		message("Card Type Error","Must Be: am, ca !!!");
+		return;
+	}		
+
+	GetString("Enter # Of Cards In A Row: ",sizex,"ZZ");
+	strlwr(sizex);
+	
+	if ((strcmp(sizex,"3") != 0) && (strcmp(sizex,"4") != 0))
+	{
+		message("# Cards In A Row Error","Must Be: 3, 4 !!!");
+		return;
+	}		
+
+	GetString("Enter # Of Rows: ",sizey,"ZZ");
+	strlwr(sizey);
+	
+	if ((strcmp(sizey,"2") != 0) && (strcmp(sizey,"3") != 0) && (strcmp(sizey,"4") != 0))
+	{
+		message("# Of Rows Error","Must Be: 2, 3, 4 !!!");
+		return;
+	}		
+
+	GetString("Enter Paper Type (3=A4, 9=US): ",pagesize,"ZZ");
+	strlwr(pagesize);
+	
+	if (strcmp(pagesize,"3") == 0)
+	{
+		strcpy(paperformat,"a4");
+	}
+	else if (strcmp(pagesize,"9") == 0)
+	{
+		strcpy(paperformat,"us");
+	}
+	else
+	{
+		message("Page Size Error","Must Be 3 (For A4), 9 (For US) !!!");
+		return;
+	}
+	
+	start=1;
+	EndOfFile;
+	end=LineNumber;
+	
+	GotoLine(start);
+	StartOfLine;
+
+	for (j = start; j < end; j++)
+	{
+	    i=LineNumber;
+		GotoLine(i);
+		StartOfLine;
+		GetLineText(i,linevalue);
+		strlwr(linevalue);
+		
+		SubString(cnlong,linevalue,0,strstr(linevalue,","));
+		subString(cnshort,linevalue,strstr(linevalue,",")+1,2);
+		
+		strcpy(propotype,"<CONFIG Propotype=\"");
+		strcat(propotype,"..\..\svg\\");
+		strcat(propotype,cardtype);
+		strcat(propotype,"\\");
+		strcat(propotype,cardtype);
+		strcat(propotype,"-");
+		strcat(propotype,cnlong);
+		strcat(propotype,".svg\"");
+		
+		strcpy(cardsfile,"CardsFile=\"..\..\\txt\\");
+		strcat(cardsfile,cardtype);
+		strcat(cardsfile,"\\");
+		strcat(cardsfile,cardtype);
+		strcat(cardsfile,"-");
+		strcat(cardsfile,cnlong);
+		strcat(cardsfile,".txt\"");
+		
+		strcpy(encoding,"encoding=\"UTF-8\"");
+		
+		strcpy(root,"Root=\"C:\Users\any2c\Documents\Decard64\Crimson Scales\pdfs\\");
+		strcat(root,printtype);
+		strcat(root,"\xml\\");
+		strcat(root,cardtype);
+		strcat(root,"\\\"");
+		
+		strcpy(temp,"Temp=\"..\..\..\..\\temp\\\"");
+		
+		strcpy(img,"Img=\"..\..\..\..\img\\\"");
+		
+		strcpy(result,"Result=\"..\..\\result\\");
+		strcat(result,cardtype);
+		strcat(result,"\\\"");
+		
+		strcpy(clipart,"Clipart=\"..\..\clipart.svg\"");
+		
+		strcpy(paperstats,"SizeX=\"");
+		strcat(paperstats,sizex);
+		strcat(paperstats,"\" SizeY=\"");
+		strcat(paperstats,sizey);
+		strcat(paperstats,"\" CntColumn=\"[5]\" Paper=\"");
+		strcat(paperstats,pagesize);
+		strcat(paperstats,"\" DPI=\"300\"");
+		
+		if (strcmp(cardtype,"am") == 0)
+		{
+			strcpy(backtemplate,"BackTemplate=\"..\..\..\..\img\cs-");
+			strcat(backtemplate,cardtype);
+			strcat(backtemplate,"-");
+			strcat(backtemplate,cnshort);
+			strcat(backtemplate,"-back.png\"");
+		}
+		else if (strcmp(cardtype,"ca") == 0)
+		{
+			strcpy(backtemplate,"BackTemplate=\"..\..\..\..\img\cs-");
+			strcat(backtemplate,cnshort);
+			strcat(backtemplate,"-back.png\"");
+		}
+		
+		strcpy(printstats,"Bleed=\"37\" Outline=\"0\" FileSfx=\"-1\"");
+		
+		strcpy(outputfilename,"FileName=\"");
+		strcat(outputfilename,cardtype);
+		strcat(outputfilename,"-");
+		strcat(outputfilename,cnlong);
+		strcat(outputfilename,"-");
+		strcat(outputfilename,paperformat);
+		strcat(outputfilename,"\"");
+		
+		strcpy(endstring,"Count=\"[5]\" LocalFonts=\"..\..\TTF\\\" Engine=\"0\" OutFormat=\"2\" wrap=\"&lt;br/&gt;,&quot;&lt;br &quot;,&lt;p/&gt;,&quot;&lt;p &quot;\"/>");
+
+		DeleteLine;
+		StartofLine;
+		printf("%s %s %s %s %s %s %s %s %s %s %s %s %s\n",propotype,cardsfile,encoding,root,temp,img,result,clipart,paperstats,backtemplate,printstats,outputfilename,endstring);
+	}
+	GotoLine(start);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

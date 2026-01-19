@@ -1,0 +1,119 @@
+bg-reanimate.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "speed": "3",
+    "health": "4",
+    "defense": null,
+    "attack": "Melee",
+    "dice": "Blue Red",
+    "rules": "This familiar is treated as a figure but cannot recover any amount of Hearts. It may perform 1 attack action during its activation. Each attack made by this familiar gains: Surge: +1 Heart.",
+END
+
+bg-reanimate-back.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Necromancer",
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "dice": null,
+    "rules": null,
+END
+
+lr-wolf.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "speed": "4",
+    "health": "3",
+    "defense": null,
+    "attack": "Melee",
+    "dice": "Blue Red",
+    "rules": "This familiar is treated as a figure. It may perform 1 attack action during its activation. Each attack made by this familiar gains: Surge: Pierce 1.",
+END
+
+lr-wolf-back.png
+BEGIN
+    "archetype": "Warrior",
+    "class": "Beastmaster",
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "dice": null,
+    "rules": null,
+END
+
+lw-summoned-stone.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "speed": "2",
+    "health": "2",
+    "defense": "Brown",
+    "attack": null,
+    "dice": null,
+    "rules": "This familiar is treated as an obstacle, but may be targeted and affected by any attack (even from heroes). You cannot have more than 1 Summoned Stone on the map at a time, unless an ability allows it. Each of your attacks targeting a monster adjacent to a Summoned Stone gains 1 Surge.",
+END
+
+lw-summoned-stone-back.png
+BEGIN
+    "archetype": "Mage",
+    "class": "Geomancer",
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "dice": null,
+    "rules": null,
+END
+
+sotp-bandaged-servant.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "dice": null,
+    "rules": null,
+END
+
+sotp-bandaged-servant-back.png
+BEGIN
+    "archetype": "Healer",
+    "class": "Hierophant",
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "dice": null,
+    "rules": null,
+END
+
+sn-shadow-soul.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "speed": "1",
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "dice": null,
+    "rules": "The Shadow Soul may occupy any space containing figures or terrain. Each time a monster in a space containing or adjacent to a Shadow Soul suffers Hearts from an attack, it suffers 1 additional Heart.",
+END
+
+sn-shadow-soul-back.png
+BEGIN
+    "archetype": "Scout",
+    "class": "Shadow Walker",
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "dice": null,
+    "rules": null,
+END

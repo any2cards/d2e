@@ -1,0 +1,175 @@
+bg-curse-doll.png
+BEGIN
+    "count": 1,
+    "trait": "Item",
+    "ability": "Action: Flip this card over to discard any 1 Condition card from yourself or an adjacent hero.",
+    "gold": 50,
+END
+
+bg-fire-flask.png
+BEGIN
+    "count": 1,
+    "trait": "Item",
+    "ability": "Action: Flip this card over to make a Ranged attack with this item. Range, Blue Yellow, Surge: Blast",
+    "gold": 50,
+END
+
+bg-health-potion.png
+BEGIN
+    "count": 3,
+    "trait": "Potion",
+    "ability": "Action: Flip this card over to choose your hero or an adjacent hero. The hero recovers all Hearts.",
+    "gold": 25,
+END
+
+bg-nothing.png
+BEGIN
+    "count": 1,
+    "trait": "Special",
+    "ability": "X Discard this card.",
+    "gold": 0,
+END
+
+bg-power-potion.png
+BEGIN
+    "count": 1,
+    "trait": "Potion",
+    "ability": "Flip this card over to reroll some or all of your dice after performing an attack.",
+    "gold": 50,
+END
+
+bg-search-deck-back.png
+BEGIN
+    "count": null,
+    "trait": null,
+    "ability": null,
+    "gold": null,
+END
+
+bg-stamina-potion.png
+BEGIN
+    "count": 3,
+    "trait": "Potion",
+    "ability": "Flip this card over during your turn to choose your hero or an adjacent hero. The hero recovers all Fatigue.",
+    "gold": 25,
+END
+
+bg-treasure-chest.png
+BEGIN
+    "count": 1,
+    "trait": "Special",
+    "ability": "Immediately discard this card to draw 1 random Shop Item card from the current Act's deck.",
+    "gold": 0,
+END
+
+bg-warding-talisman.png
+BEGIN
+    "count": 1,
+    "trait": "Item",
+    "ability": "Flip this card over after rolling defense dice to add 2 Shields to your results.",
+    "gold": 50,
+END
+
+lw-search-deck-back.png
+BEGIN
+    "count": null,
+    "trait": null,
+    "ability": null,
+    "gold": null,
+END
+
+lw-secret-passage.png
+BEGIN
+    "count": 1,
+    "trait": "Special",
+    "ability": "Place a secret room entrance token in your space. You may immediately explore this secret room without spending a movement point. Then discard this card. If you draw this card outside of an encounter, shuffle this card back into the deck and draw a replacement.",
+    "gold": 0,
+END
+
+sotp-blueprint.png
+BEGIN
+    "count": 1,
+    "trait": "Special",
+    "ability": "Immediately flip this card over to draw 3 random Shop Item cards from the current Act's Shop Item deck. Choose 1 and add it to the next shopping step. Shuffle the other cards back into the deck.",
+    "gold": 50,
+END
+
+sotp-curse-ward.png
+BEGIN
+    "count": 1,
+    "trait": "Item",
+    "ability": "When you or an adjacent hero would receive a Condition card, you may flip this card over to discard that Condition card instead.",
+    "gold": 50,
+END
+
+sotp-haste-potion.png
+BEGIN
+    "count": 1,
+    "trait": "Potion",
+    "ability": "Action: Flip this card over to recover 3 Hearts and gain 5 movement points.",
+    "gold": 25,
+END
+
+sotp-masterwork-tools.png
+BEGIN
+    "count": 1,
+    "trait": "Item",
+    "ability": "Flip this card over during your turn to either search an adjacent search token or perform an open or close a door action without using an action.",
+    "gold": 50,
+END
+
+sotp-protection-sphere.png
+BEGIN
+    "count": 1,
+    "trait": "Item",
+    "ability": "When a hero within 1 space of you is attacked, before dice are rolled, you may flip this card over to add 1 additional black die to that hero's defense pool.",
+    "gold": 50,
+END
+
+sotp-scroll-of-coercion.png
+BEGIN
+    "count": 1,
+    "trait": "Item",
+    "ability": "Action: Flip this card over during your turn and choose a minion monster within 3 spaces. You may perform an attack action with that monster as if it were a hero.",
+    "gold": 50,
+END
+
+sotp-search-deck-back.png
+BEGIN
+    "count": null,
+    "trait": null,
+    "ability": null,
+    "gold": null,
+END
+
+sotp-timmorran-shard.png
+BEGIN
+    "count": 1,
+    "trait": "Item, Potion",
+    "ability": "Place 3 Heart tokens on this card. Once during your turn, you may discard 1 Heart token from this card to recover 2 Hearts or 1 Fatigue. Flip this card over after discarding the last Heart token.",
+    "gold": 25,
+END
+
+sotp-truestrike-potion.png
+BEGIN
+    "count": 1,
+    "trait": "Potion",
+    "ability": "Action: Flip this card over to perform an attack. This attack adds 1 Surge to the results and gains: +2 Range, Pierce 1.",
+    "gold": 50,
+END
+
+tf-search-deck-back.png
+BEGIN
+    "count": null,
+    "trait": null,
+    "ability": null,
+    "gold": null,
+END
+
+tf-secret-passage.png
+BEGIN
+    "count": 1,
+    "trait": "Special",
+    "ability": "Place a secret room entrance token in your space. You may immediately explore this secret room without spending a movement point. Then, discard this card. If you draw this card outside of an encounter, shuffle this card back into the deck and draw a replacement.",
+    "gold": 0,
+END

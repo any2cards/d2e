@@ -1,0 +1,11 @@
+# Image Name                    Asset Name          Game   Expansion              AST1     AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description              Asset #   Printflag
+sn-corrupt-citizens-back.png,   corrupt-citizens,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   corrupt-citizens-back,   xxxxx,    8
+sn-the-civilian.png,            corrupt-citizens,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   the civilian,            xxxxx,    8
+sn-the-executioner.png,         corrupt-citizens,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   the executioner,         xxxxx,    8
+sn-the-guardsman.png,           corrupt-citizens,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   the guardsman,           xxxxx,    8
+sn-the-hero.png,                corrupt-citizens,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   the hero,                xxxxx,    8
+sn-the-mage.png,                corrupt-citizens,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   the mage,                xxxxx,    8
+sn-the-magistrate.png,          corrupt-citizens,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   the magistrate,          xxxxx,    8
+sn-the-scholar.png,             corrupt-citizens,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   the scholar,             xxxxx,    8
+sn-the-scoundrel.png,           corrupt-citizens,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   the scoundrel,           xxxxx,    8
+sn-the-siren.png,               corrupt-citizens,   d2e,   shadow of nerekhall,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   the siren,               xxxxx,    8

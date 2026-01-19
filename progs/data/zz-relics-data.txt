@@ -1,0 +1,539 @@
+bg-dawnblade.png
+BEGIN
+    "type": "heroes",
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "One Hand",
+    "dice": "Blue Red Yellow",
+    "rules": "Surge: +3 Hearts. Surge: This attack affects a second monster adjacent to you.",
+END
+
+bg-fortunas-dice.png
+BEGIN
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card and suffer 1 Fatigue to reroll any 1 die you have just rolled.",
+END
+
+bg-shield-of-the-dark-god.png
+BEGIN
+    "type": "heroes",
+    "traits": "Shield",
+    "attack": null,
+    "equip": "One Hand",
+    "dice": null,
+    "rules": "Exhaust this card after rolling defense dice to reroll some or all of the defense dice. Keep the new result only if it is better.",
+END
+
+bg-staff-of-light.png
+BEGIN
+    "type": "heroes",
+    "traits": "Magic, Staff",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow",
+    "rules": "Action: Each hero within 3 spaces of you recovers 1 Heart and 1 Fatigue. Surge: +2 Hearts. Surge: Recover 1 Heart.",
+END
+
+bg-the-shadow-rune.png
+BEGIN
+    "type": "heroes",
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Yellow Yellow",
+    "rules": "Each time you defeat a monster with this weapon, recover 1 Fatigue. Surge: +1 Range, +1 Heart. Surge: +2 Hearts.",
+END
+
+bg-trueshot.png
+BEGIN
+    "type": "heroes",
+    "traits": "Bow",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red Yellow",
+    "rules": "+3 Range. Surge: Move the target 1 space. Surge: +2 Hearts.",
+END
+
+bg-bones-of-woe.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "At the start of each of your turns, roll the blue attack die. On a Surge, draw 1 Overlord card.",
+END
+
+bg-duskblade.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "A hero that starts his turn adjacent to this lieutenant receives -1 Speed for that turn. Each of this lieutenant's attacks gains: Surge: Pierce 5",
+END
+
+bg-scorpions-kiss.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "This lieutenant gains: Action: Exhaust this card and choose a hero in your line of sight. That hero tests Awareness. If he fails, he is Immobilized and Poisoned. If he passes, he only suffers 1 of those conditions of your choice.",
+END
+
+bg-shield-of-zoreks-favor.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each time an attack targeting this lieutenant is resolved and he is not defeated, he tests Might. If he passes, the attacker suffers 1 Heart for each Shield rolled on this test.",
+END
+
+bg-staff-of-shadows.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card and discard 1 Overlord card from your hand to either draw 1 Overlord card or force a reroll of any 1 die. You may do this at any time, even of it's not your turn.",
+END
+
+bg-the-shadow-rune.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Zachareth Only. Each of your attacks gain: Surge: +2 Hearts. Surge: +1 Range, +1 Heart. Surge: Draw 1 Overlord card.",
+END
+
+lr-gauntlets-of-power.png
+BEGIN
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card to cancel 1 Surge from an attack targeting you. Then place 1 Fatigue on this card. You may discard 1 Fatigue from this card when attacking to gain 1 Surge.",
+END
+
+lr-living-heart.png
+BEGIN
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card to revive all heroes within 3 spaces of you. Each revived hero rolls 3 red power dice instead of 2. Limit once per encounter.",
+END
+
+lr-sun-stone.png
+BEGIN
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Add 1 additional green power die to your attack pool. If you are defeated, place the sun stone token in your space.",
+END
+
+lr-fallen-heart.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card when a minion or master monster is defeated. Roll 1 red power die, the monster immediately recovers Hearts equal to the Hearts rolled. Limit once per encounter.",
+END
+
+lr-gauntlets-of-spite.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card to cancel 1 Surge from an attack targeting this lieutenant. Then place 1 Fatigue on this card. You may discard 1 Fatigue from this card when this lieutenant is attacking to gain 1 Surge.",
+END
+
+lr-suns-fury.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Add 1 additional green power die to this lieutenant's attack pool. Return this card to the game box during any Campaign phase to gain 1 XP.",
+END
+
+lw-aurium-mail.png
+BEGIN
+    "type": "heroes",
+    "traits": "Heavy Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Black",
+    "rules": "Before rolling your defense dice, exhaust this card to add 1 additional brown die to your defense pool.",
+END
+
+lw-valyndras-bane.png
+BEGIN
+    "type": "heroes",
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red Yellow",
+    "rules": "Each time you attack a large monster, you may add 1 yellow power die to your attack roll. Surge: Pierce 3.",
+END
+
+lw-her-majestys-malice.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each of your attacks gains: Surge Surge: After resolving this attack, you may perform a second attack action against the same target (once per turn).",
+END
+
+lw-valyndras-gift.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Before any attack roll, exhaust this card to choose this lieutenant or a figure adjacent to this lieutenant. The chosen figure adds 1 gray die to his defense pool.",
+END
+
+mr-book-of-stars.png
+BEGIN
+    "type": "heroes",
+    "traits": "Book",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Apply +1 to your Knowledge (to a maximum of 6). Action: Test Knowledge. If you pass, discard 1 Condition card from 1 hero of your choice.",
+END
+
+mr-shards-of-ithyndrus.png
+BEGIN
+    "type": "heroes",
+    "traits": "Exotic, Magic",
+    "attack": "Range",
+    "equip": "One Hand",
+    "dice": "Blue Yellow",
+    "rules": "Surge: Recover 2 Hearts. Surge: Recover 2 Fatigue. Surge: Pierce 2.",
+END
+
+mr-the-manors-heart.png
+BEGIN
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card during your turn. Recover Hearts or Fatigue equal to the number of Overlord cards in the overlord's discard pile. Limit once per quest.",
+END
+
+mr-wanderers-stone.png
+BEGIN
+    "type": "heroes",
+    "traits": "Rune",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Each time you declare a move action, recover 1 Fatigue.",
+END
+
+mr-shards-of-ithyndrus.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card when a monster in this group performs an attack, after dice are rolled, to add 1 Surge to the results.",
+END
+
+mr-stone-of-wayward-means.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each monster in this group gains: Surge: Doom",
+END
+
+mr-the-manors-heart.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each master monster of this group gains: Action: Perform an attack. Measure range and line of sight from 1 minion monster in this monster's group.",
+END
+
+mr-tome-of-the-five-lies.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card after drawing your starting hand. Shuffle those cards back into the Overlord deck and then draw a number of cards equal to the number of heroes.",
+END
+
+mb-fear-eater.png
+BEGIN
+    "type": "heroes",
+    "traits": "Blade",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red",
+    "rules": "Surge: Terrify. Each time you declare an attack that targets a Terrified monster, that attack gains: Surge: +2 Hearts, Recover 2 Hearts.",
+END
+
+mb-the-white-crown.png
+BEGIN
+    "type": "heroes",
+    "traits": "Helmet",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Apply +1 to each hero's Willpower (to a maximum of 6). You may unequip this card when a hero fails a Willpower test to reroll that test. Limit 1 Helmet equipped at a time.",
+END
+
+mb-undertakers-coat.png
+BEGIN
+    "type": "heroes",
+    "traits": "Light Armor",
+    "attack": null,
+    "equip": "Armor",
+    "dice": null,
+    "rules": "Apply +2 to your Health. At the start of your turn, you may suffer 1 Fatigue to place the hero token of a knocked-out hero adjacent to you.",
+END
+
+mb-blade-of-brivala.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each attack performed by this lieutenant gains: Surge: If this attack deals at least 1 Heart, choose 1 hero within 3 spaces of the target. That hero is Terrified.",
+END
+
+mb-undertakers-coat.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card after this lieutenant rolls defense dice and rolls 1 or more blanks. Add a number of Shields to the results equal to this lieutenant's Knowledge.",
+END
+
+mb-waiqars-favor.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each monster in this group cannot be Terrified. Each master monster in this group gains: Surge: Recover 3 Hearts.",
+END
+
+sn-shadow-plotter.png
+BEGIN
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Exhaust this card during your turn. The overlord reveals his hand. This card does not refresh as normal. Refresh this card at the start of each encounter.",
+END
+
+sn-spirited-scythe.png
+BEGIN
+    "type": "heroes",
+    "traits": "Blade, Staff",
+    "attack": "Melee",
+    "equip": "Two Hands",
+    "dice": "Blue Red Red",
+    "rules": "Action: Perform an attack targeting each monster adjacent to you. Each monster rolls defense dice separately. Each monster that suffers at least 1 Heart is Bleeding.",
+END
+
+sn-ynfernael-rune.png
+BEGIN
+    "type": "heroes",
+    "traits": "Magic, Rune",
+    "attack": "Range",
+    "equip": "Two Hands",
+    "dice": "Blue Red Green",
+    "rules": "Each time you perform an attack with this weapon, suffer 1 Heart. +3 Range. Surge Surge: +3 Hearts.",
+END
+
+sn-shadow-plotter.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card during your turn to draw 3 Overlord cards. Add 1 card to your hand and discard the other 2 cards. Then, this lieutenant suffers 2 Hearts.",
+END
+
+sn-soulless-scythe.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card when this lieutenant enters a space adjacent to a hero. That hero is Bleeding. Each attack this lieutenant performs that targets a Bleeding hero gains Pierce 3.",
+END
+
+sn-ynfernael-rune.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "This lieutenant ignores the effects of hazard spaces. Each attack this lieutenant performs gains: Surge: +2 Hearts",
+END
+
+cr-boneborn-bow.png
+BEGIN
+    "type": "heroes",
+    "traits": "Bow",
+    "attack": "Range",
+    "equip": "Two hands",
+    "dice": "Blue Yellow Yellow",
+    "rules": "You cannot be Terrified. Surge: +2 Hearts. Surge: Pierce 2. Surge: +4 Range.",
+END
+
+cr-forewarned-ring.png
+BEGIN
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Each time the overlord plays an Overlord card, before that card is resolved, you may recover 1 Heart.",
+END
+
+cr-robes-of-the-last.png
+BEGIN
+    "type": "heroes",
+    "traits": "Cloak",
+    "attack": null,
+    "equip": "Armor",
+    "dice": "Gray",
+    "rules": "While you are the target of an attack, add 1 Shield to your defense results for each Surge spent by the figure performing the attack.",
+END
+
+cr-azatheas-triumph.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "This lieutenant applies +4 to his Health (even while this card is exhausted). Action: Exhaust this card to deal 2 Hearts to a hero in this lieutenant's line of sight.",
+END
+
+cr-band-of-foresight.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Exhaust this card during your turn and name an Overlord card trait. Reveal the top card of your deck. If it has the trait you named, add it to your hand. Otherwise, discard it.",
+END
+
+cr-robes-of-the-last.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each master monster in this group applies +2 to its Health. Each hero within 3 spaces of 1 or more monsters in this group applies -1 to his Knowledge (to a minimum of 1).",
+END
+
+tf-immunity-elixir.png
+BEGIN
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "You gain +2 Health. You cannot be Diseased. This card cannot be traded between heroes.",
+END
+
+tf-mending-talisman.png
+BEGIN
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Action: Exhaust this card and choose a hero. Roll 1 red power die. The chosen hero recovers Hearts equal to the Hearts rolled and may discard 1 Condition card or infection token.",
+END
+
+tf-workmans-ring.png
+BEGIN
+    "type": "heroes",
+    "traits": "Trinket",
+    "attack": null,
+    "equip": "Other",
+    "dice": null,
+    "rules": "Each time you would suffer any amount of Fatigue, you may instead place it on this card (to a maximum of 3). Discard all Fatigue on this card at the end of each encounter.",
+END
+
+tf-curative-vial.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "This lieutenant gains: Action: Exhaust this card. This lieutenant or an adjacent monster may discard 1 Condition token.",
+END
+
+tf-omen-of-blight.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "This lieutenant gains: Surge: If this attack deals at least 1 Heart (after the defense roll), choose 1 condition. The target suffers the chosen condition.",
+END
+
+tf-taskmasters-ring.png
+BEGIN
+    "type": "lieutenants",
+    "traits": null,
+    "attack": null,
+    "equip": null,
+    "dice": null,
+    "rules": "Each of this lieutenant's attacks gains: Surge: Gain 2 movement points.",
+END

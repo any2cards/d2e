@@ -1,0 +1,333 @@
+# Image Name                        Asset Name   Game    Expansion                 AST1    AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description           Asset #   Printflag
+bg-barghest-front.png,              monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   barghest,             xxxxx,    8
+bg-barghest-back.png,               monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   barghest,             xxxxx,    8
+bg-cave-spider-front.png,           monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   cave spider,          xxxxx,    8
+bg-cave-spider-back.png,            monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   cave spider,          xxxxx,    8
+bg-elemental-front.png,             monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   elemental,            xxxxx,    8
+bg-elemental-back.png,              monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   elemental,            xxxxx,    8
+bg-ettin-front.png,                 monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ettin,                xxxxx,    8
+bg-ettin-back.png,                  monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ettin,                xxxxx,    8
+bg-flesh-moulder-front.png,         monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   flesh moulder,        xxxxx,    8
+bg-flesh-moulder-back.png,          monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   flesh moulder,        xxxxx,    8
+bg-goblin-archer-front.png,         monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   goblin archer,        xxxxx,    8
+bg-goblin-archer-back.png,          monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   goblin archer,        xxxxx,    8
+bg-merriod-front.png,               monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   merriod,              xxxxx,    8
+bg-merriod-back.png,                monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   merriod,              xxxxx,    8
+bg-shadow-dragon-front.png,         monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shadow dragon,        xxxxx,    8
+bg-shadow-dragon-back.png,          monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shadow dragon,        xxxxx,    8
+bg-zombie-front.png,                monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   zombie,               xxxxx,    8
+bg-zombie-back.png,                 monsters,    d2e,    base game,                act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   zombie,               xxxxx,    8
+bg-barghest-front.png,              monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   barghest,             xxxxx,    8
+bg-barghest-back.png,               monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   barghest,             xxxxx,    8
+bg-cave-spider-front.png,           monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   cave spider,          xxxxx,    8
+bg-cave-spider-back.png,            monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   cave spider,          xxxxx,    8
+bg-elemental-front.png,             monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   elemental,            xxxxx,    8
+bg-elemental-back.png,              monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   elemental,            xxxxx,    8
+bg-ettin-front.png,                 monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ettin,                xxxxx,    8
+bg-ettin-back.png,                  monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ettin,                xxxxx,    8
+bg-flesh-moulder-front.png,         monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   flesh moulder,        xxxxx,    8
+bg-flesh-moulder-back.png,          monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   flesh moulder,        xxxxx,    8
+bg-goblin-archer-front.png,         monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   goblin archer,        xxxxx,    8
+bg-goblin-archer-back.png,          monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   goblin archer,        xxxxx,    8
+bg-merriod-front.png,               monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   merriod,              xxxxx,    8
+bg-merriod-back.png,                monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   merriod,              xxxxx,    8
+bg-shadow-dragon-front.png,         monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shadow dragon,        xxxxx,    8
+bg-shadow-dragon-back.png,          monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shadow dragon,        xxxxx,    8
+bg-zombie-front.png,                monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   zombie,               xxxxx,    8
+bg-zombie-back.png,                 monsters,    d2e,    base game,                act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   zombie,               xxxxx,    8
+bw-deep-elf-front.png,              monsters,    d2e,    bonds of the wild,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   deep elf,             xxxxx,    8
+bw-deep-elf-back.png,               monsters,    d2e,    bonds of the wild,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   deep elf,             xxxxx,    8
+bw-hellhound-front.png,             monsters,    d2e,    bonds of the wild,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hellhound,            xxxxx,    8
+bw-hellhound-back.png,              monsters,    d2e,    bonds of the wild,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hellhound,            xxxxx,    8
+bw-kobold-front.png,                monsters,    d2e,    bonds of the wild,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   kobold,               xxxxx,    8
+bw-kobold-back.png,                 monsters,    d2e,    bonds of the wild,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   kobold,               xxxxx,    8
+bw-deep-elf-front.png,              monsters,    d2e,    bonds of the wild,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   deep elf,             xxxxx,    8
+bw-deep-elf-back.png,               monsters,    d2e,    bonds of the wild,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   deep elf,             xxxxx,    8
+bw-hellhound-front.png,             monsters,    d2e,    bonds of the wild,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hellhound,            xxxxx,    8
+bw-hellhound-back.png,              monsters,    d2e,    bonds of the wild,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hellhound,            xxxxx,    8
+bw-kobold-front.png,                monsters,    d2e,    bonds of the wild,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   kobold,               xxxxx,    8
+bw-kobold-back.png,                 monsters,    d2e,    bonds of the wild,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   kobold,               xxxxx,    8
+ck-bane-spider-front.png,           monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bane spider ck,       xxxxx,    8
+ck-bane-spider-back.png,            monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bane spider ck,       xxxxx,    8
+ck-beastman-front.png,              monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   beastman ck,          xxxxx,    8
+ck-beastman-back.png,               monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   beastman ck,          xxxxx,    8
+ck-blood-ape-front.png,             monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blood ape ck,         xxxxx,    8
+ck-blood-ape-back.png,              monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blood ape ck,         xxxxx,    8
+ck-chaos-beast-front.png,           monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   chaos beast ck,       xxxxx,    8
+ck-chaos-beast-back.png,            monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   chaos beast ck,       xxxxx,    8
+ck-crypt-dragon-front.png,          monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   crypt dragon ck,      xxxxx,    8
+ck-crypt-dragon-back.png,           monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   crypt dragon ck,      xxxxx,    8
+ck-dark-priest-front.png,           monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dark priest ck,       xxxxx,    8
+ck-dark-priest-back.png,            monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dark priest ck,       xxxxx,    8
+ck-deep-elf-front.png,              monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   deep elf ck,          xxxxx,    8
+ck-deep-elf-back.png,               monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   deep elf ck,          xxxxx,    8
+ck-demon-lord-front.png,            monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   demon lord ck,        xxxxx,    8
+ck-demon-lord-back.png,             monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   demon lord ck,        xxxxx,    8
+ck-ferrox-front.png,                monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ferrox ck,            xxxxx,    8
+ck-ferrox-back.png,                 monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ferrox ck,            xxxxx,    8
+ck-giant-front.png,                 monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   giant ck,             xxxxx,    8
+ck-giant-back.png,                  monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   giant ck,             xxxxx,    8
+ck-golem-front.png,                 monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   golem ck,             xxxxx,    8
+ck-golem-back.png,                  monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   golem ck,             xxxxx,    8
+ck-hellhound-front.png,             monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hellhound ck,         xxxxx,    8
+ck-hellhound-back.png,              monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hellhound ck,         xxxxx,    8
+ck-ice-wyrm-front.png,              monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ice wyrm ck,          xxxxx,    8
+ck-ice-wyrm-back.png,               monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ice wyrm ck,          xxxxx,    8
+ck-kobold-front.png,                monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   kobold ck,            xxxxx,    8
+ck-kobold-back.png,                 monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   kobold ck,            xxxxx,    8
+ck-lava-beetle-front.png,           monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   lava beetle ck,       xxxxx,    8
+ck-lava-beetle-back.png,            monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   lava beetle ck,       xxxxx,    8
+ck-manticore-front.png,             monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   manticore ck,         xxxxx,    8
+ck-manticore-back.png,              monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   manticore ck,         xxxxx,    8
+ck-medusa-front.png,                monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   medusa ck,            xxxxx,    8
+ck-medusa-back.png,                 monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   medusa ck,            xxxxx,    8
+ck-naga-front.png,                  monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   naga ck,              xxxxx,    8
+ck-naga-back.png,                   monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   naga ck,              xxxxx,    8
+ck-ogre-front.png,                  monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ogre ck,              xxxxx,    8
+ck-ogre-back.png,                   monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ogre ck,              xxxxx,    8
+ck-razorwing-front.png,             monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   razorwing ck,         xxxxx,    8
+ck-razorwing-back.png,              monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   razorwing ck,         xxxxx,    8
+ck-shade-front.png,                 monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shade ck,             xxxxx,    8
+ck-shade-back.png,                  monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shade ck,             xxxxx,    8
+ck-skeleton-archer-front.png,       monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   skeleton archer ck,   xxxxx,    8
+ck-skeleton-archer-back.png,        monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   skeleton archer ck,   xxxxx,    8
+ck-sorcerer-front.png,              monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sorcerer ck,          xxxxx,    8
+ck-sorcerer-back.png,               monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sorcerer ck,          xxxxx,    8
+ck-troll-front.png,                 monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   troll ck,             xxxxx,    8
+ck-troll-back.png,                  monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   troll ck,             xxxxx,    8
+ck-wendigo-front.png,               monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   wendigo ck,           xxxxx,    8
+ck-wendigo-back.png,                monsters,    d2e,    conversion kit,           act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   wendigo ck,           xxxxx,    8
+ck-bane-spider-front.png,           monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bane spider ck,       xxxxx,    8
+ck-bane-spider-back.png,            monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bane spider ck,       xxxxx,    8
+ck-beastman-front.png,              monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   beastman ck,          xxxxx,    8
+ck-beastman-back.png,               monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   beastman ck,          xxxxx,    8
+ck-blood-ape-front.png,             monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blood ape ck,         xxxxx,    8
+ck-blood-ape-back.png,              monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blood ape ck,         xxxxx,    8
+ck-chaos-beast-front.png,           monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   chaos beast ck,       xxxxx,    8
+ck-chaos-beast-back.png,            monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   chaos beast ck,       xxxxx,    8
+ck-crypt-dragon-front.png,          monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   crypt dragon ck,      xxxxx,    8
+ck-crypt-dragon-back.png,           monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   crypt dragon ck,      xxxxx,    8
+ck-dark-priest-front.png,           monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dark priest ck,       xxxxx,    8
+ck-dark-priest-back.png,            monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dark priest ck,       xxxxx,    8
+ck-deep-elf-front.png,              monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   deep elf ck,          xxxxx,    8
+ck-deep-elf-back.png,               monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   deep elf ck,          xxxxx,    8
+ck-demon-lord-front.png,            monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   demon lord ck,        xxxxx,    8
+ck-demon-lord-back.png,             monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   demon lord ck,        xxxxx,    8
+ck-ferrox-front.png,                monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ferrox ck,            xxxxx,    8
+ck-ferrox-back.png,                 monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ferrox ck,            xxxxx,    8
+ck-giant-front.png,                 monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   giant ck,             xxxxx,    8
+ck-giant-back.png,                  monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   giant ck,             xxxxx,    8
+ck-golem-front.png,                 monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   golem ck,             xxxxx,    8
+ck-golem-back.png,                  monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   golem ck,             xxxxx,    8
+ck-hellhound-front.png,             monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hellhound ck,         xxxxx,    8
+ck-hellhound-back.png,              monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hellhound ck,         xxxxx,    8
+ck-ice-wyrm-front.png,              monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ice wyrm ck,          xxxxx,    8
+ck-ice-wyrm-back.png,               monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ice wyrm ck,          xxxxx,    8
+ck-kobold-front.png,                monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   kobold ck,            xxxxx,    8
+ck-kobold-back.png,                 monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   kobold ck,            xxxxx,    8
+ck-lava-beetle-front.png,           monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   lava beetle ck,       xxxxx,    8
+ck-lava-beetle-back.png,            monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   lava beetle ck,       xxxxx,    8
+ck-manticore-front.png,             monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   manticore ck,         xxxxx,    8
+ck-manticore-back.png,              monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   manticore ck,         xxxxx,    8
+ck-medusa-front.png,                monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   medusa ck,            xxxxx,    8
+ck-medusa-back.png,                 monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   medusa ck,            xxxxx,    8
+ck-naga-front.png,                  monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   naga ck,              xxxxx,    8
+ck-naga-back.png,                   monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   naga ck,              xxxxx,    8
+ck-ogre-front.png,                  monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ogre ck,              xxxxx,    8
+ck-ogre-back.png,                   monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ogre ck,              xxxxx,    8
+ck-razorwing-front.png,             monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   razorwing ck,         xxxxx,    8
+ck-razorwing-back.png,              monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   razorwing ck,         xxxxx,    8
+ck-shade-front.png,                 monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shade ck,             xxxxx,    8
+ck-shade-back.png,                  monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shade ck,             xxxxx,    8
+ck-skeleton-archer-front.png,       monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   skeleton archer ck,   xxxxx,    8
+ck-skeleton-archer-back.png,        monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   skeleton archer ck,   xxxxx,    8
+ck-sorcerer-front.png,              monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sorcerer ck,          xxxxx,    8
+ck-sorcerer-back.png,               monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sorcerer ck,          xxxxx,    8
+ck-troll-front.png,                 monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   troll ck,             xxxxx,    8
+ck-troll-back.png,                  monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   troll ck,             xxxxx,    8
+ck-wendigo-front.png,               monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   wendigo ck,           xxxxx,    8
+ck-wendigo-back.png,                monsters,    d2e,    conversion kit,           act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   wendigo ck,           xxxxx,    8
+cd-chaos-beast-front.png,           monsters,    d2e,    crown of destiny,         act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   chaos beast,          xxxxx,    8
+cd-chaos-beast-back.png,            monsters,    d2e,    crown of destiny,         act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   chaos beast,          xxxxx,    8
+cd-giant-front.png,                 monsters,    d2e,    crown of destiny,         act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   giant,                xxxxx,    8
+cd-giant-back.png,                  monsters,    d2e,    crown of destiny,         act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   giant,                xxxxx,    8
+cd-lava-beetle-front.png,           monsters,    d2e,    crown of destiny,         act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   lava beetle,          xxxxx,    8
+cd-lava-beetle-back.png,            monsters,    d2e,    crown of destiny,         act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   lava beetle,          xxxxx,    8
+cd-chaos-beast-front.png,           monsters,    d2e,    crown of destiny,         act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   chaos beast,          xxxxx,    8
+cd-chaos-beast-back.png,            monsters,    d2e,    crown of destiny,         act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   chaos beast,          xxxxx,    8
+cd-giant-front.png,                 monsters,    d2e,    crown of destiny,         act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   giant,                xxxxx,    8
+cd-giant-back.png,                  monsters,    d2e,    crown of destiny,         act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   giant,                xxxxx,    8
+cd-lava-beetle-front.png,           monsters,    d2e,    crown of destiny,         act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   lava beetle,          xxxxx,    8
+cd-lava-beetle-back.png,            monsters,    d2e,    crown of destiny,         act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   lava beetle,          xxxxx,    8
+cf-golem-front.png,                 monsters,    d2e,    crusade of the forgotten, act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   golem,                xxxxx,    8
+cf-golem-back.png,                  monsters,    d2e,    crusade of the forgotten, act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   golem,                xxxxx,    8
+cf-medusa-front.png,                monsters,    d2e,    crusade of the forgotten, act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   medusa,               xxxxx,    8
+cf-medusa-back.png,                 monsters,    d2e,    crusade of the forgotten, act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   medusa,               xxxxx,    8
+cf-sorcerer-front.png,              monsters,    d2e,    crusade of the forgotten, act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sorcerer,             xxxxx,    8
+cf-sorcerer-back.png,               monsters,    d2e,    crusade of the forgotten, act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sorcerer,             xxxxx,    8
+cf-golem-front.png,                 monsters,    d2e,    crusade of the forgotten, act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   golem,                xxxxx,    8
+cf-golem-back.png,                  monsters,    d2e,    crusade of the forgotten, act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   golem,                xxxxx,    8
+cf-medusa-front.png,                monsters,    d2e,    crusade of the forgotten, act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   medusa,               xxxxx,    8
+cf-medusa-back.png,                 monsters,    d2e,    crusade of the forgotten, act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   medusa,               xxxxx,    8
+cf-sorcerer-front.png,              monsters,    d2e,    crusade of the forgotten, act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sorcerer,             xxxxx,    8
+cf-sorcerer-back.png,               monsters,    d2e,    crusade of the forgotten, act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sorcerer,             xxxxx,    8
+gd-crypt-dragon-front.png,          monsters,    d2e,    guardians of deephall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   crypt dragon,         xxxxx,    8
+gd-crypt-dragon-back.png,           monsters,    d2e,    guardians of deephall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   crypt dragon,         xxxxx,    8
+gd-dark-priest-front.png,           monsters,    d2e,    guardians of deephall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dark priest,          xxxxx,    8
+gd-dark-priest-back.png,            monsters,    d2e,    guardians of deephall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dark priest,          xxxxx,    8
+gd-wendigo-front.png,               monsters,    d2e,    guardians of deephall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   wendigo,              xxxxx,    8
+gd-wendigo-back.png,                monsters,    d2e,    guardians of deephall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   wendigo,              xxxxx,    8
+gd-crypt-dragon-front.png,          monsters,    d2e,    guardians of deephall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   crypt dragon,         xxxxx,    8
+gd-crypt-dragon-back.png,           monsters,    d2e,    guardians of deephall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   crypt dragon,         xxxxx,    8
+gd-dark-priest-front.png,           monsters,    d2e,    guardians of deephall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dark priest,          xxxxx,    8
+gd-dark-priest-back.png,            monsters,    d2e,    guardians of deephall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dark priest,          xxxxx,    8
+gd-wendigo-front.png,               monsters,    d2e,    guardians of deephall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   wendigo,              xxxxx,    8
+gd-wendigo-back.png,                monsters,    d2e,    guardians of deephall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   wendigo,              xxxxx,    8
+lr-arachyura-front.png,             monsters,    d2e,    labyrinth of ruin,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   arachyura,            xxxxx,    8
+lr-arachyura-back.png,              monsters,    d2e,    labyrinth of ruin,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   arachyura,            xxxxx,    8
+lr-carrion-drake-front.png,         monsters,    d2e,    labyrinth of ruin,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   carrion drake,        xxxxx,    8
+lr-carrion-drake-back.png,          monsters,    d2e,    labyrinth of ruin,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   carrion drake,        xxxxx,    8
+lr-goblin-witcher-front.png,        monsters,    d2e,    labyrinth of ruin,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   goblin witcher,       xxxxx,    8
+lr-goblin-witcher-back.png,         monsters,    d2e,    labyrinth of ruin,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   goblin witcher,       xxxxx,    8
+lr-volucrix-reaver-front.png,       monsters,    d2e,    labyrinth of ruin,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   volucrix reaver,      xxxxx,    8
+lr-volucrix-reaver-back.png,        monsters,    d2e,    labyrinth of ruin,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   volucrix reaver,      xxxxx,    8
+lr-arachyura-front.png,             monsters,    d2e,    labyrinth of ruin,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   arachyura,            xxxxx,    8
+lr-arachyura-back.png,              monsters,    d2e,    labyrinth of ruin,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   arachyura,            xxxxx,    8
+lr-carrion-drake-front.png,         monsters,    d2e,    labyrinth of ruin,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   carrion drake,        xxxxx,    8
+lr-carrion-drake-back.png,          monsters,    d2e,    labyrinth of ruin,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   carrion drake,        xxxxx,    8
+lr-goblin-witcher-front.png,        monsters,    d2e,    labyrinth of ruin,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   goblin witcher,       xxxxx,    8
+lr-goblin-witcher-back.png,         monsters,    d2e,    labyrinth of ruin,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   goblin witcher,       xxxxx,    8
+lr-volucrix-reaver-front.png,       monsters,    d2e,    labyrinth of ruin,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   volucrix reaver,      xxxxx,    8
+lr-volucrix-reaver-back.png,        monsters,    d2e,    labyrinth of ruin,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   volucrix reaver,      xxxxx,    8
+lw-fire-imps-front.png,             monsters,    d2e,    lair of the wyrm,         act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fire imps,            xxxxx,    8
+lw-fire-imps-back.png,              monsters,    d2e,    lair of the wyrm,         act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fire imps,            xxxxx,    8
+lw-hybrid-sentinel-front.png,       monsters,    d2e,    lair of the wyrm,         act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hybrid sentinel,      xxxxx,    8
+lw-hybrid-sentinel-back.png,        monsters,    d2e,    lair of the wyrm,         act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hybrid sentinel,      xxxxx,    8
+lw-fire-imps-front.png,             monsters,    d2e,    lair of the wyrm,         act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fire imps,            xxxxx,    8
+lw-fire-imps-back.png,              monsters,    d2e,    lair of the wyrm,         act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fire imps,            xxxxx,    8
+lw-hybrid-sentinel-front.png,       monsters,    d2e,    lair of the wyrm,         act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hybrid sentinel,      xxxxx,    8
+lw-hybrid-sentinel-back.png,        monsters,    d2e,    lair of the wyrm,         act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hybrid sentinel,      xxxxx,    8
+mr-bandit-front.png,                monsters,    d2e,    manor of ravens,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bandit,               xxxxx,    8
+mr-bandit-back.png,                 monsters,    d2e,    manor of ravens,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bandit,               xxxxx,    8
+mr-wraith-front.png,                monsters,    d2e,    manor of ravens,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   wraith,               xxxxx,    8
+mr-wraith-back.png,                 monsters,    d2e,    manor of ravens,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   wraith,               xxxxx,    8
+mr-bandit-front.png,                monsters,    d2e,    manor of ravens,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bandit,               xxxxx,    8
+mr-bandit-back.png,                 monsters,    d2e,    manor of ravens,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bandit,               xxxxx,    8
+mr-wraith-front.png,                monsters,    d2e,    manor of ravens,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   wraith,               xxxxx,    8
+mr-wraith-back.png,                 monsters,    d2e,    manor of ravens,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   wraith,               xxxxx,    8
+mb-bone-horror-front.png,           monsters,    d2e,    mists of bilehall,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bone horror,          xxxxx,    8
+mb-bone-horror-back.png,            monsters,    d2e,    mists of bilehall,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bone horror,          xxxxx,    8
+mb-broodwalker-front.png,           monsters,    d2e,    mists of bilehall,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   broodwalker,          xxxxx,    8
+mb-broodwalker-back.png,            monsters,    d2e,    mists of bilehall,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   broodwalker,          xxxxx,    8
+mb-reanimate-front.png,             monsters,    d2e,    mists of bilehall,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   reanimate,            xxxxx,    8
+mb-reanimate-back.png,              monsters,    d2e,    mists of bilehall,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   reanimate,            xxxxx,    8
+mb-bone-horror-front.png,           monsters,    d2e,    mists of bilehall,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bone horror,          xxxxx,    8
+mb-bone-horror-back.png,            monsters,    d2e,    mists of bilehall,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bone horror,          xxxxx,    8
+mb-broodwalker-front.png,           monsters,    d2e,    mists of bilehall,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   broodwalker,          xxxxx,    8
+mb-broodwalker-back.png,            monsters,    d2e,    mists of bilehall,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   broodwalker,          xxxxx,    8
+mb-reanimate-front.png,             monsters,    d2e,    mists of bilehall,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   reanimate,            xxxxx,    8
+mb-reanimate-back.png,              monsters,    d2e,    mists of bilehall,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   reanimate,            xxxxx,    8
+oo-bane-spider-front.png,           monsters,    d2e,    oath of the outcast,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bane spider,          xxxxx,    8
+oo-bane-spider-back.png,            monsters,    d2e,    oath of the outcast,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bane spider,          xxxxx,    8
+oo-beastman-front.png,              monsters,    d2e,    oath of the outcast,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   beastman,             xxxxx,    8
+oo-beastman-back.png,               monsters,    d2e,    oath of the outcast,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   beastman,             xxxxx,    8
+oo-razorwing-front.png,             monsters,    d2e,    oath of the outcast,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   razorwing,            xxxxx,    8
+oo-razorwing-back.png,              monsters,    d2e,    oath of the outcast,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   razorwing,            xxxxx,    8
+oo-bane-spider-front.png,           monsters,    d2e,    oath of the outcast,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bane spider,          xxxxx,    8
+oo-bane-spider-back.png,            monsters,    d2e,    oath of the outcast,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bane spider,          xxxxx,    8
+oo-beastman-front.png,              monsters,    d2e,    oath of the outcast,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   beastman,             xxxxx,    8
+oo-beastman-back.png,               monsters,    d2e,    oath of the outcast,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   beastman,             xxxxx,    8
+oo-razorwing-front.png,             monsters,    d2e,    oath of the outcast,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   razorwing,            xxxxx,    8
+oo-razorwing-back.png,              monsters,    d2e,    oath of the outcast,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   razorwing,            xxxxx,    8
+sotp-burrowing-horror-front.png,    monsters,    sotp,   sands of the past,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   burrowing horror,     xxxxx,    8
+sotp-burrowing-horror-back.png,     monsters,    sotp,   sands of the past,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   burrowing horror,     xxxxx,    8
+sotp-sarcophagus-guard-front.png,   monsters,    sotp,   sands of the past,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sarcophagus guard,    xxxxx,    8
+sotp-sarcophagus-guard-back.png,    monsters,    sotp,   sands of the past,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sarcophagus guard,    xxxxx,    8
+sotp-burrowing-horror-front.png,    monsters,    sotp,   sands of the past,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   burrowing horror,     xxxxx,    8
+sotp-burrowing-horror-back.png,     monsters,    sotp,   sands of the past,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   burrowing horror,     xxxxx,    8
+sotp-sarcophagus-guard-front.png,   monsters,    sotp,   sands of the past,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sarcophagus guard,    xxxxx,    8
+sotp-sarcophagus-guard-back.png,    monsters,    sotp,   sands of the past,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sarcophagus guard,    xxxxx,    8
+sn-changeling-front.png,            monsters,    d2e,    shadow of nerekhall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   changeling,           xxxxx,    8
+sn-changeling-back.png,             monsters,    d2e,    shadow of nerekhall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   changeling,           xxxxx,    8
+sn-ironbound-front.png,             monsters,    d2e,    shadow of nerekhall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ironbound,            xxxxx,    8
+sn-ironbound-back.png,              monsters,    d2e,    shadow of nerekhall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ironbound,            xxxxx,    8
+sn-rat-swarm-front.png,             monsters,    d2e,    shadow of nerekhall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   rat swarm,            xxxxx,    8
+sn-rat-swarm-back.png,              monsters,    d2e,    shadow of nerekhall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   rat swarm,            xxxxx,    8
+sn-ynfernael-hulk-front.png,        monsters,    d2e,    shadow of nerekhall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ynfernael hulk,       xxxxx,    8
+sn-ynfernael-hulk-back.png,         monsters,    d2e,    shadow of nerekhall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ynfernael hulk,       xxxxx,    8
+sn-changeling-front.png,            monsters,    d2e,    shadow of nerekhall,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   changeling,           xxxxx,    8
+sn-changeling-back.png,             monsters,    d2e,    shadow of nerekhall,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   changeling,           xxxxx,    8
+sn-ironbound-front.png,             monsters,    d2e,    shadow of nerekhall,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ironbound,            xxxxx,    8
+sn-ironbound-back.png,              monsters,    d2e,    shadow of nerekhall,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ironbound,            xxxxx,    8
+sn-rat-swarm-front.png,             monsters,    d2e,    shadow of nerekhall,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   rat swarm,            xxxxx,    8
+sn-rat-swarm-back.png,              monsters,    d2e,    shadow of nerekhall,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   rat swarm,            xxxxx,    8
+sn-ynfernael-hulk-front.png,        monsters,    d2e,    shadow of nerekhall,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ynfernael hulk,       xxxxx,    8
+sn-ynfernael-hulk-back.png,         monsters,    d2e,    shadow of nerekhall,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ynfernael hulk,       xxxxx,    8
+se-dark-minotaur-front.png,         monsters,    d2e,    shards of everdark,       act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dark minotaur,        xxxxx,    8
+se-dark-minotaur-back.png,          monsters,    d2e,    shards of everdark,       act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dark minotaur,        xxxxx,    8
+se-ice-wyrm-front.png,              monsters,    d2e,    shards of everdark,       act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ice wyrm,             xxxxx,    8
+se-ice-wyrm-back.png,               monsters,    d2e,    shards of everdark,       act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ice wyrm,             xxxxx,    8
+se-shade-front.png,                 monsters,    d2e,    shards of everdark,       act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shade,                xxxxx,    8
+se-shade-back.png,                  monsters,    d2e,    shards of everdark,       act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shade,                xxxxx,    8
+se-dark-minotaur-front.png,         monsters,    d2e,    shards of everdark,       act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dark minotaur,        xxxxx,    8
+se-dark-minotaur-back.png,          monsters,    d2e,    shards of everdark,       act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dark minotaur,        xxxxx,    8
+se-ice-wyrm-front.png,              monsters,    d2e,    shards of everdark,       act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ice wyrm,             xxxxx,    8
+se-ice-wyrm-back.png,               monsters,    d2e,    shards of everdark,       act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ice wyrm,             xxxxx,    8
+se-shade-front.png,                 monsters,    d2e,    shards of everdark,       act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shade,                xxxxx,    8
+se-shade-back.png,                  monsters,    d2e,    shards of everdark,       act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shade,                xxxxx,    8
+ss-blood-ape-front.png,             monsters,    d2e,    stewards of the secret,   act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blood ape,            xxxxx,    8
+ss-blood-ape-back.png,              monsters,    d2e,    stewards of the secret,   act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blood ape,            xxxxx,    8
+ss-ferrox-front.png,                monsters,    d2e,    stewards of the secret,   act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ferrox,               xxxxx,    8
+ss-ferrox-back.png,                 monsters,    d2e,    stewards of the secret,   act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ferrox,               xxxxx,    8
+ss-naga-front.png,                  monsters,    d2e,    stewards of the secret,   act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   naga,                 xxxxx,    8
+ss-naga-back.png,                   monsters,    d2e,    stewards of the secret,   act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   naga,                 xxxxx,    8
+ss-blood-ape-front.png,             monsters,    d2e,    stewards of the secret,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blood ape,            xxxxx,    8
+ss-blood-ape-back.png,              monsters,    d2e,    stewards of the secret,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blood ape,            xxxxx,    8
+ss-ferrox-front.png,                monsters,    d2e,    stewards of the secret,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ferrox,               xxxxx,    8
+ss-ferrox-back.png,                 monsters,    d2e,    stewards of the secret,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ferrox,               xxxxx,    8
+ss-naga-front.png,                  monsters,    d2e,    stewards of the secret,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   naga,                 xxxxx,    8
+ss-naga-back.png,                   monsters,    d2e,    stewards of the secret,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   naga,                 xxxxx,    8
+cr-marrow-priest-front.png,         monsters,    d2e,    the chains that rust,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   marrow priest,        xxxxx,    8
+cr-marrow-priest-back.png,          monsters,    d2e,    the chains that rust,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   marrow priest,        xxxxx,    8
+cr-shambling-colossus-front.png,    monsters,    d2e,    the chains that rust,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shambling colossus,   xxxxx,    8
+cr-shambling-colossus-back.png,     monsters,    d2e,    the chains that rust,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shambling colossus,   xxxxx,    8
+cr-the-dispossessed-front.png,      monsters,    d2e,    the chains that rust,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   the dispossessed,     xxxxx,    8
+cr-the-dispossessed-back.png,       monsters,    d2e,    the chains that rust,     act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   the dispossessed,     xxxxx,    8
+cr-marrow-priest-front.png,         monsters,    d2e,    the chains that rust,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   marrow priest,        xxxxx,    8
+cr-marrow-priest-back.png,          monsters,    d2e,    the chains that rust,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   marrow priest,        xxxxx,    8
+cr-shambling-colossus-front.png,    monsters,    d2e,    the chains that rust,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shambling colossus,   xxxxx,    8
+cr-shambling-colossus-back.png,     monsters,    d2e,    the chains that rust,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shambling colossus,   xxxxx,    8
+cr-the-dispossessed-front.png,      monsters,    d2e,    the chains that rust,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   the dispossessed,     xxxxx,    8
+cr-the-dispossessed-back.png,       monsters,    d2e,    the chains that rust,     act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   the dispossessed,     xxxxx,    8
+tf-harpy-front.png,                 monsters,    d2e,    the trollfens,            act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   harpy,                xxxxx,    8
+tf-harpy-back.png,                  monsters,    d2e,    the trollfens,            act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   harpy,                xxxxx,    8
+tf-plague-worm-front.png,           monsters,    d2e,    the trollfens,            act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   plague worm,          xxxxx,    8
+tf-plague-worm-back.png,            monsters,    d2e,    the trollfens,            act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   plague worm,          xxxxx,    8
+tf-harpy-front.png,                 monsters,    d2e,    the trollfens,            act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   harpy,                xxxxx,    8
+tf-harpy-back.png,                  monsters,    d2e,    the trollfens,            act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   harpy,                xxxxx,    8
+tf-plague-worm-front.png,           monsters,    d2e,    the trollfens,            act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   plague worm,          xxxxx,    8
+tf-plague-worm-back.png,            monsters,    d2e,    the trollfens,            act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   plague worm,          xxxxx,    8
+tc-crow-hag-front.png,              monsters,    d2e,    treaty of champions,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   crow hag,             xxxxx,    8
+tc-crow-hag-back.png,               monsters,    d2e,    treaty of champions,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   crow hag,             xxxxx,    8
+tc-demon-lord-front.png,            monsters,    d2e,    treaty of champions,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   demon lord,           xxxxx,    8
+tc-demon-lord-back.png,             monsters,    d2e,    treaty of champions,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   demon lord,           xxxxx,    8
+tc-skeleton-archer-front.png,       monsters,    d2e,    treaty of champions,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   skeleton archer,      xxxxx,    8
+tc-skeleton-archer-back.png,        monsters,    d2e,    treaty of champions,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   skeleton archer,      xxxxx,    8
+tc-crow-hag-front.png,              monsters,    d2e,    treaty of champions,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   crow hag,             xxxxx,    8
+tc-crow-hag-back.png,               monsters,    d2e,    treaty of champions,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   crow hag,             xxxxx,    8
+tc-demon-lord-front.png,            monsters,    d2e,    treaty of champions,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   demon lord,           xxxxx,    8
+tc-demon-lord-back.png,             monsters,    d2e,    treaty of champions,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   demon lord,           xxxxx,    8
+tc-skeleton-archer-front.png,       monsters,    d2e,    treaty of champions,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   skeleton archer,      xxxxx,    8
+tc-skeleton-archer-back.png,        monsters,    d2e,    treaty of champions,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   skeleton archer,      xxxxx,    8
+vd-manticore-front.png,             monsters,    d2e,    visions of dawn,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   manticore,            xxxxx,    8
+vd-manticore-back.png,              monsters,    d2e,    visions of dawn,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   manticore,            xxxxx,    8
+vd-ogre-front.png,                  monsters,    d2e,    visions of dawn,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ogre,                 xxxxx,    8
+vd-ogre-back.png,                   monsters,    d2e,    visions of dawn,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ogre,                 xxxxx,    8
+vd-troll-front.png,                 monsters,    d2e,    visions of dawn,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   troll,                xxxxx,    8
+vd-troll-back.png,                  monsters,    d2e,    visions of dawn,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   troll,                xxxxx,    8
+vd-manticore-front.png,             monsters,    d2e,    visions of dawn,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   manticore,            xxxxx,    8
+vd-manticore-back.png,              monsters,    d2e,    visions of dawn,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   manticore,            xxxxx,    8
+vd-ogre-front.png,                  monsters,    d2e,    visions of dawn,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ogre,                 xxxxx,    8
+vd-ogre-back.png,                   monsters,    d2e,    visions of dawn,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ogre,                 xxxxx,    8
+vd-troll-front.png,                 monsters,    d2e,    visions of dawn,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   troll,                xxxxx,    8
+vd-troll-back.png,                  monsters,    d2e,    visions of dawn,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   troll,                xxxxx,    8

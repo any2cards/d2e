@@ -1,0 +1,467 @@
+de-ec-0-last-breath.png
+BEGIN
+    "icon": "*",
+    "rules": "Each water space is a lit space. If the torchbearer enters an empty space adjacent to the door, refresh fate and discard this card.",
+    "after setup rules": null,
+    "overlord flavor": "Darkness floods the room like a rising tide. It grasps your legs and draws you towards the water. You hold the torch high and attempt to keep it above the liguid shadows.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "3 Hourglass",
+    "timer effects": "Advance doom by 1. Then, discard this exploration card.",
+END
+
+de-ec-1-square-one.png
+BEGIN
+    "icon": "1",
+    "rules": "Each time a fire imp in darkness performs an attack, that attack gains +1 Heart. Fire imps cannot perform Engage or Spot actions. Firepits block movement. As an action, while adjacent to a firepit that is not ablaze, a hero may flip that firepit faceup to show that it is ablaze. Then, he tests Might or Willpower. If he fails, he sufffers 2 Hearts and 1 Fatigue. Each space adjacent to a firepit that is ablaze is a lit space. If each firepit is ablaze, discard each red onjective token. Each hero receives 2 XP. Then, refresh fate and discard this Exploration card. If the fire dies, discard each red objective token and advance doom by 1. Each hero receives 1 XP. Then, discard this exploration card.",
+    "after setup rules": null,
+    "overlord flavor": "The small, gremlin-like creatures crackle with laughter as you try in vain to rekindle the fire. They inhale great, screeching breaths and consume your flames.",
+    "overlord effects": "Flip facedown each firepit that is adjacent to a fire imp.",
+    "timer flavor": "Every ember grows dark and ...",
+    "timer": "3 Hourglass",
+    "timer effects": "The fire dies.",
+END
+
+de-ec-2-nightmare-gate.png
+BEGIN
+    "icon": "2",
+    "rules": "Hybrid sentinels do not activate until the locked door is removed. If the fire died in Square One, each time a hero enters a space adjacent to a chest, that hero suffers 1 Fatigue. At the start of each hero's turn, that hero gains movement points equal to 5 minus the number of heroes. As an action, while adjacent to a chest, a hero may reveal that objective token. If he does, perform the following based on its color. BLUE: Replace this objective token with a minion fire imp, respecting group limits. RED: Replace this objective token with a master fire imp, respecting group limits. GREEN: If each chest has been revealed, discard this token and remove the locked door from the map. Otherwise, return this token facedown. If there are no hybrid sentinels on the map, the heroes have slain Draemor's guard. Each hero gains 3 XP. Transition to Act II. Then, refresh fate and discard this Exploration card.",
+    "after setup rules": null,
+    "overlord flavor": null,
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "4 Hourglass",
+    "timer effects": "Advance Doom by 1 and reveal all chests. Each hero receives 2 XP. Transition to Act II. Then, discard this Exploration card.",
+END
+
+de-ec-3-limbos-end.png
+BEGIN
+    "icon": "3",
+    "rules": "If the heroes failed to defeat Draemor's guard, each hybrid sentinel adds +1 Shield to each of its defense results. Draemor does not activate and is not considered to be on the map until the secret room is revealed. If there are no minion monsters on the map, the secret room is revealed. Ignore black border surrounding the secret room; it does not block line of sight, movement, or counting spaces. Each tiem Draemor is defeated, he is not removed from the map. Instead, 1 hero places his hero token in a space marked with an X. This is that hero's body. Then, Draemor recovers all Hearts, discards all conditions, and is placed in an empty space at least 3 spaces from each hero. If each hero is in a space containing his body, the heroes win the Quest!",
+    "after setup rules": null,
+    "overlord flavor": "Shadow flickers like flame below your eyelids and waves of darkness break across your body. You gasp for air, but cannot find the light.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "5 Hourglass",
+    "timer effects": "The heroes fail the quest.",
+END
+
+de-ec-4-breached-ice.png
+BEGIN
+    "icon": null,
+    "rules": "Merriods cannot perform Engage actions. Each space containing a blue objective token is a pit space. If there are no merriods on the map, refresh fate, discard each blue objective token, and discard this Exploration card.",
+    "after setup rules": "Activate merriods.",
+    "overlord flavor": "A billow of frigid shadow ascends from the great fissure. It burns your skin and slows your thoughts. Dark icicles hang from the flames of your torch, threatening to extinguish the light.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "2 Hourglass",
+    "timer effects": "Advance doom by 1. Then, discard each blue objective token and this Exploration card.",
+END
+
+de-ec-5-breath-of-stone.png
+BEGIN
+    "icon": null,
+    "rules": "If there are no elementals on the map, refresh fate and discard this Exploration card.",
+    "after setup rules": "Activate elementals.",
+    "overlord flavor": null,
+    "overlord effects": "Roll 1 yellow power die. If a Surge is rolled, each hero moves 1 space toward the closest pit space. If no Surge is rolled, each hero that is adjacent to a pit space is Stunned, removes his figure from the map, and places it in the closest empty space that is not adjacent to a pit space.",
+    "timer flavor": "The crevice draws a deep breath and doesn't stop. The room begins to break and split, large chuncks of earth tumbling down into the darkness.",
+    "timer": "3 Hourglass",
+    "timer effects": "Advance doom by 1. Then, discard this exploration card.",
+END
+
+de-ec-6-glimmerlack-hall.png
+BEGIN
+    "icon": null,
+    "rules": "A hero in a space containing a secret passage may spend 1 movement point to remove his figure from the map and place it on another secret passage as if they were adjacent spaces. If the space with the other secret passage is occupied, place your figure on the closest empty space. If Axirumn is defeated and each hero is on the antechamber, discard the blue objective tokens and refresh fate. Then, discard this Exploration card. If Axirumn or a hero is defeated, discard the blue objective tokens and advance doom by 1. Then, discard this Exploration card.",
+    "after setup rules": "Activate minion hybrid sentinels.",
+    "overlord flavor": "Extending his hand, Axirumn beckons you forward. \"Obey,\" he growls.",
+    "overlord effects": "Each hero in darkness moves 2 spaces toward Axirumn.",
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+de-ec-7-incinerator.png
+BEGIN
+    "icon": null,
+    "rules": "Each time a hero enters a space containing or adjacent to a vent, he suffers 1 Fatigue and is Poisoned. As an action, which adjacent to a vent, a hero may test Might or Willpower. If he passes, the vent is shut and the token is discarded from the map. If he fails, he is Poisoned. If there are no vents on the map, refresh fate and discard this Exploration card. If the torchbearer is adjacent to a vent or if a hero adjacent to a vent is Burning, the vents ignite. If the vents ignite, each hero is Burning. Then, advance doom by 1, discard each red objective token, and discard this Exploration card.",
+    "after setup rules": "Activate fire imps.",
+    "overlord flavor": "Deranged laughter echoes up one of the vents. Moments later, a flaming imp emerges.",
+    "overlord effects": "Place 1 fire imp adjacent to 1 vent, respecting group limits.",
+    "timer flavor": "With a single spark, the room becomes an inferno.",
+    "timer": "3 Hourglass",
+    "timer effects": "The vents ignite.",
+END
+
+de-ec-8-passage-of-the-future.png
+BEGIN
+    "icon": null,
+    "rules": "Heroes can only recover Hearts and Fatigue from stand up and revive actions.",
+    "after setup rules": "Resolve 1 Peril card.",
+    "overlord flavor": "Door after door leads back to this room. Perhaps the exit you are looking for is the door that doesn't lead you forward.",
+    "overlord effects": "Each hero on the Passage of the Future tests Knowledge. Each time a hero fails, resolve 1 Peril card. If more heroes pass than fail, reveal the top 3 Exploration cards from the Exploration deck, and place them back in the same order. Then, each hero who tested reveals 1 objective token. If the green objective token is revealed, choose 1 door adjacent to that token. Remove the other 2 doors from the map and place end caps on each of those exits. Then, move fate backwards by 1 and discard the green and red objective tokens and this Exploration card. If the green objective token is not revealed, flip each objective token facedown, shuffle them, and replace them as indicated during setup. Then, resolve 1 Peril card.",
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+de-ec-9-passage-of-the-past.png
+BEGIN
+    "icon": null,
+    "rules": "Heroes can only recover Hearts and Fatigue from stand up and revive actions. Each time a hero enters an empty space on the Passage of the Past, he tests Awareness. If he fails, pick up his figure and place it in an empty space adjacent to the hero furthest from the exit of the Passage of the Past. If two heroes are on the exit of the Passage of the Past, move fate backward by 1. Then, discard this Exploration card.",
+    "after setup rules": "Resolve 1 Peril card.",
+    "overlord flavor": "Glancing back, you remember this moment as if it has been forgotten before, lost in the chaos of a dream you never had.",
+    "overlord effects": "Resolve 1 Peril card.",
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+de-ec-10-passage-of-the-present.png
+BEGIN
+    "icon": null,
+    "rules": "Heroes can only recover Hearts and Fatigue from stand up and revive actions. Each space is in darkness except for the torchbearer's space, regardless of any other game effect.",
+    "after setup rules": null,
+    "overlord flavor": "Your body trembles and you fight back tears as the vision fades. You cannot remember what you saw, only that it was about you and happening right now.",
+    "overlord effects": "Each hero in darkness tests Willpower. Resolve 1 Peril card for each hero who fails. Then, discard this Exploration card.",
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+de-ec-11-stones-of-the-founders.png
+BEGIN
+    "icon": null,
+    "rules": "As an action, a hero in a space containing a platform may flip it faceup. If a red objective token is revealed, that hero suffers Fatigue equal to the number of faceup red objective tokens. If each hero is in a space containing a blue objective token, the heroes draw 1 Shop Item card and give it to any hero, discard all objective tokens, and move fate backward by 1. Then, discard this Exploration card.",
+    "after setup rules": "Move fate backward by 1.",
+    "overlord flavor": "The platforms explode into ash and flame.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "2 Hourglass",
+    "timer effects": "Discard each blue objective token and this Exploration card.",
+END
+
+de-ec-back.png
+BEGIN
+    "icon": null,
+    "rules": null,
+    "after setup rules": null,
+    "overlord flavor": null,
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+fs-ec-0-the-onset.png
+BEGIN
+    "icon": "*",
+    "rules": "Each time a hero enters a space that is not adjacent to another hero, the hero who entered that space suffers 3 Fatigue. If there are no monsters on the map, discard this Exploration card.",
+    "after setup rules": null,
+    "overlord flavor": "You are ill prepared for the surprise attack. Zombies feast on your flesh while barghests gnaw at the bones underneath. This dungeon may be your grave.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "2 Hourglass",
+    "timer effects": "Advance doom by 1. Then, discard this exploration card.",
+END
+
+fs-ec-1-room-of-souls.png
+BEGIN
+    "icon": "1",
+    "rules": "A hero may spend 1 movement point while adjacent to the cauldron to pick it up. As an action, the hero carrying the cauldron may move 1 space. He cannot move or be moved through any other means. As an action, or by suffering 2 Hearts and 2 Fatigue, while adjacent to any pit space, the hero carrying the cauldron may destroy it. He cannot perform any actions other than those listed above. If the hero carrying the cauldron suffers any amount of Hearts he tests Might. If he fails, or is defeated, the cauldron cracks. If a hero destroys the cauldron, discard it. That hero draws 1 search card, and each hero receives 2 XP. Then, refresh fate and discard this Exploration card. If the cauldron cracks, advance doom by 1 and discard the cauldron. Each hero receives 1 XP. Then, discard this Exploration card.",
+    "after setup rules": "Activate flesh moulders.",
+    "overlord flavor": null,
+    "overlord effects": "Roll 1 gray defense die. Place 1 flesh moulder adjacent to the cauldron, or the hero carrying the cauldron, for each Shield result, respecting group limits.",
+    "timer flavor": null,
+    "timer": "3 Hourglass",
+    "timer effects": "The cauldron cracks.",
+END
+
+fs-ec-2-the-lava-tomb.png
+BEGIN
+    "icon": "2",
+    "rules": "If the heroes failed to destroy the cauldron in the Room of Souls, each barghest adds 1 brown die to its defense pool. Each flesh moulder adds 1 brown die to its defense pool. If the master flesh moulder is defeated, place 1 blue objective token in its space. This is the key. As an action, while adjacent to the key, a hero may pick it up. If the hero carrying the key ends his turn in a space containing the farmer, he saves the farmer. If a hero saves the farmer, discard the farmer and key. Each hero receives 3 XP. Transition to Act II. Then, refresh fate and discard this Exploration card.",
+    "after setup rules": "Activate flesh moulders.",
+    "overlord flavor": "An incredible tremor shakes the dungeon floot. Tharn approaches. With a quick swipe and a bloodcurdling scream, the farmer is gone, and so is the beast.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "3 Hourglass",
+    "timer effects": "Advance doom by 1 and discard the farmer. Each hero received 2 XP. Transition to Act II. Then, discard this Exploration card.",
+END
+
+fs-ec-3-throne-of-the-fallen.png
+BEGIN
+    "icon": "3",
+    "rules": "Tharn applies +2 to his Health per hero. If Tharn defeats a hero, 1 villager token is placed in that hero�s space. That hero is permanently defeated and cannot be placed back on the map by any means. Each time a hero enters a space containing a villager token, he suffers 1 Heart. As an action, while adjacent to a facedown objective token, a hero may reveal it. If the token is red, that hero suffers 3 Hearts and discards the token. If the token is green, the heroes have discovered the blocked tunnel and the other objective token is discarded. After the blocked tunnel is discovered, a hero may attack it as if it were a monster. The tunnel has 15 Health, +5 Health per hero, and 1 brown defense die. If the heroes failed to save the farmer in The Lava Tomb, the blocked tunnel applies +5 to its Health. As soon as the blocked tunnel suffers Hearts equal to its Health, it is destroyed and the heroes win! If 8 villager tokens are on the map, the heroes fail the quest!",
+    "after setup rules": "Refresh fate.",
+    "overlord flavor": "For each objective token on the map, roll 1 brown defense die. For each Shield result place 1 zombie in an empty space adjacent to the respective objective token.",
+    "overlord effects": "Place 1 villager token adjacent to the hero who is closest to an objective token.",
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+fs-ec-4-deadly-kennel.png
+BEGIN
+    "icon": null,
+    "rules": "Each barghest in the Deadly Kennel is asleep and does not activate until it awakens. Each time a hero enters a space adjacent to a sleeping barghest he must test Awareness for each adjacent sleeping barghest. If he fails, the barghest awakens and bites that hero. Roll 1 red power die. The bitten hero suffers Hearts equal to the number of Hearts rolled. A sleeping barghest also awakens if it suffers any amount of Hearts. If a hero searches the search token on the Deadly Kennel, each barghest immediately awakens, suffers 3 Hearts and is Stunned. Then, refresh fate and discard this Exploration card. Advance doom by 1 if 2 barghests awaken, 2 barghests are defeated, or there are no heroes on the Deadly Kennel. Then, discard this Exploration card.",
+    "after setup rules": null,
+    "overlord flavor": "The shuffling of your boots and the clank of your armor stirs one of the hounds from his slumber.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "2 Hourglass",
+    "timer effects": "The sleeping barghest closest to the entrance of the Deadly Kennel awakens.",
+END
+
+fs-ec-5-fog-filled-passage.png
+BEGIN
+    "icon": null,
+    "rules": "Heroes cannot suffer Fatigue to gain movement points. Each time a hero enters a space adjacent to a zombie, he suffers 1 Fatigue. Each zombie gains 1 additional Shield for each other zombie within 2 spaces of its figure. If there are no zombies on the map, refresh fate and discard this Exploration card.",
+    "after setup rules": null,
+    "overlord flavor": "Threads of fungus, concealed by the dense fog, coil themsevles around your legs, tightening their grip with every step. Zombies thrash at your sluggish bodies over and over, tearing your flesh clean off.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "3 Hourglass",
+    "timer effects": "Advance doom by 1. Then, discard this exploration card.",
+END
+
+fs-ec-6-hall-of-riddles.png
+BEGIN
+    "icon": null,
+    "rules": "Heroes can only recover Hearts and Fatigue from stand up and revive actions. As an action, while adjacent to the door, a hero may test Knowledge. If He Passes: Move fate backward by 1. Then, discard this Exploration card. If He Fails: The hero suffers 4 Fatigue. If this is the second time he failed this test, he suffers 2 Fatigue, then discard this Exploration card.",
+    "after setup rules": "Resolve 1 Peril card.",
+    "overlord flavor": "The puzzle contiues to elude you.",
+    "overlord effects": "Resolve 1 Peril card.",
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+fs-ec-7-lengthy-sewers.png
+BEGIN
+    "icon": null,
+    "rules": "Each attack a monster performs gains +3 Range. Each figure must spend 3 movement points (instead of 2) to enter each water space on the Lengthy Sewers. If there are no flesh moulders on the map, refresh fate and discard this Exploration card.",
+    "after setup rules": "Activate flesh moulders.",
+    "overlord flavor": "Orbs of energy slam against the damp walls as you wade through the water. Blasts landing in your vicinity send eruptions of seweage in every direction, temporarily blinding you.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "3 Hourglass",
+    "timer effects": "Advance doom by 1. Then, discard this exploration card.",
+END
+
+fs-ec-8-shiny-corridor.png
+BEGIN
+    "icon": null,
+    "rules": "Each time a hero enters a space adjacent to the search token on the Shiny Corridor, he tests Willpower. If he fails, move the search token 1 space toward the exit of the Shiny Corridor. If the search token enters the exit of the Shiny Corridor, discard the search token. Remove 1 damage token from the loot track for each hero that does not have a faceup search item in their play area. Then, each hero must discard 1 faceup search item. Discard this Exploration card. If a hero searches the search token, move fate backward by 1. Then, discard this Exploration card.",
+    "after setup rules": "Resolve 1 Peril card.",
+    "overlord flavor": "The shiny trinket slowly fades away, the gray floor below it becomes visible. Then, with a flash of green light, it disappears completely.",
+    "overlord effects": "Discard the search token on the Shiny Corridor. If there are no damage tokens on the loot track, each hero suffers 2 Hearts. Otherwise, remove all damage tokens from the loot track. Then, discard this Exploration card.",
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+fs-ec-9-trash-heap.png
+BEGIN
+    "icon": null,
+    "rules": "Each attack a monster performs gains +1 Heart for each search token on the Trash Heap. Each time a hero declares a search action, he tests Knowledge before performing that action. If he fails, he does not draw a Search card and is Diseased. Then, discard the search token. If there are no search tokens on the Trash Heap, refresh fate and discard this Exploration card. Advance doom by 1 if there are no shadow dragons on the Trash Heap. Then, discard this Exploration card.",
+    "after setup rules": null,
+    "overlord flavor": "he key still remains in the debris that has gone unsifted. Time is running out before the door locks for eternity.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "2 Hourglass",
+    "timer effects": "Advance fate by 1.",
+END
+
+fs-ec-10-treasure-vault.png
+BEGIN
+    "icon": null,
+    "rules": "As an action, while adjacent to a facedown objective token, a hero may reveal the token and peform one of the following based on its color: RED: The hero tests Awareness. If he fails, he is Poisoned. Then, discard this token. BLUE: The hero tests Might. If he fails, he is Diseased. Then, discard this token. Green: The hero draws 1 Shop Item card and gives it to any hero. Move fate backward by 1. Then, discard this Exploration card and all objective tokens on the Treasure Vault. If there are no objective tokens on the Treasure Vault, discard this Exploration card.",
+    "after setup rules": "Move fate backward by 1.",
+    "overlord flavor": null,
+    "overlord effects": "Remove 1 objective token from the Treasure Vault. Do not reveal it.",
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+fs-ec-11-tunnels-end.png
+BEGIN
+    "icon": null,
+    "rules": "Heroes can only recover Hearts and Fatigue from stand up and revive actions. As an action, while adjacent to the door and another hero, a hero may test Might or Awareness. If He Passes: Move fate backward by 1. Then, discard this Exploration card. If He Fails: If the hero tested Might, he suffers 3 Hearts. If the hero tested Awareness, he suffers 5 Fatigue. Then, discard this Exploration card.",
+    "after setup rules": "Resolve 1 Peril card.",
+    "overlord flavor": "The door will not budge without the force of two heroes. Your enemies take advantage of your halt.",
+    "overlord effects": "Resolve 1 Peril card.",
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+fs-ec-back.png
+BEGIN
+    "icon": null,
+    "rules": null,
+    "after setup rules": null,
+    "overlord flavor": null,
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+ni-ec-0-beyond-the-fringes.png
+BEGIN
+    "icon": "*",
+    "rules": "Cave Spiders do not block line of sight during the goblin archer�s activation. Each hero that ends his turn in a water space or adjacent to 2 or more water spaces is Poisoned. If there are no monsters on the map, refresh fate and discard this Exploration card.",
+    "after setup rules": null,
+    "overlord flavor": "The surroundings are foreign to you, and the monsters feed off your unfamiliarity. Weak monsters become strong, not through force, but through nature itself.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "3 Hourglass",
+    "timer effects": "Advance doom by 1. Then, discard this exploration card.",
+END
+
+ni-ec-1-consuming-falls.png
+BEGIN
+    "icon": "1",
+    "rules": "Each space on 26A is a water space. Each attack a monster performs gains +3 Range. Goblin archers cannot perform Engage or Spot actions. While adjacent to Desmond, each hero gains +1 Might and +1 Awareness. Each time a sack enters a water space, discard it without revealing it. As an action, while adjacent to a sack, a hero may test Might or Awareness. If he passes, reveal the token and then discard it. Blue objective tokens are civilians. Red objective tokens are useless trinkets. If it is a civilian, that civilian is rescued. If the heroes rescue 2 civilians, discard all objective tokens. Each hero receives 2 XP. Then, refresh fate and discard this Exploration card. If there are no more sacks on the map, advance doom by 1. Each hero receives 1 XP. Then, discard this Exploration card.",
+    "after setup rules": "Activate goblin archers",
+    "overlord flavor": "The goblins chant a work song as they heave the sacks toward the falls. The purpose of the song seems lost on them, however, as they all yank the ropes with different rhythms. Nevertheless, the sacks inch forward.",
+    "overlord effects": "Move each sack one space away from the entrance of the Consuming Falls.",
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+ni-ec-2-choke-point.png
+BEGIN
+    "icon": "2",
+    "rules": "Each minion cave spider gains the Web ability. If the heroes failed to rescue 2 civilians on the Consuming Falls, each hero gains -1 Knowledge and -1 Willpower. As an action, while adjacent to a civilian, a hero may test Knowledge or Willpower. If he passes, he saves that civilian. As an action, while adjacent to a civilian, Desmond may save that civilian. Each time a civilian is saved, remove that token from the map and place it in the heroes� play area. If 2 civilians are saved, each hero receives 3 XP. Transition to Act II. Then, refresh fate and discard this Exploration card. If a civilian is on the exit of the Choke Point, he flees. Advance doom by 1 and remove each civilian from the map. Each hero receives 2 XP. Transition to Act II. Then, discard this Exploration card.",
+    "after setup rules": null,
+    "overlord flavor": "The villagers weep and cower, clearly lost in fear. They crawl deeper into the forest, oblivious to you and your attempt to save them.",
+    "overlord effects": "Move each civilian one space towards the exit of the Choke Point.",
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+ni-ec-3-cabin-of-the-lost.png
+BEGIN
+    "icon": "3",
+    "rules": "Zaldara gains +1 Health per hero. Each time Zaldara is attacked, add Shields to her defense results equal to the number of civilians on the map. If the heroes failed to save 2 civilians on the Choke Point, each hero must spend 1 additional movement point to enter a space adjacent to Zaldara. While adjacent to a civilian, Desmond may spend 1 movement point to rescue the civilian. If he does, remove that token from the map. If 2 civilians have been rescued, remove the locked door from the map. If Zaldara is defeated, the heroes win the Quest!",
+    "after setup rules": null,
+    "overlord flavor": "Your adventure has clearly come to a climax; all around you, the forest closes in. The weeds grasp your ankles and the branches lash your face. Time is running out.",
+    "overlord effects": "Resolve 1 Peril card.",
+    "timer flavor": "\"Not fair\", Zaldara bellows. She holds a villager in front of her as a shield and swings he club wildly.",
+    "timer": "3 Hourglass",
+    "timer effects": "Advance Fate by 1 and place 1 villager token in an empty space adjacent to Zaldara. Each attack Zaldara performs during this overlord phase gains +1 Heart for each civilian on the map.",
+END
+
+ni-ec-4-abandoned-campsite.png
+BEGIN
+    "icon": null,
+    "rules": "As an action, while adjacent to a wooden crate, a hero may reveal the token and perform the following based on its color: RED: The hero suffers 2 Hearts. Then, discard this token. BLUE: Discard this token. WHITE: The hero draws 3 Search cards. Move fate back 1 space. Then, remove all objective tokens from the map and discard this Exploration card. If all of the wooden crates are revealed, discard this Exploration card.",
+    "after setup rules": "Move fate back 1 space.",
+    "overlord flavor": "Vines reach from the underbrush and pull the supplies back into the forest. In a few short moments, only the campfire remains.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "2 Hourglass",
+    "timer effects": "Discard all objective tokens. Discard this Exploration card.",
+END
+
+ni-ec-5-blocked-gully.png
+BEGIN
+    "icon": null,
+    "rules": "Heroes can only recover Hearts and Fatigue from stand up or revive actions. The fallen tree blocks movement. As an action, while adjacent to the fallen tree, a hero may test Might. If He Passes: Discard the objective tokens from the map and move fate back 1 space. Then, discard this Exploration card. If He Fails: Each hero suffers Fatigue up to his Stamina. Discard the objective tokens from the map. Then, discard this Exploration card.",
+    "after setup rules": "Resolve 1 Peril card.",
+    "overlord flavor": "It suddenly becomes clear that the fallen tree is no natural occurrence. The enemy has blocked your path!",
+    "overlord effects": "Resolve 1 Peril card.",
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+ni-ec-6-firing-zone.png
+BEGIN
+    "icon": null,
+    "rules": "Each time a goblin archer rolls an X result, reroll that die. If there are no goblin archers on the map, refresh fate and discard this Exploration card.",
+    "after setup rules": "Activate  goblin archers.",
+    "overlord flavor": "Even as you clear the opening, arrows continue to whistles through the air. A few goblins have retreated into the trees, intent on harassing you for the rest of your quest.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "3 Hourglass",
+    "timer effects": "Advance doom by 1. Then, discard this exploration card.",
+END
+
+ni-ec-7-hoarders-land.png
+BEGIN
+    "icon": null,
+    "rules": "The snagged hero�s turn immediately ends. While snagged, he cannot use any of his class skills, Shop Item cards, Hero Ability, or Heroic Feat; he cannot suffer Fatigue to gain movement points; and his Speed is reduced to 1. The snagged hero is treated as a knocked-out hero during monster activation. Each time the snagged hero declares an action, he must test Willpower. If he fails, he suffers 2 Hearts and 2 Fatigue. As an action, while adjacent to the snagged hero, another hero may test Might to break the bonds. If he passes, the snagged hero is no longer snagged. If the bonds are broken and there are no ettins on the map, refresh fate and discard this Exploration card.",
+    "after setup rules": null,
+    "overlord flavor": "The sack the ettins used to bind you was soaked in some rancid liquid. You feel numb and disoriented. It will take hours before you�re able to see or think clearly.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "3 Hourglass",
+    "timer effects": "Advance doom by 1. Then, discard this exploration card.",
+END
+
+ni-ec-8-misty-gorge.png
+BEGIN
+    "icon": null,
+    "rules": "Heroes can only recover Hearts or Fatigue from a stand up or revive action. The first time each hero enters an empty space on the Misty Gorge, if he is not fully fatigued, he tests Willpower. If he fails, he suffers Fatigue up to his Stamina. If all of the heroes and Desmond are within 2 spaces of the exit, the door is unlocked. Move fate back 1 space. Then, discard this Exploration card. If 2 or more heroes fail the Willpower test, discard this Exploration card.",
+    "after setup rules": "Resolve 1 Peril card.",
+    "overlord flavor": "The mist mangles your thoughts. Distracted by the imaginary horrors, you do not realize the enemies plans.",
+    "overlord effects": "Resolve 1 Peril card.",
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+ni-ec-9-river-flail.png
+BEGIN
+    "icon": null,
+    "rules": "Each attack performed by a merriod gains +1 Heart or each water space that figure occupies. If there are no merriods on the map, refresh fate and discard this Exploration card.",
+    "after setup rules": "Activate merriods.",
+    "overlord flavor": "The merriod�s great tentacles thrash about, striking you again and again. You maneuver into position so that you can sprint past the beast, but now you�re not so sure you want this creature on your back.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "2 Hourglass",
+    "timer effects": "Advance doom by 1. Then, discard this exploration card.",
+END
+
+ni-ec-10-rocky-channel.png
+BEGIN
+    "icon": null,
+    "rules": "Heroes can only recover Hearts and Fatigue from stand up or revive actions. Each time a hero enters a space on the Rocky Channel, he must test Awareness or Might. If he fails, he suffers 2 Hearts and returns to his previous space. If the space he returns to is occupied, place the occupying figure on the closest empty space not on the Rocky Channel. If all of the heroes are on the Rocky Channel, the door is unlocked. Move fate back 1 space. Then, discard this Exploration card. If a hero is defeated, the door is unlocked. Then, discard this Exploration card.",
+    "after setup rules": "Resolve 1 Peril card.",
+    "overlord flavor": "The unstable earth shifts and you grasp for something stable.",
+    "overlord effects": "Resolve 1 Peril card.",
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END
+
+ni-ec-11-webbed-gulch.png
+BEGIN
+    "icon": null,
+    "rules": "The master cave spider can only suffer Hearts if Desmond is adjacent to it. If the master cave spider is defeated and there are no other cave spiders on the map, refresh fate and discard this Exploration card. If the master cave spider is defeated and there are 1 or more minion cave spiders on the map, advance doom by 1 and each hero suffers 1 Heart and 3 Fatigue. Then, discard this Exploration card.",
+    "after setup rules": null,
+    "overlord flavor": "A great spider-queen strides forward. Her fangs froth with venom, and her eyes are mad with insatiable hunger.",
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": "X Hourglass",
+    "timer effects": "Each attack performed by the master cave spider gains +2 Hearts for each fatigue token on this card.",
+END
+
+ni-ec-back.png
+BEGIN
+    "icon": null,
+    "rules": null,
+    "after setup rules": null,
+    "overlord flavor": null,
+    "overlord effects": null,
+    "timer flavor": null,
+    "timer": null,
+    "timer effects": null,
+END

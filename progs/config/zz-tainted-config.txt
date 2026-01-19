@@ -1,0 +1,15 @@
+# Image Name            Asset Name   Game   Expansion               AST1     AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description      Asset #   Printflag
+mb-abomination.png,     tainted,     d2e,   mists of bilehall,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   abomination,     xxxxx,    8
+mb-bad-blood.png,       tainted,     d2e,   mists of bilehall,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bad blood,       xxxxx,    8
+mb-deaths-hand.png,     tainted,     d2e,   mists of bilehall,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   death's hand,    xxxxx,    8
+mb-gray-decay.png,      tainted,     d2e,   mists of bilehall,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   gray decay,      xxxxx,    8
+mb-new-orders.png,      tainted,     d2e,   mists of bilehall,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   new orders,      xxxxx,    8
+mb-ordinary.png,        tainted,     d2e,   mists of bilehall,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ordinary,        xxxxx,    8
+mb-tainted-back.png,    tainted,     d2e,   mists of bilehall,      xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   tainted back,    xxxxx,    8
+cr-death-rage.png,      tainted,     d2e,   the chains that rust,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   death rage,      xxxxx,    8
+cr-dream-walk.png,      tainted,     d2e,   the chains that rust,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dream walk,      xxxxx,    8
+cr-great-sorrow.png,    tainted,     d2e,   the chains that rust,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   great sorrow,    xxxxx,    8
+cr-martyrdom.png,       tainted,     d2e,   the chains that rust,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   martyrdom,       xxxxx,    8
+cr-perfect-peace.png,   tainted,     d2e,   the chains that rust,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   perfect peace,   xxxxx,    8
+cr-tainted-back.png,    tainted,     d2e,   the chains that rust,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   tainted back,    xxxxx,    0
+cr-vile-shadow.png,     tainted,     d2e,   the chains that rust,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   vile shadow,     xxxxx,    8

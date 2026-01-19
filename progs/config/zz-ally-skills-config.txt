@@ -1,0 +1,9 @@
+# Image Name            Asset Name     Game   Expansion            AST1       AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description      Asset #   Printflag
+lr-back-strike.png,     ally-skills,   d2e,   labyrinth of ruin,   raythen,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   back strike,     xxxxx,    8
+lr-night-prowler.png,   ally-skills,   d2e,   labyrinth of ruin,   raythen,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   night prowler,   xxxxx,    8
+lr-raythen-back.png,    ally-skills,   d2e,   labyrinth of ruin,   raythen,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   raythen-back,    xxxxx,    8
+lr-sharp-eyes.png,      ally-skills,   d2e,   labyrinth of ruin,   raythen,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sharp eyes,      xxxxx,    8
+lr-aura-of-might.png,   ally-skills,   d2e,   labyrinth of ruin,   serena,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   aura of might,   xxxxx,    8
+lr-healing-aura.png,    ally-skills,   d2e,   labyrinth of ruin,   serena,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   healing aura,    xxxxx,    8
+lr-holy-hammer.png,     ally-skills,   d2e,   labyrinth of ruin,   serena,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   holy hammer,     xxxxx,    8
+lr-serena-back.png,     ally-skills,   d2e,   labyrinth of ruin,   serena,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   serena-back,     xxxxx,    8

@@ -1,0 +1,776 @@
+// WSHZZBGJSON: Automate Build of Board Game JSON Asset Data
+// Games Currently Supported: CS, D1e, D2e, FC, FH, GH, JotL, MoM2e, Rove, ToA
+
+macro WSHZZBGJSON(void)
+{
+	int commabegin, commaend, end, i, j, points, start;
+	int datafilenametest, end2, start2, x, y, z;
+	int pastedlines;
+	string ac1, ac2, ac3, ac4, ac5, ac6;
+	string assetdescription, assetname, assetno, ast1, ast2, ast3, assettype;
+	string config, description, expansion, expdir, game;
+	string image, imagename;
+	string keyvalue, linevalue, printflag;
+	string tempname, xws;
+	string configfilename, configvalue;
+	string datafilename, datalinevalue, datavalue;
+	string jsondir, jsonfilename, jsonfilenameext, jsonfilenameroot, jsonvalue, tempconfigfilename;
+	string softwarevault;	
+
+//*** Establish The File Name Values For: JSONFILENAME, CONFIGFILENAME, DATAFILENAME ***
+	strcpy(configvalue,"-config.txt");
+	strcpy(datavalue,"-data.txt");
+	strcpy(jsonvalue,".js");
+	strcpy(softwarevault,"c:\users\any2c\documents\origfls\software vault\games\\");
+	strlwr(softwarevault);
+	
+	FileName(jsonfilename);
+	strlwr(jsonfilename);
+	strcpy(jsonfilenameext,jsonfilename);
+	ExtractFileExt(jsonfilenameext);
+
+	if (strcmp(jsonfilenameext,jsonvalue) != 0)
+	{
+		Message("ERROR", "This Macro Script only functions if it is opened within a JSON file !!!");
+		return;
+	}
+
+	GetCurrentDirectory(jsondir);
+	strlwr(jsondir);
+	Open(jsonfilename);
+	StartOfFile;
+	start=LineNumber;
+	EndOfFile;
+	end=LineNumber;
+
+	strcpy(jsonfilenameroot,jsonfilename);
+	ExtractFileNameOnly(jsonfilenameroot);
+	
+	strcpy(configfilename,softwarevault);
+	if (strstr(jsondir,"d1e") > 0)
+	{
+		strcat(configfilename,"descent first edition\assets\\");
+	}
+	else if (strstr(jsondir,"d2e") > 0)
+	{
+		strcat(configfilename,"descent second edition\assets\\");
+	}
+	else if (strstr(jsondir,"mom2e") > 0)
+	{
+		strcat(configfilename,"mansions of madness second edition\assets\\");
+	}
+	else if (strstr(jsondir,"rove") > 0)
+	{
+		strcat(configfilename,"rove\assets\\");
+	}
+	else if (strstr(jsondir,"smt") > 0)
+	{
+		strcat(configfilename,"shiver me timbers\assets\\");
+	}
+	else if (strstr(jsondir,"worldhaven") > 0)
+	{
+		strcat(configfilename,"worldhaven\assets\\");
+	}
+	else
+	{
+		Message("ERROR","The JSON File Selected For Processing Does Not Support The Game: ",jsondir);
+		return;
+	}
+
+	strcat(configfilename,jsonfilenameroot);
+	strcat(configfilename,"\\zz-");
+	strcat(configfilename,jsonfilenameroot);
+	strcat(configfilename,configvalue);
+	strlwr(configfilename);
+	if (FileExists(configfilename) < 1 )
+	{
+		Message("ERROR","Config File Name: ",configfilename," does NOT exist !!!");
+		return;
+	}
+	
+	Open(configfilename);
+	StartOfFile;
+	SelectAllText;
+	Copy;
+	Close;
+	Open(jsonfilename);
+	Paste;
+	start=LineNumber;
+	EndOfFile;
+	end=LineNumber;
+
+//*** Verify Starting Line Contains # Image Name ***
+	GotoLine(start);
+	StartOfLine;
+	strcpy(keyvalue,"# Image Name");
+	if (Linecontains(start,keyvalue) == 0)
+	{
+		Message("ERROR","You MUST place the cursor on the line that begins with, and contain the value: # Image Name");
+		UndoAll;
+		return;
+	}			
+
+	points=0;
+	
+	for (j = start; j < end; j++)
+	{
+	    i=LineNumber;
+		GotoLine(i);
+		StartOfLine;
+		GetLineText(i,linevalue);
+
+//*** Ignore Any Comments ***
+		SubString(config,linevalue,0,1);
+		if (strcmp(config,"#") == 0)
+		{
+			DeleteLine;
+			StartofLine;
+			continue;
+		}
+
+//*** Ignore JSON Begin & End ***
+		if ((strcmp(config,"[") == 0) || (strcmp(config,"]") == 0))
+		{
+			Down;
+			StartofLine;
+			continue;
+		}
+		
+//*** Retrieve Image Name Value ***
+		commabegin=0;
+		commaend=strstr(linevalue,",");
+		SubString(imagename,linevalue,commabegin,commaend);
+		Trim(imagename);
+		strlwr(imagename);
+
+//*** Retrieve Asset Name Value ***
+		commabegin=strstr(linevalue,",")+1;
+		SubString(tempname,linevalue,commabegin,strlen(linevalue)-strlen(imagename)+1);
+		commabegin=0;
+		commaend=strstr(tempname,",");
+		SubString(assetname,tempname,commabegin,commaend);
+		Trim(assetname);
+		strlwr(assetname);
+
+//*** Retrieve Game Value ***
+		commabegin=strstr(tempname,",")+1;
+		Substring(game,tempname,commabegin,strlen(tempname)-commabegin);
+		strcpy(tempname,game);
+		commabegin=0;
+		commaend=strstr(tempname,",");
+		SubString(game,tempname,commabegin,commaend);
+		Trim(game);
+		strlwr(game);
+		
+//*** Retrieve Expansion Value ***
+		commabegin=strstr(tempname,",")+1;
+		Substring(expansion,tempname,commabegin,strlen(tempname)-commabegin);
+		strcpy(tempname,expansion);
+		commabegin=0;
+		commaend=strstr(tempname,",");
+		SubString(expansion,tempname,commabegin,commaend);
+		Trim(expansion);
+		strlwr(expansion);
+		strcpy(expdir,expansion);
+		ChangeString(expdir," ","-");
+		ChangeString(expdir,"'","");
+
+//*** Retrieve AST1 Value ***
+		commabegin=strstr(tempname,",")+1;
+		Substring(ast1,tempname,commabegin,strlen(tempname)-commabegin);
+		strcpy(tempname,ast1);
+		commabegin=0;
+		commaend=strstr(tempname,",");
+		SubString(ast1,tempname,commabegin,commaend);
+		Trim(ast1);
+		strlwr(ast1);
+
+//*** Retrieve AST2 Value ***
+		commabegin=strstr(tempname,",")+1;
+		Substring(ast2,tempname,commabegin,strlen(tempname)-commabegin);
+		strcpy(tempname,ast2);
+		commabegin=0;
+		commaend=strstr(tempname,",");
+		SubString(ast2,tempname,commabegin,commaend);
+		Trim(ast2);
+		strlwr(ast2);
+
+//*** Retrieve AST3 Value ***
+		commabegin=strstr(tempname,",")+1;
+		Substring(ast3,tempname,commabegin,strlen(tempname)-commabegin);
+		strcpy(tempname,ast3);
+		commabegin=0;
+		commaend=strstr(tempname,",");
+		SubString(ast3,tempname,commabegin,commaend);
+		Trim(ast3);
+		strlwr(ast3);
+
+//*** Retrieve AC1 Value ***
+		commabegin=strstr(tempname,",")+1;
+		Substring(ac1,tempname,commabegin,strlen(tempname)-commabegin);
+		strcpy(tempname,ac1);
+		commabegin=0;
+		commaend=strstr(tempname,",");
+		SubString(ac1,tempname,commabegin,commaend);
+		Trim(ac1);
+		strlwr(ac1);
+
+//*** Retrieve AC2 Value ***
+		commabegin=strstr(tempname,",")+1;
+		Substring(ac2,tempname,commabegin,strlen(tempname)-commabegin);
+		strcpy(tempname,ac2);
+		commabegin=0;
+		commaend=strstr(tempname,",");
+		SubString(ac2,tempname,commabegin,commaend);
+		Trim(ac2);
+		strlwr(ac2);
+
+//*** Retrieve AC3 Value ***
+		commabegin=strstr(tempname,",")+1;
+		Substring(ac3,tempname,commabegin,strlen(tempname)-commabegin);
+		strcpy(tempname,ac3);
+		commabegin=0;
+		commaend=strstr(tempname,",");
+		SubString(ac3,tempname,commabegin,commaend);
+		Trim(ac3);
+		strlwr(ac3);
+
+//*** Retrieve AC4 Value ***
+		commabegin=strstr(tempname,",")+1;
+		Substring(ac4,tempname,commabegin,strlen(tempname)-commabegin);
+		strcpy(tempname,ac4);
+		commabegin=0;
+		commaend=strstr(tempname,",");
+		SubString(ac4,tempname,commabegin,commaend);
+		Trim(ac4);
+		strlwr(ac4);
+
+//*** Retrieve AC5 Value ***
+		commabegin=strstr(tempname,",")+1;
+		Substring(ac5,tempname,commabegin,strlen(tempname)-commabegin);
+		strcpy(tempname,ac5);
+		commabegin=0;
+		commaend=strstr(tempname,",");
+		SubString(ac5,tempname,commabegin,commaend);
+		Trim(ac5);
+		strlwr(ac5);
+
+//*** Retrieve AC6 Value ***
+		commabegin=strstr(tempname,",")+1;
+		Substring(ac6,tempname,commabegin,strlen(tempname)-commabegin);
+		strcpy(tempname,ac6);
+		commabegin=0;
+		commaend=strstr(tempname,",");
+		SubString(ac6,tempname,commabegin,commaend);
+		Trim(ac6);
+		strlwr(ac6);
+
+//*** Retrieve Description Value ***
+		commabegin=strstr(tempname,",")+1;
+		Substring(description,tempname,commabegin,strlen(tempname)-commabegin);
+		strcpy(tempname,description);
+		commabegin=0;
+		commaend=strstr(tempname,",");
+		SubString(description,tempname,commabegin,commaend);
+		Trim(description);
+		strlwr(description);
+		ChangeString(description,"$",",");
+		strcpy(xws,description);
+		ChangeString(xws," ","");
+		ChangeString(xws,".","");
+		ChangeString(xws,",","");
+		ChangeString(xws,"'","");
+		ChangeString(xws,"-","");
+		ChangeString(xws,"|","");
+		ChangeString(xws,":","");
+		ChangeString(xws,"!","");
+
+//*** Retrieve Asset # Value ***
+		commabegin=strstr(tempname,",")+1;
+		Substring(assetno,tempname,commabegin,strlen(tempname)-commabegin);
+		strcpy(tempname,assetno);
+		commabegin=0;
+		commaend=strstr(tempname,",");
+		SubString(assetno,tempname,commabegin,commaend);
+		Trim(assetno);
+		strlwr(assetno);
+
+//*** Retrieve Printflag Value ***
+		commabegin=strstr(tempname,",")+1;
+		Substring(printflag,tempname,commabegin,strlen(tempname)-commabegin);
+		strcpy(tempname,printflag);
+		commabegin=0;
+		commaend=strlen(tempname);
+		SubString(printflag,tempname,commabegin,commaend);
+		Trim(printflag);
+		strlwr(printflag);
+
+//*** Build The Image Name ***
+		strcpy(image,assetname);
+		strcat(image,"/");
+		if (strcmp(game,"xxxxx") != 0)
+		{
+			strcat(image,game);
+			strcat(image,"/");
+		}
+		strcat(image,expdir);
+		strcat(image,"/");
+		if (strcmp(ast1,"xxxxx") != 0)
+		{
+			strcat(image,ast1);
+			strcat(image,"/");
+		}
+		if (strcmp(ast2,"xxxxx") != 0)
+		{
+			strcat(image,ast2);
+			strcat(image,"/");
+		}
+		if (strcmp(ast3,"xxxxx") != 0)
+		{
+			strcat(image,ast3);
+			strcat(image,"/");
+		}
+		strcat(image,imagename);
+		
+// *** Remove the current old data line ***
+		DeleteLine;
+		StartofLine;
+
+// *** If the Printflag is not 1,2,3,4,5,6,7 or 8 then print nothing ***
+
+// *** If the Printflag is 1, print the new assetname data line without assetno ***
+		if (strcmp(printflag,"1") == 0)
+		{
+			printf("  {\n");
+			printf("    \"name\": \"%s\",\n",description);
+			printf("    \"points\": %i,\n",points);
+			printf("    \"expansion\": \"%s\",\n",expansion);
+			printf("    \"image\": \"%s\",\n",image);
+			printf("    \"xws\": \"%s\"\n",xws);
+			printf("  },\n");
+			++points;
+		}
+
+// *** If the Printflag is 2, print the new assetname data line with assetno ***
+		else if (strcmp(printflag,"2") == 0)
+		{
+			printf("  {\n");
+			printf("    \"name\": \"%s\",\n",description);
+			printf("    \"points\": %i,\n",points);
+			printf("    \"expansion\": \"%s\",\n",expansion);
+			printf("    \"image\": \"%s\",\n",image);
+			printf("    \"xws\": \"%s\",\n",xws);
+			printf("    \"assetno\": \"%s\"\n",assetno);
+			printf("  },\n");
+			++points;
+		}
+
+// *** If the Printflag is 3, print the new assetname data line with assetno and new assetno data line with assetno ***
+		else if (strcmp(printflag,"3") == 0)
+		{
+			printf("  {\n");
+			printf("    \"name\": \"%s\",\n",description);
+			printf("    \"points\": %i,\n",points);
+			printf("    \"expansion\": \"%s\",\n",expansion);
+			printf("    \"image\": \"%s\",\n",image);
+			printf("    \"xws\": \"%s\",\n",xws);
+			printf("    \"assetno\": \"%s\"\n",assetno);
+			printf("  },\n");
+			++points;
+			printf("  {\n");
+			printf("    \"name\": \"%s\",\n",assetno);
+			printf("    \"points\": %i,\n",points);
+			printf("    \"expansion\": \"%s\",\n",expansion);
+			printf("    \"image\": \"%s\",\n",image);
+			printf("    \"xws\": \"%s\",\n",xws);
+			printf("    \"assetno\": \"%s\"\n",assetno);
+			printf("  },\n");
+			++points;
+		}
+
+// *** If the Printflag is 4, print the new assetno data line with assetno ***
+		else if (strcmp(printflag,"4") == 0)
+		{
+			printf("  {\n");
+			printf("    \"name\": \"%s\",\n",assetno);
+			printf("    \"points\": %i,\n",points);
+			printf("    \"expansion\": \"%s\",\n",expansion);
+			printf("    \"image\": \"%s\",\n",image);
+			printf("    \"xws\": \"%s\",\n",xws);
+			printf("    \"assetno\": \"%s\"\n",assetno);
+			printf("  },\n");
+			++points;
+		}
+
+// *** If the Printflag is 5, print the new assetname data line with assetno and new assetno data line with assetno and all of the item / scenario # combos ***
+		else if (strcmp(printflag,"5") == 0)
+		{
+			if (strcmp(ac1,"xxxxx") != 0)
+			{
+				if (strcmp(assetname,"art") == 0)
+				{
+					strcpy(assetdescription,"scenario ");
+				}
+				else if (strcmp(assetname,"items") == 0)
+				{
+					strcpy(assetdescription,"item ");
+				}
+				strcat(assetdescription,ac1);
+				printf("  {\n");
+				printf("    \"name\": \"%s\",\n",assetdescription);
+				printf("    \"points\": %i,\n",points);
+				printf("    \"expansion\": \"%s\",\n",expansion);
+				printf("    \"image\": \"%s\",\n",image);
+				printf("    \"xws\": \"%s\",\n",xws);
+				printf("    \"assetno\": \"%s\"\n",assetno);
+				printf("  },\n");
+				++points;
+			}
+			if (strcmp(ac2,"xxxxx") != 0)
+			{
+				if (strcmp(assetname,"art") == 0)
+				{
+					strcpy(assetdescription,"scenario ");
+				}
+				else if (strcmp(assetname,"items") == 0)
+				{
+					strcpy(assetdescription,"item ");
+				}
+				strcat(assetdescription,ac2);
+				printf("  {\n");
+				printf("    \"name\": \"%s\",\n",assetdescription);
+				printf("    \"points\": %i,\n",points);
+				printf("    \"expansion\": \"%s\",\n",expansion);
+				printf("    \"image\": \"%s\",\n",image);
+				printf("    \"xws\": \"%s\",\n",xws);
+				printf("    \"assetno\": \"%s\"\n",assetno);
+				printf("  },\n");
+				++points;
+			}
+			if (strcmp(ac3,"xxxxx") != 0)
+			{
+				if (strcmp(assetname,"art") == 0)
+				{
+					strcpy(assetdescription,"scenario ");
+				}
+				else if (strcmp(assetname,"items") == 0)
+				{
+					strcpy(assetdescription,"item ");
+				}
+				strcat(assetdescription,ac3);
+				printf("  {\n");
+				printf("    \"name\": \"%s\",\n",assetdescription);
+				printf("    \"points\": %i,\n",points);
+				printf("    \"expansion\": \"%s\",\n",expansion);
+				printf("    \"image\": \"%s\",\n",image);
+				printf("    \"xws\": \"%s\",\n",xws);
+				printf("    \"assetno\": \"%s\"\n",assetno);
+				printf("  },\n");
+				++points;
+			}
+			if (strcmp(ac4,"xxxxx") != 0)
+			{
+				if (strcmp(assetname,"art") == 0)
+				{
+					strcpy(assetdescription,"scenario ");
+				}
+				else if (strcmp(assetname,"items") == 0)
+				{
+					strcpy(assetdescription,"item ");
+				}
+				strcat(assetdescription,ac4);
+				printf("  {\n");
+				printf("    \"name\": \"%s\",\n",assetdescription);
+				printf("    \"points\": %i,\n",points);
+				printf("    \"expansion\": \"%s\",\n",expansion);
+				printf("    \"image\": \"%s\",\n",image);
+				printf("    \"xws\": \"%s\",\n",xws);
+				printf("    \"assetno\": \"%s\"\n",assetno);
+				printf("  },\n");
+				++points;
+			}
+			if (strcmp(ac5,"xxxxx") != 0)
+			{
+				if (strcmp(assetname,"art") == 0)
+				{
+					strcpy(assetdescription,"scenario ");
+				}
+				else if (strcmp(assetname,"items") == 0)
+				{
+					strcpy(assetdescription,"item ");
+				}
+				strcat(assetdescription,ac5);
+				printf("  {\n");
+				printf("    \"name\": \"%s\",\n",assetdescription);
+				printf("    \"points\": %i,\n",points);
+				printf("    \"expansion\": \"%s\",\n",expansion);
+				printf("    \"image\": \"%s\",\n",image);
+				printf("    \"xws\": \"%s\",\n",xws);
+				printf("    \"assetno\": \"%s\"\n",assetno);
+				printf("  },\n");
+				++points;
+			}
+			if (strcmp(ac6,"xxxxx") != 0)
+			{
+				if (strcmp(assetname,"art") == 0)
+				{
+					strcpy(assetdescription,"scenario ");
+				}
+				else if (strcmp(assetname,"items") == 0)
+				{
+					strcpy(assetdescription,"item ");
+				}
+				strcat(assetdescription,ac6);
+				printf("  {\n");
+				printf("    \"name\": \"%s\",\n",assetdescription);
+				printf("    \"points\": %i,\n",points);
+				printf("    \"expansion\": \"%s\",\n",expansion);
+				printf("    \"image\": \"%s\",\n",image);
+				printf("    \"xws\": \"%s\",\n",xws);
+				printf("    \"assetno\": \"%s\"\n",assetno);
+				printf("  },\n");
+				++points;
+			}
+
+			printf("  {\n");
+			printf("    \"name\": \"%s\",\n",description);
+			printf("    \"points\": %i,\n",points);
+			printf("    \"expansion\": \"%s\",\n",expansion);
+			printf("    \"image\": \"%s\",\n",image);
+			printf("    \"xws\": \"%s\",\n",xws);
+			printf("    \"assetno\": \"%s\"\n",assetno);
+			printf("  },\n");
+			++points;
+
+			if (strcmp(assetname,"items") == 0)
+			{
+				printf("  {\n");
+				printf("    \"name\": \"%s\",\n",assetno);
+				printf("    \"points\": %i,\n",points);
+				printf("    \"expansion\": \"%s\",\n",expansion);
+				printf("    \"image\": \"%s\",\n",image);
+				printf("    \"xws\": \"%s\",\n",xws);
+				printf("    \"assetno\": \"%s\"\n",assetno);
+				printf("  },\n");
+				++points;
+			}
+		}
+
+// *** If the Printflag is 6, print the new assetname data line with assetno and all of the AC# data ***
+		else if (strcmp(printflag,"6") == 0)
+		{
+			printf("  {\n");
+			printf("    \"name\": \"%s\",\n",description);
+			printf("    \"points\": %i,\n",points);
+			printf("    \"expansion\": \"%s\",\n",expansion);
+			printf("    \"image\": \"%s\",\n",image);
+			printf("    \"xws\": \"%s\",\n",xws);
+			printf("    \"level\": \"%s\",\n",ac1);
+			printf("    \"initiative\": \"%s\",\n",ac2);
+			printf("    \"character-xws\": \"%s\",\n",ac3);
+			printf("    \"assetno\": \"%s\"\n",assetno);
+			printf("  },\n");
+			++points;
+		}
+
+// *** If the Printflag is 7, print the new assetname data line with assetno and new assetno data line with assetno and all of the AC# data ***
+		else if (strcmp(printflag,"7") == 0)
+		{
+			printf("  {\n");
+			printf("    \"name\": \"%s\",\n",description);
+			printf("    \"points\": %i,\n",points);
+			printf("    \"expansion\": \"%s\",\n",expansion);
+			printf("    \"image\": \"%s\",\n",image);
+			printf("    \"xws\": \"%s\",\n",xws);
+			printf("    \"level\": \"%s\",\n",ac1);
+			printf("    \"initiative\": \"%s\",\n",ac2);
+			printf("    \"character-xws\": \"%s\",\n",ac3);
+			printf("    \"assetno\": \"%s\"\n",assetno);
+			printf("  },\n");
+			++points;
+			printf("  {\n");
+			printf("    \"name\": \"%s\",\n",assetno);
+			printf("    \"points\": %i,\n",points);
+			printf("    \"expansion\": \"%s\",\n",expansion);
+			printf("    \"image\": \"%s\",\n",image);
+			printf("    \"xws\": \"%s\",\n",xws);
+			printf("    \"level\": \"%s\",\n",ac1);
+			printf("    \"initiative\": \"%s\",\n",ac2);
+			printf("    \"character-xws\": \"%s\",\n",ac3);
+			printf("    \"assetno\": \"%s\"\n",assetno);
+			printf("  },\n");
+			++points;
+		}
+
+// *** If the Printflag is 8, use the config file and the matching data file to build merged information ***
+		else if (strcmp(printflag,"8") == 0)
+		{
+			if (strstr(jsondir,"d2e") > 0)
+			{
+				strcpy(datafilename,softwarevault);
+				strcat(datafilename,"descent second edition\assets\\");
+			}
+			else
+			{
+				Message("ERROR","The JSON File Selected For Processing Does Not Support The Game: ",jsondir);
+				UndoAll;
+				return;
+			}
+
+			strcat(datafilename,jsonfilenameroot);
+			strcat(datafilename,"\\zz-");
+			strcat(datafilename,jsonfilenameroot);
+			strcat(datafilename,datavalue);
+			strlwr(datafilename);
+	
+            if (datafilenametest == 0)
+			{
+				if (FileExists(datafilename) < 1 )
+				{
+					Message("ERROR","Data File Name: ",datafilename," does NOT exist !!!");
+					UndoAll;
+					return;
+				}
+				else
+				{
+					datafilenametest=1;
+					Open(datafilename);
+					EndOfFile;
+					end2=LineNumber;
+					start2=1;
+					GotoLine(start2);
+					StartOfLine;
+				}
+			}
+
+			Open(jsonfilename);
+			printf("  {\n");
+			printf("    \"name\": \"%s\",\n",description);
+			printf("    \"points\": %i,\n",points);
+
+			Open(datafilename);
+        	for (x = start2; x < end2; x++)
+			{
+				GotoLine(x);
+				StartOfLine;
+				GetLineText(x,datalinevalue);
+				z=0;
+				if (strcmp(imagename,datalinevalue) == 0)
+				{
+					Down(1);
+					while (z == 0)
+					{
+						GetLineText(LineNumber,datalinevalue);
+						if (strcmp(datalinevalue,"BEGIN") == 0)
+						{
+							pastedlines=0;
+							Down(1);
+						}
+						else if (strcmp(datalinevalue,"END") == 0)
+						{
+							z=1;
+							Copy;
+							Open(jsonfilename);
+							Paste;
+							Open(datafilename);
+							Down(2);
+						}
+						else
+						{
+							++pastedlines;
+							SelectDown;
+						}
+					}
+					start2=LineNumber;
+					break;
+				}
+			}
+
+			Open(jsonfilename);
+			Down(pastedlines);
+			printf("    \"expansion\": \"%s\",\n",expansion);
+			printf("    \"image\": \"%s\",\n",image);
+			printf("    \"xws\": \"%s\"\n",xws);
+			printf("  },\n");
+			++points;
+		}
+
+		if (strcmp(printflag,"8") == 0)
+		{
+			Open(datafilename);
+			Close;
+		}
+	}
+
+	Open(jsonfilename);
+	GotoLine(start);
+	StartOfLine;
+	Save;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

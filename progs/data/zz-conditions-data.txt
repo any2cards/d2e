@@ -1,0 +1,143 @@
+bg-diseased.png
+BEGIN
+    "count": 4,
+    "traits": "At the start of your turn, test Willpower. If you pass, discard this card or token. If you fail, suffer 1 Fatigue and keep this card or token.",
+END
+
+bg-diseased-back.png
+BEGIN
+    "count": null,
+    "traits": null,
+END
+
+bg-immobilized.png
+BEGIN
+    "count": 4,
+    "traits": "You cannot perform move actions or suffer Fatigue to gain movement points. Discard this card or token at the end of your turn.",
+END
+
+bg-immobilized-back.png
+BEGIN
+    "count": null,
+    "traits": null,
+END
+
+bg-poisoned.png
+BEGIN
+    "count": 4,
+    "traits": "At the start of your turn, test Might. If you pass, discard this card or token. If you fail, suffer 1 Heart and keep this card or token.",
+END
+
+bg-poisoned-back.png
+BEGIN
+    "count": null,
+    "traits": null,
+END
+
+bg-stunned.png
+BEGIN
+    "count": 4,
+    "traits": "Action: Discard this card or token. This is the only action you may perform on your turn while you have this card or token.",
+END
+
+bg-stunned-back.png
+BEGIN
+    "count": null,
+    "traits": null,
+END
+
+lr-cursed.png
+BEGIN
+    "count": 4,
+    "traits": "You cannot use monster actions or skills denoted with a Action. At the start of your turn, test Knowledge. If you pass, discard this card or token. If you fail, keep this card or token.",
+END
+
+lr-cursed-back.png
+BEGIN
+    "count": null,
+    "traits": null,
+END
+
+lw-burning.png
+BEGIN
+    "count": 4,
+    "traits": "You or a figure adjacent to you may perform an action to discard this card or token. At the end of your turn, you and each friendly figure adjacent to you suffers 1 Heart.",
+END
+
+lw-burning-back.png
+BEGIN
+    "count": null,
+    "traits": null,
+END
+
+mr-doomed.png
+BEGIN
+    "count": 4,
+    "traits": "Each time you suffer 1 or more Hearts, suffer 1 additional Heart. Each of your attacks gains: Surge: Discard this card or token.",
+END
+
+mr-doomed-back.png
+BEGIN
+    "count": null,
+    "traits": null,
+END
+
+mb-terrified.png
+BEGIN
+    "count": 4,
+    "traits": "You cannot spend Surges. If there are no enemy figures in your line of sight at the end of your turn, discard this card or token.",
+END
+
+mb-terrified-back.png
+BEGIN
+    "count": null,
+    "traits": null,
+END
+
+sotp-blinded.png
+BEGIN
+    "count": 4,
+    "traits": "If you roll an X, 2 or 3 on the blue attack die, your attack is considered a miss. Then, test Awareness. If you fail, suffer 1 Heart and discard this card or token. If you pass, discard this card or token.",
+END
+
+sotp-blinded-back.png
+BEGIN
+    "count": null,
+    "traits": null,
+END
+
+sn-bleeding.png
+BEGIN
+    "count": 4,
+    "traits": "Action: Discard this card or token. For each other action you resolve while you have this card or token, suffer 1 Fatigue.",
+END
+
+sn-bleeding-back.png
+BEGIN
+    "count": null,
+    "traits": null,
+END
+
+cr-terrified.png
+BEGIN
+    "count": 4,
+    "traits": "You cannot spend Surges. If there are no enemy figures in your line of sight at the end of your turn, discard this card or token.",
+END
+
+cr-terrified-back.png
+BEGIN
+    "count": null,
+    "traits": null,
+END
+
+tf-weakened.png
+BEGIN
+    "count": 4,
+    "traits": "Remove 1 Shield from each of your defense rolls and 1 Heart from each of your attack rolls. When you perform a rest action, discard this card or token.",
+END
+
+tf-weakened-back.png
+BEGIN
+    "count": null,
+    "traits": null,
+END

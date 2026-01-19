@@ -1,0 +1,5 @@
+# Image Name                        Asset Name   Game   Expansion               AST1     AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description    Asset #   Printflag
+mr-raven-flock.png,                 servants,    d2e,   manor of ravens,        xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   raven flock,   xxxxx,    8
+mr-raven-flock-servants-back.png,   servants,    d2e,   manor of ravens,        xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   raven flock,   xxxxx,    8
+cr-scourge.png,                     servants,    d2e,   the chains that rust,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   scourge,       xxxxx,    8
+cr-scourge-servants-back.png,       servants,    d2e,   the chains that rust,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   scourge,       xxxxx,    8

@@ -1,0 +1,5 @@
+# Image Name            Asset Name   Game   Expansion            AST1     AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description   Asset #   Printflag
+lr-raythen-front.png,   allies,      d2e,   labyrinth of ruin,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   raythen,      xxxxx,    8
+lr-raythen-back.png,    allies,      d2e,   labyrinth of ruin,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   raythen,      xxxxx,    8
+lr-serena-front.png,    allies,      d2e,   labyrinth of ruin,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   serena,       xxxxx,    8
+lr-serena-back.png,     allies,      d2e,   labyrinth of ruin,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   serena,       xxxxx,    8

@@ -1,0 +1,39 @@
+mr-raven-flock.png
+BEGIN
+    "speed": "4",
+    "health": "4",
+    "defense": "Gray",
+    "attack": "Melee",
+    "type": "Blue Red",
+    "traits": "After transitioning to Act II, add 1 additional yellow power die to this servant's attack pool. Surge: +1 Heart",
+END
+
+mr-raven-flock-servants-back.png
+BEGIN
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "type": null,
+    "traits": null,
+END
+
+cr-scourge.png
+BEGIN
+    "speed": "1",
+    "health": "4",
+    "defense": "Brown",
+    "attack": "Melee",
+    "type": "Blue Red",
+    "traits": "Each time a hero adjacent to the Scourge suffers 1 or more Fatigue from an effect other than this one, choose another hero to suffer 1 Fatigue. After transitioning to Act II, this servant applies +3 to its Health.",
+END
+
+cr-scourge-servants-back.png
+BEGIN
+    "speed": null,
+    "health": null,
+    "defense": null,
+    "attack": null,
+    "type": null,
+    "traits": null,
+END

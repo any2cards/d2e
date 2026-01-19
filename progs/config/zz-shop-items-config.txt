@@ -1,0 +1,156 @@
+# Image Name                     Asset Name    Game    Expansion               AST1    AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description             Asset #   Printflag
+bg-chainmail.png,                shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   chainmail,              xxxxx,    8
+bg-crossbow.png,                 shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   crossbow,               xxxxx,    8
+bg-elm-greatbow.png,             shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   elm greatbow,           xxxxx,    8
+bg-heavy-cloak.png,              shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   heavy cloak,            xxxxx,    8
+bg-immolation.png,               shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   immolation,             xxxxx,    8
+bg-iron-battleaxe.png,           shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   iron battleaxe,         xxxxx,    8
+bg-iron-shield.png,              shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   iron shield,            xxxxx,    8
+bg-iron-spear.png,               shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   iron spear,             xxxxx,    8
+bg-leather-armor.png,            shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   leather armor,          xxxxx,    8
+bg-light-hammer.png,             shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   light hammer,           xxxxx,    8
+bg-lucky-charm.png,              shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   lucky charm,            xxxxx,    8
+bg-magic-staff.png,              shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   magic staff,            xxxxx,    8
+bg-mana-weave.png,               shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   mana weave,             xxxxx,    8
+bg-ring-of-power.png,            shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ring of power,          xxxxx,    8
+bg-scorpion-helm.png,            shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   scorpion helm,          xxxxx,    8
+bg-shop-items-act1-back.png,     shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act1-back,   xxxxx,    8
+bg-sling.png,                    shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sling,                  xxxxx,    8
+bg-steel-broadsword.png,         shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   steel broadsword,       xxxxx,    8
+bg-sunburst.png,                 shop-items,   d2e,    base game,              act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sunburst,               xxxxx,    8
+bg-demonhide-leather.png,        shop-items,   d2e,    base game,              act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   demonhide leather,      xxxxx,    8
+bg-dragontooth-hammer.png,       shop-items,   d2e,    base game,              act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dragontooth hammer,     xxxxx,    8
+bg-dwarven-firebomb.png,         shop-items,   d2e,    base game,              act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dwarven firebomb,       xxxxx,    8
+bg-elven-cloak.png,              shop-items,   d2e,    base game,              act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   elven cloak,            xxxxx,    8
+bg-grinding-axe.png,             shop-items,   d2e,    base game,              act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   grinding axe,           xxxxx,    8
+bg-heavy-steel-shield.png,       shop-items,   d2e,    base game,              act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   heavy steel shield,     xxxxx,    8
+bg-ice-storm.png,                shop-items,   d2e,    base game,              act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ice storm,              xxxxx,    8
+bg-iron-bound-ring.png,          shop-items,   d2e,    base game,              act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   iron-bound ring,        xxxxx,    8
+bg-latari-longbow.png,           shop-items,   d2e,    base game,              act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   latari longbow,         xxxxx,    8
+bg-lightning-strike.png,         shop-items,   d2e,    base game,              act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   lightning strike,       xxxxx,    8
+bg-mace-of-kellos.png,           shop-items,   d2e,    base game,              act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   mace of kellos,         xxxxx,    8
+bg-platemail.png,                shop-items,   d2e,    base game,              act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   platemail,              xxxxx,    8
+bg-shop-items-act2-back.png,     shop-items,   d2e,    base game,              act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act2-back,   xxxxx,    8
+bg-steel-greatsword.png,         shop-items,   d2e,    base game,              act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   steel greatsword,       xxxxx,    8
+bg-tival-crystal.png,            shop-items,   d2e,    base game,              act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   tival crystal,          xxxxx,    8
+lr-bearded-axe.png,              shop-items,   d2e,    labyrinth of ruin,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bearded axe,            xxxxx,    8
+lr-bow-of-bone.png,              shop-items,   d2e,    labyrinth of ruin,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bow of bone,            xxxxx,    8
+lr-elven-boots.png,              shop-items,   d2e,    labyrinth of ruin,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   elven boots,            xxxxx,    8
+lr-jinns-lamp.png,               shop-items,   d2e,    labyrinth of ruin,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   jinn's lamp,            xxxxx,    8
+lr-mace-of-aver.png,             shop-items,   d2e,    labyrinth of ruin,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   mace of aver,           xxxxx,    8
+lr-poisoned-blowgun.png,         shop-items,   d2e,    labyrinth of ruin,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   poisoned blowgun,       xxxxx,    8
+lr-rune-plate.png,               shop-items,   d2e,    labyrinth of ruin,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   rune plate,             xxxxx,    8
+lr-serpent-dagger.png,           shop-items,   d2e,    labyrinth of ruin,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   serpent dagger,         xxxxx,    8
+lr-shield-of-light.png,          shop-items,   d2e,    labyrinth of ruin,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shield of light,        xxxxx,    8
+lr-shop-items-act1-back.png,     shop-items,   d2e,    labyrinth of ruin,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act1-back,   xxxxx,    0
+lr-teleportation-rune.png,       shop-items,   d2e,    labyrinth of ruin,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   teleportation rune,     xxxxx,    8
+lr-thiefs-vest.png,              shop-items,   d2e,    labyrinth of ruin,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   thief's vest,           xxxxx,    8
+lr-black-iron-helm.png,          shop-items,   d2e,    labyrinth of ruin,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   black iron helm,        xxxxx,    8
+lr-bow-of-the-eclipse.png,       shop-items,   d2e,    labyrinth of ruin,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bow of the eclipse,     xxxxx,    8
+lr-cloak-of-deception.png,       shop-items,   d2e,    labyrinth of ruin,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   cloak of deception,     xxxxx,    8
+lr-iron-claws.png,               shop-items,   d2e,    labyrinth of ruin,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   iron claws,             xxxxx,    8
+lr-obsidian-greataxe.png,        shop-items,   d2e,    labyrinth of ruin,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   obsidian greataxe,      xxxxx,    8
+lr-obsidian-scalemail.png,       shop-items,   d2e,    labyrinth of ruin,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   obsidian scalemail,     xxxxx,    8
+lr-rage-blade.png,               shop-items,   d2e,    labyrinth of ruin,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   rage blade,             xxxxx,    8
+lr-rune-of-misery.png,           shop-items,   d2e,    labyrinth of ruin,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   rune of misery,         xxxxx,    8
+lr-shop-items-act2-back.png,     shop-items,   d2e,    labyrinth of ruin,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act2-back,   xxxxx,    0
+lr-shroud-of-dusk.png,           shop-items,   d2e,    labyrinth of ruin,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shroud of dusk,         xxxxx,    8
+lr-staff-of-the-wild.png,        shop-items,   d2e,    labyrinth of ruin,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   staff of the wild,      xxxxx,    8
+lw-flash-powder.png,             shop-items,   d2e,    lair of the wyrm,       act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   flash powder,           xxxxx,    8
+lw-halberd.png,                  shop-items,   d2e,    lair of the wyrm,       act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   halberd,                xxxxx,    8
+lw-handbow.png,                  shop-items,   d2e,    lair of the wyrm,       act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   handbow,                xxxxx,    8
+lw-magma-blast.png,              shop-items,   d2e,    lair of the wyrm,       act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   magma blast,            xxxxx,    8
+lw-shop-items-act1-back.png,     shop-items,   d2e,    lair of the wyrm,       act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act1-back,   xxxxx,    0
+lw-bow-of-the-sky.png,           shop-items,   d2e,    lair of the wyrm,       act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bow of the sky,         xxxxx,    8
+lw-inscribed-robes.png,          shop-items,   d2e,    lair of the wyrm,       act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   inscribed robes,        xxxxx,    8
+lw-merciful-boots.png,           shop-items,   d2e,    lair of the wyrm,       act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   merciful boots,         xxxxx,    8
+lw-scalemail.png,                shop-items,   d2e,    lair of the wyrm,       act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   scalemail,              xxxxx,    8
+lw-shop-items-act2-back.png,     shop-items,   d2e,    lair of the wyrm,       act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act2-back,   xxxxx,    0
+lw-staff-of-kellos.png,          shop-items,   d2e,    lair of the wyrm,       act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   staff of kellos,        xxxxx,    8
+mr-blessed-shield.png,           shop-items,   d2e,    manor of ravens,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blessed shield,         xxxxx,    8
+mr-shadow-bracers.png,           shop-items,   d2e,    manor of ravens,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shadow bracers,         xxxxx,    8
+mr-shop-items-act1-back.png,     shop-items,   d2e,    manor of ravens,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act1-back,   xxxxx,    0
+mr-staff-of-greyhaven.png,       shop-items,   d2e,    manor of ravens,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   staff of greyhaven,     xxxxx,    8
+mr-undying-skull.png,            shop-items,   d2e,    manor of ravens,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   undying skull,          xxxxx,    8
+mr-white-wolf-cloak.png,         shop-items,   d2e,    manor of ravens,        act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   white wolf cloak,       xxxxx,    8
+mr-hammer-of-doom.png,           shop-items,   d2e,    manor of ravens,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   hammer of doom,         xxxxx,    8
+mr-heart-seeker.png,             shop-items,   d2e,    manor of ravens,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   heart seeker,           xxxxx,    8
+mr-rune-of-fate.png,             shop-items,   d2e,    manor of ravens,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   rune of fate,           xxxxx,    8
+mr-shop-items-act2-back.png,     shop-items,   d2e,    manor of ravens,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act2-back,   xxxxx,    0
+mr-winged-blade.png,             shop-items,   d2e,    manor of ravens,        act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   winged blade,           xxxxx,    8
+mb-battle-tome.png,              shop-items,   d2e,    mists of bilehall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   battle tome,            xxxxx,    8
+mb-bloodscript-ring.png,         shop-items,   d2e,    mists of bilehall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bloodscript ring,       xxxxx,    8
+mb-corpsebug-brooch.png,         shop-items,   d2e,    mists of bilehall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   corpsebug brooch,       xxxxx,    8
+mb-marsh-cloak.png,              shop-items,   d2e,    mists of bilehall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   marsh cloak,            xxxxx,    8
+mb-mistbane.png,                 shop-items,   d2e,    mists of bilehall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   mistbane,               xxxxx,    8
+mb-shop-items-act1-back.png,     shop-items,   d2e,    mists of bilehall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act1-back,   xxxxx,    0
+mb-soulbound-sword.png,          shop-items,   d2e,    mists of bilehall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   soulbound sword,        xxxxx,    8
+mb-soulstone.png,                shop-items,   d2e,    mists of bilehall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   soulstone,              xxxxx,    8
+mb-witch-hazel-bow.png,          shop-items,   d2e,    mists of bilehall,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   witch hazel bow,        xxxxx,    8
+sotp-bag-of-tricks.png,          shop-items,   sotp,   sands of the past,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bag of tricks,          xxxxx,    8
+sotp-crystal-of-mirages.png,     shop-items,   sotp,   sands of the past,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   crystal of mirages,     xxxxx,    8
+sotp-golden-orb-mace.png,        shop-items,   sotp,   sands of the past,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   golden orb mace,        xxxxx,    8
+sotp-piercing-arrows.png,        shop-items,   sotp,   sands of the past,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   piercing arrows,        xxxxx,    8
+sotp-scar-pit-greaves.png,       shop-items,   sotp,   sands of the past,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   scar pit greaves,       xxxxx,    8
+sotp-shop-items-act1-back.png,   shop-items,   sotp,   sands of the past,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act1-back,   xxxxx,    0
+sotp-sun-blessed-rune.png,       shop-items,   sotp,   sands of the past,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sun-blessed rune,       xxxxx,    8
+sotp-sunspear.png,               shop-items,   sotp,   sands of the past,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sunspear,               xxxxx,    8
+sotp-viziers-garment.png,        shop-items,   sotp,   sands of the past,      act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   vizier's garment,       xxxxx,    8
+sotp-chain-sickle.png,           shop-items,   sotp,   sands of the past,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   chain-sickle,           xxxxx,    8
+sotp-eye-of-the-night.png,       shop-items,   sotp,   sands of the past,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   eye of the night,       xxxxx,    8
+sotp-ibis-bow.png,               shop-items,   sotp,   sands of the past,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ibis bow,               xxxxx,    8
+sotp-lost-caliphs-crook.png,     shop-items,   sotp,   sands of the past,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   lost caliph's crook,    xxxxx,    8
+sotp-scarab-amulet.png,          shop-items,   sotp,   sands of the past,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   scarab amulet,          xxxxx,    8
+sotp-shimmering-shield.png,      shop-items,   sotp,   sands of the past,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shimmering shield,      xxxxx,    8
+sotp-shop-items-act2-back.png,   shop-items,   sotp,   sands of the past,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act2-back,   xxxxx,    0
+sotp-starmetal-khopesh.png,      shop-items,   sotp,   sands of the past,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   starmetal khopesh,      xxxxx,    8
+sotp-star-of-atar.png,           shop-items,   sotp,   sands of the past,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   star of atar,           xxxxx,    8
+sotp-sunlight-ward.png,          shop-items,   sotp,   sands of the past,      act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sunlight ward,          xxxxx,    8
+sn-archaic-scroll.png,           shop-items,   d2e,    shadow of nerekhall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   archaic scroll,         xxxxx,    8
+sn-barons-cloak.png,             shop-items,   d2e,    shadow of nerekhall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   baron's cloak,          xxxxx,    8
+sn-bloody-dagger.png,            shop-items,   d2e,    shadow of nerekhall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bloody dagger,          xxxxx,    8
+sn-bone-blade.png,               shop-items,   d2e,    shadow of nerekhall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bone blade,             xxxxx,    8
+sn-boots-of-iron.png,            shop-items,   d2e,    shadow of nerekhall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   boots of iron,          xxxxx,    8
+sn-city-guards-bow.png,          shop-items,   d2e,    shadow of nerekhall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   city guard's bow,       xxxxx,    8
+sn-cloak-of-mists.png,           shop-items,   d2e,    shadow of nerekhall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   cloak of mists,         xxxxx,    8
+sn-incendiary-arrows.png,        shop-items,   d2e,    shadow of nerekhall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   incendiary arrows,      xxxxx,    8
+sn-ironbound-rune.png,           shop-items,   d2e,    shadow of nerekhall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ironbound rune,         xxxxx,    8
+sn-jeweled-mace.png,             shop-items,   d2e,    shadow of nerekhall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   jeweled mace,           xxxxx,    8
+sn-phoenix-pendant.png,          shop-items,   d2e,    shadow of nerekhall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   phoenix pendant,        xxxxx,    8
+sn-shop-items-act1-back.png,     shop-items,   d2e,    shadow of nerekhall,    act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act1-back,   xxxxx,    0
+sn-golden-mask.png,              shop-items,   d2e,    shadow of nerekhall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   golden mask,            xxxxx,    8
+sn-ironbound-glaive.png,         shop-items,   d2e,    shadow of nerekhall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ironbound glaive,       xxxxx,    8
+sn-ironbound-shield.png,         shop-items,   d2e,    shadow of nerekhall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ironbound shield,       xxxxx,    8
+sn-nerekhall-plate.png,          shop-items,   d2e,    shadow of nerekhall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   nerekhall plate,        xxxxx,    8
+sn-rat-tooth-dagger.png,         shop-items,   d2e,    shadow of nerekhall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   rat-tooth dagger,       xxxxx,    8
+sn-repeating-crossbow.png,       shop-items,   d2e,    shadow of nerekhall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   repeating crossbow,     xxxxx,    8
+sn-rune-of-blades.png,           shop-items,   d2e,    shadow of nerekhall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   rune of blades,         xxxxx,    8
+sn-shadow-tome.png,              shop-items,   d2e,    shadow of nerekhall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shadow tome,            xxxxx,    8
+sn-shop-items-act2-back.png,     shop-items,   d2e,    shadow of nerekhall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act2-back,   xxxxx,    0
+sn-star-of-kellos.png,           shop-items,   d2e,    shadow of nerekhall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   star of kellos,         xxxxx,    8
+sn-vestments-of-kellos.png,      shop-items,   d2e,    shadow of nerekhall,    act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   vestments of kellos,    xxxxx,    8
+cr-blessed-armor.png,            shop-items,   d2e,    the chains that rust,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blessed armor,          xxxxx,    8
+cr-bloodthirsty-bracers.png,     shop-items,   d2e,    the chains that rust,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bloodthirsty bracers,   xxxxx,    8
+cr-bone-wand.png,                shop-items,   d2e,    the chains that rust,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bone wand,              xxxxx,    8
+cr-fists-of-iron.png,            shop-items,   d2e,    the chains that rust,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fists of iron,          xxxxx,    8
+cr-horned-shield.png,            shop-items,   d2e,    the chains that rust,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   horned shield,          xxxxx,    8
+cr-lightning-javelin.png,        shop-items,   d2e,    the chains that rust,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   lightning javelin,      xxxxx,    8
+cr-mask-of-horrors.png,          shop-items,   d2e,    the chains that rust,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   mask of horrors,        xxxxx,    8
+cr-rune-touched-leather.png,     shop-items,   d2e,    the chains that rust,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   rune-touched leather,   xxxxx,    8
+cr-sash-of-the-slayer.png,       shop-items,   d2e,    the chains that rust,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   sash of the slayer,     xxxxx,    8
+cr-shop-items-act2-back.png,     shop-items,   d2e,    the chains that rust,   act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act2-back,   xxxxx,    0
+tf-belt-of-alchemy.png,          shop-items,   d2e,    the trollfens,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   belt of alchemy,        xxxxx,    8
+tf-belt-of-waterwalking.png,     shop-items,   d2e,    the trollfens,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   belt of waterwalking,   xxxxx,    8
+tf-deflecting-shield.png,        shop-items,   d2e,    the trollfens,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   deflecting shield,      xxxxx,    8
+tf-dire-flail.png,               shop-items,   d2e,    the trollfens,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dire flail,             xxxxx,    8
+tf-guardian-axe.png,             shop-items,   d2e,    the trollfens,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   guardian axe,           xxxxx,    8
+tf-lifedrain-scepter.png,        shop-items,   d2e,    the trollfens,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   lifedrain scepter,      xxxxx,    8
+tf-mapstone.png,                 shop-items,   d2e,    the trollfens,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   mapstone,               xxxxx,    8
+tf-shop-items-act1-back.png,     shop-items,   d2e,    the trollfens,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act1-back,   xxxxx,    0
+tf-trident.png,                  shop-items,   d2e,    the trollfens,          act1,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   trident,                xxxxx,    8
+tf-belt-of-strength.png,         shop-items,   d2e,    the trollfens,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   belt of strength,       xxxxx,    8
+tf-blasting-rune.png,            shop-items,   d2e,    the trollfens,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blasting rune,          xxxxx,    8
+tf-boomerang.png,                shop-items,   d2e,    the trollfens,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   boomerang,              xxxxx,    8
+tf-glaive.png,                   shop-items,   d2e,    the trollfens,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   glaive,                 xxxxx,    8
+tf-shop-items-act2-back.png,     shop-items,   d2e,    the trollfens,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shop-items-act2-back,   xxxxx,    0
+tf-stone-armor.png,              shop-items,   d2e,    the trollfens,          act2,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   stone armor,            xxxxx,    8

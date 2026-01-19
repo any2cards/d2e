@@ -1,0 +1,359 @@
+sotp-acolyte-of-saradyn-front.png
+BEGIN
+    "assetno": "5A",
+END
+
+sotp-acolyte-of-saradyn-back.png
+BEGIN
+    "assetno": "5B",
+END
+
+sotp-archive-of-arrizon-front.png
+BEGIN
+    "assetno": "12A",
+END
+
+sotp-archive-of-arrizon-back.png
+BEGIN
+    "assetno": "12B",
+END
+
+sotp-army-of-dalzunm-front.png
+BEGIN
+    "assetno": "20A",
+END
+
+sotp-army-of-dalzunm-back.png
+BEGIN
+    "assetno": "20B",
+END
+
+sotp-blood-and-betrayal-front.png
+BEGIN
+    "assetno": "33A",
+END
+
+sotp-blood-and-betrayal-back.png
+BEGIN
+    "assetno": "33B",
+END
+
+sotp-blood-will-tell-front.png
+BEGIN
+    "assetno": "9A",
+END
+
+sotp-blood-will-tell-back.png
+BEGIN
+    "assetno": "9B",
+END
+
+sotp-caladens-crossing-front.png
+BEGIN
+    "assetno": "16A",
+END
+
+sotp-caladens-crossing-back.png
+BEGIN
+    "assetno": "16B",
+END
+
+sotp-dead-or-drowning-front.png
+BEGIN
+    "assetno": "25A",
+END
+
+sotp-dead-or-drowning-back.png
+BEGIN
+    "assetno": "25B",
+END
+
+sotp-edge-of-dawn-front.png
+BEGIN
+    "assetno": "27A",
+END
+
+sotp-edge-of-dawn-back.png
+BEGIN
+    "assetno": "27B",
+END
+
+sotp-from-the-wreckage-front.png
+BEGIN
+    "assetno": "18A",
+END
+
+sotp-from-the-wreckage-back.png
+BEGIN
+    "assetno": "18B",
+END
+
+sotp-halls-of-toil-front.png
+BEGIN
+    "assetno": "2A",
+END
+
+sotp-halls-of-toil-back.png
+BEGIN
+    "assetno": "2B",
+END
+
+sotp-lord-of-flame-front.png
+BEGIN
+    "assetno": "23A",
+END
+
+sotp-lord-of-flame-back.png
+BEGIN
+    "assetno": "23B",
+END
+
+sotp-piercing-darkness-front.png
+BEGIN
+    "assetno": "31A",
+END
+
+sotp-piercing-darkness-back.png
+BEGIN
+    "assetno": "31B",
+END
+
+sotp-prison-of-khinn-front.png
+BEGIN
+    "assetno": "21A",
+END
+
+sotp-prison-of-khinn-back.png
+BEGIN
+    "assetno": "21B",
+END
+
+sotp-rellegars-rest-front.png
+BEGIN
+    "assetno": "6A",
+END
+
+sotp-rellegars-rest-back.png
+BEGIN
+    "assetno": "6B",
+END
+
+sotp-rise-of-urthko-front.png
+BEGIN
+    "assetno": "14A",
+END
+
+sotp-rise-of-urthko-back.png
+BEGIN
+    "assetno": "14B",
+END
+
+sotp-rite-of-the-red-dawn-front.png
+BEGIN
+    "assetno": "26A",
+END
+
+sotp-rite-of-the-red-dawn-back.png
+BEGIN
+    "assetno": "26B",
+END
+
+sotp-saradyn-in-flames-front.png
+BEGIN
+    "assetno": "19A",
+END
+
+sotp-saradyn-in-flames-back.png
+BEGIN
+    "assetno": "19B",
+END
+
+sotp-shadowfall-mountain-front.png
+BEGIN
+    "assetno": "29A",
+END
+
+sotp-shadowfall-mountain-back.png
+BEGIN
+    "assetno": "29B",
+END
+
+sotp-siege-of-skytower-front.png
+BEGIN
+    "assetno": "8A",
+END
+
+sotp-siege-of-skytower-back.png
+BEGIN
+    "assetno": "8B",
+END
+
+sotp-the-baron-returns-front.png
+BEGIN
+    "assetno": "10A",
+END
+
+sotp-the-baron-returns-back.png
+BEGIN
+    "assetno": "10B",
+END
+
+sotp-the-sunken-temple-front.png
+BEGIN
+    "assetno": "4A",
+END
+
+sotp-the-sunken-temple-back.png
+BEGIN
+    "assetno": "4B",
+END
+
+sotp-the-unearthed-tomb-front.png
+BEGIN
+    "assetno": "1A",
+END
+
+sotp-the-unearthed-tomb-back.png
+BEGIN
+    "assetno": "1B",
+END
+
+sotp-valley-of-the-dead-front.png
+BEGIN
+    "assetno": "3A",
+END
+
+sotp-valley-of-the-dead-back.png
+BEGIN
+    "assetno": "3B",
+END
+
+sotp-archive-of-arrizon-front.png
+BEGIN
+    "assetno": "13A",
+END
+
+sotp-archive-of-arrizon-back.png
+BEGIN
+    "assetno": "13B",
+END
+
+sotp-caladens-crossing-front.png
+BEGIN
+    "assetno": "17A",
+END
+
+sotp-caladens-crossing-back.png
+BEGIN
+    "assetno": "17B",
+END
+
+sotp-edge-of-dawn-front.png
+BEGIN
+    "assetno": "28A",
+END
+
+sotp-edge-of-dawn-back.png
+BEGIN
+    "assetno": "28B",
+END
+
+sotp-lord-of-flame-front.png
+BEGIN
+    "assetno": "24A",
+END
+
+sotp-lord-of-flame-back.png
+BEGIN
+    "assetno": "24B",
+END
+
+sotp-piercing-darkness-front.png
+BEGIN
+    "assetno": "32A",
+END
+
+sotp-piercing-darkness-back.png
+BEGIN
+    "assetno": "32B",
+END
+
+sotp-prison-of-khinn-front.png
+BEGIN
+    "assetno": "22A",
+END
+
+sotp-prison-of-khinn-back.png
+BEGIN
+    "assetno": "22B",
+END
+
+sotp-rellegars-rest-front.png
+BEGIN
+    "assetno": "7A",
+END
+
+sotp-rellegars-rest-back.png
+BEGIN
+    "assetno": "7B",
+END
+
+sotp-rise-of-urthko-front.png
+BEGIN
+    "assetno": "15A",
+END
+
+sotp-rise-of-urthko-back.png
+BEGIN
+    "assetno": "15B",
+END
+
+sotp-shadowfall-mountain-front.png
+BEGIN
+    "assetno": "30A",
+END
+
+sotp-shadowfall-mountain-back.png
+BEGIN
+    "assetno": "30B",
+END
+
+sotp-the-baron-returns-front.png
+BEGIN
+    "assetno": "11A",
+END
+
+sotp-the-baron-returns-back.png
+BEGIN
+    "assetno": "11B",
+END
+
+sotp-blood-and-betrayal-front.png
+BEGIN
+    "assetno": "34A",
+END
+
+sotp-blood-and-betrayal-back.png
+BEGIN
+    "assetno": "34B",
+END
+
+sotp-blood-and-betrayal-front.png
+BEGIN
+    "assetno": "35A",
+END
+
+sotp-blood-and-betrayal-back.png
+BEGIN
+    "assetno": "35B",
+END
+
+sotp-blood-and-betrayal-front.png
+BEGIN
+    "assetno": "36A",
+END
+
+sotp-blood-and-betrayal-back.png
+BEGIN
+    "assetno": "36B",
+END

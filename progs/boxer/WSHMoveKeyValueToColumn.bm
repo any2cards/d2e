@@ -1,0 +1,80 @@
+// WSHWSHMoveKeyValueToColumn: Move a Key Value to a Specific Column
+
+macro WSHMoveKeyValueToColumn(void)
+{
+	int colvalue, comma, end, i, j, k, start;
+	
+	string keyvalue, linevalue;
+
+	GetString("Enter Key Value: ",keyvalue,"ZZ");
+	strlwr(keyvalue);
+	
+	GotoLine(1);
+	start=LineNumber;
+	EndOfFile;
+	end=LineNumber;
+	
+	GotoLine(start);
+	StartOfLine;
+	
+	for (i = start; i < end; i++)
+	{
+		if (LineContains(i,",") > 0)
+		{
+			GotoLine(i);
+			StartOfLine;
+			GetLineText(i,linevalue);
+			
+			j=strstr(linevalue,",");
+			if (j > comma)
+			{
+				comma=j;
+			}
+		}
+	}
+	
+	colvalue=comma+4;
+
+	for (i = start; i < end; i++)
+	{
+		if (LineContains(i,keyvalue) > 0)
+		{
+			GotoLine(i);
+			StartOfLine;
+			GetLineText(i,linevalue);
+			
+			j=strstr(linevalue,keyvalue);
+			if (j < colvalue)
+			{
+				Right(j);
+				for (k = j; k < colvalue; k++)
+				{
+					printf("%s"," ");
+				}
+			}
+		}
+	}
+	
+	Gotoline(1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

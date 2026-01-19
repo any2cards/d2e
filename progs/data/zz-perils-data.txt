@@ -1,0 +1,827 @@
+de-pc-1-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "1/10",
+    "flavor": "Your body spasms and your eyes spring open; you fell asleep on your feet. Your blood flows like ice through your veins, and you struggle to recall how you got here. The harder you try to remember, the more you are convinced that everything up until now was a dream and the battle has only just started.",
+    "effects": "If each hero is in a lit space, move fate backward by 1. Then, advance doom by 1.",
+    "no monsters flavor": null,
+    "no monsters effects": null,
+    "monsters flavor": null,
+    "monsters effects": null,
+END
+
+de-pc-2-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "2/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "Unseen foes glide overhead, spewing dark flames upon you.",
+    "no monsters effects": "Each hero suffers 1 Heart and 1 Fatigue. Each hero in darkness suffers an additional 2 Hearts and 2 Fatigue.",
+    "monsters flavor": "The shadows of your foes bear unseen weapons; they strike with attacks you cannot block.",
+    "monsters effects": "Each hero within 3 spaces of a monster suffers 2 Hearts. Each hero within 3 spaces of a monster and in darkness is also Stunned.",
+END
+
+de-pc-3-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "3/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "From the moment you picked up the torch, a silent voice was asking for your every secret. Despite your best efforts, you answer each inquiry with complete honesty.",
+    "no monsters effects": "The heroes must collectively gain a number of conditions equal to the torchbearer’s Knowledge, choosing from Burning and Stunned.",
+    "monsters flavor": "The same chaotic riddle repeats in your mind, though each time it is asked, you must give a different answer.",
+    "monsters effects": "Each hero in darkness tests Knowledge or places 1 fire imp adjacent to his figure, respecting group limits. Each hero who fails suffers Hearts and Fatigue equal to his Knowledge.",
+END
+
+de-pc-4-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "4/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "Searing heat radiates from your body, igniting everything nearby.",
+    "no monsters effects": "Each hero adjacent to another hero suffers 2 Hearts. Each hero in darkness that is not adjacent to another hero places 1 fire imp adjacent to his figure, respecting group limits.",
+    "monsters flavor": "Your enemies are swaddled in shadow, which heals their wounds and purges their weaknesses.",
+    "monsters effects": "Each monster in darkness recovers 4 Hearts and discards each of its conditions.",
+END
+
+de-pc-5-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "5/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "You hold the torch high and call out words you neither know nor understand.",
+    "no monsters effects": "Each hero with a Willpower lower than the torchbearer’s Willpower suffers Hearts equal to the difference between their Willpower and the torchbearer’s Willpower. Then, the torchbearer gives the torch to another hero.",
+    "monsters flavor": "You find perfect peace in the dance of the flame and struggle to stay conscious.",
+    "monsters effects": "The torchbearer tests Willpower. If he fails or there is no torchbearer, each hero in the light suffers 4 Hearts. Then, if there is a torchbearer, he gives the torch to another hero.",
+END
+
+de-pc-6-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "6/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "The light from the torch pierces the darkness and reveals all; you realize the horrid potential and twisted past of every tooth, claw, and blade you see.",
+    "no monsters effects": "Each hero suffers Fatigue equal to his Awareness.",
+    "monsters flavor": "The darkness thickens and stings like poison in your lungs. You turn and stumble toward the light.",
+    "monsters effects": "Each hero in darkness tests Awareness. Each hero who passes may move 1 space toward the closest lit space. Then, each hero in darkness is Poisoned and Stunned.",
+END
+
+de-pc-7-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "7/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "You see a vision of the torch exploding, burning your friends alive. You shove them away with all your might.",
+    "no monsters effects": "Each hero adjacent to the torchbearer moves a number of spaces away from the torchbearer equal to the torchbearer’s Might and then suffers 1 Heart.",
+    "monsters flavor": "Tendrils of shadow entangle the torch, pulling the flame downward to darkness.",
+    "monsters effects": "The torchbearer tests Might. If he fails or there is no torchbearer, each hero suffers Hearts equal to the number of monsters within 3 spaces of their figure. Then, if there is a torchbearer, he gives the torch to another hero.",
+END
+
+de-pc-8-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "8/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "For a moment, darkness is as light and light as darkness. Then...",
+    "no monsters effects": "Each hero other than the torchbearer moves one space away from the torchbearer. You may shuffle the top card of the Peril discard pile back into the Peril deck. Then, resolve 1 additional Peril card.",
+    "monsters flavor": "Your foes’ every strike and maneuver is calculated and exact; they work as one to remove the torch from your possession.",
+    "monsters effects": "If there is no torchbearer, advance doom by 1.",
+END
+
+de-pc-9-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "9/10",
+    "flavor": "Your torch flickers and nearly goes out. Try as you may, you cannot rekindled its previous vibrancy.",
+    "effects": "When counting spaces from the torch or torchbearer, only spaces within 1 space are lit. As an action, while adjacent to a lava space, the torchbearer may discard this card. Each time the torchbearer suffers Hearts, he may test Awareness or Knowledge. If he passes, discard this card. This card remains active until it is discarded.",
+    "no monsters flavor": null,
+    "no monsters effects": null,
+    "monsters flavor": null,
+    "monsters effects": null,
+END
+
+de-pc-10-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "10/10",
+    "flavor": "You reach out and embrace the flames, vaguely recalling a phrase about playing with fire.",
+    "effects": "During his turn, a hero in a lit space may become Burning. Heroes do not suffer damage from the Burning condition. If a hero is Burning, the space containing his figure is a lit space, each of his attacks deals +1 Heart, and he recovers 1 Heart at the start of each of his turns. If doom is advanced, each hero that is burning suffers 8 Hearts. Then, discard this card. This card remains active until it is discarded.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+de-pc-back.png
+BEGIN
+    "type": "peril",
+    "assetno": null,
+    "flavor": null,
+    "effects": null,
+    "no monsters flavor": null,
+    "no monsters effects": null,
+    "monsters flavor": null,
+    "monsters effects": null,
+END
+
+fs-pc-1-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "1/10",
+    "flavor": "You turn a corner and see the massive Tharn disappear into the distance. You push forward, but the dungeon’s halls are endless. It’s becoming harder and harder to breathe within the stone walls. Your fate may already be sealed...",
+    "effects": "Advance doom by 1.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+fs-pc-2-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "2/10",
+    "flavor": "Unseen forces latch their arms around your bodies, weighing upon your very souls.",
+    "effects": "Each hero reduces all of his attribute values of 4 or higher to 3. Each time a hero fails an attribute test, place 1 fatigue token on this card. When this card has a number of fatigue tokens on it equal to the number of heroes, discard this card. This card remains active until it is discarded.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+fs-pc-3-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "3/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "A well-placed trap lining the door triggers with a swift ferocity.",
+    "no monsters effects": "Each hero in a space on or adjacent to an entrance or exit suffers 1 Heart and 2 Fatigue.",
+    "monsters flavor": "The dungeon is thrust into pure darkness, allowing the spirits to move unseen.",
+    "monsters effects": "Each hero not adjacent to another hero suffers 2 Hearts and 2 Fatigue.",
+END
+
+fs-pc-4-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "4/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "Zombies scrape at the door with their brittle nails, sending a chill that runs through your whole body.",
+    "no monsters effects": "Roll 1 gray die. For each Shield result, place 1 zombie on the exit of the current encounter. If the current encounter has no exit, place them on the entrance.",
+    "monsters flavor": "Fighting is difficult work, but this skirmish is particularly rough.",
+    "monsters effects": "Each hero witin 2 spaces of a monster suffers 3 Fatigue.",
+END
+
+fs-pc-5-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "5/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "A jagged rock blocks the path. The strongest can move it, but not without consequence.",
+    "no monsters effects": "Each hero tests Might. Each hero who passes suffers 3 Hearts.",
+    "monsters flavor": "The effects of the last zombie assault have not faded.",
+    "monsters effects": "Each hero within 3 spaces of a zombie is Stunned. If there are no zombies on the map, each hero suffers 3 Hearts.",
+END
+
+fs-pc-6-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "6/10",
+    "flavor": null,
+    "effects": null,
+    "no monsters flavor": "Fleshless hands emerge from the ground, pulling undead bodies from the earth.",
+    "no monsters effects": "Roll 1 gray defense die. For each Shield result, place 1 zombie in an empty space adjacent to the hero with the highest Knowledge, respecting group limits.",
+    "monsters flavor": "Dead hounds leap from the cracks and crevices of hollow walls.",
+    "monsters effects": "Each hero tests Awareness. Place 1 barghest 10 spaces (or as close to 10 as possible) away from each hero who fails, respecting group limits.",
+END
+
+fs-pc-7-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "7/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "Apparitions surround your party. Your senses dull and your mind becomes clouded. Then, without a sound, they are gone.",
+    "no monsters effects": "Each hero tests an attribute of his choice twice. Each hero who fails at least one test is Stunned.",
+    "monsters flavor": "From the shadows a master flesh moulder uses all of his energy to heal a damaged ally.",
+    "monsters effects": "Roll 2 red power dice. The monster that has the most damage tokens recovers Hearts equal to the amount of Hearts rolled.",
+END
+
+fs-pc-8-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "8/10",
+    "flavor": "The scratch of a monster lingers on your flesh. The throbbing pain shows no sign of dissipating; you must find a remedy.",
+    "effects": "The hero who has the most remaining Health places this card in his play area. This hero cannot recover Hearts through any means. If this hero performs 1 search action or is defeated, discard this card. This card remains active until it is discarded.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+fs-pc-9-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "9/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "A fireball rushes at your group! Who will bear the brunt of this attack?",
+    "no monsters effects": "Roll 2 red power dice. The heroes must collectively suffer Hearts equal to the amount of Hearts rolled. Damage may be unevenly distributed among heroes.",
+    "monsters flavor": "The monsters’ eyes glow red with anger; a powerful energy drives them to action.",
+    "monsters effects": "Draw 2 Activation cards instead of 1 during the next Monster Activation step of the Overlord phase and activate monsters once for each Activation card.",
+END
+
+fs-pc-10-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "10/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "The difficulty of your quest is weighing upon you. You must rest.",
+    "no monsters effects": "Each hero suffers 1 Fatigue. Then, each hero who has a number of fatigue tokens equal to his Stamina is Stunned.",
+    "monsters flavor": "The monsters grab and swing at every hero in sight, pulling them into their deadly grasp.",
+    "monsters effects": "If a hero is adjacent to a monster, he is Stunned. Then, each hero must move 2 spaces toward the closest monster.",
+END
+
+fs-pc-back.png
+BEGIN
+    "type": "peril",
+    "assetno": null,
+    "flavor": null,
+    "effects": null,
+    "no monsters flavor": null,
+    "no monsters effects": null,
+    "monsters flavor": null,
+    "monsters effects": null,
+END
+
+ni-pc-1-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "1/10",
+    "flavor": "The layer of trees in this deadly forest appear endless. You are running out of time to save the people of Blue Rock. For if you are caught in the woods at night, no amount of heroics will save you.",
+    "effects": "If each hero is withing 5 spaces of Desmond, move fate backward by 1. Then, advance doom by 1.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+ni-pc-2-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "2/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "Improper use of items found in the forest may render them useless. This is a case of brains over brawn.",
+    "no monsters effects": "Each hero tests Knowledge. Each hero who fails must discard 1 Search card. Each hero who fails and does not have a Search card is Stunned.",
+    "monsters flavor": "The trees begin to move, forcing an opening in the forest. The monsters use this path for their advance.",
+    "monsters effects": "Choose the monster group with the lowest Speed. Each monster in that group moves 2 spaces toward the closest hero.",
+END
+
+ni-pc-3-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "3/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "You stumble upon a goblin patrol: tackle them at once or prepare to fight.",
+    "no monsters effects": "Each hero chooses to either suffer 1 Heart and 3 Fatigue, or place 1 goblin archer in an empty space up to 3 spaces away from his hero figure, respecting group limits.",
+    "monsters flavor": "The wretched creature calls for aid and hairy spiders spill from hidden burrows.",
+    "monsters effects": "Target the monster with the most damage tokens. Each hero who has 5 or less damage tokens on his Hero sheet places 1 cave spider adjacent to the target monster, respecting group limits.",
+END
+
+ni-pc-4-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "4/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "Thin legs reach around branches of the many tress. Spiders!",
+    "no monsters effects": "Each hero tests his highest attribute. Each hero who fails suffers 3 Hearts and is Poisoned.",
+    "monsters flavor": "As if commanded by nature herself, each monster lashes out with a uniform rage.",
+    "monsters effects": "Each hero within 2 spaces of 2 or more monsters suffers 2 Hearts and 2 Fatigue. If no hero suffered Hearts, each hero moves 2 spaces toward the closest monster and suffers 2 Hearts.",
+END
+
+ni-pc-5-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "5/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "All but one hero is caught in a dense sand, encasing their boots.",
+    "no monsters effects": "One hero tests Awareness or Might. If he fails, each hero is Stunned.",
+    "monsters flavor": "The monsters will grow stronger if you do not challenge them; victory is not achieved by the observer, but by the aggressor.",
+    "monsters effects": "Each hero who is not within 5 spaces of at least 1 monster tests Willpower. Each hero who fails is Immobilized. If no heroes test Willpower, each hero suffers 2 Fatigue.",
+END
+
+ni-pc-6-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "6/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "Stand together! Beware the darkness!",
+    "no monsters effects": "Each hero suffers Fatigue equal to the number of movement points that would be required to move into a space adjacent to the closest hero. If a hero’s path would be blocked or he otherwise could not move adjacent to the closest hero, he is Stunned.",
+    "monsters flavor": "Nature must maintain the balance.",
+    "monsters effects": "If there are more heroes on the map than monsters, each hero suffers 3 Fatigue. If there are more monsters on the map than heroes, each monster recovers 2 Hearts and each hero suffers 1 Fatigue.",
+END
+
+ni-pc-7-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "7/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "Spiders scurry overhead, trying to avoid your attacks.",
+    "no monsters effects": "Each hero tests Awareness. Each hero who fails places 1 cave spider on the exit of the current encounter, respecting group limits.",
+    "monsters flavor": "The earth saps your strength and feeds that of the monsters.",
+    "monsters effects": "Each hero tests Willpower. The monster that has the most damage tokens recovers 2 Hearts for each hero who failed. If no monster recovers Hearts, each hero who failed is Stunned.",
+END
+
+ni-pc-8-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "8/10",
+    "flavor": "xxxxx",
+    "effects": "xxxxx",
+    "no monsters flavor": "A giant flower blooms in an eruption of color. Its fragrance is sweet and draws you closer.",
+    "no monsters effects": "Each hero tests Willpower. Each hero who fails is Poisoned.",
+    "monsters flavor": "With its last breath, the beast lashes out.",
+    "monsters effects": "During the next Monster Activation step of the Overlord phase, the monster that has the most damage tokens gains 2 additional attack actions.",
+END
+
+ni-pc-9-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "9/10",
+    "flavor": "From the trees, from the rocks, spiders!",
+    "effects": "Each time a hero fails an attribute test, place a minion cave spider adjacent to that hero, respecting group limits. Then, place 1 fatigue token on this card. If a minion cave spider cannot be placed, remove 1 fatigue token from this card instead of placing 1 fatigue token. When this card has a number of fatigue tokens on it equal to the number of heroes, discard it. This card remains active until it is discarded.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+ni-pc-10-of-10.png
+BEGIN
+    "type": "peril",
+    "assetno": "10/10",
+    "flavor": "Roots thrust through the dense dirt of the forest floor, grabbing your legs and pulling you toward the enemy.",
+    "effects": "The hero furthest from the exit of the current encounter places this card in his play area. Each time this hero spends movement points, they must be spent to move toward the closest master monster. If this hero defeats a master monster or is defeated, discard this card. This card remains active until it is discarded.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+ni-pc-back.png
+BEGIN
+    "type": "peril",
+    "assetno": null,
+    "flavor": null,
+    "effects": null,
+    "no monsters flavor": null,
+    "no monsters effects": null,
+    "monsters flavor": null,
+    "monsters effects": null,
+END
+
+sotp-deadly-peril-back.png
+BEGIN
+    "type": "peril",
+    "assetno": null,
+    "flavor": null,
+    "effects": null,
+    "no monsters flavor": null,
+    "no monsters effects": null,
+    "monsters flavor": null,
+    "monsters effects": null,
+END
+
+sotp-defeat.png
+BEGIN
+    "type": "deadly peril",
+    "assetno": "31",
+    "flavor": "Bodies battered, souls troubled by what you have seen and what you have done, you must retreat to regain some of your strength.",
+    "effects": "The heroes immediately lose the quest.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-assassin-squad.png
+BEGIN
+    "type": "major peril",
+    "assetno": "30",
+    "flavor": "There is a flash, a bang, and quite a bit of smoke; goblin archers appear from every direction, clad in black and eager for blood.",
+    "effects": "Place goblin archers up to the group limit adjacent to the hero with the lowest Awareness.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-blood-for-blood.png
+BEGIN
+    "type": "major peril",
+    "assetno": "25",
+    "flavor": "An elderly figure watches from the darkness, flitting from shadow to shadow. Now and then, just as you forget he is there, he screams out: \"Blood for blood, blood for blood!\"",
+    "effects": "Each monster recovers 3 Hearts. Then the heroes collectively suffer an amount of Hearts equal to the total Hearts recovered.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-blood-rage.png
+BEGIN
+    "type": "major peril",
+    "assetno": "19",
+    "flavor": "Your foes have worked themselves into a frenzy, the likes of which you have never seen before.",
+    "effects": "Each monster performs an attack that targets the hero with the most Health remaining.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-claimed-by-the-fire.png
+BEGIN
+    "type": "major peril",
+    "assetno": "26",
+    "flavor": "Green fire engulfs one of your prized possessions! The object is not consumed, only warded from your use. Ignoring the flame will be painful...",
+    "effects": "Each hero must either unequip 1 Item card and flip it facedown or suffer 5 Hearts. Encounter Effect: Cards flipped facedown cannot be equipped.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-divide-and-conquer.png
+BEGIN
+    "type": "major peril",
+    "assetno": "20",
+    "flavor": "A clever tactician leads your foes. Their movement and attacks seek to divide you.",
+    "effects": "Each hero not adjacent to another hero suffers 2 Hearts.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-frozen-in-fear.png
+BEGIN
+    "type": "major peril",
+    "assetno": "23",
+    "flavor": "Dread overcomes your body as the bridles of your self-control are snatched away from your mind.",
+    "effects": "Round Effect: Heroes can perform only 1 action per turn.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-major-peril-back.png
+BEGIN
+    "type": "major peril",
+    "assetno": null,
+    "flavor": null,
+    "effects": null,
+    "no monsters flavor": null,
+    "no monsters effects": null,
+    "monsters flavor": null,
+    "monsters effects": null,
+END
+
+sotp-natures-wrath.png
+BEGIN
+    "type": "major peril",
+    "assetno": "21",
+    "flavor": "You're not sure how, but you've crossed some line; you've angered nature, and its guardians are here to teach you a lesson.",
+    "effects": "Place the elemental group adjacent to the hero with the highest Knowledge.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-shadow-binder.png
+BEGIN
+    "type": "major peril",
+    "assetno": "22",
+    "flavor": "Before you can stop her, a shadow binder tears open a rift out of the shadows. Darkness and flame materialize into a shadow dragon.",
+    "effects": "Place 1 shadow dragon adjacent to the hero with the lowest Willpower. Place 1 flesh moulder adjacent to the shadow dragon.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-shadowborn-summoning.png
+BEGIN
+    "type": "major peril",
+    "assetno": "28",
+    "flavor": "In an instant, your world melts into shadows, the ages pass before you, and you are spewed back out into the light, standing in a different place than you started.",
+    "effects": "Place the hero with the highest Might in the farthest empty space within 6 spaces from any other hero. Place zombies up to the group limit as close as possible to the hero.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-shattered-defense.png
+BEGIN
+    "type": "major peril",
+    "assetno": "24",
+    "flavor": "By some mixture of normal wear and a well-timed curse, your armor fails you all at once.",
+    "effects": "Each hero must unequip and flip facedown every Heavy Armor, Light Armor, Cloak, and Shield. Encounter Effect: Cards flipped facedown cannot be equipped.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-tendrils-of-darkness.png
+BEGIN
+    "type": "major peril",
+    "assetno": "27",
+    "flavor": "The world grows dark. Black, incorporeal tendrils slide effortlessly past your defenses and begin to deconstruct your flesh.",
+    "effects": "The heroes must collectively suffer an amount of Hearts equal to 3 times the number of heroes in the party.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-ynfernal-hound.png
+BEGIN
+    "type": " major peril",
+    "assetno": "29",
+    "flavor": "An invisible hound harasses you from a plane unseen, ripping at your flesh and soul.",
+    "effects": "The hero with the most Health remaining is attacked as if by an adjacent master barghest.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-10000-mouths-to-feed.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "8",
+    "flavor": "You feel a snap as you move, alerting the spiders of your presence. Their legs twitch as they descend upon you, eager to provide their offspring with a fresh meal.",
+    "effects": "Place 1 cave spider adjacent to each hero. The each hero tests Awareness. Each hero who fails is Poisoned. Each hero who passes may immediately perform 1 attack that targets a cave spider.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-accuracy.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "15",
+    "flavor": "Attacks of your enemies seem to be guided by an invisible force.",
+    "effects": "Round Effect: Each time a monster attacks, all X results are treated as blank results.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-bleeding-out.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "12",
+    "flavor": "Glancing down at your wounds, you worry that they may be more grievous than they feel.",
+    "effects": "Each hero tests Might and adds Shields to the results equal to the Hearts he has suffered. Each hero who fails is Bleeding.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-blood-link.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "16",
+    "flavor": "You curse under your breath as you realize that your foes are leeching on your healing powers.",
+    "effects": "Round Effect: When a hero recovers any amount of Hearts, all monsters within 3 spaces of that hero recover an equal amount of Hearts.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-blood-lust.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "17",
+    "flavor": "Attacks of your enemies hit with an unnatural might.",
+    "effects": "Round Effect: Attacks of all monsters gain: Surge: +2 Hearts",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-breath-of-the-manticore.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "6",
+    "flavor": "You feel the fumes before you see them, the acidic poison clambering through your veins with each painful beat of your heart.",
+    "effects": "Each hero who is Poisoned suffers 1 Heart. Then each hero is Poisoned.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-cull-the-weak.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "18",
+    "flavor": "Your enemies specifically target your weaker heroes.",
+    "effects": "Round Effect: Each time a hero with a condition suffers 1 or more Hearts, he suffers 1 additional Heart.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-dangerous-brawl.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "5",
+    "flavor": "Your foes surge forward with renewed strength.",
+    "effects": "Each hero suffers 1 Heart for each monster adjacent to him.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-deadheart-powder.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "7",
+    "flavor": "A gray haze fills the air around you, and you are unable to escape the cloud of Deadheart Powder before you must take a breath.",
+    "effects": "Each hero who is Diseased suffers 1 Heart. Then each hero is Diseased.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-distrust.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "3",
+    "flavor": "Fear and suspicion cloud your mind; can your companions truly be trusted?",
+    "effects": "Each hero other then the hero with the highest Willpower must move 2 spaces away from him.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-enter-the-darkness.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "11",
+    "flavor": "Something lurks in the shadows, just beyond your sight.",
+    "effects": "Each hero whose Willpower is less than the range to the closest other hero is Weakened.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-explosive-assault.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "4",
+    "flavor": "You see the energy building and have only a moment to stand between your friends and the imminent blast.",
+    "effects": "The heroes must collectively suffer 5 Hearts.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-minor-peril-back.png
+BEGIN
+    "type": " minor peril",
+    "assetno": null,
+    "flavor": null,
+    "effects": null,
+    "no monsters flavor": null,
+    "no monsters effects": null,
+    "monsters flavor": null,
+    "monsters effects": null,
+END
+
+sotp-pit-trap.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "14",
+    "flavor": "You step on a stone and it splits in half, revealing a deep hole. With a soft rumble, more pockets of earth open up all around, dotting your path with a field of treacherous pits.",
+    "effects": "Each hero within 3 spaces of the hero with the lowest Awareness must choose to either suffer 3 Fatigue (if he can) or test Awareness. Each hero who fails suffers 1 Heart and is Immobilized.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-rising-dead.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "9",
+    "flavor": "Hands and heads push up through the ground, reaching for you, trying to secure you in place.",
+    "effects": "Each hero tests Might. Each hero who fails place 1 zombie adjacent to his figure and then tests Awareness. Each hero who also fails the second test is Immobilized.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-the-chosen-one.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "13",
+    "flavor": "Written in red across a crumbling wall, a portent awaits you: \"You will die here.\"",
+    "effects": "A random hero is Doomed and Terrified.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-whispers-in-the-wind.png
+BEGIN
+    "type": " minor peril",
+    "assetno": "10",
+    "flavor": "A barely audible whisper tickles your ear, singeing the borders of your consciousness.",
+    "effects": "A random hero tests Knowledge. If he fails, place 1 master fire imp adjacent to the hero with the lowest Knowledge.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-dark-schemes.png
+BEGIN
+    "type": " quest peril",
+    "assetno": "2",
+    "flavor": "The shadows are deeper and seem to writhe and twist. You feel a dark presence settle over the area.",
+    "effects": "Roll and resolve a quest peril. Round Effect: See quest peril, if any. Encounter Effect: See quest peril, if any.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-quest-peril-back.png
+BEGIN
+    "type": " minor peril",
+    "assetno": null,
+    "flavor": null,
+    "effects": null,
+    "no monsters flavor": null,
+    "no monsters effects": null,
+    "monsters flavor": null,
+    "monsters effects": null,
+END
+
+sotp-and-so-it-begins.png
+BEGIN
+    "type": " start peril",
+    "assetno": "1",
+    "flavor": "When you arrive at your destination everything is calm. Maybe too calm. You have an ominous feeling that something is very wrong here.",
+    "effects": "No effect.",
+    "no monsters flavor": "xxxxx",
+    "no monsters effects": "xxxxx",
+    "monsters flavor": "xxxxx",
+    "monsters effects": "xxxxx",
+END
+
+sotp-start-peril-back.png
+BEGIN
+    "type": " start peril",
+    "assetno": null,
+    "flavor": null,
+    "effects": null,
+    "no monsters flavor": null,
+    "no monsters effects": null,
+    "monsters flavor": null,
+    "monsters effects": null,
+END

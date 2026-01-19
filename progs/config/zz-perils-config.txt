@@ -1,0 +1,70 @@
+# Image Name                        Asset Name   Game    Expansion            AST1      AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description                Asset #   Printflag
+de-pc-1-of-10.png,                  perils,      d2e,    dark elements,       xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de peril 1 of 10,          xxxxx,    8
+de-pc-2-of-10.png,                  perils,      d2e,    dark elements,       xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de peril 2 of 10,          xxxxx,    8
+de-pc-3-of-10.png,                  perils,      d2e,    dark elements,       xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de peril 3 of 10,          xxxxx,    8
+de-pc-4-of-10.png,                  perils,      d2e,    dark elements,       xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de peril 4 of 10,          xxxxx,    8
+de-pc-5-of-10.png,                  perils,      d2e,    dark elements,       xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de peril 5 of 10,          xxxxx,    8
+de-pc-6-of-10.png,                  perils,      d2e,    dark elements,       xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de peril 6 of 10,          xxxxx,    8
+de-pc-7-of-10.png,                  perils,      d2e,    dark elements,       xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de peril 7 of 10,          xxxxx,    8
+de-pc-8-of-10.png,                  perils,      d2e,    dark elements,       xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de peril 8 of 10,          xxxxx,    8
+de-pc-9-of-10.png,                  perils,      d2e,    dark elements,       xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de peril 9 of 10,          xxxxx,    8
+de-pc-10-of-10.png,                 perils,      d2e,    dark elements,       xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de peril 10 of 10,         xxxxx,    8
+de-pc-back.png,                     perils,      d2e,    dark elements,       xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   de-peril-back,             xxxxx,    8
+fs-pc-1-of-10.png,                  perils,      d2e,    forgotten souls,     xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs peril 1 of 10,          xxxxx,    8
+fs-pc-2-of-10.png,                  perils,      d2e,    forgotten souls,     xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs peril 2 of 10,          xxxxx,    8
+fs-pc-3-of-10.png,                  perils,      d2e,    forgotten souls,     xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs peril 3 of 10,          xxxxx,    8
+fs-pc-4-of-10.png,                  perils,      d2e,    forgotten souls,     xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs peril 4 of 10,          xxxxx,    8
+fs-pc-5-of-10.png,                  perils,      d2e,    forgotten souls,     xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs peril 5 of 10,          xxxxx,    8
+fs-pc-6-of-10.png,                  perils,      d2e,    forgotten souls,     xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs peril 6 of 10,          xxxxx,    8
+fs-pc-7-of-10.png,                  perils,      d2e,    forgotten souls,     xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs peril 7 of 10,          xxxxx,    8
+fs-pc-8-of-10.png,                  perils,      d2e,    forgotten souls,     xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs peril 8 of 10,          xxxxx,    8
+fs-pc-9-of-10.png,                  perils,      d2e,    forgotten souls,     xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs peril 9 of 10,          xxxxx,    8
+fs-pc-10-of-10.png,                 perils,      d2e,    forgotten souls,     xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs peril 10 of 10,         xxxxx,    8
+fs-pc-back.png,                     perils,      d2e,    forgotten souls,     xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fs-peril-back,             xxxxx,    8
+ni-pc-1-of-10.png,                  perils,      d2e,    nature's ire,        xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni peril 1 of 10,          xxxxx,    8
+ni-pc-2-of-10.png,                  perils,      d2e,    nature's ire,        xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni peril 2 of 10,          xxxxx,    8
+ni-pc-3-of-10.png,                  perils,      d2e,    nature's ire,        xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni peril 3 of 10,          xxxxx,    8
+ni-pc-4-of-10.png,                  perils,      d2e,    nature's ire,        xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni peril 4 of 10,          xxxxx,    8
+ni-pc-5-of-10.png,                  perils,      d2e,    nature's ire,        xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni peril 5 of 10,          xxxxx,    8
+ni-pc-6-of-10.png,                  perils,      d2e,    nature's ire,        xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni peril 6 of 10,          xxxxx,    8
+ni-pc-7-of-10.png,                  perils,      d2e,    nature's ire,        xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni peril 7 of 10,          xxxxx,    8
+ni-pc-8-of-10.png,                  perils,      d2e,    nature's ire,        xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni peril 8 of 10,          xxxxx,    8
+ni-pc-9-of-10.png,                  perils,      d2e,    nature's ire,        xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni peril 9 of 10,          xxxxx,    8
+ni-pc-10-of-10.png,                 perils,      d2e,    nature's ire,        xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni peril 10 of 10,         xxxxx,    8
+ni-pc-back.png,                     perils,      d2e,    nature's ire,        xxxxx,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ni-peril-back,             xxxxx,    8
+sotp-deadly-peril-back.png,         perils,      sotp,   sands of the past,   deadly,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   deadly-peril-back,         xxxxx,    8
+sotp-defeat.png,                    perils,      sotp,   sands of the past,   deadly,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   defeat,                    xxxxx,    8
+sotp-assassin-squad.png,            perils,      sotp,   sands of the past,   major,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   assassin squad,            xxxxx,    8
+sotp-blood-for-blood.png,           perils,      sotp,   sands of the past,   major,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blood for blood,           xxxxx,    8
+sotp-blood-rage.png,                perils,      sotp,   sands of the past,   major,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blood rage,                xxxxx,    8
+sotp-claimed-by-the-fire.png,       perils,      sotp,   sands of the past,   major,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   claimed by the fire,       xxxxx,    8
+sotp-divide-and-conquer.png,        perils,      sotp,   sands of the past,   major,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   divide and conquer,        xxxxx,    8
+sotp-frozen-in-fear.png,            perils,      sotp,   sands of the past,   major,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   frozen in fear,            xxxxx,    8
+sotp-major-peril-back.png,          perils,      sotp,   sands of the past,   major,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   major-peril-back,          xxxxx,    8
+sotp-natures-wrath.png,             perils,      sotp,   sands of the past,   major,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   nature's wrath,            xxxxx,    8
+sotp-shadow-binder.png,             perils,      sotp,   sands of the past,   major,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shadow binder,             xxxxx,    8
+sotp-shadowborn-summoning.png,      perils,      sotp,   sands of the past,   major,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shadowborn summoning,      xxxxx,    8
+sotp-shattered-defense.png,         perils,      sotp,   sands of the past,   major,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   shattered defense,         xxxxx,    8
+sotp-tendrils-of-darkness.png,      perils,      sotp,   sands of the past,   major,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   tendrils of darkness,      xxxxx,    8
+sotp-ynfernal-hound.png,            perils,      sotp,   sands of the past,   major,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   ynfernal hound,            xxxxx,    8
+sotp-10000-mouths-to-feed.png,      perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   10$000 mouths to feed,     xxxxx,    8
+sotp-accuracy.png,                  perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   accuracy,                  xxxxx,    8
+sotp-bleeding-out.png,              perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   bleeding out,              xxxxx,    8
+sotp-blood-link.png,                perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blood link,                xxxxx,    8
+sotp-blood-lust.png,                perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blood lust,                xxxxx,    8
+sotp-breath-of-the-manticore.png,   perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   breath of the manticore,   xxxxx,    8
+sotp-cull-the-weak.png,             perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   cull the weak,             xxxxx,    8
+sotp-dangerous-brawl.png,           perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dangerous brawl,           xxxxx,    8
+sotp-deadheart-powder.png,          perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   deadheart powder,          xxxxx,    8
+sotp-distrust.png,                  perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   distrust,                  xxxxx,    8
+sotp-enter-the-darkness.png,        perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   enter the darkness,        xxxxx,    8
+sotp-explosive-assault.png,         perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   explosive assault,         xxxxx,    8
+sotp-minor-peril-back.png,          perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   minor-peril-back,          xxxxx,    8
+sotp-pit-trap.png,                  perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   pit trap,                  xxxxx,    8
+sotp-rising-dead.png,               perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   rising dead,               xxxxx,    8
+sotp-the-chosen-one.png,            perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   the chosen one,            xxxxx,    8
+sotp-whispers-in-the-wind.png,      perils,      sotp,   sands of the past,   minor,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   whispers in the wind,      xxxxx,    8
+sotp-dark-schemes.png,              perils,      sotp,   sands of the past,   quest,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   dark schemes,              xxxxx,    8
+sotp-quest-peril-back.png,          perils,      sotp,   sands of the past,   quest,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   quest-peril-back,          xxxxx,    8
+sotp-and-so-it-begins.png,          perils,      sotp,   sands of the past,   start,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   and so it begins...,       xxxxx,    8
+sotp-start-peril-back.png,          perils,      sotp,   sands of the past,   start,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   start-peril-back,          xxxxx,    8

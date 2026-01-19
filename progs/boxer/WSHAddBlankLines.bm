@@ -1,0 +1,21 @@
+// WSHAddBlankLines: Add a blank line after every line
+
+macro WSHAddBlankLines(void)
+{
+int i;
+
+for (i = 1; i <= LineCount; i++)
+	{
+		GotoLine(i);
+		EndOfLine;
+		Enter;
+		++i;
+	}
+}
+
+
+
+
+
+
+

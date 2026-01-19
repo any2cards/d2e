@@ -1,0 +1,45 @@
+bg-hero-turn-summary-bronze.png
+BEGIN
+    "phase 1": "Start of turn: I. Start of turn abilities. II. Refresh cards.",
+    "phase 2": "Equip Items.",
+    "phase 3": "Perform 2 actions: Attack, Move, Rest, Perform a Action ability or skill, Open or close a door, Revive a hero, Search, Special, Stand up.",
+    "phase 4": "End of turn: Flip this card over",
+END
+
+bg-hero-turn-summary-gold.png
+BEGIN
+    "phase 1": "Start of turn: I. Start of turn abilities. II. Refresh cards.",
+    "phase 2": "Equip Items.",
+    "phase 3": "Perform 2 actions: Attack, Move, Rest, Perform a Action ability or skill, Open or close a door, Revive a hero, Search, Special, Stand up.",
+    "phase 4": "End of turn: Flip this card over",
+END
+
+bg-hero-turn-summary-purple.png
+BEGIN
+    "phase 1": "Start of turn: I. Start of turn abilities. II. Refresh cards.",
+    "phase 2": "Equip Items.",
+    "phase 3": "Perform 2 actions: Attack, Move, Rest, Perform a Action ability or skill, Open or close a door, Revive a hero, Search, Special, Stand up.",
+    "phase 4": "End of turn: Flip this card over",
+END
+
+bg-hero-turn-summary-silver.png
+BEGIN
+    "phase 1": "Start of turn: I. Start of turn abilities. II. Refresh cards.",
+    "phase 2": "Equip Items.",
+    "phase 3": "Perform 2 actions: Attack, Move, Rest, Perform a Action ability or skill, Open or close a door, Revive a hero, Search, Special, Stand up.",
+    "phase 4": "End of turn: Flip this card over",
+END
+
+bg-overlord-turn-summary.png
+BEGIN
+    "phase 1": "Start of turn: I. Start of turn abilities. II. Draw 1 Overlord card. III. Refresh Cards.",
+    "phase 2": "Activate monsters: I. Choose monster group. II. Perform 2 actions with each monster in the group. III. Repeat steps for each remaining monster group.",
+    "phase 3": "End of round: Flip this card over",
+END
+
+bg-overlord-turn-summary-errata.png
+BEGIN
+    "phase 1": "Start of turn: I. Draw 1 Overlord card and start of turn abilities. II. Refresh cards.",
+    "phase 2": "Activate monsters: I. Choose monster group. II. Perform 2 actions with each monster in the group. III. Repeat steps for each remaining monster group.",
+    "phase 3": "End of round: Flip this card over",
+END

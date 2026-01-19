@@ -1,0 +1,5 @@
+# Image Name                     Asset Name   Game    Expansion            AST1     AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description             Asset #   Printflag
+sotp-easy-difficulty.png,        statuses,    sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   easy difficulty,        xxxxx,    8
+sotp-heroic-difficulty.png,      statuses,    sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   heroic difficulty,      xxxxx,    8
+sotp-legendary-difficulty.png,   statuses,    sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   legendary difficulty,   xxxxx,    8
+sotp-normal-difficulty.png,      statuses,    sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   normal difficulty,      xxxxx,    8

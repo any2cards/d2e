@@ -1,0 +1,81 @@
+// WSHInvertLines: Swap Pairs of Lines
+
+macro WSHInvertLines(void)
+{
+	int i, start;
+	
+	start=Linenumber;
+	
+	SelectStream;
+
+	for (i = start; i <= LineCount; i++)
+	{
+		if (LineContains(i,"\"act\": ") == 0)
+		{
+			continue;
+		}
+		
+		GotoLine(i);
+		StartofLine;
+		Down;
+		SelectUp;
+		SelectUp;
+		InvertLines;
+		++i;
+		StartofLine;
+	}
+	
+	GoToLine(start);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

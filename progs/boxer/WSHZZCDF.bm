@@ -1,0 +1,217 @@
+// WSHZZCDF: Create Data File Based on Config File & JSON File
+
+macro WSHZZCDF(void)
+{
+	int i, j, k, l;
+	int datablocksize, end, end2, start, start2, startcopy;
+	string configdir, configfilename, configfilenameroot, configvalue;
+	string jsonfilename, jsonvalue;
+	string datafilename, datavalue;
+	string keyvalue, linevalue, linevalue2;
+	
+//*** Establish The File Name Values For: CONFIGFILENAME, JSONFILENAME, DATAFILENAME ***
+	strcpy(configvalue,"-config.txt");
+	strcpy(datavalue,"-data.txt");
+	strcpy(jsonvalue,"jsonformatter.txt");
+
+	GetCurrentDirectory(configdir);
+	strlwr(configdir);
+
+	FileName(configfilename);
+	strlwr(configfilename);
+	strcpy(configfilenameroot,configfilename);
+	ExtractFileNameAndExt(configfilenameroot);
+
+	if (strstr(configfilename,configvalue) < 0)
+	{
+		Message("ERROR", "This Macro Script only functions if it is opened within a CONFIG file !!!");
+		return;
+	}
+
+	SubString(jsonfilename,configfilename,0,strlen(configfilename)-strlen(configfilenameroot));
+	strcat(jsonfilename,jsonvalue);
+	if (FileExists(jsonfilename) < 1 )
+	{
+		Message("ERROR","JSON File Name: ",jsonfilename," does NOT exist !!!");
+		return;
+	}
+	
+	SubString(datafilename,configfilename,0,strlen(configfilename)-strlen(configvalue));
+	strcat(datafilename,datavalue);
+	if (FileExists(datafilename) == 1 )
+	{
+		Message("ERROR","Data File Name: ",datafilename," ALREADY exists !!!");
+		return;
+	}
+	
+//*** Open CONFIG File For Processing ***
+	Open(configfilename);
+	EndOfFile;
+	end=LineNumber;
+	StartOfFile;
+	start=LineNumber;
+
+//*** Open JSON File For Processing ***
+	Open(jsonfilename);
+	EndOfFile;
+	end2=LineNumber;
+	StartOfFile;
+	start2=LineNumber;
+	
+//*** Process All Lines In CONFIG File ***
+	startcopy=1;
+	datablocksize=0;
+	j=1;
+	for (i = start; i < end; i++)
+	{
+		Open(configfilename);
+		GotoLine(i);
+		StartOfLine;
+		if (LineContains(i,"#") > 0)
+		{
+			continue;
+		}
+		GetLineText(i,linevalue);
+		SubString(keyvalue,linevalue,0,strstr(linevalue,","));
+
+//*** Begin Creating DATA File ***
+		Open(datafilename);
+		printf("%s\n",keyvalue);
+ 		printf("%s\n","BEGIN");
+		j=j+2;
+
+//*** Determine JSON Data Block Size ***
+		Open(jsonfilename);
+		for (k = start2; k < end2; k++)
+		{
+			GotoLine(k);
+			GetLineText(k,linevalue2);
+			Trim(linevalue2);
+			if (strcmp(linevalue2,"[") == 0)
+			{
+				++startcopy;
+				continue;
+			}
+			else if (strcmp(linevalue2,"{") == 0)
+			{
+				++startcopy;
+				continue;
+			}
+			else if (strstr(linevalue2,"\"name\":") > -1)
+			{
+				++startcopy;
+				datablocksize=0;
+				continue;
+			}
+			else if (strcmp(linevalue2,"},") == 0)
+			{
+				break;
+			}
+			else if (strcmp(linevalue2,"}") == 0)
+			{
+				break;
+			}
+			else if (strcmp(linevalue2,"]") == 0)
+			{
+				++startcopy;
+				if (k+1 == end2)
+				{
+					break;
+				}
+			}
+			else
+			{		
+				++datablocksize;
+			}
+		}
+
+		GotoLine(startcopy);
+		SelectStream;
+		for (l = 0; l < datablocksize; l++)
+		{
+			SelectDown;
+		}
+		Copy;		
+
+		Open(datafilename);
+		GotoLine(j);
+		Paste;
+		j=j+datablocksize;
+		GotoLine(j);		
+		printf("%s\n\n","END");
+		j=j+2;
+		startcopy=startcopy+datablocksize+1;
+		start2=startcopy;
+	}
+	DeleteLine;
+	Open(configfilename);
+	Close;
+	Open(jsonfilename);
+	Close;
+	Open(datafilename);
+	GotoLine(1);
+	Save;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

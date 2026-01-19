@@ -1,0 +1,23 @@
+# Image Name                   Asset Name     Game    Expansion            AST1     AST2     AST3     AC1      AC2      AC3      AC4      AC5      AC6      Description           Asset #   Printflag
+bg-curse-doll.png,             search-deck,   d2e,    base game,           xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   curse doll,           xxxxx,    8
+bg-fire-flask.png,             search-deck,   d2e,    base game,           xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   fire flask,           xxxxx,    8
+bg-health-potion.png,          search-deck,   d2e,    base game,           xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   health potion,        xxxxx,    8
+bg-nothing.png,                search-deck,   d2e,    base game,           xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   nothing,              xxxxx,    8
+bg-power-potion.png,           search-deck,   d2e,    base game,           xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   power potion,         xxxxx,    8
+bg-search-deck-back.png,       search-deck,   d2e,    base game,           xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   search-deck-back,     xxxxx,    8
+bg-stamina-potion.png,         search-deck,   d2e,    base game,           xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   stamina potion,       xxxxx,    8
+bg-treasure-chest.png,         search-deck,   d2e,    base game,           xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   treasure chest,       xxxxx,    8
+bg-warding-talisman.png,       search-deck,   d2e,    base game,           xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   warding talisman,     xxxxx,    8
+lw-search-deck-back.png,       search-deck,   d2e,    lair of the wyrm,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   search-deck-back,     xxxxx,    0
+lw-secret-passage.png,         search-deck,   d2e,    lair of the wyrm,    xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   secret passage,       xxxxx,    8
+sotp-blueprint.png,            search-deck,   sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   blueprint,            xxxxx,    8
+sotp-curse-ward.png,           search-deck,   sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   curse ward,           xxxxx,    8
+sotp-haste-potion.png,         search-deck,   sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   haste potion,         xxxxx,    8
+sotp-masterwork-tools.png,     search-deck,   sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   masterwork tools,     xxxxx,    8
+sotp-protection-sphere.png,    search-deck,   sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   protection sphere,    xxxxx,    8
+sotp-scroll-of-coercion.png,   search-deck,   sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   scroll of coercion,   xxxxx,    8
+sotp-search-deck-back.png,     search-deck,   sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   search-deck-back,     xxxxx,    0
+sotp-timmorran-shard.png,      search-deck,   sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   timmorran shard,      xxxxx,    8
+sotp-truestrike-potion.png,    search-deck,   sotp,   sands of the past,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   truestrike potion,    xxxxx,    8
+tf-search-deck-back.png,       search-deck,   d2e,    the trollfens,       xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   search-deck-back,     xxxxx,    0
+tf-secret-passage.png,         search-deck,   d2e,    the trollfens,       xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   xxxxx,   secret passage,       xxxxx,    8
