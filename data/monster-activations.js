@@ -2641,8 +2641,8 @@
       "minion activation 1: Action: Spot the closest hero.",
       "minion activation 2: Action: Spot the hero within 5 spaces who is not Cursed.",
       "minion activation 3: Action: Attack the hero within 3 spaces who is not Cursed.",
-      "minion activation 2: Action: Spot the closest hero.",
-      "minion activation 3: Action: Attack the hero within 3 spaces with the highest Knowledge."
+      "minion activation 4: Action: Spot the closest hero.",
+      "minion activation 5: Action: Attack the hero within 3 spaces with the highest Knowledge."
     ],
     "d6 roll 4": [
       "activation name: CURSE OF WANDERING",
@@ -2654,8 +2654,8 @@
       "minion activation 1: Action: Spot the closest hero.",
       "minion activation 2: Action: Spot the hero within 5 spaces who is not Cursed.",
       "minion activation 3: Action: Attack the hero within 3 spaces who is not Cursed.",
-      "minion activation 2: Action: Spot the closest hero.",
-      "minion activation 3: Action: Attack the hero within 3 spaces with the highest Knowledge."
+      "minion activation 4: Action: Spot the closest hero.",
+      "minion activation 5: Action: Attack the hero within 3 spaces with the highest Knowledge."
     ],
     "d6 roll 5": [
       "activation name: JUMP OFF A CLIFF",
@@ -2664,11 +2664,11 @@
       "master activation 1: Action: Engage as many Cursed heroes as possible.",
       "master activation 2: Action: Use Bewitch on each adjacent hero; move each adjacent hero toward the closest elevation line.",
       "master activation 3: Action: Attack the hero within 3 spaces with the highest Knowledge.",
-      "minion activation 1: Action: Spot the closest hero.",
-      "minion activation 2: Action: Spot the hero within 5 spaces who is not Cursed.",
-      "minion activation 3: Action: Attack the hero within 3 spaces who is not Cursed.",
-      "minion activation 2: Action: Spot the closest hero.",
-      "minion activation 3: Action: Attack the hero within 3 spaces with the highest Knowledge."
+      "minion activation 4: Action: Spot the closest hero.",
+      "minion activation 1: Action: Spot the hero within 5 spaces who is not Cursed.",
+      "minion activation 2: Action: Attack the hero within 3 spaces who is not Cursed.",
+      "minion activation 3: Action: Spot the closest hero.",
+      "minion activation 4: Action: Attack the hero within 3 spaces with the highest Knowledge."
     ],
     "d6 roll 6": [
       "activation name: JUMP OFF A CLIFF",
@@ -2677,11 +2677,11 @@
       "master activation 1: Action: Engage as many Cursed heroes as possible.",
       "master activation 2: Action: Use Bewitch on each adjacent hero; move each adjacent hero toward the closest elevation line.",
       "master activation 3: Action: Attack the hero within 3 spaces with the highest Knowledge.",
-      "minion activation 1: Action: Spot the closest hero.",
-      "minion activation 2: Action: Spot the hero within 5 spaces who is not Cursed.",
-      "minion activation 3: Action: Attack the hero within 3 spaces who is not Cursed.",
-      "minion activation 2: Action: Spot the closest hero.",
-      "minion activation 3: Action: Attack the hero within 3 spaces with the highest Knowledge."
+      "minion activation 4: Action: Spot the closest hero.",
+      "minion activation 1: Action: Spot the hero within 5 spaces who is not Cursed.",
+      "minion activation 2: Action: Attack the hero within 3 spaces who is not Cursed.",
+      "minion activation 3: Action: Spot the closest hero.",
+      "minion activation 4: Action: Attack the hero within 3 spaces with the highest Knowledge."
     ],
     "expansion": "sands of the past",
     "image": "monster-activations/sotp/sands-of-the-past/sotp-mac-goblin-witcher-back.png",
@@ -3207,7 +3207,8 @@
       "master activation 2: Action: Engage the closest hero.",
       "master activation 3: Action: Attack the adjacent hero with the most Kobolds adjacent.",
       "master activation 4: Action: If within 2 spaces of a hero, perform a move action and retreat.",
-      "minion activation 1: Action: Engage the closest hero."
+      "minion activation 1: Action: Engage the closest hero.",
+      "minion activation 2: Action: Attack the adjacent hero with the most Hearts suffered."
     ],
     "d6 roll 4": [
       "activation name: SHEER NUMBERS",
@@ -4104,8 +4105,9 @@
       "master activation 2: Action: Attack a hero who is Bleeding.",
       "master activation 3: Action: Engage the closest hero.",
       "master activation 4: Action: Attack a hero.",
-      "minion activation 1: Action: Engage a many heroes who are not Bleeding as possible within 3 spaces.",
-      "minion activation 2: Action: Use Rend on 1 or more heroes who are not Bleeding."
+      "minion activation 1: Action: Engage as many heroes who are not Bleeding as possible within 3 spaces.",
+      "minion activation 2: Action: Use Rend on 1 or more heroes who are not Bleeding.",
+      "minion activation 3: Action: Attack a hero."
     ],
     "d6 roll 5": null,
     "d6 roll 6": null,
@@ -5057,7 +5059,8 @@
       "master activation 3: Action: Spot the closest hero.",
       "master activation 4: Action: Attack a hero.",
       "minion activation 1: Action: Use Skirmish on the closest hero within 4 spaces of this monster.",
-      "minion activation 2: Action: Attack the adjacent hero with the lowest Knowledge."
+      "minion activation 2: Action: Attack the adjacent hero with the lowest Knowledge.",
+      "minion activation 3: Action: Spot the closest hero."
     ],
     "d6 roll 2": null,
     "d6 roll 3": null,
